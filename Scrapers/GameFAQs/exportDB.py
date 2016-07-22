@@ -12,7 +12,7 @@ def init_database(cursor):
     cursor.execute("CREATE TABLE IF NOT EXISTS tblScrapedReleaseImages (scrapedReleaseImageId INTEGER PRIMARY KEY, scrapedReleaseImageName TEXT, scrapedReleaseImageType TEXT, scrapedReleaseId INTEGER)")
 
 def export_xml(path):
-    con = lite.connect('GameFAQs.db')
+    con = lite.connect('../../sqlite/GameFAQs.db')
     cur = con.cursor()
     init_database(cur)
     tree = ET.parse(path)
