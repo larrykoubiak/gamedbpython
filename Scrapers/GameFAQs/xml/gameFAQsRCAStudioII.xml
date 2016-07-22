@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Addition" URL="/studio2/936718-addition">
+		<Description>Addition is a Miscellaneous game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Addition" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>January 1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Baseball" URL="/studio2/936719-baseball">
+		<Description>Baseball is a Sports game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.22 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.4 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="Baseball" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V403</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Baseball (US)-81724_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Biorhythm" URL="/studio2/936720-biorhythm">
+		<Description>Biorhythm is a Miscellaneous game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Biorhythm" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V700</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Biorhythm (US)-81725_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Blackjack" URL="/studio2/936721-blackjack">
+		<Description>Blackjack is a Miscellaneous game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Blackjack" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V600</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Blackjack (US)-81726_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Bowling" URL="/studio2/936722-bowling">
+		<Description>Bowling is a Sports game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="Bowling" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>January 1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Doodle" URL="/studio2/936723-doodle">
+		<Description>Doodle is a Miscellaneous game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.06 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Doodle" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>January 1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Freeway" URL="/studio2/936731-freeway">
+		<Description>Freeway is an Action game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.71 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.2 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Freeway" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>January 1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Fun With Numbers" URL="/studio2/936724-fun-with-numbers">
+		<Description>Fun With Numbers is a Miscellaneous game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.07 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Fun With Numbers" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V401</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fun With Numbers (US)-81729_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Gunfighter/Moonship Battle" URL="/studio2/935817-gunfighter-moonship-battle">
+		<Description>Gunfighter/Moonship Battle is an Action game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Gunfighter/Moonship Battle" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V405</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>GunfighterMoonship Battle (US)-80373_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Patterns" URL="/studio2/936725-patterns-1977">
+		<Description>Patterns (1977) is a Miscellaneous game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.3 hours</Length>
+		<AKA>Patterns (US)</AKA>
+		<Developer>RCA</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Patterns" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>January 1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="RCA Studio II" URL="/studio2/934108-rca-studio-ii">
+		<Description>RCA Studio II is a Hardware game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>2.63 / 5</UserRating>
+		<Developer>RCA</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="RCA Studio II Hardware" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseDate>January 1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="RCA Studio II Hardware" URL="/studio2/934108-rca-studio-ii">
+		<Description>RCA Studio II is a Hardware game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>2.63 / 5</UserRating>
+		<Developer>RCA</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="RCA Studio II Hardware" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseDate>January 1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Space War" URL="/studio2/936726-space-war">
+		<Description>Space War is an Action game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.36 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space War" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V400</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space War (US)-81731_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Speedway/Tag" URL="/studio2/936727-speedway-tag">
+		<Description>Speedway/Tag is an Action game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.29 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Speedway/Tag" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V404</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>SpeedwayTag (US)-81732_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="Tennis/Squash" URL="/studio2/936728-tennis-squash">
+		<Description>Tennis/Squash is a Sports game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Tennis/Squash" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V402</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>TennisSquash (US)-81733_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="TV Schoolhouse I" URL="/studio2/936729-tv-schoolhouse-i">
+		<Description>TV Schoolhouse I is a Miscellaneous game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.29 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="TV Schoolhouse I" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V500</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>TV Schoolhouse I (US)-81734_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="RCA Studio II" name="TV Schoolhouse II: Math Fun" URL="/studio2/936732-tv-schoolhouse-ii-math-fun">
+		<Description>TV Schoolhouse II: Math Fun is a Miscellaneous game, developed and published by RCA,  which was released in 1977.</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>RCA</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="TV Schoolhouse II: Math Fun" region="US">
+			<ReleasePublisher>RCA</ReleasePublisher>
+			<ReleaseProductID>18V501</ReleaseProductID>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>TV Schoolhouse II Math Fun (US)-81736_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Commodore PET" name="Andromeda Conquest" URL="/pet/937041-andromeda-conquest">
+		<Description>Andromeda Conquest is a Strategy game, developed by Microcomputer Games Inc. and published by Avalon Hill,  which was released in 1982.</Description>
+		<UserRating>4.38 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Andromeda Conquest" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Andromeda Conquest (US)-27634_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="B-1 Nuclear Bomber" URL="/pet/937042-b-1-nuclear-bomber">
+		<Description>B-1 Nuclear Bomber is a Simulation game, developed by Microcomputer Games Inc. and published by Avalon Hill,  which was released in 1980.</Description>
+		<UserRating>3.81 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Simulation &gt; Flight &gt; Combat</Genre>
+		<Release name="B-1 Nuclear Bomber" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>B-1 Nuclear Bomber (US)-77187_front.jpg</Image>
+				<Image>B-1 Nuclear Bomber (US)-77187_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Commodore PET" URL="/pet/934103-commodore-pet">
+		<Description>Commodore PET is a Hardware game, developed and published by Commodore,  which was released in 1977.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>Commodore</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Commodore PET Hardware" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Commodore PET Hardware" URL="/pet/934103-commodore-pet">
+		<Description>Commodore PET is a Hardware game, developed and published by Commodore,  which was released in 1977.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>Commodore</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Commodore PET Hardware" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Conflict 2500" URL="/pet/939555-conflict-2500">
+		<Description>A challenging space game, Conflict 2500 is a radical departure from the typical first generation one-ship startrek-type games. In Conflict 2500, you have the option to set the scenarios, ranging from one-on-one competition against the computer to elaborate situations involving up to 10 people. The computer will play smart, acting out a variety of strategic actions to countermand your actions and strategy. Conflict 2500's variable scenario system gives you the option of playing a quick game (20 minutes) or a long multi-ship game (2 or more hours), allowing you to set the game up as easy or as difficult to master as desired.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Conflict 2500" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Conflict 2500 (US)-86207_front.jpg</Image>
+				<Image>Conflict 2500 (US)-86207_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Dnieper River Line" URL="/pet/939588-dnieper-river-line">
+		<Description>Dnieper River Line is a Strategy game, developed by Microcomputer Games Inc. and published by Avalon Hill,  which was released in 1981.</Description>
+		<UserRating>2.56 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Dnieper River Line" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dnieper River Line (US)-86266_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Dunjonquest: Temple of Apshai" URL="/pet/939589-dunjonquest-temple-of-apshai">
+		<Description>Dunjonquest: Temple of Apshai is a Role-Playing game, developed and published by Automated Simulations,  which was released in 1979.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Automated Simulations</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Dunjonquest: Temple of Apshai" region="US">
+			<ReleasePublisher>Automated Simulations</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Flash Attack" URL="/pet/937029-flash-attack">
+		<Description>Flash Attack is a Strategy game, developed and published by Mach 1 Software,  which was released in 1980.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Mach 1 Software</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Flash Attack" region="US">
+			<ReleasePublisher>Mach 1 Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Galaxy" URL="/pet/951144-galaxy">
+		<Description>Galaxy is a Strategy game, developed by Microcomputer Games Inc. and published by Avalon Hill,  which was released in 1981.</Description>
+		<UserRating>3.56 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Galaxy" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Guns of Fort Defiance" URL="/pet/939590-guns-of-fort-defiance">
+		<Description>Guns of Fort Defiance is an Action game, developed by Microcomputer Games Inc. and published by Avalon Hill,  which was released in 1981.</Description>
+		<UserRating>4.11 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Guns of Fort Defiance" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Guns of Fort Defiance (US)-86268_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Commodore PET" name="Telengard" URL="/pet/121219-telengard">
+		<Description>Telengard is a Role-Playing game, developed by Microcomputer Games Inc. and published by Avalon Hill,  which was released in 1982.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Role-Playing &gt; Roguelike</Genre>
+		<Release name="Telengard" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

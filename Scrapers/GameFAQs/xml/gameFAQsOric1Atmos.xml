@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="A.T.M." URL="/oric1/991661-atm">
+		<Description>A.T.M. is an Action game, developed and published by CobraSoft,  which was released in Europe in 1985.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>CobraSoft</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="A.T.M." region="EU">
+			<ReleasePublisher>CobraSoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Acheron's Rage" URL="/oric1/991706-acherons-rage">
+		<Description>Acheron's Rage is an Action game, developed and published by Softek,  which was released in Europe in 1983.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Softek</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Acheron's Rage" region="EU">
+			<ReleasePublisher>Softek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Airline" URL="/oric1/991619-airline">
+		<Description>Airline is a Strategy game, developed and published by CCS,  which was released in Europe in 1983.</Description>
+		<UserRating>4.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>CCS</Developer>
+		<Genre>Strategy &gt; Management &gt; Business / Tycoon</Genre>
+		<Release name="Airline" region="EU">
+			<ReleasePublisher>CCS</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Atlantis" URL="/oric1/991691-atlantis">
+		<Description>Atlantis is an Action game, developed and published by CobraSoft,  which was released in Europe in 1985.</Description>
+		<Developer>CobraSoft</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Atlantis" region="EU">
+			<ReleasePublisher>CobraSoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Caspak" URL="/oric1/991707-caspak">
+		<Description>Caspak is an Action game, developed and published by Loriciels,  which was released in Europe in 1983.</Description>
+		<UserRating>1.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Loriciels</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Caspak" region="EU">
+			<ReleasePublisher>Loriciels</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>December 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Castle, The" URL="/oric1/946265-the-castle">
+		<Description>The Castle is an Adventure game, developed and published by Bug-Byte,  which was released in Europe in 1983.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>40.7 hours</Length>
+		<Developer>Bug-Byte</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="The Castle" region="EU">
+			<ReleasePublisher>Bug-Byte</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Challenge Voile" URL="/oric1/991708-challenge-voile">
+		<Description>Challenge Voile is a Simulation game, developed and published by Loriciels,  which was released in Europe in 1984.</Description>
+		<UserRating>4.20 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>34.4 hours</Length>
+		<Developer>Loriciels</Developer>
+		<Genre>Simulation &gt; Marine &gt; Civilian</Genre>
+		<Release name="Challenge Voile" region="EU">
+			<ReleasePublisher>Loriciels</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Course Aux Lettres" URL="/oric1/991620-course-aux-lettres">
+		<Description>Course Aux Lettres is a Miscellaneous game, developed and published by Loriciels,  which was released in Europe in 1984.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Loriciels</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Course Aux Lettres" region="EU">
+			<ReleasePublisher>Loriciels</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Dallas" URL="/oric1/991621-dallas">
+		<Description>Dallas is a Strategy game, developed and published by CCS,  which was released in Europe in 1983.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Developer>CCS</Developer>
+		<Genre>Strategy &gt; Management &gt; Business / Tycoon</Genre>
+		<Release name="Dallas" region="EU">
+			<ReleasePublisher>CCS</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>March 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Defence Force" URL="/oric1/942017-defence-force">
+		<Description>Defence Force is an Action game, developed and published by Tansoft,  which was released in Europe in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Tansoft</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Defence Force" region="EU">
+			<ReleasePublisher>Tansoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Don't Press the Letter Q!" URL="/oric1/951713-dont-press-the-letter-q">
+		<Description>Don't Press the Letter Q! is an Action game, developed and published by IJK,  which was released in Europe in 1984.</Description>
+		<Developer>IJK</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Don't Press the Letter Q!" region="EU">
+			<ReleasePublisher>IJK</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>November 1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Don't Press the Letter Q! (EU)-102340_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Dracula's Revenge" URL="/oric1/991709-draculas-revenge">
+		<Description>Dracula's Revenge is an Action game, developed and published by Softek,  which was released in Europe in 1983.</Description>
+		<UserRating>0.70 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Softek</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Dracula's Revenge" region="EU">
+			<ReleasePublisher>Softek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Formule 1" URL="/oric1/991622-formule-1">
+		<Description>Formule 1 is a Racing game, developed and published by CobraSoft,  which was released in Europe in 1985.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>CobraSoft</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Formule 1" region="EU">
+			<ReleasePublisher>CobraSoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Galaxians" URL="/oric1/991710-galaxians">
+		<Description>Galaxians is an Action game, developed and published by Softek,  which was released in Europe in 1983.</Description>
+		<Developer>Softek</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Galaxians" region="EU">
+			<ReleasePublisher>Softek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Hist'Oric" URL="/oric1/991711-historic">
+		<Description>Hist'Oric is a Miscellaneous game, developed and published by CobraSoft,  which was released in Europe in 1983.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>CobraSoft</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Hist'Oric" region="EU">
+			<ReleasePublisher>CobraSoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Hobbit, The" URL="/oric1/935438-the-hobbit">
+		<Description>The Hobbit is an Adventure game, developed by Beam Software and published by Melbourne House,  which was released in Europe in 1983.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>11.2 hours</Length>
+		<Developer>Beam Software</Developer>
+		<Franchise>Lord of the Rings</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="The Hobbit" region="EU">
+			<ReleasePublisher>Melbourne House</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Hobbit (EU)-79804_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="House of Death" URL="/oric1/946263-house-of-death">
+		<Description>House of Death is an Adventure game, developed and published by Tansoft,  which was released in Europe in 1984.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Tansoft</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="House of Death" region="EU">
+			<ReleasePublisher>Tansoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Hyperspace 4" URL="/oric1/991712-hyperspace-4">
+		<Description>Hyperspace 4 is an Adventure game, developed and published by CobraSoft,  which was released in Europe in 1984.</Description>
+		<Developer>CobraSoft</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Hyperspace 4" region="EU">
+			<ReleasePublisher>CobraSoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="L'Aigle d'Or" URL="/oric1/939813-laigle-dor">
+		<Description>L'Aigle d'Or is an Action Adventure game, developed and published by Loriciels,  which was released in Europe in 1985.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Loriciels</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="L'Aigle d'Or" region="EU">
+			<ReleasePublisher>Loriciels</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+			<ReleaseImages>
+				<Image>L'Aigle d'Or (EU)-86677_front.jpg</Image>
+				<Image>L'Aigle d'Or (EU)-86677_back.jpg</Image>
+				<Image>L'Aigle d'Or (EU)-86677_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="La Chenille Infernale" URL="/oric1/991623-la-chenille-infernale">
+		<Description>La Chenille Infernale is an Action game, developed and published by Loriciels,  which was released in Europe in 1983.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Developer>Loriciels</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="La Chenille Infernale" region="EU">
+			<ReleasePublisher>Loriciels</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>April 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Land of Illusion" URL="/oric1/946264-land-of-illusion">
+		<Description>Land of Illusion is an Adventure game, developed and published by Tansoft,  which was released in Europe in 1984.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8.1 hours</Length>
+		<Developer>Tansoft</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Land of Illusion" region="EU">
+			<ReleasePublisher>Tansoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Meurtre a Grande Vitesse" URL="/oric1/991713-meurtre-a-grande-vitesse">
+		<Description>Meurtre a Grande Vitesse is an Adventure game, developed and published by CobraSoft,  which was released in Europe in 1984.</Description>
+		<Developer>CobraSoft</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Meurtre a Grande Vitesse" region="EU">
+			<ReleasePublisher>CobraSoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Mr. Wimpy" URL="/oric1/942018-mr-wimpy">
+		<Description>Mr. Wimpy is an Action game, developed and published by Ocean,  which was released in Europe in 1984.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Ocean</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Mr. Wimpy" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Oric 1/Atmos" URL="/oric1/934102-oric-1-atmos">
+		<Description>Oric 1/Atmos is a Hardware game, developed and published by Oric Products International,  which was released in 1983.</Description>
+		<AKA>Oric 1/Atmos Hardware (US)</AKA>
+		<Developer>Oric Products International</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Oric 1/Atmos Hardware" region="US">
+			<ReleasePublisher>Oric Products International</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Oric 1/Atmos Hardware" URL="/oric1/934102-oric-1-atmos">
+		<Description>Oric 1/Atmos is a Hardware game, developed and published by Oric Products International,  which was released in 1983.</Description>
+		<AKA>Oric 1/Atmos Hardware (US)</AKA>
+		<Developer>Oric Products International</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Oric 1/Atmos Hardware" region="US">
+			<ReleasePublisher>Oric Products International</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Super Meteors" URL="/oric1/991714-super-meteors">
+		<Description>Super Meteors is an Action game, developed and published by Softek,  which was released in Europe in 1983.</Description>
+		<UserRating>3.70 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Softek</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Super Meteors" region="EU">
+			<ReleasePublisher>Softek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Trouble in Store" URL="/oric1/942019-trouble-in-store">
+		<Description>Trouble in Store is an Action game, developed and published by Orpheus,  which was released in Europe in 1984.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Orpheus</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Trouble in Store" region="EU">
+			<ReleasePublisher>Orpheus</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Oric 1/Atmos" name="Zorgon's Revenge" URL="/oric1/942020-zorgons-revenge">
+		<Description>Zorgon's Revenge is an Action game, developed and published by IJK,  which was released in Europe in 1983.</Description>
+		<Developer>IJK</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Zorgon's Revenge" region="EU">
+			<ReleasePublisher>IJK</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zorgon's Revenge (EU)-89208_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="OS/2" name="Avarice: The Final Saga" URL="/os2/930719-avarice-the-final-saga">
+		<Description>Avarice: The Final Saga is an Adventure game, developed by Continuous Software Systems and published by Stardock,  which was released in 1996.</Description>
+		<UserRating>2.88 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Continuous Software Systems</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Avarice: The Final Saga" region="US">
+			<ReleasePublisher>Stardock</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Avarice The Final Saga (US)-320814_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

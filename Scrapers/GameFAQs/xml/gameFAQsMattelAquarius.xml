@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="3D Battle Zone" URL="/aquarius/942431-3d-battle-zone">
+		<Description>3D Battle Zone is an Action game, developed and published by Add On Electronics,  which was released in 1984.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="3D Battle Zone" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>3D Battle Zone (US)-90082_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Advanced Dungeons &amp; Dragons: Treasure of Tarmin" URL="/aquarius/930715-advanced-dungeons-and-dragons-treasure-of-tarmin">
+		<Description>You've found the secret map to the underground lair of the dreaded Minotaur. You can go in, but you'll never come out unless you slay the Minotaur and claim his Tarmin treasure. As you make your way through the hallways and chambers, monsters wield their conventional or spiritual weapons. You must gather the proper defenses along the way. But use them sparingly, the Minotaur looms closer!</Description>
+		<UserRating>2.20 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>Dungeons &amp; Dragons</Franchise>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Advanced Dungeons &amp; Dragons: Treasure of Tarmin" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4023</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39054_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Aliens" URL="/aquarius/942432-aliens">
+		<Description>Aliens is an Action game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Aliens" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Aliens (US)-90083_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Astrosmash" URL="/aquarius/930716-astrosmash">
+		<Description>You're all alone in a hostile universe of tumbling asteroids and homicidal aliens. You've got the wits and the speed, but you're awesomely outnumbered.
+With a little practice, you may survive...</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.6 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Astrosmash" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Bounder" URL="/aquarius/942433-bounder">
+		<Description>Bounder is an Action game, developed and published by Add On Electronics,  which was released in 1984.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Bounder" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bounder (US)-90084_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Breakout" URL="/aquarius/942434-breakout">
+		<Description>Breakout is an Action game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Franchise>Breakout</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Breakout" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Breakout (US)-43542_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Burgertime" URL="/aquarius/930717-burgertime">
+		<Description>As the burger chef, you're out to build delicious hamburgers. As you run through the colorful maze assembling the ingredients, nothing can stop you. Except menacing hot dogs and pickles that are out to ruin the meal! Bury them under beef patties, lettuce and buns. Or, knock them out with pepper. Build four burgers and you're on to the next level.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>BurgerTime</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Burgertime" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4653</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Chuckman" URL="/aquarius/942435-chuckman">
+		<Description>Chuckman is an Action game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>2.90 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Chuckman" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chuckman (US)-90085_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="D-Fenders" URL="/aquarius/942436-d-fenders">
+		<Description>D-Fenders is an Action game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>1.29 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="D-Fenders" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>D-Fenders (US)-90086_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Disco Fever" URL="/aquarius/942437-disco-fever">
+		<Description>Disco Fever is an Action game, developed and published by Add On Electronics,  which was released in 1984.</Description>
+		<UserRating>2.92 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Disco Fever" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Ed-On" URL="/aquarius/942438-ed-on">
+		<Description>Ed-On is a Puzzle game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Ed-On" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ed-On (US)-90088_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Gridbug" URL="/aquarius/942439-gridbug">
+		<Description>Gridbug is an Action game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Gridbug" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gridbug (US)-90089_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Mattel Aquarius" URL="/aquarius/931933-mattel-aquarius">
+		<Description>Mattel Aquarius is a Hardware game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<AKA>Mattel Aquarius Hardware (US), Mattel Aquarius II Hardware (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Mattel Aquarius Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>M5931</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1983</ReleaseDate>
+		</Release>
+		<Release name="Mattel Aquarius II Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>M4000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mattel Aquarius II Hardware (US)-308037_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Mattel Aquarius Hardware" URL="/aquarius/931933-mattel-aquarius">
+		<Description>Mattel Aquarius is a Hardware game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<AKA>Mattel Aquarius Hardware (US), Mattel Aquarius II Hardware (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Mattel Aquarius Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>M5931</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1983</ReleaseDate>
+		</Release>
+		<Release name="Mattel Aquarius II Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>M4000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mattel Aquarius II Hardware (US)-308037_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Mattel Aquarius II Hardware" URL="/aquarius/931933-mattel-aquarius">
+		<Description>Mattel Aquarius is a Hardware game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<AKA>Mattel Aquarius Hardware (US), Mattel Aquarius II Hardware (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Mattel Aquarius Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>M5931</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1983</ReleaseDate>
+		</Release>
+		<Release name="Mattel Aquarius II Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>M4000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mattel Aquarius II Hardware (US)-308037_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Mazantics" URL="/aquarius/942440-mazantics">
+		<Description>Mazantics is an Action game, developed and published by Add On Electronics,  which was released in 1984.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Mazantics" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mazantics (US)-90090_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Melody Chase" URL="/aquarius/942441-melody-chase">
+		<Description>Melody Chase is an Action game, developed and published by Mattel,  which was released in 1982.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Melody Chase" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4652</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Melody Chase (US)-90091_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Millypede" URL="/aquarius/951644-millypede">
+		<Description>Millypede is an Action game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>2.40 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Millypede" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="N-Vaders" URL="/aquarius/942442-n-vaders">
+		<Description>N-Vaders is an Action game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>3.10 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="N-Vaders" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>N-Vaders (US)-90092_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Night Stalker" URL="/aquarius/930725-night-stalker">
+		<Description>Your man is trapped in the maze! Spiders, bats and robots are tracking him down! The robots and creatures never stop. Shoot one... another appears! Fire off six shots, then pick up a reloaded weapon. The higher your score, the trickier the robots become. The only safe place is inside the bunker... and they are waiting outside! Survival is the name of the game!</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Night Stalker" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4595</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Pac Mr" URL="/aquarius/942443-pac-mr">
+		<Description>Pac Mr is an Action game, developed and published by Add On Electronics,  which was released in 1983.</Description>
+		<UserRating>4.30 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Pac Mr" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pac Mr (US)-90093_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Postman Pot" URL="/aquarius/942444-postman-pot">
+		<Description>Postman Pot is an Action game, developed and published by Add On Electronics,  which was released in 1984.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Developer>Add On Electronics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Postman Pot" region="US">
+			<ReleasePublisher>Add On Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Postman Pot (US)-90094_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Reversi" URL="/aquarius/930726-reversi">
+		<Description>Here's an old favorite to really stimulate your strategic thinking! Bracket your opponent's pieces in any row (straight or diagonal) to "capture" everything in between. Play against a friend or take on the computer at any of three skill levels. Pick one of 3 board sizes... play short or medium-length games, or go for the challenge of the big hundred-square board! It's an easy game to learn. And takes smart moves to win!</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Reversi" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4594</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Snafu" URL="/aquarius/931742-snafu">
+		<Description>Pit your fast thinking and reflexes head-to-head against a friend... or take on the computer. Grab all the territory you can and get your opponents into a corner - trapped! Or, maneuver your twisting, turning serpent fast, to "bite off" part of your opponent's tail - before he gets you. There are 16 different varieties of gameplay to choose from. Four speeds, and you decide how many rounds to play. Make your serpent move vertically, horizontally or diagonally - but move it fast!</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Snafu" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4028</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Tron Deadly Discs" URL="/aquarius/930727-tron-deadly-discs">
+		<Description>Tron Deadly Discs, based on Tron the movie from Walt Disney Productions! Disc-throwing warriors attack three at a time... and from all sides! Keep TRON moving! Fire back! Help him escape being "de-rezzed"! "Teleport" (in one door and out another) and surprise the attackers. Catch 'em off guard! The higher your score, the harder the game! Warriors increase in speed, accuracy, and their discs come a lot faster! Get them before they get TRON!</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.4 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>Tron</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tron Deadly Discs" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4024</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Mattel Aquarius" name="Utopia" URL="/aquarius/930766-utopia">
+		<Description>If you were the ruler of your very own country, how good a ruler would you be? Find out with a strategy game that captures the realism-and problems-of governing. Your goal is the happiness and well-being of your people. You make sure there is sufficient food for all. You take care of housing, schools, hospitals, defense and the economy.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>24 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Utopia" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4596</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Astrocade" name="280 Zzzap" URL="/astrocade/924811-280-zzzap">
+		<Description>280 Zzzap is a Racing game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Racing &gt; General</Genre>
+		<Release name="280 Zzzap" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>280 Zzzap (US)-63734_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Amazin' Maze" URL="/astrocade/924812-amazin-maze">
+		<Description>Amazin' Maze is a Puzzle game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.40 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Amazin' Maze" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>5001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Artillery Duel" URL="/astrocade/924813-artillery-duel">
+		<Description>Artillery Duel is a Puzzle game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Artillery Duel" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>5005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Artillery Duel (US)-63736_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Astro Basic" URL="/astrocade/942631-astro-basic">
+		<Description>Astro Basic is a Miscellaneous game, developed and published by Bally Midway,  which was released in 1981.</Description>
+		<UserRating>2.10 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Astro Basic" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/81</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Astro Battle" URL="/astrocade/924814-astro-battle">
+		<Description>Astro Battle is an Action game, developed and published by Astrovision,  which was released in 1977.</Description>
+		<UserRating>3.58 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Astrovision</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Astro Battle" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID>2009</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Astrocade" URL="/astrocade/918385-astrocade">
+		<Description>Astrocade is a Hardware game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<AKA>Astrocade Hardware (US), Home Library Computer (US), Professional Arcade (US), Bally Computer System (US)</AKA>
+		<Developer>Bally Midway</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Astrocade Hardware" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astrocade Hardware (US)-307973_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Home Library Computer" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+		<Release name="Professional Arcade" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Bally Computer System" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Astrocade Hardware" URL="/astrocade/918385-astrocade">
+		<Description>Astrocade is a Hardware game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Bally Midway</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Astrocade Hardware" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astrocade Hardware (US)-307973_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Home Library Computer" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+		<Release name="Professional Arcade" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Bally Computer System" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Astrocade Pinball" URL="/astrocade/924817-astrocade-pinball">
+		<Description>Astrocade Pinball is an Action game, developed by Bally Midway and published by Astrovision,  which was released in 1977.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.4 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Astrocade Pinball" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID>3005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Bally Computer System" URL="/astrocade/918385-astrocade">
+		<Description>Astrocade is a Hardware game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<AKA>Astrocade Hardware (US), Home Library Computer (US), Professional Arcade (US), Bally Computer System (US)</AKA>
+		<Developer>Bally Midway</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Astrocade Hardware" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astrocade Hardware (US)-307973_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Home Library Computer" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+		<Release name="Professional Arcade" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Bally Computer System" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Bally Pin" URL="/astrocade/924815-bally-pin">
+		<Description>Bally Pin is an Action game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Bally Pin" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>3005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bally Pin (US)-63738_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="BioRhythm" URL="/astrocade/924816-biorhythm">
+		<Description>BioRhythm is a Miscellaneous game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.20 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Miscellaneous &gt; Application</Genre>
+		<Release name="BioRhythm" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>4004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Blackjack &amp; Poker &amp; Acey-Deucey" URL="/astrocade/924818-blackjack-and-poker-and-acey-deucey">
+		<Description>Blackjack &amp; Poker &amp; Acey-Deucey is a Miscellaneous game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.42 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Blackjack &amp; Poker &amp; Acey-Deucey" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>5002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Blast Droids" URL="/astrocade/924819-blast-droids">
+		<Description>Blast Droids is an Action game, developed and published by Esoterica,  which was released in 1981.</Description>
+		<UserRating>2.90 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Esoterica</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Blast Droids" region="US">
+			<ReleasePublisher>Esoterica</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Clowns" URL="/astrocade/924820-clowns">
+		<Description>Clowns is a Miscellaneous game, developed and published by Bally Midway,  which was released in 1979.</Description>
+		<UserRating>2.08 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Clowns" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Cosmic Raiders" URL="/astrocade/924821-cosmic-raiders">
+		<Description>Cosmic Raiders is an Action game, developed by Action Graphics and published by Activision,  which was released in 1978.</Description>
+		<UserRating>3.06 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Action Graphics</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Cosmic Raiders" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>2018</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Dogpatch" URL="/astrocade/924823-dogpatch">
+		<Description>Dogpatch is an Action game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Dogpatch" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2010</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Elementary Math" URL="/astrocade/924822-elementary-math">
+		<Description>Elementary Math is a Miscellaneous game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Elementary Math" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Football" URL="/astrocade/924824-football">
+		<Description>Football is a Sports game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.29 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="Football" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>3002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Football (US)-63747_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Galactic Invasion" URL="/astrocade/924825-galactic-invasion">
+		<Description>Galactic Invasion is an Action Adventure game, developed and published by Activision,  which was released in 1981.</Description>
+		<UserRating>2.81 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Activision</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Galactic Invasion" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>2011</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Galactic Invasion (US)-63748_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Galaxian" URL="/astrocade/924827-galaxian">
+		<Description>The Galaxian Fleet has invaded and it's up to you to stop them. There's two-way action in this game; as you fire at them, they're firing back at you! All that is required of you is quick reflexes and an accurate aim. Can you destroy the Galaxian Fleet before they destroy you?</Description>
+		<UserRating>3.86 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Franchise>Galaxian / Galaga</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Galaxian" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Grand Prix" URL="/astrocade/924828-grand-prix">
+		<Description>Grand Prix is a Racing game, published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Grand Prix" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Grand Prix (US)-63751_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Gunfight" URL="/astrocade/924829-gunfight">
+		<Description>Gunfight is an Action game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Gunfight" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Home Library Computer" URL="/astrocade/918385-astrocade">
+		<Description>Astrocade is a Hardware game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<AKA>Astrocade Hardware (US), Home Library Computer (US), Professional Arcade (US), Bally Computer System (US)</AKA>
+		<Developer>Bally Midway</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Astrocade Hardware" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astrocade Hardware (US)-307973_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Home Library Computer" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+		<Release name="Professional Arcade" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Bally Computer System" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="ICBM Attack" URL="/astrocade/924831-icbm-attack">
+		<Description>ICBM Attack is a Miscellaneous game, published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>1.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="ICBM Attack" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Incredible Wizard, The" URL="/astrocade/924832-the-incredible-wizard">
+		<Description>The Incredible Wizard is an Action game, developed by Action Graphics and published by Astrovision,  which was released in 1982.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Action Graphics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The Incredible Wizard" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID>2017</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Incredible Wizard (US)-63755_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Letter Match" URL="/astrocade/924833-letter-match">
+		<Description>Letter Match is a Miscellaneous game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.60 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Letter Match" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>4002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Mazeman" URL="/astrocade/924834-mazeman">
+		<Description>Mazeman is a Puzzle game, published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.92 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Mazeman" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Ms. Candyman" URL="/astrocade/924835-ms-candyman">
+		<Description>Ms. Candyman is an Action game, published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.88 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Ms. Candyman" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Muncher" URL="/astrocade/924836-muncher">
+		<Description>Muncher is an Action game, developed and published by Esoterica,  which was released in 1977.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Esoterica</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Muncher" region="US">
+			<ReleasePublisher>Esoterica</ReleasePublisher>
+			<ReleaseProductID>2016</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Panzer Attack" URL="/astrocade/924837-panzer-attack">
+		<Description>Panzer Attack is an Action game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>7.5 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Panzer Attack" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Pirate's Chase" URL="/astrocade/924838-pirates-chase">
+		<Description>Pirate's Chase is an Action game, developed and published by Bally Midway,  which was released in 1982.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Pirate's Chase" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2015</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Professional Arcade" URL="/astrocade/918385-astrocade">
+		<Description>Astrocade is a Hardware game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<AKA>Astrocade Hardware (US), Home Library Computer (US), Professional Arcade (US), Bally Computer System (US)</AKA>
+		<Developer>Bally Midway</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Astrocade Hardware" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astrocade Hardware (US)-307973_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Home Library Computer" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+		<Release name="Professional Arcade" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Bally Computer System" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Sea Devil" URL="/astrocade/924839-sea-devil">
+		<Description>Sea Devil is an Action game, published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>1.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Sea Devil" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Seawolf" URL="/astrocade/924842-seawolf">
+		<Description>Seawolf is an Action game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Seawolf" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Sneaky Snake" URL="/astrocade/924840-sneaky-snake">
+		<Description>Sneaky Snake is an Action game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Sneaky Snake" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Soccer" URL="/astrocade/951172-soccer">
+		<Description>Soccer is a Sports game, developed and published by Bally Midway,  which was released in 1985.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Soccer" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>3007</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Solar Conqueror" URL="/astrocade/924826-solar-conqueror">
+		<Description>Solar Conqueror is an Action game, developed by Action Graphics and published by Astrovision,  which was released in 1977.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Action Graphics</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Solar Conqueror" region="US">
+			<ReleasePublisher>Astrovision</ReleasePublisher>
+			<ReleaseProductID>2018</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Space Fortress" URL="/astrocade/924841-space-fortress">
+		<Description>Space Fortress is an Action game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Space Fortress" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2012</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Fortress (US)-63764_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Space Invaders" URL="/astrocade/924843-space-invaders">
+		<Description>Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Franchise>Space Invaders</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Space Invaders" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2008</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Star Battle" URL="/astrocade/924844-star-battle">
+		<Description>Star Battle is an Action game, developed by Astrovision and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Astrovision</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Star Battle" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>2005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Tornado Baseball" URL="/astrocade/924845-tornado-baseball">
+		<Description>Tornado Baseball is a Sports game, developed and published by Bally Midway,  which was released in 1977.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Bally Midway</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="Tornado Baseball" region="US">
+			<ReleasePublisher>Bally Midway</ReleasePublisher>
+			<ReleaseProductID>3001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Astrocade" name="Treasure Cove" URL="/astrocade/924830-treasure-cove">
+		<Description>Treasure Cove is a Simulation game, developed and published by Esoterica,  which was released in 1977.</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Esoterica</Developer>
+		<Genre>Simulation &gt; Marine &gt; Civilian</Genre>
+		<Release name="Treasure Cove" region="US">
+			<ReleasePublisher>Esoterica</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

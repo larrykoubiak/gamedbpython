@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Interton VC4000" name="1292 Advanced Programmable Video System" URL="/vc4000/934110-interton-vc4000">
+		<Description>Interton VC4000 is a Hardware game, developed by Interton and published by Radofin,  which was released in Europe in 1976.</Description>
+		<AKA>1292 Advanced Programmable Video System (EU), Interton VC4000 Hardware (EU), Grundig Superplay Computer 4000 (EU), VC-4000 (AU)</AKA>
+		<Developer>Interton</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="1292 Advanced Programmable Video System" region="EU">
+			<ReleasePublisher>Radofin</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+		</Release>
+		<Release name="Grundig Superplay Computer 4000" region="EU">
+			<ReleasePublisher>Grundig</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Interton VC4000 Hardware" region="EU">
+			<ReleasePublisher>Interton</ReleasePublisher>
+			<ReleaseProductID>VC-4000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="VC-4000" region="AU">
+			<ReleasePublisher>Hanimex</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 10: Winter Sports" URL="/vc4000/932036-cassette-10-winter-sports">
+		<Description>Cassette 10: Winter Sports is a Sports game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Cassette 10: Winter Sports" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 10 Winter Sports (EU)-321150_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 11: Hippdodrom" URL="/vc4000/932037-cassette-11-hippdodrom">
+		<Description>Cassette 11: Hippdodrom is a Sports game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Sports &gt; Individual &gt; Other</Genre>
+		<Release name="Cassette 11: Hippdodrom" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 11 Hippdodrom (EU)-73798_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 12: Jagd" URL="/vc4000/932038-cassette-12-jagd">
+		<Description>Cassette 12: Jagd is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 12: Jagd" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 12 Jagd (EU)-321151_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 13: Chess" URL="/vc4000/932039-cassette-13-chess">
+		<Description>Cassette 13: Chess is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Cassette 13: Chess" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 13 Chess (EU)-321152_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 14: Motocross" URL="/vc4000/932040-cassette-14-motocross">
+		<Description>Cassette 14: Motocross is a Racing game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>4.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Racing &gt; Arcade &gt; Other</Genre>
+		<Release name="Cassette 14: Motocross" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 14 Motocross (EU)-321153_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 15: Intelligence II" URL="/vc4000/932041-cassette-15-intelligence-ii">
+		<Description>Cassette 15: Intelligence II is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 15: Intelligence II" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 15 Intelligence II (EU)-321154_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 16: Intelligence III" URL="/vc4000/932042-cassette-16-intelligence-iii">
+		<Description>Cassette 16: Intelligence III is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 16: Intelligence III" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 16 Intelligence III (EU)-317557_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 17: Circus" URL="/vc4000/932043-cassette-17-circus">
+		<Description>Cassette 17: Circus is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 17: Circus" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 17 Circus (EU)-321155_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 18: Boxkampf" URL="/vc4000/932044-cassette-18-boxkampf">
+		<Description>Cassette 18: Boxkampf is a Sports game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Boxing / Martial Arts</Genre>
+		<Release name="Cassette 18: Boxkampf" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 18 Boxkampf (EU)-321156_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 19: Krieg im Weltraum" URL="/vc4000/932045-cassette-19-krieg-im-weltraum">
+		<Description>Cassette 19: Krieg im Weltraum is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 19: Krieg im Weltraum" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 19 Krieg im Weltraum (EU)-321157_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 1: Autorennen" URL="/vc4000/932046-cassette-1-autorennen">
+		<Description>Cassette 1: Autorennen is a Racing game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Racing &gt; Arcade &gt; Other</Genre>
+		<Release name="Cassette 1: Autorennen" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 1 Autorennen (EU)-321158_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 20: Memory II Melodie" URL="/vc4000/932047-cassette-20-memory-ii-melodie">
+		<Description>Cassette 20: Memory II Melodie is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Cassette 20: Memory II Melodie" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 20 Memory II Melodie (EU)-321159_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 21: Intelligence IV - Reversi" URL="/vc4000/932048-cassette-21-intelligence-iv-reversi">
+		<Description>Cassette 21: Intelligence IV - Reversi is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Cassette 21: Intelligence IV - Reversi" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 21 Intelligence IV - Reversi (EU)-321160_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 22: Chess II" URL="/vc4000/932049-cassette-22-chess-ii">
+		<Description>Cassette 22: Chess II is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Cassette 22: Chess II" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 22 Chess II (EU)-321161_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 23: Flipper" URL="/vc4000/932050-cassette-23-flipper">
+		<Description>Cassette 23: Flipper is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Cassette 23: Flipper" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 23 Flipper (EU)-73799_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 24: Fussball" URL="/vc4000/932051-cassette-24-fussball">
+		<Description>Cassette 24: Fussball is a Sports game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Cassette 24: Fussball" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 24 Fussball (EU)-316182_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 25: Bowling / Ninepins" URL="/vc4000/932052-cassette-25-bowling-ninepins">
+		<Description>Cassette 25: Bowling / Ninepins is a Sports game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="Cassette 25: Bowling / Ninepins" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 25 Bowling  Ninepins (EU)-321162_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 26: Draughts" URL="/vc4000/932053-cassette-26-draughts">
+		<Description>Cassette 26: Draughts is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Cassette 26: Draughts" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 26 Draughts (EU)-321163_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 27: Golf" URL="/vc4000/932054-cassette-27-golf">
+		<Description>Cassette 27: Golf is a Sports game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Arcade</Genre>
+		<Release name="Cassette 27: Golf" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 27 Golf (EU)-321164_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 28: Cockpit" URL="/vc4000/932055-cassette-28-cockpit">
+		<Description>Cassette 28: Cockpit is a Simulation game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Simulation &gt; General</Genre>
+		<Release name="Cassette 28: Cockpit" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 28 Cockpit (EU)-321165_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 29: Metropolis / Hangman" URL="/vc4000/932056-cassette-29-metropolis-hangman">
+		<Description>Cassette 29: Metropolis / Hangman is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Cassette 29: Metropolis / Hangman" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 29 Metropolis  Hangman (EU)-321166_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 2: Blackjack" URL="/vc4000/932057-cassette-2-blackjack">
+		<Description>Cassette 2: Blackjack is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Cassette 2: Blackjack" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 2 Blackjack (EU)-321167_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 30: Solitaire" URL="/vc4000/932058-cassette-30-solitaire">
+		<Description>Cassette 30: Solitaire is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Cassette 30: Solitaire" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 30 Solitaire (EU)-321168_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 31: Casino" URL="/vc4000/932059-cassette-31-casino">
+		<Description>Cassette 31: Casino is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Cassette 31: Casino" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 31 Casino (EU)-321169_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 32: Invaders" URL="/vc4000/932060-cassette-32-invaders">
+		<Description>Cassette 32: Invaders is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 32: Invaders" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 32 Invaders (EU)-321170_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 33: Super Invaders" URL="/vc4000/932061-cassette-33-super-invaders">
+		<Description>Cassette 33: Super Invaders is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 33: Super Invaders" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 33 Super Invaders (EU)-321171_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 34: Space Laser" URL="/vc4000/932062-cassette-34-space-laser">
+		<Description>Cassette 34: Space Laser is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 34: Space Laser" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 34 Space Laser (EU)-321173_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 35: Rodeo" URL="/vc4000/932063-cassette-35-rodeo">
+		<Description>Cassette 35: Rodeo is a Sports game, developed and published by Interton Electronic,  which was cancelled before it was released.</Description>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Sports &gt; Individual &gt; Other</Genre>
+		<Release name="Cassette 35: Rodeo" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 35 Rodeo (EU)-321172_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 36: Backgammon" URL="/vc4000/932064-cassette-36-backgammon">
+		<Description>Cassette 36: Backgammon is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Cassette 36: Backgammon" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 36 Backgammon (EU)-321174_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 37: Monster-Man" URL="/vc4000/932065-cassette-37-monster-man">
+		<Description>Cassette 37: Monster-Man is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 37: Monster-Man" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 37 Monster-Man (EU)-321175_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 38: Hyperspace" URL="/vc4000/932066-cassette-38-hyperspace">
+		<Description>Cassette 38: Hyperspace is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 38: Hyperspace" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 38 Hyperspace (EU)-317248_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 39: Basketball" URL="/vc4000/932067-cassette-39-basketball">
+		<Description>Cassette 39: Basketball is a Sports game, developed and published by Interton Electronic,  which was cancelled before it was released.</Description>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Sports &gt; Team &gt; Basketball &gt; Arcade</Genre>
+		<Release name="Cassette 39: Basketball" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 39 Basketball (EU)-321176_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 3: Ballspiele" URL="/vc4000/932068-cassette-3-ballspiele">
+		<Description>Cassette 3: Ballspiele is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 3: Ballspiele" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 3 Ballspiele (EU)-321178_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 40: Super-Space" URL="/vc4000/932069-cassette-40-super-space">
+		<Description>Cassette 40: Super-Space is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 40: Super-Space" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 40 Super-Space (EU)-321177_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 4: Panzerschlacht/Luftkampf" URL="/vc4000/932070-cassette-4-panzerschlacht-luftkampf">
+		<Description>Cassette 4: Panzerschlacht/Luftkampf is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 4: Panzerschlacht/Luftkampf" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 4 PanzerschlachtLuftkampf (EU)-321179_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 5: Mathematics 1" URL="/vc4000/932071-cassette-5-mathematics-1">
+		<Description>Cassette 5: Mathematics 1 is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Cassette 5: Mathematics 1" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 5 Mathematics 1 (EU)-321180_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 6: Mathematics 2" URL="/vc4000/932072-cassette-6-mathematics-2">
+		<Description>Cassette 6: Mathematics 2 is a Miscellaneous game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Cassette 6: Mathematics 2" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 6 Mathematics 2 (EU)-321181_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 7: Luftkampf/Seegefecht" URL="/vc4000/932073-cassette-7-luftkampf-seegefecht">
+		<Description>Cassette 7: Luftkampf/Seegefecht is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 7: Luftkampf/Seegefecht" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 7 LuftkampfSeegefecht (EU)-321182_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 8: Memory I/Flag Capture" URL="/vc4000/932074-cassette-8-memory-i-flag-capture">
+		<Description>Cassette 8: Memory I/Flag Capture is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 8: Memory I/Flag Capture" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 8 Memory IFlag Capture (EU)-321183_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Cassette 9: Intelligence I" URL="/vc4000/932075-cassette-9-intelligence-i">
+		<Description>Cassette 9: Intelligence I is an Action game, developed and published by Interton Electronic,  which was released in Europe in 1978.</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Interton Electronic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cassette 9: Intelligence I" region="EU">
+			<ReleasePublisher>Interton Electronic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cassette 9 Intelligence I (EU)-321184_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Grundig Superplay Computer 4000" URL="/vc4000/934110-interton-vc4000">
+		<Description>Interton VC4000 is a Hardware game, developed by Interton and published by Radofin,  which was released in Europe in 1976.</Description>
+		<AKA>1292 Advanced Programmable Video System (EU), Interton VC4000 Hardware (EU), Grundig Superplay Computer 4000 (EU), VC-4000 (AU)</AKA>
+		<Developer>Interton</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="1292 Advanced Programmable Video System" region="EU">
+			<ReleasePublisher>Radofin</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+		</Release>
+		<Release name="Grundig Superplay Computer 4000" region="EU">
+			<ReleasePublisher>Grundig</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Interton VC4000 Hardware" region="EU">
+			<ReleasePublisher>Interton</ReleasePublisher>
+			<ReleaseProductID>VC-4000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="VC-4000" region="AU">
+			<ReleasePublisher>Hanimex</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Interton VC4000" URL="/vc4000/934110-interton-vc4000">
+		<Description>Interton VC4000 is a Hardware game, developed by Interton and published by Radofin,  which was released in Europe in 1976.</Description>
+		<AKA>1292 Advanced Programmable Video System (EU), Interton VC4000 Hardware (EU), Grundig Superplay Computer 4000 (EU), VC-4000 (AU)</AKA>
+		<Developer>Interton</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="1292 Advanced Programmable Video System" region="EU">
+			<ReleasePublisher>Radofin</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+		</Release>
+		<Release name="Grundig Superplay Computer 4000" region="EU">
+			<ReleasePublisher>Grundig</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Interton VC4000 Hardware" region="EU">
+			<ReleasePublisher>Interton</ReleasePublisher>
+			<ReleaseProductID>VC-4000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="VC-4000" region="AU">
+			<ReleasePublisher>Hanimex</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="Interton VC4000 Hardware" URL="/vc4000/934110-interton-vc4000">
+		<Description>Interton VC4000 is a Hardware game, developed by Interton and published by Radofin,  which was released in Europe in 1976.</Description>
+		<AKA>1292 Advanced Programmable Video System (EU), Interton VC4000 Hardware (EU), Grundig Superplay Computer 4000 (EU), VC-4000 (AU)</AKA>
+		<Developer>Interton</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="1292 Advanced Programmable Video System" region="EU">
+			<ReleasePublisher>Radofin</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+		</Release>
+		<Release name="Grundig Superplay Computer 4000" region="EU">
+			<ReleasePublisher>Grundig</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Interton VC4000 Hardware" region="EU">
+			<ReleasePublisher>Interton</ReleasePublisher>
+			<ReleaseProductID>VC-4000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="VC-4000" region="AU">
+			<ReleasePublisher>Hanimex</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Interton VC4000" name="VC-4000" URL="/vc4000/934110-interton-vc4000">
+		<Description>Interton VC4000 is a Hardware game, developed by Interton and published by Radofin,  which was released in Europe in 1976.</Description>
+		<AKA>1292 Advanced Programmable Video System (EU), Interton VC4000 Hardware (EU), Grundig Superplay Computer 4000 (EU), VC-4000 (AU)</AKA>
+		<Developer>Interton</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="1292 Advanced Programmable Video System" region="EU">
+			<ReleasePublisher>Radofin</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+		</Release>
+		<Release name="Grundig Superplay Computer 4000" region="EU">
+			<ReleasePublisher>Grundig</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Interton VC4000 Hardware" region="EU">
+			<ReleasePublisher>Interton</ReleasePublisher>
+			<ReleaseProductID>VC-4000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="VC-4000" region="AU">
+			<ReleasePublisher>Hanimex</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

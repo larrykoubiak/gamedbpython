@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Virtual Boy" name="3-D Tetris" URL="/virtualboy/582498-3-d-tetris">
+		<Description>The mesmerizing force of Tetris returns with virtual style! This thrilling animated puzzler takes dexterity and split-second timing to the extreme with dimensional blocks and challenging planes. 3-D Tetris propels players at a demanding pace where quick response and strategy rule. Tetris devotees of all levels will crave this latest sensation of brain-teasing fun!</Description>
+		<UserRating>2.95 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.8 hours</Length>
+		<Developer>T&amp;E; Soft</Developer>
+		<Franchise>Tetris</Franchise>
+		<Genre>Puzzle &gt; Stacking</Genre>
+		<Release name="3-D Tetris" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VPBE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770112</ReleaseBarCode>
+			<ReleaseDate>03/22/96</ReleaseDate>
+			<ReleaseImages>
+				<Image>3-D Tetris (US)-43848_front.jpg</Image>
+				<Image>3-D Tetris (US)-43848_back.jpg</Image>
+				<Image>3-D Tetris (US)-43848_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Bound High!" URL="/virtualboy/762803-bound-high">
+		<Description>Bound High immerses players in multiple levels of challenging 3-D game play.</Description>
+		<Developer>Japan System Supply</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Bound High!" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VBHE-USA</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bound High! (US)-356382_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Galactic Pinball" URL="/virtualboy/563914-galactic-pinball">
+		<Description>Prepare to enter the vast expanse of the Milky Way. Put your pinball skills to an interstellar test with four incredible space tables.
+Blast your pinball at rotating planets and turn them into dust in the Cosmic world. Send your puck flying through galactic formations in the deep-space Colony. Defeat an evil skeleton and hit the ultimate UFO jackpot! Knock down multiple rings and destroy wicked assailants in an Alien place. Defy arduous obstacles and save the world from impending devastation!</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>26.7 hours</Length>
+		<Developer>Intelligent Systems</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Galactic Pinball" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VGPJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370502268</ReleaseBarCode>
+			<ReleaseDate>07/21/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Galactic Pinball (JP)-22948_front.jpg</Image>
+				<Image>Galactic Pinball (JP)-22948_back.jpg</Image>
+				<Image>Galactic Pinball (JP)-22948_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Galactic Pinball" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VGPE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770051</ReleaseBarCode>
+			<ReleaseDate>August 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Galactic Pinball (US)-22949_front.jpg</Image>
+				<Image>Galactic Pinball (US)-22949_back.jpg</Image>
+				<Image>Galactic Pinball (US)-22949_side.jpg</Image>
+				<Image>Galactic Pinball (US)-22949_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Golf" URL="/virtualboy/563916-golf">
+		<Description>Tee off for 18 holes of realistic 3-D links! Virtual Boy Golf elevates the game to an incredible new level!
+Determine your strategy as you ponder the conditions. Check your position and the distance to the pin. Select a club and adjust your swing. Consider the wind factor carefully or you could end up out of bounds! Each dimensional fairway provides harrowing hazards to challenge players of all handicaps. Swing into action and go for a hole in one!</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.3 hours</Length>
+		<AKA>T&amp;E; Virtual Golf (JP)</AKA>
+		<Developer>T&amp;E; Soft</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="T&amp;E; Virtual Golf" region="JP">
+			<ReleasePublisher>T&amp;E; Soft</ReleasePublisher>
+			<ReleaseProductID>VUE-VVGJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988604240021</ReleaseBarCode>
+			<ReleaseDate>08/11/95</ReleaseDate>
+		</Release>
+		<Release name="Golf" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VVGE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770082</ReleaseBarCode>
+			<ReleaseDate>November 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golf (US)-22954_front.jpg</Image>
+				<Image>Golf (US)-22954_back.jpg</Image>
+				<Image>Golf (US)-22954_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Innsmouth no Yakata" URL="/virtualboy/579729-innsmouth-no-yakata">
+		<Description>Innsmouth no Yakata is an Action game, developed by Betop and published by I'Max,  which was released in Japan in 1995.</Description>
+		<UserRating>1.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>Betop</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Innsmouth no Yakata" region="JP">
+			<ReleasePublisher>I'Max</ReleasePublisher>
+			<ReleaseProductID>VUE-VIMJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988762060103</ReleaseBarCode>
+			<ReleaseDate>10/13/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Innsmouth no Yakata (JP)-42022_front.jpg</Image>
+				<Image>Innsmouth no Yakata (JP)-42022_back.jpg</Image>
+				<Image>Innsmouth no Yakata (JP)-42022_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Jack Bros." URL="/virtualboy/563917-jack-bros">
+		<Description>The portal between Earth and another mysterious dimension has opened, and the intrepid Jack Brothers have come through for an adventure in our world. Having lost track of time, they now have only one hour to return to their home or be banished forever. Help them battle hoards of loathsome enemies through six electrifying 3-D levels, each with many floors to explore and conquer. This is one phenomenal adventure you can't afford to miss!</Description>
+		<UserRating>3.39 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>5.5 hours</Length>
+		<AKA>Jack Bros. no Meiro de Hiihoo! (JP)</AKA>
+		<Developer>Atlus</Developer>
+		<Franchise>Megami Tensei</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jack Bros. no Meiro de Hiihoo!" region="JP">
+			<ReleasePublisher>Atlus</ReleasePublisher>
+			<ReleaseProductID>VUE-VJBJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4984995900018</ReleaseBarCode>
+			<ReleaseDate>09/29/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jack Bros. no Meiro de Hiihoo! (JP)-22968_front.jpg</Image>
+				<Image>Jack Bros. no Meiro de Hiihoo! (JP)-22968_back.jpg</Image>
+				<Image>Jack Bros. no Meiro de Hiihoo! (JP)-22968_side.jpg</Image>
+				<Image>Jack Bros. no Meiro de Hiihoo! (JP)-22968_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Jack Bros." region="US">
+			<ReleasePublisher>Atlus</ReleasePublisher>
+			<ReleaseProductID>VUE-VJBE-USA</ReleaseProductID>
+			<ReleaseBarCode>730865530014</ReleaseBarCode>
+			<ReleaseDate>October 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jack Bros. (US)-22969_front.jpg</Image>
+				<Image>Jack Bros. (US)-22969_back.jpg</Image>
+				<Image>Jack Bros. (US)-22969_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Jack Bros. no Meiro de Hiihoo!" URL="/virtualboy/563917-jack-bros">
+		<Description>The portal between Earth and another mysterious dimension has opened, and the intrepid Jack Brothers have come through for an adventure in our world. Having lost track of time, they now have only one hour to return to their home or be banished forever. Help them battle hoards of loathsome enemies through six electrifying 3-D levels, each with many floors to explore and conquer. This is one phenomenal adventure you can't afford to miss!</Description>
+		<UserRating>3.39 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>5.5 hours</Length>
+		<AKA>Jack Bros. no Meiro de Hiihoo! (JP)</AKA>
+		<Developer>Atlus</Developer>
+		<Franchise>Megami Tensei</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jack Bros. no Meiro de Hiihoo!" region="JP">
+			<ReleasePublisher>Atlus</ReleasePublisher>
+			<ReleaseProductID>VUE-VJBJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4984995900018</ReleaseBarCode>
+			<ReleaseDate>09/29/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jack Bros. no Meiro de Hiihoo! (JP)-22968_front.jpg</Image>
+				<Image>Jack Bros. no Meiro de Hiihoo! (JP)-22968_back.jpg</Image>
+				<Image>Jack Bros. no Meiro de Hiihoo! (JP)-22968_side.jpg</Image>
+				<Image>Jack Bros. no Meiro de Hiihoo! (JP)-22968_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Jack Bros." region="US">
+			<ReleasePublisher>Atlus</ReleasePublisher>
+			<ReleaseProductID>VUE-VJBE-USA</ReleaseProductID>
+			<ReleaseBarCode>730865530014</ReleaseBarCode>
+			<ReleaseDate>October 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jack Bros. (US)-22969_front.jpg</Image>
+				<Image>Jack Bros. (US)-22969_back.jpg</Image>
+				<Image>Jack Bros. (US)-22969_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Mario Clash" URL="/virtualboy/563918-mario-clash">
+		<Description>Mario finds himself pitted against a host of evil and nasty enemies. You must help him outwit the Spikes, Para-Goombahs, and other beasts and evils that lurk inside a tower that reaches to the clouds. After stunning a Koopa, he uses it as ammo against his enemies! The attaack is relentless!
+But watch out, there are also creatures made of fire and ice that must be avoided -- hazards at every turn. Even the narrow ledges on which Mario teeters and the pipes he races through must be traversed with caution!
+The pace gets hotter at each level, and the action jumps right out at you! Hold on! This 3-D Virtual Boy game offers a white-knuckled adventure that will keep you on the edge of your seat!</Description>
+		<UserRating>3.21 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>11 hours</Length>
+		<Developer>Nintendo R&amp;D1;</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Mario Clash" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VMCJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370502275</ReleaseBarCode>
+			<ReleaseDate>09/28/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Clash (JP)-22970_front.jpg</Image>
+				<Image>Mario Clash (JP)-22970_back.jpg</Image>
+				<Image>Mario Clash (JP)-22970_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mario Clash" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VMCE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770020</ReleaseBarCode>
+			<ReleaseDate>October 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Clash (US)-22971_front.jpg</Image>
+				<Image>Mario Clash (US)-22971_back.jpg</Image>
+				<Image>Mario Clash (US)-22971_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Mario's Tennis" URL="/virtualboy/563919-marios-tennis">
+		<Description>Smashing tennis action with incredible depth on a realistic 3-D court! Experience the ultimate Virtual Boy sports game in either singles or doubles mode.</Description>
+		<UserRating>3.22 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.7 hours</Length>
+		<Developer>TOSE</Developer>
+		<Franchise>Mario Sports</Franchise>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Mario's Tennis" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VMTJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370502251</ReleaseBarCode>
+			<ReleaseDate>07/21/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario's Tennis (JP)-22972_front.jpg</Image>
+				<Image>Mario's Tennis (JP)-22972_back.jpg</Image>
+				<Image>Mario's Tennis (JP)-22972_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mario's Tennis" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VMTJ-USA</ReleaseProductID>
+			<ReleaseBarCode>750939006016</ReleaseBarCode>
+			<ReleaseDate>August 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario's Tennis (US)-22973_front.jpg</Image>
+				<Image>Mario's Tennis (US)-22973_back.jpg</Image>
+				<Image>Mario's Tennis (US)-22973_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Nester's Funky Bowling" URL="/virtualboy/563920-nesters-funky-bowling">
+		<Description>Nester, the one-time bad boy of comic fame, brings you the funkiest game of bowling you'll ever experience in 3-D. Finally fans can throw a strike without putting on ill-fitting shoes!
+Hester, the unknown twin sister, makes her debut appearance. Watch out as the action picks up and the tensions build for these hot-headed bowlers. Their egos clash with outlandish gestures and funky expressions.</Description>
+		<UserRating>2.91 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>30.5 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="Nester's Funky Bowling" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VNFE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770105</ReleaseBarCode>
+			<ReleaseDate>February 1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nester's Funky Bowling (US)-22974_front.jpg</Image>
+				<Image>Nester's Funky Bowling (US)-22974_back.jpg</Image>
+				<Image>Nester's Funky Bowling (US)-22974_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="NikoChan Battle" URL="/virtualboy/189285-nikochan-battle">
+		<Description>Welcome to the exciting new world of Faceball 2000, where 3D graphics, first person perspective and 360-degree maneuverability put you and up to three friends (or foes!) inside your Game Boy. What you see is where you are, as you team up, compete with each other or play alone against computer-controlled opponents. Transport yourself inside the walls of CyberScape, a series of more than 70 treacherous mazes filled with tricks, traps and menacing enemies. Or, enter the Arena where "Have a Nice Day" takes on a whole new meaning in fast-paced rounds of high-tech combat. Wherever you go in Faceball 2000, it's your chance to wipe the smiles off those annoying happy faces - and maybe a few of your friends - once and for all!</Description>
+		<Developer>Bullet Proof Software</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="NikoChan Battle" region="JP">
+			<ReleasePublisher>Bullet Proof Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+			<ReleaseImages>
+				<Image>NikoChan Battle (JP)-599051_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Panic Bomber" URL="/virtualboy/563921-panic-bomber">
+		<Description>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</Description>
+		<UserRating>3.32 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.4 hours</Length>
+		<AKA>Tobidase! Panibomb (JP)</AKA>
+		<Developer>Raizing</Developer>
+		<Franchise>Bomberman</Franchise>
+		<Genre>Puzzle &gt; Stacking</Genre>
+		<Release name="Tobidase! Panibomb" region="JP">
+			<ReleasePublisher>Hudson</ReleasePublisher>
+			<ReleaseProductID>VUE-VH2J-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988607005214</ReleaseBarCode>
+			<ReleaseDate>07/21/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tobidase! Panibomb (JP)-22975_front.jpg</Image>
+				<Image>Tobidase! Panibomb (JP)-22975_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Panic Bomber" region="US">
+			<ReleasePublisher>Hudson</ReleasePublisher>
+			<ReleaseProductID>VUE-VH2E-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770099</ReleaseBarCode>
+			<ReleaseDate>December 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Panic Bomber (US)-22976_front.jpg</Image>
+				<Image>Panic Bomber (US)-22976_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Red Alarm" URL="/virtualboy/563922-red-alarm">
+		<Description>Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.
+Employing an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!</Description>
+		<UserRating>3.31 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>T&amp;E; Soft</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Red Alarm" region="JP">
+			<ReleasePublisher>T&amp;E; Soft</ReleasePublisher>
+			<ReleaseProductID>VUE-VREJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988604240014</ReleaseBarCode>
+			<ReleaseDate>07/21/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Red Alarm (JP)-22978_front.jpg</Image>
+				<Image>Red Alarm (JP)-22978_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Red Alarm" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VREE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770044</ReleaseBarCode>
+			<ReleaseDate>August 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Red Alarm (US)-22979_front.jpg</Image>
+				<Image>Red Alarm (US)-22979_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="SD Gundam Dimension War" URL="/virtualboy/571616-sd-gundam-dimension-war">
+		<Description>SD Gundam Dimension War is a Strategy game, developed by Locomotive Corporation and published by Bandai,  which was released in Japan in 1995.</Description>
+		<UserRating>1.58 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>2.8 hours</Length>
+		<Developer>Locomotive Corporation</Developer>
+		<Franchise>SD Gundam</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="SD Gundam Dimension War" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>VUE-VSDJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902425484020</ReleaseBarCode>
+			<ReleaseDate>12/22/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>SD Gundam Dimension War (JP)-32086_front.jpg</Image>
+				<Image>SD Gundam Dimension War (JP)-32086_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Space Invaders: Virtual Collection" URL="/virtualboy/571619-space-invaders-virtual-collection">
+		<Description>Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!</Description>
+		<UserRating>2.42 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.7 hours</Length>
+		<Developer>Taito Corporation</Developer>
+		<Franchise>Space Invaders</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Space Invaders: Virtual Collection" region="JP">
+			<ReleasePublisher>Taito Corporation</ReleasePublisher>
+			<ReleaseProductID>VUE-VSPJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988611940181</ReleaseBarCode>
+			<ReleaseDate>12/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Invaders Virtual Collection (JP)-7435_front.jpg</Image>
+				<Image>Space Invaders Virtual Collection (JP)-7435_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Space Squash" URL="/virtualboy/571620-space-squash">
+		<Description>Space Squash is a Sports game, developed by Tomcat System and published by Coconuts Japan,  which was released in Japan in 1995.</Description>
+		<UserRating>3.47 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.8 hours</Length>
+		<Developer>Tomcat System</Developer>
+		<Genre>Sports &gt; Team &gt; Futuristic</Genre>
+		<Release name="Space Squash" region="JP">
+			<ReleasePublisher>Coconuts Japan</ReleasePublisher>
+			<ReleaseProductID>VUE-VSSJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4953507950889</ReleaseBarCode>
+			<ReleaseDate>09/29/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Squash (JP)-32090_front.jpg</Image>
+				<Image>Space Squash (JP)-32090_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="T&amp;E Virtual Golf" URL="/virtualboy/563916-golf">
+		<Description>Tee off for 18 holes of realistic 3-D links! Virtual Boy Golf elevates the game to an incredible new level!
+Determine your strategy as you ponder the conditions. Check your position and the distance to the pin. Select a club and adjust your swing. Consider the wind factor carefully or you could end up out of bounds! Each dimensional fairway provides harrowing hazards to challenge players of all handicaps. Swing into action and go for a hole in one!</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.3 hours</Length>
+		<AKA>T&amp;E; Virtual Golf (JP)</AKA>
+		<Developer>T&amp;E; Soft</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="T&amp;E; Virtual Golf" region="JP">
+			<ReleasePublisher>T&amp;E; Soft</ReleasePublisher>
+			<ReleaseProductID>VUE-VVGJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988604240021</ReleaseBarCode>
+			<ReleaseDate>08/11/95</ReleaseDate>
+		</Release>
+		<Release name="Golf" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VVGE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770082</ReleaseBarCode>
+			<ReleaseDate>November 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golf (US)-22954_front.jpg</Image>
+				<Image>Golf (US)-22954_back.jpg</Image>
+				<Image>Golf (US)-22954_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Teleroboxer" URL="/virtualboy/562620-teleroboxer">
+		<Description>In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.
+Slug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.</Description>
+		<UserRating>3.28 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.5 hours</Length>
+		<Developer>Nintendo R&amp;D1;</Developer>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Boxing / Martial Arts</Genre>
+		<Release name="Teleroboxer" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VTBJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370502244</ReleaseBarCode>
+			<ReleaseDate>07/21/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Teleroboxer (JP)-19507_front.jpg</Image>
+				<Image>Teleroboxer (JP)-19507_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Teleroboxer" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VTBJ-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770013</ReleaseBarCode>
+			<ReleaseDate>August 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Teleroboxer (US)-19508_front.jpg</Image>
+				<Image>Teleroboxer (US)-19508_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Tobidase! Panibomb" URL="/virtualboy/563921-panic-bomber">
+		<Description>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</Description>
+		<UserRating>3.32 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.4 hours</Length>
+		<AKA>Tobidase! Panibomb (JP)</AKA>
+		<Developer>Raizing</Developer>
+		<Franchise>Bomberman</Franchise>
+		<Genre>Puzzle &gt; Stacking</Genre>
+		<Release name="Tobidase! Panibomb" region="JP">
+			<ReleasePublisher>Hudson</ReleasePublisher>
+			<ReleaseProductID>VUE-VH2J-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988607005214</ReleaseBarCode>
+			<ReleaseDate>07/21/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tobidase! Panibomb (JP)-22975_front.jpg</Image>
+				<Image>Tobidase! Panibomb (JP)-22975_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Panic Bomber" region="US">
+			<ReleasePublisher>Hudson</ReleasePublisher>
+			<ReleaseProductID>VUE-VH2E-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770099</ReleaseBarCode>
+			<ReleaseDate>December 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Panic Bomber (US)-22976_front.jpg</Image>
+				<Image>Panic Bomber (US)-22976_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="V-Tetris" URL="/virtualboy/563923-v-tetris">
+		<Description>V-Tetris is a Puzzle game, developed by Locomotive Corporation and published by Bullet Proof Software,  which was released in Japan in 1995.</Description>
+		<UserRating>3.76 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Locomotive Corporation</Developer>
+		<Franchise>Tetris</Franchise>
+		<Genre>Puzzle &gt; Stacking</Genre>
+		<Release name="V-Tetris" region="JP">
+			<ReleasePublisher>Bullet Proof Software</ReleasePublisher>
+			<ReleaseProductID>VUE-VTRJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988627000305</ReleaseBarCode>
+			<ReleaseDate>08/25/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>V-Tetris (JP)-22980_front.jpg</Image>
+				<Image>V-Tetris (JP)-22980_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Vertical Force" URL="/virtualboy/563924-vertical-force">
+		<Description>Pilot a Futuristic Star Fighter in a Battle for Mankind!
+
+GALACTIC YEAR 210. The earth and its colonies face annihilation in a futuristic war against the human race. YOU have been chosen to pilot RAGNAROK, a star fighter from an advanced alien civilization.
+
+Reinforced by fearless AI CHARACTERS, you must locate and destroy menacing fighters and enemy droids. With sheer VERTICAL FORCE blast your way into another dimension to the final Virtual frontier. This mission for mankind is brutal. Be prepared, for it has only just begun!</Description>
+		<UserRating>3.37 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Hudson</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Vertical Force" region="JP">
+			<ReleasePublisher>Hudson</ReleasePublisher>
+			<ReleaseProductID>VUE-VH3J-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988607005207</ReleaseBarCode>
+			<ReleaseDate>08/12/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Vertical Force (JP)-22981_front.jpg</Image>
+				<Image>Vertical Force (JP)-22981_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Vertical Force" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VH3E-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770075</ReleaseBarCode>
+			<ReleaseDate>December 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Vertical Force (US)-22982_front.jpg</Image>
+				<Image>Vertical Force (US)-22982_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Virtual Bowling" URL="/virtualboy/571621-virtual-bowling">
+		<Description>Virtual Bowling is a Sports game, developed and published by Athena,  which was released in Japan in 1995.</Description>
+		<UserRating>2.97 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>3.2 hours</Length>
+		<Developer>Athena</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="Virtual Bowling" region="JP">
+			<ReleasePublisher>Athena</ReleasePublisher>
+			<ReleaseProductID>VUE-VVBJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988679000247</ReleaseBarCode>
+			<ReleaseDate>12/22/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Bowling (JP)-32089_front.jpg</Image>
+				<Image>Virtual Bowling (JP)-32089_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Virtual Boy Wario Land" URL="/virtualboy/563927-virtual-boy-wario-land">
+		<Description>Yikes!!!  Get ready for a devious treasure hunt with the infamous scheming Wario.  Capture the shining gold and vast treasures locked deep inside a hidden cave.  But, beware of poison ponds, perilous prisons, endless walls and creepy woods!  Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths.  Blow away enemy cave defenders with body attacks and power actions.  Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!</Description>
+		<UserRating>3.84 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>11.4 hours</Length>
+		<Developer>Nintendo R&amp;D1;</Developer>
+		<Franchise>Wario Land</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Virtual Boy Wario Land" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VWCE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770068</ReleaseBarCode>
+			<ReleaseDate>November 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Boy Wario Land (US)-22987_front.jpg</Image>
+				<Image>Virtual Boy Wario Land (US)-22987_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Virtual Boy Wario Land: Awazon no Hihou" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VWCJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370502343</ReleaseBarCode>
+			<ReleaseDate>12/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Boy Wario Land Awazon no Hihou (JP)-22986_front.jpg</Image>
+				<Image>Virtual Boy Wario Land Awazon no Hihou (JP)-22986_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Virtual Boy Wario Land: Awazon no Hihou" URL="/virtualboy/563927-virtual-boy-wario-land">
+		<Description>Yikes!!!  Get ready for a devious treasure hunt with the infamous scheming Wario.  Capture the shining gold and vast treasures locked deep inside a hidden cave.  But, beware of poison ponds, perilous prisons, endless walls and creepy woods!  Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths.  Blow away enemy cave defenders with body attacks and power actions.  Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!</Description>
+		<UserRating>3.84 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>11.4 hours</Length>
+		<AKA>Virtual Boy Wario Land: Awazon no Hihou (JP)</AKA>
+		<Developer>Nintendo R&amp;D1;</Developer>
+		<Franchise>Wario Land</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Virtual Boy Wario Land" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VWCE-USA</ReleaseProductID>
+			<ReleaseBarCode>045496770068</ReleaseBarCode>
+			<ReleaseDate>November 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Boy Wario Land (US)-22987_front.jpg</Image>
+				<Image>Virtual Boy Wario Land (US)-22987_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Virtual Boy Wario Land: Awazon no Hihou" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-VWCJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370502343</ReleaseBarCode>
+			<ReleaseDate>12/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Boy Wario Land Awazon no Hihou (JP)-22986_front.jpg</Image>
+				<Image>Virtual Boy Wario Land Awazon no Hihou (JP)-22986_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Virtual Fishing" URL="/virtualboy/571618-virtual-fishing">
+		<Description>Virtual Fishing is a Sports game, developed by Locomotive Corporation and published by Pack-In-Video,  which was released in Japan in 1995.</Description>
+		<UserRating>2.97 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.1 hours</Length>
+		<Developer>Locomotive Corporation</Developer>
+		<Genre>Sports &gt; Individual &gt; Nature &gt; Fishing</Genre>
+		<Release name="Virtual Fishing" region="JP">
+			<ReleasePublisher>Pack-In-Video</ReleasePublisher>
+			<ReleaseProductID>VUE-VVFJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4988110700019</ReleaseBarCode>
+			<ReleaseDate>10/06/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Fishing (JP)-32088_front.jpg</Image>
+				<Image>Virtual Fishing (JP)-32088_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Virtual Lab" URL="/virtualboy/571617-virtual-lab">
+		<Description>Virtual Lab is a Puzzle game, developed and published by J-Wing,  which was released in Japan in 1995.</Description>
+		<UserRating>1.73 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>J-Wing</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Virtual Lab" region="JP">
+			<ReleasePublisher>J-Wing</ReleasePublisher>
+			<ReleaseProductID>VUE-VJVJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4995151000039</ReleaseBarCode>
+			<ReleaseDate>12/08/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Lab (JP)-32087_front.jpg</Image>
+				<Image>Virtual Lab (JP)-32087_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Virtual League Baseball" URL="/virtualboy/563926-virtual-league-baseball">
+		<Description>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</Description>
+		<UserRating>2.52 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<AKA>Virtual Pro Yakyuu '95 (JP)</AKA>
+		<Developer>Kemco</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Virtual Pro Yakyuu '95" region="JP">
+			<ReleasePublisher>Kemco</ReleasePublisher>
+			<ReleaseProductID>VUE-VVPJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4906571615611</ReleaseBarCode>
+			<ReleaseDate>08/11/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Pro Yakyuu '95 (JP)-22984_front.jpg</Image>
+				<Image>Virtual Pro Yakyuu '95 (JP)-22984_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Virtual League Baseball" region="US">
+			<ReleasePublisher>Kemco</ReleasePublisher>
+			<ReleaseProductID>VUE-VVPE-USA</ReleaseProductID>
+			<ReleaseBarCode>741648004011</ReleaseBarCode>
+			<ReleaseDate>September 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual League Baseball (US)-22985_front.jpg</Image>
+				<Image>Virtual League Baseball (US)-22985_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Virtual Pro Yakyuu '95" URL="/virtualboy/563926-virtual-league-baseball">
+		<Description>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</Description>
+		<UserRating>2.52 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<AKA>Virtual Pro Yakyuu '95 (JP)</AKA>
+		<Developer>Kemco</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Virtual Pro Yakyuu '95" region="JP">
+			<ReleasePublisher>Kemco</ReleasePublisher>
+			<ReleaseProductID>VUE-VVPJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4906571615611</ReleaseBarCode>
+			<ReleaseDate>08/11/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Pro Yakyuu '95 (JP)-22984_front.jpg</Image>
+				<Image>Virtual Pro Yakyuu '95 (JP)-22984_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Virtual League Baseball" region="US">
+			<ReleasePublisher>Kemco</ReleasePublisher>
+			<ReleaseProductID>VUE-VVPE-USA</ReleaseProductID>
+			<ReleaseBarCode>741648004011</ReleaseBarCode>
+			<ReleaseDate>September 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual League Baseball (US)-22985_front.jpg</Image>
+				<Image>Virtual League Baseball (US)-22985_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="VirtualBoy" URL="/virtualboy/918745-virtualboy">
+		<Description>The Virtual Boy is a unique video game system that can create dramatic three-dimensional world by using a double screen, high resolution LED display. When looking into the Virtual Boy, the eyeshade helps block out distracting light and create glare-free display screen to immerse you in the 3-D environment. The table stand provides a stable, comfortable support for holding the Virtual Boy during use. Digital stereo speakers provide a built in sound source to enhance the game play experience.
+
+-Double-grip controller for the ultimate in high-tech gaming precision
+-Double control pads command direction and depth of virtual play
+-Dramatic 3-D effects created with high resolution LED optics
+-Dramatic wide screen game vision
+-Digital stereo speakers provide incredible sound and enhanced realism
+-Sturdy stand and eye shade increase stability and ease of play
+-32-Bit RISC processor for smooth animation and fluid play</Description>
+		<UserRating>2.85 / 5</UserRating>
+		<AKA>VirtualBoy Hardware (JP, US)</AKA>
+		<Developer>Nintendo</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="VirtualBoy Hardware" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-001</ReleaseProductID>
+			<ReleaseBarCode>4902570502152</ReleaseBarCode>
+			<ReleaseDate>07/21/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>VirtualBoy Hardware (JP)-307986_front.jpg</Image>
+				<Image>VirtualBoy Hardware (JP)-307986_back.jpg</Image>
+				<Image>VirtualBoy Hardware (JP)-307986_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="VirtualBoy Hardware" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-S-RA01</ReleaseProductID>
+			<ReleaseBarCode>045496750015</ReleaseBarCode>
+			<ReleaseDate>08/14/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>VirtualBoy Hardware (US)-307988_front.jpg</Image>
+				<Image>VirtualBoy Hardware (US)-307988_back.jpg</Image>
+				<Image>VirtualBoy Hardware (US)-307988_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="VirtualBoy Hardware" URL="/virtualboy/918745-virtualboy">
+		<Description>The Virtual Boy is a unique video game system that can create dramatic three-dimensional world by using a double screen, high resolution LED display. When looking into the Virtual Boy, the eyeshade helps block out distracting light and create glare-free display screen to immerse you in the 3-D environment. The table stand provides a stable, comfortable support for holding the Virtual Boy during use. Digital stereo speakers provide a built in sound source to enhance the game play experience.
+
+-Double-grip controller for the ultimate in high-tech gaming precision
+-Double control pads command direction and depth of virtual play
+-Dramatic 3-D effects created with high resolution LED optics
+-Dramatic wide screen game vision
+-Digital stereo speakers provide incredible sound and enhanced realism
+-Sturdy stand and eye shade increase stability and ease of play
+-32-Bit RISC processor for smooth animation and fluid play</Description>
+		<UserRating>2.85 / 5</UserRating>
+		<AKA>VirtualBoy Hardware (JP, US)</AKA>
+		<Developer>Nintendo</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="VirtualBoy Hardware" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-001</ReleaseProductID>
+			<ReleaseBarCode>4902570502152</ReleaseBarCode>
+			<ReleaseDate>07/21/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>VirtualBoy Hardware (JP)-307986_front.jpg</Image>
+				<Image>VirtualBoy Hardware (JP)-307986_back.jpg</Image>
+				<Image>VirtualBoy Hardware (JP)-307986_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="VirtualBoy Hardware" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>VUE-S-RA01</ReleaseProductID>
+			<ReleaseBarCode>045496750015</ReleaseBarCode>
+			<ReleaseDate>08/14/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>VirtualBoy Hardware (US)-307988_front.jpg</Image>
+				<Image>VirtualBoy Hardware (US)-307988_back.jpg</Image>
+				<Image>VirtualBoy Hardware (US)-307988_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Virtual Boy" name="Waterworld" URL="/virtualboy/563928-waterworld">
+		<Description>THE DEACON AWAITS!
+
+The Deacon will stop at nothing to control the world's most precious resource...
+
+And he's turned his blood-thirsty Smokers loose on the Atoller civilization in a frantic search for Enola- the tattooed girl who holds the secret to Dryland. Only you can smoke the Smokers and deck the Deacon!
+
+Waterworld brings your Virtual Boy screaming to life with incredibly smooth and realistic 3D animations, particle effects and texture mapped rendered graphics. So step into this action packed arcade experience today and learn what 3D gaming is all about.</Description>
+		<UserRating>1.52 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Ocean</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Waterworld" region="US">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID>VUE-VWEE-USA</ReleaseProductID>
+			<ReleaseBarCode>020295130015</ReleaseBarCode>
+			<ReleaseDate>December 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Waterworld (US)-8850_front.jpg</Image>
+				<Image>Waterworld (US)-8850_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

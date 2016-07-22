@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="TI-99/4A" name="A-Maze-ing" URL="/ti99/947231-a-maze-ing">
+		<Description>A-MAZE-ING! A challenging combination of maze games to test your strategy skills. Race against time through increasingly difficult mazes filled with tempting cheese, towering obstacles and devious cats!</Description>
+		<UserRating>4.05 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="A-Maze-ing" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3030</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>A-Maze-ing (US)-98111_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Addition and Subtraction 1" URL="/ti99/189569-addition-and-subtraction-1">
+		<Description>Addition and Subtraction 1 is a Miscellaneous game, published by Texas Instruments,  which was released in 1981.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Addition and Subtraction 1" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PH 3027</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Adventure Series 13+" URL="/ti99/951298-adventure-series-13">
+		<Description>Adventure Series 13+ is a Miscellaneous game, developed by Adventure International and published by Tex-Comp,  which was released in 1984.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Adventure International</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Adventure Series 13+" region="US">
+			<ReleasePublisher>Tex-Comp</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Adventureland" URL="/ti99/947058-adventureland">
+		<Description>Adventureland is an Adventure game, developed by Adventure International and published by Texas Instruments,  which was released in 1981.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Adventure International</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Adventureland" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHD 5046</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Alligator Mix" URL="/ti99/630119-alligator-mix">
+		<Description>Alligator Mix is a Miscellaneous game, developed by Developmental Learning Materials and published by Texas Instruments,  which was released in 1982.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Developmental Learning Materials</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Alligator Mix" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Alpiner" URL="/ti99/947232-alpiner">
+		<Description>Climb six of the world's tallest mountains and evade dangerous obstacles with ALPINER. But be careful - the Abominable Snowman is waiting for you atop Mt. Everest! Can you handle the pressure and face the challenge?</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.4 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Alpiner" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3056</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alpiner (US)-98112_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Anteater" URL="/ti99/948139-anteater">
+		<Description>Anteater is an Action game, developed and published by Romox,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Romox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Anteater" region="US">
+			<ReleasePublisher>Romox</ReleasePublisher>
+			<ReleaseProductID>99ERD11</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Attack, The" URL="/ti99/952776-the-attack">
+		<Description>The Attack is an Action game, developed by Milton Bradley and published by Texas Instruments,  which was released in 1981.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The Attack" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3031</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Beginning Grammar" URL="/ti99/189587-beginning-grammar">
+		<Description>Beginning Grammar is a Miscellaneous game, developed and published by Texas Instruments,  which was released in 1979.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Beginning Grammar" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Bigfoot" URL="/ti99/948140-bigfoot">
+		<Description>Bigfoot is an Action game, developed and published by Milton Bradley,  which was released in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Bigfoot" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>PHM 3151</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Blasto" URL="/ti99/947233-blasto">
+		<Description>BLASTO puts you in command of an armored tank traveling through a dangerous mine field. You score points by destroying mines or blasting your opponent's tank. Great fun and fast-paced action sure to please gamers of all ages!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Blasto" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>PHM 3032</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Blasto (US)-98113_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Buck Rogers: Planet of Zoom" URL="/ti99/995935-buck-rogers-planet-of-zoom">
+		<Description>It's the 25th Century. You are Buck Rogers fighting the battle of Planet Zoom. Skillfully slip through zapping electron posts. Dodge and destroy deadly space hoppers and alien saucers. Your race against death has just begun! Prepare for battle with your most powerful enemy... the Mother Ship! It's never easy when it's do or die. You must hit the Mother Ship dead center. Anything less will only waste precious fuel. Aim steady, but hurry... your fuel is dangerously low!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Sega</Developer>
+		<Franchise>Buck Rogers</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Buck Rogers: Planet of Zoom" region="US">
+			<ReleasePublisher>Sega</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="BurgerTime" URL="/ti99/948153-burgertime">
+		<Description>As the burger chef, you're out to build delicious hamburgers. As you run through the colorful maze assembling the ingredients, nothing can stop you - except menacing hot dogs and pickles that are out to ruin the meal! Bury them under beef patties, lettuce and buns. Or, knock them out with pepper. Build four burgers and you're on to the next level.</Description>
+		<UserRating>4.14 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Data East</Developer>
+		<Franchise>BurgerTime</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="BurgerTime" region="US">
+			<ReleasePublisher>Data East</ReleasePublisher>
+			<ReleaseProductID>PHM 3233</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q1 1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Car Wars" URL="/ti99/948154-car-wars">
+		<Description>Car Wars is a Racing game, developed and published by Texas Instruments,  which was released in 1981.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Racing &gt; General</Genre>
+		<Release name="Car Wars" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3054</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q4 1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Car Wars (US)-98941_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Centipede" URL="/ti99/947234-centipede">
+		<Description>An insidious invasion of multiplying insects (centipedes, jumping spiders, poisonous spiders, and frenzied fleas) pose different perils to the mushroom patch. You must repeatedly blast enraged creepers and stubborn obstacles or lose your enchanted fungus. Remember to listen for the distinctive sounds of the attacking bugs; and watch out for blasted centipede segments, each one grows a new head!</Description>
+		<UserRating>3.78 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.4 hours</Length>
+		<Developer>Atari</Developer>
+		<Franchise>Centipede</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Centipede" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8503</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Centipede (US)-28183_front.jpg</Image>
+				<Image>Centipede (US)-28183_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Championship Baseball" URL="/ti99/106639-championship-baseball">
+		<Description>Championship Baseball is a Sports game, developed and published by Texas Instruments,  which was released in 1983.</Description>
+		<UserRating>1.75 / 5</UserRating>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Championship Baseball" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Chisholm Trail" URL="/ti99/947235-chisholm-trail">
+		<Description>Chisholm Trail is an Action game, developed and published by Texas Instruments,  which was released in 1982.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Chisholm Trail" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3110</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chisholm Trail (US)-98114_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Congo Bongo" URL="/ti99/948141-congo-bongo">
+		<Description>You're on a jungle safari packed full of wild and zany adventures. Climb the cliffs to the top of Monkey Mountain as you try to reach the jungle's most mischievous gorilla. Don't get clobbered by the coconuts he'll throw your way. Watch out for menacing monkeys. Beyond Monkey Mountain you'll come to Lazy Lake where you'll see raging rhinos and hollering hippos. Leap from lily pad to lily pad across the treacherous lake filled with ferocious man-eating fish and other jungle dangers, but be careful... one slip and it's safari heaven!</Description>
+		<UserRating>4.31 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Sega</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Congo Bongo" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3227</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Congo Bongo (US)-98936_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Connect Four" URL="/ti99/947236-connect-four">
+		<Description>Choose a column to play, then drop a checker. Try to build a way to get four of your checkers in a row across, up and down or diagonally, while blocking your opponent. Get four in a row first and you win!</Description>
+		<UserRating>4.21 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.6 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Franchise>Connect Four</Franchise>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Connect Four" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>PHM 3038</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Connect Four (US)-48782_front.jpg</Image>
+				<Image>Connect Four (US)-48782_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Count, The" URL="/ti99/947060-the-count">
+		<Description>You wake up in a large brass bed in a castle somewhere in Transylvania. Who are you, what are you doing here, and why did the postman deliver a bottle of blood? It's LOVE AT FIRST BYTE!</Description>
+		<UserRating>2.60 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6.7 hours</Length>
+		<Developer>Adventure International</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The Count" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Count (US)-67123_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Defender" URL="/ti99/947237-defender">
+		<Description>Landers, Bombers, Baiters, Pods, and Swarmers. The alien attack has come, and defeat at the hands of crazed invaders threatens the humanoids. Their only hope is the spaceship, Defender. Armed with smart bombs and able to shift into hyperspace, Defender evens the scare only to become the object of another foul attack: kidnapped humanoids transformed into killer mutants!</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Atari</Developer>
+		<Franchise>Defender</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Defender" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8506</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Defender (US)-29259_front.jpg</Image>
+				<Image>Defender (US)-29259_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Dig Dug" URL="/ti99/630120-dig-dug">
+		<Description>Create your own maze as you tunnel fearlessly through the earth. Your goal: Reap tasty vegetables worth healthy points. Your enemies: ghosts who want to bury you alive, fierce fire-breathing dragons, and mean balloon-like bullies! Can you dig it? Here's the exciting home version of the celebrated coin-op original!</Description>
+		<UserRating>4.31 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.9 hours</Length>
+		<Developer>Atari</Developer>
+		<Franchise>Dig Dug</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Dig Dug" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q4 1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dig Dug (US)-20439_front.jpg</Image>
+				<Image>Dig Dug (US)-20439_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Donkey Kong" URL="/ti99/948142-donkey-kong">
+		<Description>You can feel an exciting tingle up and down your spine when you play DONKEY KONG at home, just like at an arcade. Your joystick guides Mario,® the fearless carpenter, up the girders and elevators as he attempts to rescure his sweetheart from the clutches of Donkey Kong. All the thrills of the arcade game in a home computer version for one or two players.</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>K- Byte</Developer>
+		<Franchise>Donkey Kong</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Donkey Kong" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8512</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donkey Kong (US)-3024_front.jpg</Image>
+				<Image>Donkey Kong (US)-3024_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Early Learning Fun" URL="/ti99/189568-early-learning-fun">
+		<Description>Early Learning Fun is a Miscellaneous game, developed and published by Texas Instruments,  which was released in 1979.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Early Learning Fun" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Espial" URL="/ti99/947248-espial">
+		<Description>You are a space attack pilot flying at death range over the gigantic star ship. Your mission while defending yourself against the never ending oncoming defense squadrons is to destroy the star ship with your cursor scope missiles. Watch out for the star ship's atomic cannons aimed at you!</Description>
+		<UserRating>4.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Tigervision</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Espial" region="US">
+			<ReleasePublisher>Tigervision</ReleasePublisher>
+			<ReleaseProductID>7-012-99</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q1 1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Espial (US)-33932_front.jpg</Image>
+				<Image>Espial (US)-33932_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Facemaker" URL="/ti99/947238-facemaker">
+		<Description>Facemaker is a Miscellaneous game, developed and published by Spinnaker Software,  which was released in 1983.</Description>
+		<UserRating>2.90 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Spinnaker Software</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Facemaker" region="US">
+			<ReleasePublisher>Spinnaker Software</ReleasePublisher>
+			<ReleaseProductID>PHM 3177</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Fathom" URL="/ti99/947249-fathom-1983">
+		<Description>Fathom (1983) is an Action game, developed and published by Imagic,  which was released in 1983.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<AKA>Fathom (US)</AKA>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Fathom" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>PHM 3222</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q3 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Football" URL="/ti99/947250-football">
+		<Description>Exciting color action and fun for 2 players. You pick the plays, call the defense, snap the ball. The computer actually simulates the game based on professional football statistics! Every game is different and challenging.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="Football" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3009</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q2 1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Football (US)-98121_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Hangman" URL="/ti99/629001-hangman">
+		<Description>Hangman is a Puzzle game, developed and published by Milton Bradley,  which was released in 1979.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>6.2 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Hangman" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Hen House" URL="/ti99/948353-hen-house">
+		<Description>Help Farmer Jones collect the eggs from his henhouse. But be careful! His hens are finicky, and demand the utmost attention and care with their eggs. Score points with each basket of eggs you safely deliver to Farmer Jones' truck. But watch out for wolves and poachers - you must take aim and shoot them before they reach the henhouse. And don't drop any eggs!</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Funware</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Hen House" region="US">
+			<ReleasePublisher>Funware</ReleasePublisher>
+			<ReleaseProductID>FW1001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q2 1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hen House (US)-99068_front.jpg</Image>
+				<Image>Hen House (US)-99068_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Hitchhiker's Guide to the Galaxy, The" URL="/ti99/948149-the-hitchhikers-guide-to-the-galaxy">
+		<Description>Beyond question the most mind-bogglingly hilarious story Infocom has ever produced is THE HITCHHIKER'S GUIDE TO THE GALAXY, written and designed by Douglas Adams, author of the phenomenally best-selling novel. As the story begins, you are Arthur Dent, and a bulldozer is preparing to level your house even as an alien space fleet is preparing to level your planet. The incorrigible Mr. Adams has written new material and designed problems especially for this interactive story. So grab a pint of bitter and a couple for the road and join Ford Prefect, Trillian, Zaphod Beeblebrox and Marvin on a cosmic jaunt into the outer reaches where anything can - and does - happen. And don't forget your towel!</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Infocom</Developer>
+		<Franchise>The Hitchhiker's Guide to the Galaxy</Franchise>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="The Hitchhiker's Guide to the Galaxy" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Hopper" URL="/ti99/947239-hopper">
+		<Description>Hopper is an Action game, developed and published by Texas Instruments,  which was released in 1983.</Description>
+		<UserRating>2.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hopper" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3229</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Hunt the Wumpus" URL="/ti99/947240-hunt-the-wumpus">
+		<Description>An exciting simulated hunt in a hidden maze of caverns and twisting tunnels. Seek out the lair of the Wumpus, while avoiding perils along the way!</Description>
+		<UserRating>3.55 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Hunt the Wumpus" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3023</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hunt the Wumpus (US)-98116_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Hustle" URL="/ti99/947241-hustle">
+		<Description>Hustle is an Action game, developed and published by Texas Instruments,  which was released in 1980.</Description>
+		<UserRating>3.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hustle" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3034</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="I'm Hiding" URL="/ti99/106637-im-hiding">
+		<Description>I'm Hiding is a Puzzle game, developed and published by Texas Instruments,  which was released in 1983.</Description>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="I'm Hiding" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Jawbreaker II" URL="/ti99/947242-jawbreaker-ii">
+		<Description>Jawbreaker II is an Action game, developed and published by Sierra Entertainment,  which was released in 1983.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Sierra Entertainment</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jawbreaker II" region="US">
+			<ReleasePublisher>Sierra Entertainment</ReleasePublisher>
+			<ReleaseProductID>PHM 3194</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="M*A*S*H" URL="/ti99/629002-mash">
+		<Description>M*A*S*H is an Action game, developed by 20th Century Fox Video Games and published by Texas Instruments,  which was released in 1983.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>20th Century Fox Video Games</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="M*A*S*H" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Microsurgeon" URL="/ti99/947243-microsurgeon">
+		<Description>Pilot the robot probe through arteries, veins, and the lymphatic system. Eliminate deadly bacteria, tumors, cholesterol, tapeworms, tar deposits, and other life threatening diseases as you go!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Microsurgeon" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>PHM 3220</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Microsurgeon (US)-39387_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Miner 2049er" URL="/ti99/948143-miner-2049er">
+		<Description>"Bounty Bob" is mining a radioactive mine in the year 2049. Help him "claim" all of the various stations (multiple screens). Avoid contact with the deadly mutant organisms by running away, or hopping over them. Collect various articles left by previous miners for bonus points.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Tigervision</Developer>
+		<Franchise>Miner 2049er</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Miner 2049er" region="US">
+			<ReleasePublisher>Tigervision</ReleasePublisher>
+			<ReleaseProductID>7-009-99</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Minus Mission" URL="/ti99/947244-minus-mission">
+		<Description>Minus Mission is a Miscellaneous game, developed and published by Texas Instruments,  which was released in 1982.</Description>
+		<UserRating>2.92 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Minus Mission" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3118</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Moon Mine" URL="/ti99/952775-moon-mine">
+		<Description>Moon Mine is an Action game, developed and published by Texas Instruments,  which was released in 1983.</Description>
+		<UserRating>4.07 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Moon Mine" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3131</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Moon Patrol" URL="/ti99/948155-moon-patrol">
+		<Description>Hop into your Moon Buggy and test yourself on a lunar obstacle course. You'll fight off hostile aliens, jump over huge crates and landmines, and blast moonrocks from your path. And as if that weren't enough, you'll encounter alien tanks and missiles that'll blow you into moondust if you aren't careful!</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>K- Byte</Developer>
+		<Franchise>Moon Patrol</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Moon Patrol" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8531</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q2 1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Moonmist" URL="/ti99/948156-moonmist">
+		<Description>More ghosts haunt the misty seacoast and stone ramparts of Cornwall than anyplace else on earth. One such soul roams Tresyllian Castle: a pale phantom with flaxen hair and a luminous, flowing gown. It seems like a fanciful legend... until the spectral "White Lady" threatens the life of your friend Tamara!
+Arriving at the fog-shrouded castle, you meet a cast of eccentric characters ranging from a blue-blood debutante to an overly helpful butler. Has one of them donned the ghostly guise of the White Lady? Or has the drowned lover of Lord Jack, Tamara's fiancé, returned to haunt her successor? Perhaps the spectre is seeking the valuable treasure hidden somewhere in the lavish rooms and secret passageways of the castle. The solution to the mystery, as well as the location of the treasure, changes in each of the four variations of MOONMIST.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Moonmist" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1986</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Multiplication 1" URL="/ti99/189574-multiplication-1">
+		<Description>Multiplication 1 is a Miscellaneous game, published by Texas Instruments,  which was released in 1981.</Description>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Multiplication 1" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3029</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Munch Man" URL="/ti99/947059-munch-man">
+		<Description>Munch Man is an Action game, developed and published by Texas Instruments,  which was released in 1982.</Description>
+		<UserRating>3.81 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Munch Man" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3057</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Munch Man (US)-97934_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Music Maker" URL="/ti99/947245-music-maker">
+		<Description>Music Maker is a Miscellaneous game, developed and published by Texas Instruments,  which was released in 1980.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Miscellaneous &gt; Application</Genre>
+		<Release name="Music Maker" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3020</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Othello" URL="/ti99/947433-othello">
+		<Description>Othello is fast-paced, as easy to learn as checkers, yet as fascinating as chess. You play the black discs and your opponent plays the white. Trap his discs between two of your own, and his "flip" to your color. One move can change the entire game. Finding that move is the secret to Othello. That's why it takes a minute to learn... but a lifetime to master!</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Developer>CBS Electronics</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Othello" region="US">
+			<ReleasePublisher>CBS Electronics</ReleasePublisher>
+			<ReleaseProductID>PHM 3067</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Pac-Man" URL="/ti99/947280-pac-man">
+		<Description>The refinements of dot chomping lead to high scores as hungry Pac-Man avoids ambush by voracious goblins. When Pac-Man gulps an energy dot he can turn the tables and eat everything in sight...that includes yummy bonus nuggets, sending scores into the thousands. But goblins won't allow themselves to be gobbled for long; and soon become their old selves, fast and sneaky, to try to put an end to Pac-Man's three lives.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>K- Byte</Developer>
+		<Franchise>Pac-Man</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Pac-Man" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8500</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pac-Man (US)-5953_front.jpg</Image>
+				<Image>Pac-Man (US)-5953_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Parsec" URL="/ti99/946868-parsec">
+		<Description>You are the commander of the startship PARSEC under attack by the most hostile, deadly aliens in the galaxy. Your mission: destroy as many alien fighters and cruisers as possible.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Parsec" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3112</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Parsec (US)-97806_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Picnic Paranoia" URL="/ti99/948157-picnic-paranoia">
+		<Description>Picnic Paranoia is an Action game, developed and published by Atari,  which was released in 1983.</Description>
+		<UserRating>2.88 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Atari</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Picnic Paranoia" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8517</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q4 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Picture Parts" URL="/ti99/630624-picture-parts">
+		<Description>Picture Parts is a Miscellaneous game, developed and published by Scott Foresman,  which was released in 1983.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Scott Foresman</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Picture Parts" region="US">
+			<ReleasePublisher>Scott Foresman</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Planetfall" URL="/ti99/948158-planetfall">
+		<Description>Planetfall teleports you 12,000 years into an outrageous future. You joined the Stellar Patrol to explore the galaxy, but all you've seen is the end of a mop - until your ship explodes and you're jettisoned onto a mysterious, deserted planet. Luckily, you have Floyd, a lovable multi-purpose robot with the personality of a mischievous 8-year-old. He's the ideal companion with whom to brave your new world, as you dare its dangers and uncover its secrets.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Planetfall" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Pole Position" URL="/ti99/947246-pole-position">
+		<Description>Qualify for the Grand Prix and win the Pole Position, the number one starting spot. Then go flat out to beat the track record and finish a winner. Features treacherous curves, hair-raising near misses, and all the thrills of the popular video arcade game.</Description>
+		<UserRating>4.19 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Namco</Developer>
+		<Franchise>Pole Position</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Pole Position" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8534</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pole Position (US)-41053_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Popeye" URL="/ti99/948144-popeye">
+		<Description>Put yourself in Popeye's place. You've got a daffy girlfriend who goes by the name of Olive Oyl. Right now, she's got you running in circles, chasing hearts and notes all over the place. Then, there's that blubber-brain, Brutus, who's out to get you. While you're dashing around, he's taking shots to knock you overboard. And if that's not bad enough - you've got that nasty 'ol biddy, the Sea Hag, pelting you with bottles. Now you'd think with all this going on, you could rely on your spinach. NO CHANCE! It's there one second - gone the next! So go ahead, put yourself in Popeye's place - if you think you can handle all the action!</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Parker Brothers</Developer>
+		<Franchise>Popeye</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Popeye" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID>PB1650</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Popeye (US)-22184_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Protector II" URL="/ti99/948159-protector-ii">
+		<Description>Protector II is an Action game, developed and published by Atari,  which was released in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Developer>Atari</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Protector II" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8516</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q4 1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Protector II (US)-98943_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Q*bert" URL="/ti99/947247-qbert">
+		<Description>Q*bert's captivating arcade adventures hop your way with lively action, colorful graphics, and arcade-like sounds.
+Spring Q*bert up and down the steps of a "three-dimensional" pyramid, changing the color of each step as he lands. Complete an entire pyramid, then hop onto a more challenging one.
+But look out! All sorts of crafty arcade creatures pursue Q*bert. You'll need good timing and quick reflexes to hop Q*bert away from danger fast--or soar him to safety on a Flying Disc. But watch where you move Q*bert. One hop off the pyramid, and he'll be lost in space!
+Q*bert--the irresistible arcade character in a captivating game full of fanciful fun.</Description>
+		<UserRating>3.65 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Parker Brothers</Developer>
+		<Franchise>Q*bert</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Q*bert" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID>PB1620</ReleaseProductID>
+			<ReleaseBarCode>073000016203</ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Qbert (US)-6400_front.jpg</Image>
+				<Image>Qbert (US)-6400_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Rabbit Trail" URL="/ti99/948355-rabbit-trail">
+		<Description>Watch out for weasels, hawks, traps and cars or hop onto a raft to escape your enemies. Collect all the carrots as you crawl through rabbit holes. Seven different playing screens make this game an ultimate challenge!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Funware</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Rabbit Trail" region="US">
+			<ReleasePublisher>Funware</ReleasePublisher>
+			<ReleaseProductID>FW1004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q2 1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rabbit Trail (US)-99071_front.jpg</Image>
+				<Image>Rabbit Trail (US)-99071_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Return to Pirate's Island" URL="/ti99/946869-return-to-pirates-island">
+		<Description>Return to Pirate's Island is an Action game, developed by Adventure International and published by Texas Instruments,  which was released in 1983.</Description>
+		<UserRating>4.36 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>Adventure International</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Return to Pirate's Island" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3189</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Return to Pirate's Island (US)-97807_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Rotor Raiders" URL="/ti99/948160-rotor-raiders">
+		<Description>Rotor Raiders is an Action game, developed and published by Romox,  which was released in 1984.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Romox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Rotor Raiders" region="US">
+			<ReleasePublisher>Romox</ReleasePublisher>
+			<ReleaseProductID>ROM06025</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q1 1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Schnoz-Ola" URL="/ti99/948354-schnoz-ola">
+		<Description>Schnoz-Ola is an Action game, developed and published by Funware,  which was released in 1983.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Funware</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Schnoz-Ola" region="US">
+			<ReleasePublisher>Funware</ReleasePublisher>
+			<ReleaseProductID>FW1014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q4 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Scott Adams' Adventure Series" URL="/ti99/946867-scott-adams-adventure-series">
+		<Description>Scott Adams' Adventure Series is a Miscellaneous game, developed by Adventure International and published by Tex-Comp,  which was released in 1984.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Adventure International</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Scott Adams' Adventure Series" region="US">
+			<ReleasePublisher>Tex-Comp</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scott Adams' Adventure Series (US)-97805_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Seastalker" URL="/ti99/948145-seastalker">
+		<Description>Seastalker is an Adventure game, developed and published by Infocom,  which was released in 1984.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.5 hours</Length>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Seastalker" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Shamus" URL="/ti99/948161-shamus">
+		<Description>Shamus is an Action game, developed and published by Atari,  which was released in 1983.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Atari</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Shamus" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8518</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q4 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Space Bandits" URL="/ti99/624807-space-bandits">
+		<Description>Space Bandits is an Action game, developed and published by Milton Bradley,  which was released in 1983.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Bandits" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>November 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="St. Nick" URL="/ti99/948356-st-nick">
+		<Description>St. Nick is a Puzzle game, developed and published by Funware,  which was released in 1983.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Funware</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="St. Nick" region="US">
+			<ReleasePublisher>Funware</ReleasePublisher>
+			<ReleaseProductID>FW1009</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q4 1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>St. Nick (US)-99070_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Star Trek: Strategic Operations Simulator" URL="/ti99/680940-star-trek-strategic-operations-simulator">
+		<Description>Now you can command the fate of the U.S.S. Enterprise in this home version of the hit arcade game. You're training to become a Federation Starship Captain. Fight off deadly Klingon Battle Cruisers that threaten the existence of your Starbases. Skillfully navigate through perilous asteroid fields and comet storms. Prepare to encounter the most powerful enemy of them all: Nomad! Hours of challenge await you, if you dare to venture where no home video game has ever dared to go...</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Sega</Developer>
+		<Franchise>Star Trek</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Star Trek: Strategic Operations Simulator" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q3 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Story Machine" URL="/ti99/189573-story-machine">
+		<Description>Story Machine is a Miscellaneous game, developed and published by Spinnaker Software,  which was released in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Spinnaker Software</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Story Machine" region="US">
+			<ReleasePublisher>Spinnaker Software</ReleasePublisher>
+			<ReleaseProductID>PHM 3178</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Super Demon Attack" URL="/ti99/948146-super-demon-attack">
+		<Description>Super Demon Attack is an Action game, developed by Western Technologies, Inc. and published by Imagic,  which was released in 1983.</Description>
+		<UserRating>1.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Western Technologies, Inc.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Super Demon Attack" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>PHM 3219</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Suspect" URL="/ti99/948147-suspect">
+		<Description>Suspect is an Adventure game, developed and published by Infocom,  which was released in 1984.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Suspect" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Suspended" URL="/ti99/948148-suspended">
+		<Description>Suspended is an Adventure game, developed and published by Infocom,  which was released in 1983.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Suspended" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Terry Turtle's Adventure" URL="/ti99/106638-terry-turtles-adventure">
+		<Description>Terry Turtle's Adventure is an Adventure game, developed and published by Texas Instruments,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Terry Turtle's Adventure" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="TI Invaders" URL="/ti99/946870-ti-invaders">
+		<Description>TI Invaders is an Action game, developed and published by Texas Instruments,  which was released in 1981.</Description>
+		<UserRating>3.85 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="TI Invaders" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3053</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="TI-99/4A" URL="/ti99/946852-ti-99-4a">
+		<Description>TI-99/4A is a Hardware game, developed and published by Texas Instruments,  which was released in 1981.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="TI-99/4A" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHCOO4A</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>TI-994A (US)-308049_front.jpg</Image>
+				<Image>TI-994A (US)-308049_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Tombstone City in the 21st Century" URL="/ti99/947061-tombstone-city-in-the-21st-century">
+		<Description>Tombstone City in the 21st Century is a Strategy game, developed and published by Texas Instruments,  which was released in 1981.</Description>
+		<UserRating>3.94 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Tombstone City in the 21st Century" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3052</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tombstone City in the 21st Century (US)-97935_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Tunnels of Doom" URL="/ti99/946871-tunnels-of-doom">
+		<Description>Enter a world of fantasy where your instincts and imagination determine your chances of survival. You journey is about to begin--prepare yourself.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Tunnels of Doom" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3042</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tunnels of Doom (US)-97809_front.jpg</Image>
+				<Image>Tunnels of Doom (US)-97809_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Video Games 1" URL="/ti99/629003-video-games-1">
+		<Description>Video Games 1 is an Action game, developed and published by Texas Instruments,  which was released in 1980.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Video Games 1" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Video Graphs" URL="/ti99/189575-video-graphs">
+		<Description>Video Graphs is a Miscellaneous game, developed and published by Texas Instruments,  which was released in 1979.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Texas Instruments</Developer>
+		<Genre>Miscellaneous &gt; Application</Genre>
+		<Release name="Video Graphs" region="US">
+			<ReleasePublisher>Texas Instruments</ReleasePublisher>
+			<ReleaseProductID>PHM 3005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="Witness, The" URL="/ti99/948150-the-witness-1986">
+		<Description>It's like waking up inside a story! Load Infocom's interactive fiction into your computer and discover yourself at the center of a world jam-packed with surprising twists, unique characters and original, logical, often hilarious puzzles. For the first time, you're more than a passive reader. You can talk to the story, typing in full English sentences. And the story talks right back, communicating entirely in vividly descriptive prose. What's more, you can actually shape the story's course of events through your choice of actions. And you have hundreds of alternatives at every step. In fact, there's so much you can see and do, your investigation can last for weeks and even months.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2 hours</Length>
+		<AKA>The Witness (US)</AKA>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="The Witness (1986)" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="TI-99/4A" name="ZeroZap" URL="/ti99/947062-zerozap">
+		<Description>Set the winning score; aim your arrow at a target and fire. When hit, X's become diamonds and diamonds become X's. As your arrow bounces off number diamonds, you score points. The player with the highest score wins.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="ZeroZap" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>PHM 3036</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>ZeroZap (US)-97936_front.jpg</Image>
+				<Image>ZeroZap (US)-97936_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

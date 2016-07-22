@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="e-Reader" name="Air Hockey" URL="/ereader/915691-air-hockey">
+		<Description>Air Hockey is a Sports game, developed and published by Nintendo,  which was released in 2002.</Description>
+		<UserRating>3.07 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Air Hockey" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/18/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Air Hockey (US)-55613_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Animal Crossing Card Pack" URL="/ereader/915722-animal-crossing-card-pack">
+		<Description>Animal Crossing Card Pack is a Strategy game, developed and published by Nintendo,  which was released in 2002.</Description>
+		<UserRating>3.45 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Animal Crossing</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Animal Crossing Card Pack" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-AF11</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/31/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Animal Crossing Card Pack (US)-55174_front.jpg</Image>
+				<Image>Animal Crossing Card Pack (US)-55174_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Animal Crossing Card Pack 2" URL="/ereader/915705-animal-crossing-card-pack-2">
+		<Description>Animal Crossing Card Pack 2 is a Strategy game, developed and published by Nintendo,  which was released in 2003.</Description>
+		<UserRating>3.35 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Animal Crossing</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Animal Crossing Card Pack 2" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-AF21</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/21/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Animal Crossing Card Pack 2 (US)-55159_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Animal Crossing Card Pack 3" URL="/ereader/915710-animal-crossing-card-pack-3">
+		<Description>Animal Crossing Card Pack 3 is a Strategy game, developed and published by Nintendo,  which was released in 2003.</Description>
+		<UserRating>3.27 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Animal Crossing</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Animal Crossing Card Pack 3" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-AF31</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/11/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Animal Crossing Card Pack 3 (US)-55147_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Animal Crossing Card Pack 4" URL="/ereader/915465-animal-crossing-card-pack-4">
+		<Description>Animal Crossing Card Pack 4 is a Strategy game, developed and published by Nintendo,  which was released in 2003.</Description>
+		<UserRating>3.15 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Animal Crossing</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Animal Crossing Card Pack 4" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-AF41</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/30/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Animal Crossing Card Pack 4 (US)-55107_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Balloon Fight" URL="/ereader/915732-balloon-fight">
+		<Description>You'll need lightning-fast reactions to win this battle in the sky! Take to the skies! It's BALLOON FIGHT! You'll score lots of points and have loads of fun when you burst enemy balloons and send their parachutes crashing into the sea. But beware. These hot-air invaders having an amazing ability to land safely, blow up another balloon and come back stronger than before! What's more, if you fly too low you'll be devoured by man-eating sharks! Challenge them alone if you think you're up to it, or team up with a friend. Either way, you'll have the time of your life fighting off your opponents in the sky and avoiding those hungry sharks below in BALLOON FIGHT!</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Balloon Fight</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Balloon Fight" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-BFA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/16/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Balloon Fight (US)-21794_front.jpg</Image>
+				<Image>Balloon Fight (US)-21794_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Baseball" URL="/ereader/915723-baseball">
+		<Description>The most realistic baseball game outside of a ballpark! It's the bottom of the ninth. You're at the plate. Here comes the pitch. You swing - it's a smash deep into center field. A home run! It's Nintendo BASEBALL. A game so real you'll think you're in the majors. You control the swing of the bat. The speed of the pitch. The hits, the steals, the double plays! Play against a computer opponent or challenge a friend. Nintendo's state-of-the-art graphics and realistic game play will have you really believing you're playing baseball. Just add peanuts, popcorn and crackerjacks... for the time of your life!</Description>
+		<UserRating>2.96 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="Baseball" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-BAA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 2002</ReleaseDate>
+			<ReleaseImages>
+				<Image>Baseball (US)-1749_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Card-E Reader" URL="/ereader/915738-nintendo-e-reader">
+		<Description>Nintendo e-Reader is a Hardware game, developed and published by Nintendo,  which was released in Japan in 2001.</Description>
+		<UserRating>3.29 / 5</UserRating>
+		<AKA>Card-E Reader (JP), Nintendo e-Reader Hardware w/ Pinball (US), Nintendo e-Reader Hardware (US)</AKA>
+		<Developer>Nintendo</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Card-E Reader" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-010, AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/01/01</ReleaseDate>
+		</Release>
+		<Release name="Nintendo e-Reader Hardware" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/17/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo e-Reader Hardware (US)-303262_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Nintendo e-Reader Hardware w/ Pinball" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/17/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_front.jpg</Image>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_back.jpg</Image>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Clu Clu Land" URL="/ereader/915467-clu-clu-land">
+		<Description>Are you clever enough to unravel the mystery of Clu Clu Land? The evil Sea Urchin has hidden all the gold in Clu Clu Land in an underground mystery maze. It's up to you to find the gold before time runs out! But beware. The Sea Urchin will do everything in his power to stop you. He'll set up traps to trick you, like inviting you into his house where you'll be swallowed alive! Or bounce you against the Rubber Trap and land you flat on your back! But if you, or you and a friend, can control the Sea Urchin by stunning him with electric shockwaves, you just might find out where he's hidden the gold and move on to an exciting bonus round!</Description>
+		<UserRating>3.19 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Clu Clu Land" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-CLA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/21/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Clu Clu Land (US)-21888_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Donkey Kong" URL="/ereader/915724-donkey-kong">
+		<Description>Can you save Mario's girl from the clutches of Donkey Kong? Donkey Kong has kidnapped Mario's girlfriend Pauline and taken her to the top of a construction site. It's up to you to help Mario save Pauline before time runs out. But it won't be easy. Donkey Kong will do everything in his power to stop you. He'll throw barrel bombs, flaming fireballs and anything else he can get his hands on. So if you're looking for action, don't monkey around.</Description>
+		<UserRating>3.36 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Donkey Kong</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Donkey Kong" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-DKA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/12/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donkey Kong (US)-3020_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Donkey Kong 3" URL="/ereader/915468-donkey-kong-3">
+		<Description>Donkey Kong is back in the role of villain once again.  This time he's out to get your plants--and you.  You are Stanley the greenhouse man, armed only with a spray can and deadly accuracy.  Fight off all of the baddies that get too close, and don't go easy on the ape--he won't go easy on you.</Description>
+		<UserRating>3.16 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Donkey Kong</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Donkey Kong 3" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-DTA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/21/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donkey Kong 3 (US)-23093_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Donkey Kong Jr." URL="/ereader/915733-donkey-kong-jr">
+		<Description>Mario has gone mad! He's turned the tables on Donkey Kong and locked him in a cage. It's up to you, as Donkey Kong Jr., to rescue your father by stealing Mario's set of keys. But it won't be easy. You'll have to fight off ape-eating Snapjaws, jump onto moving islands and break through a jungle of vines to get to the keys that will free Donkey Kong. Can you handle the action? Because this off-the-wall monkey business will have you going bananas!</Description>
+		<UserRating>3.57 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Donkey Kong</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Donkey Kong Jr." region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-JRA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/16/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donkey Kong Jr. (US)-23063_front.jpg</Image>
+				<Image>Donkey Kong Jr. (US)-23063_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Excitebike" URL="/ereader/915734-excitebike">
+		<Description>This thrilling Nintendo programmable game lets you vary the obstacles, change the sequence of events, and increase the racing challenge time and time again! You'll start out in a Nintendo designed preliminary race, and move through a series of increasingly difficult challenge races! You'll face crazy curves, hairpin turns, daredevil jumps, and some very fierce motorcross competition, as you race your bike towards the checkered flag. This thrilling test of driving strategy and skill will keep you riveted to the screen for hours!</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Excitebike</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Excitebike" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-EBA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/16/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Excitebike (US)-21927_front.jpg</Image>
+				<Image>Excitebike (US)-21927_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Game &amp; Watch Collection: Manhole" URL="/ereader/915448-game-and-watch-collection-manhole">
+		<Description>Game &amp; Watch Collection: Manhole is an Action game, developed and published by Nintendo,  which was released in 2002.</Description>
+		<UserRating>3.30 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Game &amp; Watch</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Game &amp; Watch Collection: Manhole" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-GW11</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 2002</ReleaseDate>
+			<ReleaseImages>
+				<Image>Game &amp; Watch Collection Manhole (US)-54999_front.jpg</Image>
+				<Image>Game &amp; Watch Collection Manhole (US)-54999_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Golf" URL="/ereader/915469-golf">
+		<Description>Nintendo GOLF lets you choose your clubs, change your stance, control your swings - even select the angle of impact! You'll view the hole from both close up and far away, judge the changing conditions of the green, and measure the wind velocity. But watch out! When the wind changes, so does the flight of your ball. With Nintendo's state-of-the-art graphics and realistic game play, you'll really believe you're on the fairways. So play Nintendo GOLF, because there's not a video golf game on par with it anywhere!</Description>
+		<UserRating>2.77 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Golf" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-GFA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/21/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golf (US)-22952_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Hamtaro Card-E" URL="/ereader/944614-hamtaro-card-e">
+		<Description>Hamtaro Card-E is a Miscellaneous game, developed and published by Nintendo,  which was released in Japan in 2003.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Hamtaro</Franchise>
+		<Genre>Miscellaneous &gt; Party / Minigame</Genre>
+		<Release name="Hamtaro Card-E" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/31/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hamtaro Card-E (JP)-93852_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Ice Climber" URL="/ereader/915725-ice-climber">
+		<Description>If you can break through 8 levels of treacherous arctic ice, you'll reach the top of the mountain! But watch out. The Nitpickers, Condors, and Ploar Bears don't want you up there. And they've got a bag of tricks that will test every ounce of your strength and courage. Are you going to let them stop you? No way! There are 32 mountains to choose from and endless thrills as you fight these arctic creatures alone or with a friend, and ascend to the top of the mountain in ICE CLIMBER!</Description>
+		<UserRating>3.21 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Ice Climber" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/12/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ice Climber (US)-41635_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Kirby Slide" URL="/ereader/924265-kirby-slide">
+		<Description>Kirby Slide is a Puzzle game, developed and published by Nintendo,  which was released in 2003.</Description>
+		<UserRating>3.15 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Kirby</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Kirby Slide" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>November 2003</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kirby Slide (US)-63011_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Kirby Slide (w/ Nintendo Power)" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>December 2003</ReleaseDate>
+		</Release>
+		<Release name="Kirby Slide (w/ Tips &amp; Tricks mag)" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>December 2003</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Mario Bros." URL="/ereader/915726-mario-bros">
+		<Description>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more!</Description>
+		<UserRating>3.56 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Mario Bros." region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-MAA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/11/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Bros. (US)-22065_front.jpg</Image>
+				<Image>Mario Bros. (US)-22065_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Mario Party-e" URL="/ereader/915707-mario-party-e">
+		<Description>You are invited to join him along with all his friends (and a few enemies) in a new e-Reader game based on the hit video game series-Mario Party. Up to four people can battle it out in this card game gone wacky. Use the Game Boy® Advance and e-Reader to challenge your opponents to a duel or tempt fate in a Wonder Challenge. Card games have never been this much fun!</Description>
+		<UserRating>3.71 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.6 hours</Length>
+		<Developer>Indies Zero </Developer>
+		<Franchise>Mario Party</Franchise>
+		<Genre>Miscellaneous &gt; Party / Minigame</Genre>
+		<Release name="Mario Party-e" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-MPAE</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>02/17/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Party-e (US)-55251_front.jpg</Image>
+				<Image>Mario Party-e (US)-55251_back.jpg</Image>
+				<Image>Mario Party-e (US)-55251_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Nintendo e-Reader" URL="/ereader/915738-nintendo-e-reader">
+		<Description>Nintendo e-Reader is a Hardware game, developed and published by Nintendo,  which was released in Japan in 2001.</Description>
+		<UserRating>3.29 / 5</UserRating>
+		<AKA>Card-E Reader (JP), Nintendo e-Reader Hardware w/ Pinball (US), Nintendo e-Reader Hardware (US)</AKA>
+		<Developer>Nintendo</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Card-E Reader" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-010, AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/01/01</ReleaseDate>
+		</Release>
+		<Release name="Nintendo e-Reader Hardware" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/17/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo e-Reader Hardware (US)-303262_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Nintendo e-Reader Hardware w/ Pinball" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/17/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_front.jpg</Image>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_back.jpg</Image>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Nintendo e-Reader Hardware" URL="/ereader/915738-nintendo-e-reader">
+		<Description>Nintendo e-Reader is a Hardware game, developed and published by Nintendo,  which was released in Japan in 2001.</Description>
+		<UserRating>3.29 / 5</UserRating>
+		<AKA>Card-E Reader (JP), Nintendo e-Reader Hardware w/ Pinball (US), Nintendo e-Reader Hardware (US)</AKA>
+		<Developer>Nintendo</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Card-E Reader" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-010, AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/01/01</ReleaseDate>
+		</Release>
+		<Release name="Nintendo e-Reader Hardware" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/17/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo e-Reader Hardware (US)-303262_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Nintendo e-Reader Hardware w/ Pinball" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/17/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_front.jpg</Image>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_back.jpg</Image>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Nintendo e-Reader Hardware w/ Pinball" URL="/ereader/915738-nintendo-e-reader">
+		<Description>Nintendo e-Reader is a Hardware game, developed and published by Nintendo,  which was released in Japan in 2001.</Description>
+		<UserRating>3.29 / 5</UserRating>
+		<AKA>Card-E Reader (JP), Nintendo e-Reader Hardware w/ Pinball (US), Nintendo e-Reader Hardware (US)</AKA>
+		<Developer>Nintendo</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Card-E Reader" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-010, AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/01/01</ReleaseDate>
+		</Release>
+		<Release name="Nintendo e-Reader Hardware" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/17/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo e-Reader Hardware (US)-303262_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Nintendo e-Reader Hardware w/ Pinball" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>AGB-014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/17/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_front.jpg</Image>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_back.jpg</Image>
+				<Image>Nintendo e-Reader Hardware w Pinball (US)-303261_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pikmin 2 e-card Collection Series 1" URL="/ereader/921970-pikmin-2-e-card-collection-series-1">
+		<Description>Pikmin 2 e-card Collection Series 1 is an Action game, developed and published by Nintendo,  which was released in Japan in 2004.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pikmin</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Pikmin 2 e-card Collection Series 1" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/29/04</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pikmin 2 e-card Collection Series 1 (JP)-315001_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pikmin 2 e-Card Collection Series 2" URL="/ereader/922135-pikmin-2-e-card-collection-series-2">
+		<Description>Pikmin 2 e-Card Collection Series 2 is an Action game, developed and published by Nintendo,  which was released in Japan in 2004.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pikmin</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Pikmin 2 e-Card Collection Series 2" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/29/04</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pikmin 2 e-Card Collection Series 2 (JP)-315057_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pinball" URL="/ereader/915735-pinball">
+		<Description>Be a pinball wizard, right in your own home! Bank off bumpers, flip double-flippers - even win a bonus round - in Nintendo's lightning fast PINBALL! You'll have the time of your life as you flip from upper to lower game screens, rack up points to beat your opponent, and, if you're lucky, progress to the bonus round where you'll save the falling maiden in this video version of the real thing!</Description>
+		<UserRating>3.48 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pinball" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-PNA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/16/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pinball (US)-22164_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon Battle e-Card: Freezing Ray" URL="/ereader/926747-pokemon-battle-e-card-freezing-ray">
+		<Description>New trainers have arrived in Hoenn and have brought their high level Pokémon with them. Can you defeat these skilled Trainers? Also included in each set are Enigma Berries. You'll have to scan them to find out what they do!</Description>
+		<UserRating>3.54 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Role-Playing &gt; Trainer</Genre>
+		<Release name="Pokemon Battle e-Card: Freezing Ray" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-P12</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/20/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon Battle e-Card Freezing Ray (US)-66227_front.jpg</Image>
+				<Image>Pokemon Battle e-Card Freezing Ray (US)-66227_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon Battle e-Card: Hidden Ruins" URL="/ereader/926748-pokemon-battle-e-card-hidden-ruins">
+		<Description>New Trainers have arrived in Hoenn and have brought their high level Pokémon with them. Can you defeat these skilled Trainers? Also included in each set are Enigma Berries. You'll have to scan them to find out what they do!</Description>
+		<UserRating>3.82 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Role-Playing &gt; Trainer</Genre>
+		<Release name="Pokemon Battle e-Card: Hidden Ruins" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-P13</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/20/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon Battle e-Card Hidden Ruins (US)-66228_front.jpg</Image>
+				<Image>Pokemon Battle e-Card Hidden Ruins (US)-66228_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon Battle e-Card: Iron Defense" URL="/ereader/926749-pokemon-battle-e-card-iron-defense">
+		<Description>New Trainers have arrived in Hoenn and have brought their high level Pokémon with them. Can you defeat these skilled Trainers? Also included in each set are Enigma Berries. You'll have to scan them to find out what they do!</Description>
+		<UserRating>3.46 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Role-Playing &gt; Trainer</Genre>
+		<Release name="Pokemon Battle e-Card: Iron Defense" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-P11</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/20/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon Battle e-Card Iron Defense (US)-66229_front.jpg</Image>
+				<Image>Pokemon Battle e-Card Iron Defense (US)-66229_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon-e: Aquapolis" URL="/ereader/942149-pokemon-e-aquapolis">
+		<Description>Pokemon-e: Aquapolis is a Miscellaneous game, developed and published by Wizards of the Coast,  which was released in 2003.</Description>
+		<UserRating>3.89 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Wizards of the Coast</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Pokemon-e: Aquapolis" region="US">
+			<ReleasePublisher>Wizards of the Coast</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/20/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon-e Aquapolis (US)-89557_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon-e: EX Dragon" URL="/ereader/942150-pokemon-e-ex-dragon">
+		<Description>Pokemon-e: EX Dragon is a Miscellaneous game, developed and published by Nintendo,  which was released in 2003.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Pokemon-e: EX Dragon" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/24/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon-e EX Dragon (US)-89558_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon-e: EX Ruby &amp; Sapphire" URL="/ereader/942151-pokemon-e-ex-ruby-and-sapphire">
+		<Description>Pokemon-e: EX Ruby &amp; Sapphire is a Miscellaneous game, developed and published by Nintendo,  which was released in 2003.</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Pokemon-e: EX Ruby &amp; Sapphire" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/18/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon-e EX Ruby &amp; Sapphire (US)-89559_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon-e: EX Sandstorm" URL="/ereader/942152-pokemon-e-ex-sandstorm">
+		<Description>Pokemon-e: EX Sandstorm is a Miscellaneous game, developed and published by Nintendo,  which was released in 2003.</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Pokemon-e: EX Sandstorm" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/16/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon-e EX Sandstorm (US)-89560_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon-e: EX Team Magma vs. Team Aqua" URL="/ereader/942153-pokemon-e-ex-team-magma-vs-team-aqua">
+		<Description>Pokemon-e: EX Team Magma vs. Team Aqua is a Miscellaneous game, developed and published by Nintendo,  which was released in 2004.</Description>
+		<UserRating>3.14 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Pokemon-e: EX Team Magma vs. Team Aqua" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/15/04</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon-e EX Team Magma vs. Team Aqua (US)-89561_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon-e: Expedition" URL="/ereader/942073-pokemon-e-expedition">
+		<Description>Pokemon-e: Expedition is a Miscellaneous game, developed and published by Wizards of the Coast,  which was released in 2002.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Wizards of the Coast</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Pokemon-e: Expedition" region="US">
+			<ReleasePublisher>Wizards of the Coast</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/16/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon-e Expedition (US)-89401_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Pokemon-e: Skyridge" URL="/ereader/942154-pokemon-e-skyridge">
+		<Description>Pokemon-e: Skyridge is a Miscellaneous game, developed and published by Wizards of the Coast,  which was released in 2003.</Description>
+		<UserRating>3.55 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Wizards of the Coast</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Pokemon-e: Skyridge" region="US">
+			<ReleasePublisher>Wizards of the Coast</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>April 2003</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pokemon-e Skyridge (US)-89562_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Super Mario Advance 4: Super Mario Bros 3.-e Series 1" URL="/ereader/924282-super-mario-advance-4-super-mario-bros-3-e-series-1">
+		<Description>Super Mario Advance 4: Super Mario Bros 3.-e Series 1 is an Action game, developed and published by Nintendo,  which was released in 2003.</Description>
+		<UserRating>4.14 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Super Mario Advance 4: Super Mario Bros 3.-e Series 1" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-X411</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/20/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Mario Advance 4 Super Mario Bros 3.-e Series 1 (US)-63030_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Super Mario Advance 4: Super Mario Bros 3.-e Series 2" URL="/ereader/920072-super-mario-advance-4-super-mario-bros-3-e-series-2">
+		<Description>Super Mario Advance 4: Super Mario Bros. 3-e (Series 2) features eight Power-Up cards, five Level cards, and five Demo cards.  Power-Up Cards give players a traditional item such as Super Leaf and 1-Up Mushroom to use strategically in the game.  A special Power-Up Card includes a set of items.  Level Cards feature brand-new levels to explore as well as classic levels from the original Super Mario Bros. 3 game.  Swipe a Demo card, then sit back and watch the experts at Nintendo show you how to find hidden items and master exciting techniques.</Description>
+		<UserRating>4.23 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Super Mario Advance 4: Super Mario Bros 3.-e Series 2" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-X412</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/20/03</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Mario Advance 4 Super Mario Bros 3.-e Series 2 (US)-59039_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Tennis" URL="/ereader/915736-tennis">
+		<Description>Slam a serve, fire a blazing backhand, smash a forehand volley... you call the shots in Nintendo TENNIS! Nintendo lets you choose an opponent from five different skill levels, so as your game improves, so does your playing partner! Plus, you can actually gauge the speed of your serve! The better your timing, the faster it moves across the net. You'll have hours of fun rushing the net, playing the baseline or roaming the court. With Nintendo's state-of-the-art graphics and realistic game play, you'll really believe you're at center court!</Description>
+		<UserRating>3.08 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.8 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Tennis" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>PES-TEA1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/16/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tennis (US)-40625_front.jpg</Image>
+				<Image>Tennis (US)-40625_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="e-Reader" name="Urban Champion" URL="/ereader/915727-urban-champion">
+		<Description>Are you tough enough to take on the baddest guys on the block?
+
+Think you're tough, huh? Well, you better be. Because you've got to be quick on your feet and fast with your hands to become the next URBAN CHAMPION. You've got to block, fake and land punches that will knock your opponent off the screen. Do that three times and there will be a confetti celebration in your honor as you become the new URBAN CHAMPION. But watch out. Just when you think you've beat him to the punch, you fall into an open manhole! Or get hit by a falling flower pot! Think you can handle the action? Then prove it. Play it by yourself or challenge a friend, either way you'll have a knockout time defeating the toughest guys in the neighborhood in URBAN CHAMPION.</Description>
+		<UserRating>2.47 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Urban Champion" region="US">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/11/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Urban Champion (US)-49883_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

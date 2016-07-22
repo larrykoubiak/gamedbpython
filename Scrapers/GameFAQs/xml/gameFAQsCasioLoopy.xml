@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Anime Land" URL="/loopy/952099-anime-land">
+		<Description>Anime Land is a Miscellaneous game, developed and published by Casio,  which was released in Japan in 1995.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>10.5 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Anime Land" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-401</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Anime Land (JP)-102746_front.jpg</Image>
+				<Image>Anime Land (JP)-102746_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Casio Loopy" URL="/loopy/951941-casio-loopy">
+		<Description>Casio Loopy is a Hardware game, developed and published by Casio,  which was released in Japan in 1995.</Description>
+		<UserRating>4.08 / 5</UserRating>
+		<Developer>Casio</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Casio Loopy" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>SV-100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>October 1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Chakura-Kun no Omajinai Paradise" URL="/loopy/611681-chakura-kun-no-omajinai-paradise">
+		<Description>Chakura-Kun no Omajinai Paradise is a Miscellaneous game, developed and published by Casio,  which was released in Japan in 1997.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Chakura-Kun no Omajinai Paradise" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-405</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Dream Change: Kogane-chan no Fashion Party" URL="/loopy/952100-dream-change-kogane-chan-no-fashion-party">
+		<Description>Dream Change: Kogane-chan no Fashion Party is a Miscellaneous game, developed and published by Casio,  which was released in Japan in 1995.</Description>
+		<UserRating>4.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>38 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Dream Change: Kogane-chan no Fashion Party" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-403 </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dream Change Kogane-chan no Fashion Party (JP)-102747_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="HARIHARI Seal Paradise" URL="/loopy/952101-harihari-seal-paradise">
+		<Description>HARIHARI Seal Paradise is a Miscellaneous game, developed and published by Casio,  which was released in Japan in 1995.</Description>
+		<UserRating>2.38 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>10.7 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="HARIHARI Seal Paradise" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-402</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>HARIHARI Seal Paradise (JP)-102748_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Little Romance" URL="/loopy/952102-little-romance">
+		<Description>Little Romance is a Simulation game, developed and published by Casio,  which was released in Japan in 1996.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>7 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Simulation &gt; Virtual &gt; Virtual Life</Genre>
+		<Release name="Little Romance" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-503</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Little Romance (JP)-102749_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Loopy Town no Oheya ga Hoshii!" URL="/loopy/952106-loopy-town-no-oheya-ga-hoshii">
+		<Description>Loopy Town no Oheya ga Hoshii! is a Simulation game, developed and published by Casio,  which was released in Japan in 1995.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Simulation &gt; Virtual &gt; Virtual Life</Genre>
+		<Release name="Loopy Town no Oheya ga Hoshii!" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-504</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Lupiton no Wonder Palette" URL="/loopy/952103-lupiton-no-wonder-palette">
+		<Description>Lupiton no Wonder Palette is a Miscellaneous game, developed by Axes Art Amuse and published by Casio,  which was released in Japan in 1996.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Axes Art Amuse</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Lupiton no Wonder Palette" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-701</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Magical Shop" URL="/loopy/952104-magical-shop">
+		<Description>Magical Shop is a Miscellaneous game, developed and published by Casio,  which was released in Japan in 1995.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Magical Shop" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-700</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Nigaoe Artist" URL="/loopy/952105-nigaoe-artist">
+		<Description>Nigaoe Artist is a Miscellaneous game, developed and published by Casio,  which was released in Japan in 1995.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>55 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Nigaoe Artist" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-404</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nigaoe Artist (JP)-102752_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="PC Collection" URL="/loopy/952107-pc-collection">
+		<Description>PC Collection is a Miscellaneous game, developed and published by Casio,  which was released in Japan in 1996.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="PC Collection" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-502</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Casio Loopy" name="Wanwan Aijou Monogatari" URL="/loopy/952108-wanwan-aijou-monogatari">
+		<Description>Wanwan Aijou Monogatari is an Adventure game, developed and published by Casio,  which was released in Japan in 1995.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>33.3 hours</Length>
+		<Developer>Casio</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Wanwan Aijou Monogatari" region="JP">
+			<ReleasePublisher>Casio</ReleasePublisher>
+			<ReleaseProductID>XK-501</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wanwan Aijou Monogatari (JP)-102755_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

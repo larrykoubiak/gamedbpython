@@ -1,0 +1,2789 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Acid Attack" URL="/cd32/619354-acid-attack">
+		<Description>Acid Attack is a Miscellaneous game, developed by Acid and published by Guildhall Leisure Services Ltd.,  which was released in Europe in 1995.</Description>
+		<Developer>Acid</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Acid Attack" region="EU">
+			<ReleasePublisher>Guildhall Leisure Services Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Action Pack Vol. 1" URL="/cd32/640226-action-pack-vol-1">
+		<Description>Action Pack Vol. 1 is a Miscellaneous game, developed and published by Guildhall Leisure Services Ltd.,  which was released in Europe in 1996.</Description>
+		<Developer>Guildhall Leisure Services Ltd.</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Action Pack Vol. 1" region="EU">
+			<ReleasePublisher>Guildhall Leisure Services Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Akira" URL="/cd32/952163-akira">
+		<Description>Akira is an Action game, developed and published by ICE,  which was released in Europe in 1994.</Description>
+		<UserRating>1.25 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>ICE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Akira" region="EU">
+			<ReleasePublisher>ICE</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Akira (EU)-65659_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Alfred Chicken" URL="/cd32/952086-alfred-chicken">
+		<Description>Oh no! The evil Meka-Chickens have eggnapped Billy Egg and his brothers for their terrible cloning experiment! And they've taken Floella too!
+This is no yolk. As the worlds only chicken with a bionic beak, Alfred is whisked off to a multitude of bizarre lands to pluch his friends from the clutches of their foul captors.
+Scramble through 11 transdimensional levels 'acing the likes of Byron Snail, Mag-Mine, Grim Blocker and the Terrasawus. Beat the Meka-Chickens, snatch back the eggs, and lay their plans for world domination to rest!</Description>
+		<UserRating>3.86 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Twilight Games</Developer>
+		<Franchise>Alfred Chicken</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Alfred Chicken" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alfred Chicken (EU)-1438_front.jpg</Image>
+				<Image>Alfred Chicken (EU)-1438_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Alien Breed '92 SE &amp; Qwak" URL="/cd32/939722-alien-breed-92-se-and-qwak">
+		<Description>Alien Breed '92 SE &amp; Qwak is a Miscellaneous game, developed and published by Team 17,  which was released in Europe in 1994.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Team 17</Developer>
+		<Franchise>Alien Breed</Franchise>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Alien Breed '92 SE &amp; Qwak" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Breed '92 SE &amp; Qwak (EU)-86585_front.jpg</Image>
+				<Image>Alien Breed '92 SE &amp; Qwak (EU)-86585_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Alien Breed 3D" URL="/cd32/952217-alien-breed-3d">
+		<Description>Over the last four years, the Alien Breed saga has become legendary amongst Amiga owners... now the series culminates in quie spectacular fashion... Alien Breed is now in 3D!
+Transported to spectacular 3D environment, you must outwit the ferocious Breed once more, but this time the added dimension of "being there" brings you even closer to the disgusting creatures than ever before!</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Team 17</Developer>
+		<Franchise>Alien Breed</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Alien Breed 3D" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Breed 3D (EU)-102875_front.jpg</Image>
+				<Image>Alien Breed 3D (EU)-102875_back.jpg</Image>
+				<Image>Alien Breed 3D (EU)-102875_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Alien Breed: Tower Assault" URL="/cd32/952218-alien-breed-tower-assault">
+		<Description>In the depths of space a holocaust has occured. Intelligent and hostile alien life-forms have taken over the Military Research Unit in the planet Azarin 2E. Chaos and destruction have been wrought on the innocent colonists.
+Now it's your job to reclaim the station for humankind. Travel through the tractless voids of space, then endure over 65 levels of Alien blasting mayhem. Watch your ammunition and energy levels in preparation for the showdown with the Alien Queen.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Team 17</Developer>
+		<Franchise>Alien Breed</Franchise>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Alien Breed: Tower Assault" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Breed Tower Assault (EU)-81061_front.jpg</Image>
+				<Image>Alien Breed Tower Assault (EU)-81061_back.jpg</Image>
+				<Image>Alien Breed Tower Assault (EU)-81061_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Amiga CD Football" URL="/cd32/619363-amiga-cd-football">
+		<Description>Amiga CD Football is a Sports game, developed and published by Commodore,  which was released in Europe in 1993.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="Amiga CD Football" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Amiga CD32" URL="/cd32/951940-amiga-cd32">
+		<Description>Amiga CD32 is a Hardware game, developed and published by Commodore,  which was released in Europe in 1993.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>Commodore</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Amiga CD32" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Amiga CD32 (EU)-308076_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Arabian Nights" URL="/cd32/952164-arabian-nights">
+		<Description>Sinbad Junior works for the "fair and just" Caliph as an apprentice gardener tending to his incredibly excessive palace gardens. Today however he gazes upon another beautiful flower - the Princess Laila as she stands on a balcony high above the gardens.
+Away in an eerie floating castle dark deeds are at hand. The evil Vizier, in his dastardly plan to rule the kingdom, has despatched a demon from the nether regions of hell to kidnap the princess and cast a mighty spell over the kingdom.
+As Sinbad stares up at the balcony a dark shape descends from the sky, mauling and clawing at Laila.
+Laila screams and the demon lifts off clutching the beautiful princess. Sinbad makes a desperate leap to grab the claw of the monster, but is left on the balcony flat on his back. As the demon disappears into the clouds Sinbad is surrounded by the Caliph's guards and hurled into prison on a charge of sorcery. Now, taking on the role of Sinbad Junior, you not only have to escape the palace dungeons, but also rescure Laila from the evil Vizier.</Description>
+		<UserRating>4.10 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>21.3 hours</Length>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Arabian Nights" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Arabian Nights (EU)-67410_front.jpg</Image>
+				<Image>Arabian Nights (EU)-67410_back.jpg</Image>
+				<Image>Arabian Nights (EU)-67410_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Arcade Pool" URL="/cd32/952219-arcade-pool">
+		<Description>Rack'em-up and shoot for glory in this stunning Pool Simulator featuring superb ball animation and authentic sounds that have been digitised to give you a greater feel.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Team 17</Developer>
+		<Genre>Sports &gt; Individual &gt; Billiards</Genre>
+		<Release name="Arcade Pool" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Arcade Pool (EU)-77288_front.jpg</Image>
+				<Image>Arcade Pool (EU)-77288_back.jpg</Image>
+				<Image>Arcade Pool (EU)-77288_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="ATR: All Terrain Racing" URL="/cd32/619356-atr-all-terrain-racing">
+		<Description>ATR: All Terrain Racing is a Racing game, developed and published by Team 17,  which was released in Europe in 1995.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Team 17</Developer>
+		<Genre>Racing &gt; General</Genre>
+		<Release name="ATR: All Terrain Racing" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>ATR All Terrain Racing (EU)-83070_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Banshee" URL="/cd32/952165-banshee">
+		<Description>Take a classic arcade game. Add a whole heap of seasoning in the form of stylish, state-of-the-art graphics and four MASSIVE levels of up-to-date action. Stir in an Alternative Dimension, exquisitely evil aliens and a heavy-sprinkling of mucho-big guns 'n' power-propped planes. Leave to simmer on an incandescent heat and wait for the best BLAST in light years.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Core Design Ltd.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Banshee" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Banshee (EU)-77266_front.jpg</Image>
+				<Image>Banshee (EU)-77266_back.jpg</Image>
+				<Image>Banshee (EU)-77266_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Base Jumpers" URL="/cd32/619355-base-jumpers">
+		<Description>Base Jumpers is an Action game, developed by Shadow Software and published by Rasputin,  which was released in Europe in 1995.</Description>
+		<Developer>Shadow Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Base Jumpers" region="EU">
+			<ReleasePublisher>Rasputin</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Base Jumpers (EU)-77971_front.jpg</Image>
+				<Image>Base Jumpers (EU)-77971_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Battle Chess" URL="/cd32/952246-battle-chess">
+		<Description>There is a darkness over the battlefield. The wind sighs gently and there, in the distance, comes the  flash of lightning and the rumble of thunder. With a sudden gust of wind; your warriors appear: the King, the Queen, two each of Bishops, Knights and Rooks, and before them all, a row of Pawns. Waiting, your King turns to you, ready to order his servants forward to their deaths in your battle to rule the field.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Almathera Systems</Developer>
+		<Franchise>Battle Chess</Franchise>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Battle Chess" region="EU">
+			<ReleasePublisher>Interplay</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Battle Chess (EU)-25463_front.jpg</Image>
+				<Image>Battle Chess (EU)-25463_back.jpg</Image>
+				<Image>Battle Chess (EU)-25463_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Battletoads" URL="/cd32/952087-battletoads">
+		<Description>Okay 'toad! Let's get even! When the evil Dark Queen kidnaps your best buddy, Pimple, and the best looking Princess this side of the Mazallion Star Cluster - what are you gonna do about it? Are you gonna cry? Hide? Call the Starcops? No way! Because you're a BATTLETOAD and BATTLETOADS don't cry, hide or call for help. BATTLETOADS get real MAD - and then they get EVEN!
+So strap on your Blaster, power-up  the Toadster and take a flying leap to the Dark Queen's planet - but, watch out 'toad - the lady's bad and she's got a whole mess of nasty suprises lined up for you - like the Psyko Pigs, the Mutant Ratpack, Robo-Manus and the Saturn Toadtrap to name a few.
+You're gonna need all your fighting skills to defeat her - the Battletoad Butt, the Big Bad Boot and the Nuclear Knuckles, if you're gonna rescue your friends and get the frog outta there with your green skin intact!</Description>
+		<UserRating>1.00 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Rare Ltd.</Developer>
+		<Franchise>Battletoads</Franchise>
+		<Genre>Action &gt; Beat-'Em-Up &gt; 2D</Genre>
+		<Release name="Battletoads" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Battletoads (EU)-44779_front.jpg</Image>
+				<Image>Battletoads (EU)-44779_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Beavers" URL="/cd32/952088-beavers">
+		<Description>Beavers features stunning cartoon-quality graphics with 18 huge, eight-way scrolling levels and intricate and involving puzzles which require quick thinking to solve. Also features a great soundtrack and sampled cartoon sound effects!</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Unique Entertainment</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Beavers" region="EU">
+			<ReleasePublisher>Unique</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Beavers (EU)-102740_front.jpg</Image>
+				<Image>Beavers (EU)-102740_back.jpg</Image>
+				<Image>Beavers (EU)-102740_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Beneath a Steel Sky" URL="/cd32/619357-beneath-a-steel-sky">
+		<Description>Beneath a Steel Sky is a gripping science fiction thriller set in a bleak vision of the future. Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks... while the corrupt, covetous and rich lie underground, shielded from all polution. Alone, save for a robot circuit board, Foster must fight for survival... and discover the sinister truth behind his abduction.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Revolution Software</Developer>
+		<Genre>Adventure &gt; Point-and-Click</Genre>
+		<Release name="Beneath a Steel Sky" region="EU">
+			<ReleasePublisher>Virgin Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Beneath a Steel Sky (EU)-25692_front.jpg</Image>
+				<Image>Beneath a Steel Sky (EU)-25692_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Benefactor" URL="/cd32/619358-benefactor">
+		<Description>Benefactor is an Action game, developed by Digital Illusions and published by Psygnosis,  which was released in Europe in 1994.</Description>
+		<Developer>Digital Illusions</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Benefactor" region="EU">
+			<ReleasePublisher>Psygnosis</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Benefactor (EU)-79348_front.jpg</Image>
+				<Image>Benefactor (EU)-79348_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Big 6, The" URL="/cd32/997287-the-big-6">
+		<Description>The Big 6 is a Miscellaneous game, published by Codemasters,  which was released in Europe in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Codemasters</Developer>
+		<Franchise>Dizzy</Franchise>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="The Big 6" region="EU">
+			<ReleasePublisher>Codemasters</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Big 6 (EU)-155298_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Black Viper" URL="/cd32/722561-black-viper">
+		<Description>Black Viper is a Simulation game, developed by Light Shock and published by neo Software,  which was released in Europe in 1996.</Description>
+		<Developer>Light Shock</Developer>
+		<Genre>Simulation &gt; Vehicle &gt; Combat</Genre>
+		<Release name="Black Viper" region="EU">
+			<ReleasePublisher>neo Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>4018188000466</ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Brian The Lion" URL="/cd32/619359-brian-the-lion">
+		<Description>Brian The Lion is an Action game, developed by Reflections Interactive and published by Psygnosis,  which was released in Europe in 1994.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Reflections Interactive</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Brian The Lion" region="EU">
+			<ReleasePublisher>Psygnosis</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Brian The Lion (EU)-178597_front.jpg</Image>
+				<Image>Brian The Lion (EU)-178597_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Brutal Football" URL="/cd32/955787-brutal-football">
+		<Description>Brutal Football is a Sports game, developed by Teque Interactive and published by Millennium,  which was released in Europe in 1994.</Description>
+		<UserRating>1.25 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Teque Interactive</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="Brutal Football" region="EU">
+			<ReleasePublisher>Millennium</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Brutal Football (EU)-56772_front.jpg</Image>
+				<Image>Brutal Football (EU)-56772_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Brutal: Paws Of Fury" URL="/cd32/619360-brutal-paws-of-fury">
+		<Description>Across the world, invitations were delivered. Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well.. Brutal Island. Each will use their own unique mental and physical martial arts style and training in a tournament to prove the worlds one true champion.</Description>
+		<UserRating>0.50 / 5</UserRating>
+		<Developer>GameTek</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Brutal: Paws Of Fury" region="EU">
+			<ReleasePublisher>GameTek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Bubba 'n' Stix" URL="/cd32/952166-bubba-n-stix">
+		<Description>Our goofy hero and his friend - an intelligent alien stick - have crash-landed on a weird planet after being captured by an alien spacecraft. In order to get back to Earth, Bubba must use Stix in a variety of different ways to solve puzzles, overcome adversaries and foil the comedic attempts of his kidnapper to recapture him in this multi-directional scrolling puzzle.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Core Design Ltd.</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Bubba 'n' Stix" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bubba 'n' Stix (EU)-47137_front.jpg</Image>
+				<Image>Bubba 'n' Stix (EU)-47137_back.jpg</Image>
+				<Image>Bubba 'n' Stix (EU)-47137_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Bubble And Squeak" URL="/cd32/619361-bubble-and-squeak">
+		<Description>Bubble And Squeak is an Action game, developed and published by Audiogenic Ltd.,  which was released in Europe in 1994.</Description>
+		<Developer>Audiogenic Ltd.</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Bubble And Squeak" region="EU">
+			<ReleasePublisher>Audiogenic Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Bump 'n' Burn" URL="/cd32/952167-bump-n-burn">
+		<Description>The speed! The thrills! The spills! Glory goes to those who survive the ultimate racing experience - The Bump N Burn Championships!</Description>
+		<Developer>Softeyes</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Bump 'n' Burn" region="EU">
+			<ReleasePublisher>Grandslam</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bump 'n' Burn (EU)-102840_front.jpg</Image>
+				<Image>Bump 'n' Burn (EU)-102840_back.jpg</Image>
+				<Image>Bump 'n' Burn (EU)-102840_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Camel Racer" URL="/cd32/619373-camel-racer">
+		<Description>Camel Racer is a Miscellaneous game, developed and published by MMMGroup,  which was released in Europe in 1995.</Description>
+		<Developer>MMMGroup</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Camel Racer" region="EU">
+			<ReleasePublisher>MMMGroup</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Cannon Fodder" URL="/cd32/952247-cannon-fodder">
+		<Description>"Don't wait 'til you see the whites of their eyes... Don't kid yourself it will be over by Christmas... Don't try to shut out the screams... And don't forget to wash your hand afterwards..."</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Developer>Arch Rivals</Developer>
+		<Franchise>Cannon Fodder</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cannon Fodder" region="EU">
+			<ReleasePublisher>Virgin Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cannon Fodder (EU)-23895_front.jpg</Image>
+				<Image>Cannon Fodder (EU)-23895_back.jpg</Image>
+				<Image>Cannon Fodder (EU)-23895_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Castles II: Siege &amp; Conquest" URL="/cd32/619374-castles-ii-siege-and-conquest">
+		<Description>Castles II: Siege &amp; Conquest is a Strategy game, developed by Almathera Systems and published by Interplay,  which was released in Europe in 1993.</Description>
+		<Developer>Almathera Systems</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Castles II: Siege &amp; Conquest" region="EU">
+			<ReleasePublisher>Interplay</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Castles II Siege &amp; Conquest (EU)-178606_front.jpg</Image>
+				<Image>Castles II Siege &amp; Conquest (EU)-178606_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Chambers of Shaolin" URL="/cd32/955759-chambers-of-shaolin">
+		<Description>Chambers of Shaolin is an Action game, developed by Thalion and published by Unique Entertainment,  which was released in Europe in 1993.</Description>
+		<Developer>Thalion</Developer>
+		<Genre>Action &gt; Beat-'Em-Up &gt; 2D</Genre>
+		<Release name="Chambers of Shaolin" region="EU">
+			<ReleasePublisher>Unique Entertainment</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chambers of Shaolin (EU)-107568_front.jpg</Image>
+				<Image>Chambers of Shaolin (EU)-107568_back.jpg</Image>
+				<Image>Chambers of Shaolin (EU)-107568_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Chaos Engine 2, The" URL="/cd32/986159-the-chaos-engine-2">
+		<Description>The Chaos Engine 2 is an Action Adventure game, developed by The Bitmap Brothers and published by Renegade,  which was released in Europe in 1996.</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="The Chaos Engine 2" region="EU">
+			<ReleasePublisher>Renegade</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Chaos Engine 2 (EU)-141144_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Chaos Engine, The" URL="/cd32/952235-the-chaos-engine">
+		<Description>Sometime during the last century, an experimenter with time, space and early computers created a bizarre machine. The inventor's name was Baron Fortesque. The machine was... The Chaos Engine. Although primitive, the machine became incredible powerful and went crazy, turning ordinary humans and household pets into razor toothed, armour-plated killing machines. Enter 6 hard-nailed mercenaries for hire. These ball-breakers are armed to the teeth with over 25 weapons and a host of special destructive devices specific to their class. Select 2 characters to form your party and enter the World of Chaos. The sprawling adventure covers 4 graphic worlds and 16 levels loaded with fiendish traps, puzzles and secret passages. Get your hands on sawn-off shotguns, molotov cocktails and a huge amount of armament, and buy, blag or blast your way through hordes of different monsters to do battle with the ultimate killing machine, THE CHAOS ENGINE!</Description>
+		<UserRating>3.92 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>The Bitmap Brothers</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="The Chaos Engine" region="EU">
+			<ReleasePublisher>Renegade</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Chaos Engine (EU)-23900_front.jpg</Image>
+				<Image>The Chaos Engine (EU)-23900_back.jpg</Image>
+				<Image>The Chaos Engine (EU)-23900_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Chuck Rock" URL="/cd32/952089-chuck-rock">
+		<Description>Chuck Rock hasn't been the same since his long-time rival in love, the evil Gary Gritter, kidnapped his wife, the beautiful Ophelia.
+Help Chuck in his quest to rescure Ophelia from the clutches of the evil Gary. Kick, throw rocks and belly-butt your way through a multitude of comical zones featuring 500 screens of exciting and addictive gameplay.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Core Design Ltd.</Developer>
+		<Franchise>Chuck Rock</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Chuck Rock" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chuck Rock (EU)-28433_front.jpg</Image>
+				<Image>Chuck Rock (EU)-28433_back.jpg</Image>
+				<Image>Chuck Rock (EU)-28433_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Chuck Rock II: Son of Chuck" URL="/cd32/952168-chuck-rock-ii-son-of-chuck">
+		<Description>Eighteen months after his victory over Gary Gritter, Chuck Rock is now the owner of the hugely successful "Chuck Motors" and has become a father. Kidnapped by his evil enemy Brick Jagger, Chuck Rock is likely to become Chuck Dust, unless somebody rescues him... A sudden crash as Chuck Junior bursts from his play pen "Goo Goo Gaa Gaa, I'll be back."</Description>
+		<Developer>Core Design Ltd.</Developer>
+		<Franchise>Chuck Rock</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Chuck Rock II: Son of Chuck" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chuck Rock II Son of Chuck (EU)-102841_front.jpg</Image>
+				<Image>Chuck Rock II Son of Chuck (EU)-102841_back.jpg</Image>
+				<Image>Chuck Rock II Son of Chuck (EU)-102841_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Classic Lotus Trilogy" URL="/cd32/619362-classic-lotus-trilogy">
+		<Description>Classic Lotus Trilogy is a Miscellaneous game, developed by Magnetic Fields and published by Gremlin Graphics,  which was released in Europe in 1994.</Description>
+		<Developer>Magnetic Fields</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Classic Lotus Trilogy" region="EU">
+			<ReleasePublisher>Gremlin Graphics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Classic Lotus Trilogy (EU)-178598_front.jpg</Image>
+				<Image>Classic Lotus Trilogy (EU)-178598_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Clockwiser" URL="/cd32/971503-clockwiser">
+		<Description>Clockwiser is a Puzzle game, developed by Team Hoi and published by Rasputin Software,  which was released in Europe in 1994.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Team Hoi</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Clockwiser" region="EU">
+			<ReleasePublisher>Rasputin Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Clockwiser (EU)-125468_front.jpg</Image>
+				<Image>Clockwiser (EU)-125468_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Clue!, The" URL="/cd32/961705-the-clue">
+		<Description>The Clue! is a Strategy game, developed by neo Software and published by Kompart,  which was released in Europe in 1994.</Description>
+		<AKA>Der Clou! (EU)</AKA>
+		<Developer>neo Software</Developer>
+		<Franchise>The Clue!</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Der Clou!" region="EU">
+			<ReleasePublisher>Max Design</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+		<Release name="The Clue!" region="EU">
+			<ReleasePublisher>Kompart</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Clue! (EU)-82389_front.jpg</Image>
+				<Image>The Clue! (EU)-82389_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Critical Zone" URL="/cd32/640227-critical-zone">
+		<Description>Critical Zone is a Miscellaneous game, developed and published by Commodore,  which was released in Europe in 1994.</Description>
+		<Developer>Commodore</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Critical Zone" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="D/Generation" URL="/cd32/952220-d-generation">
+		<Description>A secret project is out of control at a biotech researh lab. The building in total chaos, the security system clasting everything that moves. All the employees have been killed or trapped.
+You must now battle the ominous force - an organism which uses virtual reality to actually become the chair you are sitting on, the floor you are walking on, even the room you are standing in! It's a race against time with ingenuity and determination your only weapon.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Abersoft</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="D/Generation" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>DGeneration (EU)-43808_front.jpg</Image>
+				<Image>DGeneration (EU)-43808_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Dangerous Streets" URL="/cd32/952169-dangerous-streets">
+		<Description>The Greatest Fighters on Earth are here, ready to do battle with bruising agility, that will blow your mind. Take on the 8 Mighty Challengers, each having their own unique deathly winning Special Moves. Only the very meanest can survive on the Dangerous Streets of this urban jungle.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Micromania</Developer>
+		<Genre>Action &gt; Beat-'Em-Up &gt; 2D</Genre>
+		<Release name="Dangerous Streets" region="EU">
+			<ReleasePublisher>Flair Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dangerous Streets (EU)-102842_front.jpg</Image>
+				<Image>Dangerous Streets (EU)-102842_back.jpg</Image>
+				<Image>Dangerous Streets (EU)-102842_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Dangerous Streets / Wing Commander" URL="/cd32/956137-dangerous-streets-wing-commander">
+		<Description>Dangerous Streets / Wing Commander is a Miscellaneous game, developed by Mindscape Inc. and published by Commodore,  which was released in Europe in 1993.</Description>
+		<Developer>Mindscape Inc.</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Dangerous Streets / Wing Commander" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dangerous Streets  Wing Commander (EU)-107998_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Dark Seed" URL="/cd32/952090-dark-seed">
+		<Description>Darkseed is based upon the fantastic artwork of swiss surrealist H.R. Giger, the inspiration for such blockbusters as Alien, Alien 3 and Poltergeist II. Giger has revolutionised the look of Science Fiction forever with his unique "biomechanical" style which depicts the synthesis of technology and biology as they might evolve without the influence of man.
+Challenge your mind... You are Mike Dawson, a Science Fiction writer who just purchased an old victorian house. As you explore your new home, you soon discover that you have bought more than you bargain for.
+Control the fate of two worlds... The world as we know it and the dark world of an ancient and dying civilisation. Unlock the secret of a sinister plot and discover the dark passage to their world... A place more terrifying than your darkest nightmare.
+Time is running out... You are on a collision course with destiny and only you have the ability to save yourself and the world from a cruel and inhuman fate. Every decision may be your last, so choose wisely... All of humanity is depending on you.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Cyberdreams</Developer>
+		<Franchise>Dark Seed</Franchise>
+		<Genre>Adventure &gt; Point-and-Click</Genre>
+		<Release name="Dark Seed" region="EU">
+			<ReleasePublisher>Cyberdreams</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dark Seed (EU)-23731_front.jpg</Image>
+				<Image>Dark Seed (EU)-23731_back.jpg</Image>
+				<Image>Dark Seed (EU)-23731_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Death Mask" URL="/cd32/952249-death-mask">
+		<Description>Battle and blast away might, nasty, awesome aliens, deadly demonic monsters and vicious mercenaries in level after level of adrenalin pumping action packed with excitement.
+Find and use a vast arsenal of powerful weapons and ammunition hidden in huge labyrinths of correidors and secret rooms.
+Play solo or against a "friend" using the unique two player mode.
+Can you get him before he gets you?
+Or will you help each other on this bloody quest?</Description>
+		<UserRating>1.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Apache Software</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Death Mask" region="EU">
+			<ReleasePublisher>Alternative Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Death Mask (EU)-102888_front.jpg</Image>
+				<Image>Death Mask (EU)-102888_back.jpg</Image>
+				<Image>Death Mask (EU)-102888_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Deep Core" URL="/cd32/619491-deep-core">
+		<Description>Deep Core is an Action game, developed by Dynafield and published by ICE,  which was released in Europe in 1993.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Dynafield</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Deep Core" region="EU">
+			<ReleasePublisher>ICE</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Deep Core (EU)-178731_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Defender Of The Crown II" URL="/cd32/619492-defender-of-the-crown-ii">
+		<Description>Defender Of The Crown II is a Strategy game, developed by Master Designer and published by Commodore,  which was released in Europe in 1993.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Master Designer</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Defender Of The Crown II" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Defender Of The Crown II (EU)-178733_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Dennis" URL="/cd32/618127-dennis">
+		<Description>Dennis is an Action game, developed by Citizen Software and published by Ocean,  which was released in Europe in 1993.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Citizen Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Dennis" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dennis (EU)-177235_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Der Clou!" URL="/cd32/961705-the-clue">
+		<Description>The Clue! is a Strategy game, developed by neo Software and published by Kompart,  which was released in Europe in 1994.</Description>
+		<AKA>Der Clou! (EU)</AKA>
+		<Developer>neo Software</Developer>
+		<Franchise>The Clue!</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Der Clou!" region="EU">
+			<ReleasePublisher>Max Design</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+		<Release name="The Clue!" region="EU">
+			<ReleasePublisher>Kompart</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Clue! (EU)-82389_front.jpg</Image>
+				<Image>The Clue! (EU)-82389_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Diggers" URL="/cd32/619495-diggers">
+		<Description>Diggers is a Puzzle game, developed and published by Millenium Interactive,  which was released in Europe in 1993.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>26 hours</Length>
+		<Developer>Millenium Interactive</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Diggers" region="EU">
+			<ReleasePublisher>Millenium Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Diggers (EU)-107590_front.jpg</Image>
+				<Image>Diggers (EU)-107590_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Disposable Hero" URL="/cd32/952091-disposable-hero">
+		<Description>Disposable Hero's highly addictive gameplay features five huge levels of bombing and blasting action as well as 32 different weapons available to choose from. Stunning graphics and animation with great special effects and an original soundtrack. Countless aliens to blast through, just waiting for you!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Euphoria</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Disposable Hero" region="EU">
+			<ReleasePublisher>Gremlin Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Disposable Hero (EU)-81064_front.jpg</Image>
+				<Image>Disposable Hero (EU)-81064_back.jpg</Image>
+				<Image>Disposable Hero (EU)-81064_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Donk! The Samurai Duck!" URL="/cd32/619493-donk-the-samurai-duck">
+		<Description>Donk! The Samurai Duck! is an Action game, developed by The Hidden and published by Global Software,  which was released in Europe in 1994.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>The Hidden</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Donk! The Samurai Duck!" region="EU">
+			<ReleasePublisher>Global Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donk! The Samurai Duck! (EU)-178732_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Dragonstone" URL="/cd32/952092-dragonstone">
+		<Description>Cut a path through Agon's demonic hordes and explore vast, forgotten lands as you play the hero in this fantasy role-playing adventure, set in a top-down, multi-directional perspective across seven externsive levels. A mystery with a twist in the dragon's tail...</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Core Design Ltd.</Developer>
+		<Genre>Role-Playing &gt; Action RPG</Genre>
+		<Release name="Dragonstone" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dragonstone (EU)-90539_front.jpg</Image>
+				<Image>Dragonstone (EU)-90539_back.jpg</Image>
+				<Image>Dragonstone (EU)-90539_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Emerald Mines" URL="/cd32/619494-emerald-mines">
+		<Description>Emerald Mines is a Puzzle game, developed and published by Almathera Systems,  which was released in Europe in 1994.</Description>
+		<Developer>Almathera Systems</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Emerald Mines" region="EU">
+			<ReleasePublisher>Almathera Systems</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Emerald Mines (EU)-178734_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Exile" URL="/cd32/619496-exile">
+		<Description>Become Sadler the desert warrior as he travels the known world in search of the precious Holimax! Join forces with Rumi, Kindi, and Fakhyle to piece together the puzzle that will allow you to find the Holimax and use it to overthrow the ruthless Klispin Crusaders! But keep your cool! In this quest, you'll have to trudge through waist deep snow, jump through haunted forests, plan a jailbreak, slink through creepy towerse, and defeat terrifying monsters if you're going to get anywhere! Hurry! There is only one Holimax, and the enemy forces are closing in!</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Audiogenic Ltd.</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Exile" region="EU">
+			<ReleasePublisher>Audiogenic Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Exile (EU)-31136_front.jpg</Image>
+				<Image>Exile (EU)-31136_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Fears" URL="/cd32/952170-fears">
+		<Description>Have you got what it takes to face your Fears? Everyone said it couldn't be done. It has been! Prepare to meet thy doom across 30 levels of Manyk mayhem! An awesome display of 360 degree 3D action. Six different weapon systems and three levels of difficulty - Easy, Normal and Difficult. The Level Designer allows you to create your own fields of battle!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Bomb Software</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Fears" region="EU">
+			<ReleasePublisher>Manyk</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fears (EU)-77285_front.jpg</Image>
+				<Image>Fears (EU)-77285_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Fields of Glory" URL="/cd32/619885-fields-of-glory">
+		<Description>Fields of Glory is a Strategy game, developed by WJS Design and published by MicroProse,  which was released in Europe in 1994.</Description>
+		<Developer>WJS Design</Developer>
+		<Genre>Strategy &gt; Real-Time &gt; General</Genre>
+		<Release name="Fields of Glory" region="EU">
+			<ReleasePublisher>MicroProse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fields of Glory (EU)-71682_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Fightin' Spirit" URL="/cd32/619886-fightin-spirit">
+		<Description>Fightin' Spirit is an Action game, developed by Light Shock and published by neo Software,  which was released in Europe in 1996.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Light Shock</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Fightin' Spirit" region="EU">
+			<ReleasePublisher>neo Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fightin' Spirit (EU)-179138_front.jpg</Image>
+				<Image>Fightin' Spirit (EU)-179138_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Final Gate" URL="/cd32/619887-final-gate">
+		<Description>Final Gate is an Action game, developed and published by Alternative Software,  which was released in Europe in 1996.</Description>
+		<Developer>Alternative Software</Developer>
+		<Genre>Action &gt; Shooter &gt; Rail</Genre>
+		<Release name="Final Gate" region="EU">
+			<ReleasePublisher>Alternative Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Fire &amp; Ice" URL="/cd32/952171-fire-and-ice">
+		<Description>Fire &amp; Ice is an Action game, developed by Graftgold and published by Renegade,  which was released in Europe in 1994.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Graftgold</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Fire &amp; Ice" region="EU">
+			<ReleasePublisher>Renegade</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fire &amp; Ice (EU)-96597_front.jpg</Image>
+				<Image>Fire &amp; Ice (EU)-96597_back.jpg</Image>
+				<Image>Fire &amp; Ice (EU)-96597_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Fire Force" URL="/cd32/952172-fire-force">
+		<Description>Fire Force is an Action game, developed and published by ICE,  which was released in Europe in 1994.</Description>
+		<Developer>ICE</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Fire Force" region="EU">
+			<ReleasePublisher>ICE</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fire Force (EU)-62989_front.jpg</Image>
+				<Image>Fire Force (EU)-62989_back.jpg</Image>
+				<Image>Fire Force (EU)-62989_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Flink" URL="/cd32/996837-flink">
+		<Description>Disaster strikes Imagica Island and Wicked Wainwright's taken over! He's kidnapped the four island leaders, separated them, and has them under the watchful eyes of the Demon Guardians. Excited by his newfound control, he's gone absolutely crazy! He's casting dark clouds of smoke across the land, bringing unpleasant weather and much sadness to the people of Imagica. In a huge panic, the islanders appoint Flink, an apprentice wizard, to challenge Wicked Wainwright and to force the Demon Guardians to release the island leaders. Locate the leaders, bring their powers together, and help make Flink the full-fledged wizard he's always wanted to be!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Psygnosis</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Flink" region="EU">
+			<ReleasePublisher>Psygnosis</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flink (EU)-47431_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Fly Harder" URL="/cd32/619888-fly-harder">
+		<Description>Fly Harder is an Action game, developed by Starbyte and published by Krisalis Software,  which was released in Europe in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>Starbyte</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Fly Harder" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fly Harder (EU)-179140_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Frontier: Elite II" URL="/cd32/971966-frontier-elite-ii">
+		<Description>The most eagerly awaited sequel to date, FRONTIER pitches you far, far into the future to the year 3200. Civilizations have spread through the galaxy hundreds of light years from Earth in all directions. Vast areas of the galaxy remain unexplored and with many thousands of worlds now settled in the cosmos, a rich and varied life of adventure awaits. Take on the role of a space trader known to moonlight as an intergalactic mercenary and watch the universe unfold before your very eyes.</Description>
+		<Developer>GameTek</Developer>
+		<Franchise>Elite</Franchise>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="Frontier: Elite II" region="EU">
+			<ReleasePublisher>Konami</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Frontier Elite II (EU)-24014_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Fury of the Furries" URL="/cd32/952173-fury-of-the-furries">
+		<Description>During the unsuccesful voyage of the rebel Timies to the Earth, an evil Timy had captured the king and got held of the marvellous machine, turning Sidroughinto a planet of terror! Now that they have returned to their planet, these small hairy enimals have repaired their natural abilities. They can swim (above and below water), throw balls of fire, use a rope (to move about and grab objects) and even cut some elements of the scenery! Only by using your lightning reactions and crafty intelligence to the full can you guide the Timies through over a hundred levels of their astonishing planet.</Description>
+		<Developer>Atreid Concept SA</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Fury of the Furries" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fury of the Furries (EU)-95487_front.jpg</Image>
+				<Image>Fury of the Furries (EU)-95487_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Gamers' Delight" URL="/cd32/619889-gamers-delight">
+		<Description>Gamers' Delight is a Miscellaneous game, developed and published by Schatztruhe,  which was released in Europe in 1994.</Description>
+		<Developer>Schatztruhe</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Gamers' Delight" region="EU">
+			<ReleasePublisher>Schatztruhe</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gamers' Delight (EU)-179142_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Gangster Pursuit" URL="/cd32/619891-gangster-pursuit">
+		<Description>Gangster Pursuit is a Miscellaneous game, developed and published by MMMGroup,  which was released in Europe in 1995.</Description>
+		<Developer>MMMGroup</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Gangster Pursuit" region="EU">
+			<ReleasePublisher>MMMGroup</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Global Effect" URL="/cd32/952093-global-effect">
+		<Description>Make the decisions of a world leader as you control the balance of nature versus civilisation. Power-up and expand cities to rival those of Mother Earth, but watch out for global warming pollution, encroaching desert and deforestation. Destroy the enemy that trieds to blast your cities and poison your planet.
+The world is in your hands - take control!</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Millenium Interactive</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Global Effect" region="EU">
+			<ReleasePublisher>Millenium Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Global Effect (EU)-102741_front.jpg</Image>
+				<Image>Global Effect (EU)-102741_back.jpg</Image>
+				<Image>Global Effect (EU)-102741_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Gloom" URL="/cd32/952221-gloom">
+		<Description>Sure, Gloom features the hottest 'you are there' 3-D graphics around - the most disturbingly realistic sound effects - the hugest army  of bizarre and bloodthirsty creatures yet assembled in one game.
+But none of that really matters when a game is this much sheer fun to play!</Description>
+		<UserRating>2.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Developer>Black Magic Software</Developer>
+		<Franchise>Gloom</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Gloom" region="EU">
+			<ReleasePublisher>Guildhall Leisure Services Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gloom (EU)-77269_front.jpg</Image>
+				<Image>Gloom (EU)-77269_back.jpg</Image>
+				<Image>Gloom (EU)-77269_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Grandslam Gamer Gold Collection" URL="/cd32/619950-grandslam-gamer-gold-collection">
+		<Description>Grandslam Gamer Gold Collection is a Miscellaneous game, developed and published by Grandslam,  which was released in Europe in 1995.</Description>
+		<Developer>Grandslam</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Grandslam Gamer Gold Collection" region="EU">
+			<ReleasePublisher>Grandslam</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Grandslam Gamer Gold Collection (EU)-179218_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Guardian" URL="/cd32/952223-guardian">
+		<Description>Guardian is an Action game, developed by Acid Software and published by Guildhall Leisure Services Ltd.,  which was released in Europe in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Acid Software</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Guardian" region="EU">
+			<ReleasePublisher>Guildhall Leisure Services Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Guardian (EU)-102877_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Gulp!" URL="/cd32/619890-gulp">
+		<Description>Gulp! is a Puzzle game, developed and published by ICE,  which was released in Europe in 1994.</Description>
+		<Developer>ICE</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Gulp!" region="EU">
+			<ReleasePublisher>ICE</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Gunship 2000" URL="/cd32/952174-gunship-2000">
+		<Description>Gunship 2000 puts you in the pilot's seat of a modern helicopter gunship, flying across a visually accurate topographical 3-D world. This is your chance to battle through two massive combat theatres and to undertake missions that will test your leadership skills to the full.
+Ultimately, you'll command five choppers - you choose the type, you choose the weapons, you choose the crew and you give the orders - as mission after mission is mercilessly thrown at you in vast military Campaigns.
+Gunship 2000 - with full training, decorations and career promotions, this is the ultimate combat helicopter simulation.</Description>
+		<Developer>MicroProse</Developer>
+		<Genre>Simulation &gt; Flight &gt; Civilian</Genre>
+		<Release name="Gunship 2000" region="EU">
+			<ReleasePublisher>MicroProse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gunship 2000 (EU)-25152_front.jpg</Image>
+				<Image>Gunship 2000 (EU)-25152_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Heimdall 2" URL="/cd32/952175-heimdall-2">
+		<Description>The evil Loki and his ravaging Hakrat Hordes will soon become too powerful for resistance. It is time for the Gods to intervene before all is lost. Play the role of Heindall and sacrifice your divinity as you return to the six vast Viking lands known as Yggdrasil in a quest to recover the pieces of the Sacred Amulet and stop Loki dead in his tracks.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>The 8th Day</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Heimdall 2" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Heimdall 2 (EU)-78758_front.jpg</Image>
+				<Image>Heimdall 2 (EU)-78758_back.jpg</Image>
+				<Image>Heimdall 2 (EU)-78758_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="HeroQuest II: Legacy of Sorasil" URL="/cd32/958863-heroquest-ii-legacy-of-sorasil">
+		<Description>HeroQuest II: Legacy of Sorasil is a Strategy game, developed and published by Gremlin Graphics,  which was released in Europe in 1994.</Description>
+		<Developer>Gremlin Graphics</Developer>
+		<Franchise>HeroQuest</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="HeroQuest II: Legacy of Sorasil" region="EU">
+			<ReleasePublisher>Gremlin Graphics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>HeroQuest II Legacy of Sorasil (EU)-78045_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Humans 1 and 2" URL="/cd32/956483-humans-1-and-2">
+		<Description>Humans 1 and 2 is a Miscellaneous game, developed by Imagitec Design, Inc. and published by GameTek,  which was released in Europe in 1994.</Description>
+		<Developer>Imagitec Design, Inc.</Developer>
+		<Franchise>The Humans</Franchise>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Humans 1 and 2" region="EU">
+			<ReleasePublisher>GameTek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Humans 1 and 2 (EU)-108315_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Humans III: Evolution Lost In Time" URL="/cd32/619894-humans-iii-evolution-lost-in-time">
+		<Description>Humans III: Evolution Lost In Time is a Puzzle game, developed by Imagitec Design, Inc. and published by GameTek,  which was released in Europe in 1996.</Description>
+		<Developer>Imagitec Design, Inc.</Developer>
+		<Franchise>The Humans</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Humans III: Evolution Lost In Time" region="EU">
+			<ReleasePublisher>GameTek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Humans III Evolution Lost In Time (EU)-4296_front.jpg</Image>
+				<Image>Humans III Evolution Lost In Time (EU)-4296_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Impossible Mission 2025: The Special Edition" URL="/cd32/619892-impossible-mission-2025-the-special-edition">
+		<Description>Impossible Mission 2025: The Special Edition is an Action game, developed and published by MicroProse,  which was released in Europe in 1994.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>MicroProse</Developer>
+		<Franchise>Impossible Mission</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Impossible Mission 2025: The Special Edition" region="EU">
+			<ReleasePublisher>MicroProse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Impossible Mission 2025 The Special Edition (EU)-83263_front.jpg</Image>
+				<Image>Impossible Mission 2025 The Special Edition (EU)-83263_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Insight Dinosaurs" URL="/cd32/619980-insight-dinosaurs">
+		<Description>Insight Dinosaurs is a Miscellaneous game, developed and published by Optonica,  which was released in Europe in 1994.</Description>
+		<Developer>Optonica</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Insight Dinosaurs" region="EU">
+			<ReleasePublisher>Optonica</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Insight Dinosaurs (EU)-179235_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Insight Technology" URL="/cd32/619981-insight-technology">
+		<Description>Insight Technology is a Miscellaneous game, developed by Optonica and published by Commodore,  which was released in Europe in 1993.</Description>
+		<Developer>Optonica</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Insight Technology" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Insight Technology (EU)-179237_front.jpg</Image>
+				<Image>Insight Technology (EU)-179237_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="International Karate +" URL="/cd32/619893-international-karate-">
+		<Description>Vibrant visuals and super sounds provide a backdrop to thrilling one or two player action unlike any other game of its type. And if you think two combatents isn't enough there is a third computer controlled opponent that will get you sweating.
+
+Your vast range of moves include killer kicks, pulverising punches, heavy weight headbutt, flying kick, devastating split kick manoeuver and the spectacular back flip. All at a pace that will leave you breathless.</Description>
+		<Developer>Activision</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="International Karate +" region="EU">
+			<ReleasePublisher>System 3</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>International Karate + (EU)-38053_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="International Open Golf Championship" URL="/cd32/619895-international-open-golf-championship">
+		<Description>International Open Golf Championship is a Sports game, developed by RISC and published by Ocean,  which was released in Europe in 1993.</Description>
+		<Developer>RISC</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="International Open Golf Championship" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="James Pond 2: RoboCod" URL="/cd32/952176-james-pond-2-robocod">
+		<Description>Dr. Maybe's dangerously fishy plans for world domination continue. In a slimy effort to sabotage the world's largest toy factory, he has planted penguin-bombs in toy factories inside the North Pole. James Pond bubbles to the rescue as RoboCod in another massive oceanic adventure! Featuring a massive play area - over 2,500 colorful screens of action-packed gameplay; 8 enormous levels, each with lots of sections; Discover many bonus rooms; Amazing gravity impetus super-scroll!</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Vectordean</Developer>
+		<Franchise>James Pond</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="James Pond 2: RoboCod" region="EU">
+			<ReleasePublisher>Millennium</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>James Pond 2 RoboCod (EU)-36530_front.jpg</Image>
+				<Image>James Pond 2 RoboCod (EU)-36530_back.jpg</Image>
+				<Image>James Pond 2 RoboCod (EU)-36530_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="James Pond 3: Operation Starfi5h" URL="/cd32/619896-james-pond-3-operation-starfi5h">
+		<Description>The sinister Dr. Maybe is back and only our slickest Special Agent, James Pond, can stop him. Special Agent Finnius Frog can help you get to those hard to reach places with his powerful jumping abilities. Explore more than 100 levels of outrageous fun! Win using an ocean of FI5H gadgets: suction boots, the fruit gun, X-ray specs, a thruster unit, spring boots and a clever fruit suit disguise. Use a special FI5H rocket pack to defeat Dr. Maybe! Fry over 40 different enemies under Dr. Maybe's control and avoid Maybe's mounted guns and missile launchers!</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>Vectordean</Developer>
+		<Franchise>James Pond</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="James Pond 3: Operation Starfi5h" region="EU">
+			<ReleasePublisher>Millennium</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>James Pond 3 Operation Starfi5h (EU)-179146_front.jpg</Image>
+				<Image>James Pond 3 Operation Starfi5h (EU)-179146_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Jetstrike" URL="/cd32/952248-jetstrike">
+		<Description>Fasten your seatbelts and get ready to play JETSTRIKE - the number one flight action game from Rasputin. This special CD32 version contains: Amazing new 24-bit graphics; A simplified control system (so anyone can play); A huge, specially composed CD soundtrack; Nearly 200 missions, many unique to this version; Multiplayer option for between 2 and 8 opponents; Over 60 different aircraft to choose from; 60 weapons systems (there's even a nuclear bomb!) Altogether, one of the biggest games that you'll ever play on your CD32!</Description>
+		<Developer>Shadow Software</Developer>
+		<Genre>Simulation &gt; Flight &gt; Combat</Genre>
+		<Release name="Jetstrike" region="EU">
+			<ReleasePublisher>Rasputin Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jetstrike (EU)-102891_front.jpg</Image>
+				<Image>Jetstrike (EU)-102891_back.jpg</Image>
+				<Image>Jetstrike (EU)-102891_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="John Barnes European Football" URL="/cd32/619897-john-barnes-european-football">
+		<Description>John Barnes European Football is a Sports game, developed and published by Krisalis Software,  which was released in Europe in 1994.</Description>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="John Barnes European Football" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>John Barnes European Football (EU)-100597_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Jungle Strike" URL="/cd32/619898-jungle-strike">
+		<Description>Now the storm hits the jungle! The Desert Madman is dead - now his vicious son plots a nuclear strike against the U.S.A. He's enlisted a powerful ally - a ruthless South American Drug Lord with an army of hi-tech mercenaries. It's YOUR mission to take them out! Turn night into day with your explosions on a deadly night mission. Penetrate the Drug Lord's air defenses in an F-117A Stealth fighter. Stalk the terrorists from the streets of Washington D.C. to the deadly jungles, rivers and snow-covered peaks of South America! Stunning cinematics and digitized sound effects create a spectacular movie-like experience!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>Hyperial Software</Developer>
+		<Franchise>Desert Strike</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Jungle Strike" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jungle Strike (EU)-25753_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Kid Chaos" URL="/cd32/619899-kid-chaos">
+		<Description>Kid Chaos is an Action game, developed by Magnetic Fields and published by Ocean,  which was released in Europe in 1994.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Magnetic Fields</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Kid Chaos" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kid Chaos (EU)-179148_front.jpg</Image>
+				<Image>Kid Chaos (EU)-179148_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Kingpin: Arcade Sports Bowling" URL="/cd32/619900-kingpin-arcade-sports-bowling">
+		<Description>Kingpin: Arcade Sports Bowling is a Sports game, developed and published by Team 17,  which was released in Europe in 1995.</Description>
+		<Developer>Team 17</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="Kingpin: Arcade Sports Bowling" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kingpin Arcade Sports Bowling (EU)-179150_front.jpg</Image>
+				<Image>Kingpin Arcade Sports Bowling (EU)-179150_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Labyrinth Of Time, The" URL="/cd32/990088-the-labyrinth-of-time">
+		<Description>The Labyrinth Of Time is an Adventure game, developed by Terra Nova Development and published by Electronic Arts,  which was released in Europe in 1994.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Terra Nova Development</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="The Labyrinth Of Time" region="EU">
+			<ReleasePublisher>Electronic Arts</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Labyrinth Of Time (EU)-145316_front.jpg</Image>
+				<Image>The Labyrinth Of Time (EU)-145316_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Lamborghini American Challenge" URL="/cd32/952250-lamborghini-american-challenge">
+		<Description>Lamborghini American Challenge is a Racing game, developed by Titus Software and published by Paragon Publishing,  which was released in Europe in 1994.</Description>
+		<Developer>Titus Software</Developer>
+		<Franchise>Lamborghini Racing</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Lamborghini American Challenge" region="EU">
+			<ReleasePublisher>Paragon Publishing</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lamborghini American Challenge (EU)-102894_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Last Ninja 3" URL="/cd32/952135-last-ninja-3">
+		<Description>Ninja 3 is here and ready to explode onto your screen with the most glorious display of graphics and animated fight sequences ever seen in this type of game.
+With a massive introduction sequence, incredibly detailed '3D' background graphics and a more than generous helping of all-out action, Ninja 3 displays a degree of excellence never before expierienced by even the most seasoned Ninja fan. Ninja 3 - A game of epic proportions.
+Feel the relism, allow yourself to witness the magical world of Ninjitsu spiritualism, expierience the mystical atmosphere of the Tibetan Temples. Remember, always remain in control of your stealth and cunning as you do battle once again with the most treacherous purveyor of evil, Kunitoki.</Description>
+		<Developer>Sonix Systems</Developer>
+		<Franchise>The Last Ninja</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Last Ninja 3" region="EU">
+			<ReleasePublisher>System 3</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Last Ninja 3 (EU)-37467_front.jpg</Image>
+				<Image>Last Ninja 3 (EU)-37467_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Legends" URL="/cd32/989129-legends">
+		<Description>Legends is an Action game, developed by Krisalis Software and published by Guildhall Leisure Services Ltd.,  which was released in Europe in 1996.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Legends" region="EU">
+			<ReleasePublisher>Guildhall Leisure Services Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Legends (EU)-144335_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Lemmings" URL="/cd32/619951-lemmings">
+		<Description>A unique mind-boggling game of multiple skill levels. Take command of the wackiest collection of misdirected rodents ever seen on your screen. Featuring fantastically animated graphics and simple yet addictive gameplay.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>DMA Design</Developer>
+		<Franchise>Lemmings</Franchise>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Lemmings" region="EU">
+			<ReleasePublisher>Psygnosis</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lemmings (EU)-23622_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Liberation" URL="/cd32/952222-liberation">
+		<Description>Enter the 29th Century - and enter a dying world, commercially exploited by huge corrupt state corporations and ravaged by the ever changing climate. When Bio-corp's latest law enforcement droids malfunction and begin murdering people, a massive cover-up operation is initiated to suppress the truth. Innocent people are framed for the murders and held captive against their will, without trial or any chance of escape.
+YOU must take control of your four 'droids and explore the city zones in an attempt to free the captives. Search for clues, gather evidence, live above or below the corrupt 'law'; the choice is yours. Justice must prevail!</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>The Byte Engineers</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="Liberation" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Liberation (EU)-102876_front.jpg</Image>
+				<Image>Liberation (EU)-102876_back.jpg</Image>
+				<Image>Liberation (EU)-102876_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Litil Divil" URL="/cd32/952177-litil-divil">
+		<Description>Litil Divil is an Action game, developed and published by Gremlin Interactive,  which was released in Europe in 1993.</Description>
+		<UserRating>1.63 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Gremlin Interactive</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Litil Divil" region="EU">
+			<ReleasePublisher>Gremlin Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Litil Divil (EU)-102843_front.jpg</Image>
+				<Image>Litil Divil (EU)-102843_back.jpg</Image>
+				<Image>Litil Divil (EU)-102843_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Lost Vikings, The" URL="/cd32/619952-the-lost-vikings">
+		<Description>Three Vikings are lost in time and space. Erik wants to run away, Balog wants to crack some skulls, Olaf want to eat. They all want to go home. But they must work together.., Discover The Lost Vikings, refreshingly original arcade action with perky puzzles and a sense of humour sharper than a Viking's axe.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Silicon &amp; Synapse</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="The Lost Vikings" region="EU">
+			<ReleasePublisher>Interplay</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Lost Vikings (EU)-10967_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Mag!!!" URL="/cd32/619953-mag-1996">
+		<Description>Mag!!! (1996) is a Strategy game, developed by Independent Arts and published by Lifetimes,  which was released in Europe in 1996.</Description>
+		<AKA>Mag!!! (EU)</AKA>
+		<Developer>Independent Arts</Developer>
+		<Genre>Strategy &gt; Management &gt; Business / Tycoon</Genre>
+		<Release name="Mag!!!" region="EU">
+			<ReleasePublisher>Lifetimes</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Manchester United: Premier League Champions" URL="/cd32/952178-manchester-united-premier-league-champions">
+		<Description>Manchester United: Premier League Champions is a Sports game, developed and published by Krisalis Software,  which was released in Europe in 1994.</Description>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Manchester United: Premier League Champions" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Manchester United Premier League Champions (EU)-92512_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Marvin's Marvellous Adventure" URL="/cd32/619982-marvins-marvellous-adventure">
+		<Description>Marvin's Marvellous Adventure is an Action game, developed by Infernal Byte Systems and published by 21st Century Entertainment,  which was released in Europe in 1995.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Infernal Byte Systems</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Marvin's Marvellous Adventure" region="EU">
+			<ReleasePublisher>21st Century Entertainment</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Marvin's Marvellous Adventure (EU)-179236_front.jpg</Image>
+				<Image>Marvin's Marvellous Adventure (EU)-179236_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Mean Arenas" URL="/cd32/952136-mean-arenas">
+		<Description>Mean Arenas is an Action game, developed by Nite Time Games and published by ICE,  which was released in Europe in 1994.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Nite Time Games</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Mean Arenas" region="EU">
+			<ReleasePublisher>ICE</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mean Arenas (EU)-102771_front.jpg</Image>
+				<Image>Mean Arenas (EU)-102771_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Microcosm" URL="/cd32/952179-microcosm">
+		<Description>Microcosm plunges you into a dazzling world of super-realistic computer generated graphics set deep within the body of Cybertech's President: Tiron Korsby. You are the elite Cybertech agent chosen to pilot the latest hi-tech micro-submersibles on a desperate mission to find and destroy the deadly brain manipulation droid threatening Korsby's life. Experience the heart-stopping action and unparalleled cinematic imagery of over 500 megabytes of brilliant SGI graphics and an original CD-quality score and soundtrack by Rick Wakeman.</Description>
+		<UserRating>1.75 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Psygnosis</Developer>
+		<Genre>Action &gt; Shooter &gt; Rail</Genre>
+		<Release name="Microcosm" region="EU">
+			<ReleasePublisher>Psygnosis</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Microcosm (EU)-45182_front.jpg</Image>
+				<Image>Microcosm (EU)-45182_back.jpg</Image>
+				<Image>Microcosm (EU)-45182_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Morph" URL="/cd32/952180-morph">
+		<Description>A young boy is trapped in molecular limbo. He needs your help to return to his human form. Morris Ralph - Morph to his friends - has his life tranformed when his uncle's teleport machine goes horribly wrong! Trapped in a world of twinklog atoms, Morph can morph into four different physical states. You must guide him back to the teleport machine.</Description>
+		<Developer>Millennium</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Morph" region="EU">
+			<ReleasePublisher>Millennium</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Morph (EU)-102844_front.jpg</Image>
+				<Image>Morph (EU)-102844_back.jpg</Image>
+				<Image>Morph (EU)-102844_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Myth: History In The Making" URL="/cd32/619954-myth-history-in-the-making">
+		<Description>Myth: History In The Making is an Action game, developed and published by System 3,  which was released in Europe in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>System 3</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Myth: History In The Making" region="EU">
+			<ReleasePublisher>System 3</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Myth History In The Making (EU)-39607_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Naughty Ones" URL="/cd32/952251-naughty-ones">
+		<Description>Naughty Ones is an Action game, developed by Melon Dezign and published by Interactivision,  which was released in Europe in 1994.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Melon Dezign</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Naughty Ones" region="EU">
+			<ReleasePublisher>Interactivision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Naughty Ones (EU)-102895_front.jpg</Image>
+				<Image>Naughty Ones (EU)-102895_back.jpg</Image>
+				<Image>Naughty Ones (EU)-102895_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Nick Faldo's Championship Golf" URL="/cd32/952275-nick-faldos-championship-golf">
+		<Description>Nick Faldo's Championship Golf is here! Featuring two beautifully realistic 18 hole golf courses rendered with fantastic 256 color graphics. Complete practice sessions and digitized voice sound  effects make you feel as if you are really on the course!</Description>
+		<Developer>Arc Developments</Developer>
+		<Franchise>Nick Faldo</Franchise>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Nick Faldo's Championship Golf" region="EU">
+			<ReleasePublisher>Grandslam</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nick Faldo's Championship Golf (EU)-61527_front.jpg</Image>
+				<Image>Nick Faldo's Championship Golf (EU)-61527_back.jpg</Image>
+				<Image>Nick Faldo's Championship Golf (EU)-61527_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Nigel Mansell's World Championship Racing" URL="/cd32/952224-nigel-mansells-world-championship-racing">
+		<Description>Become a Grand Prix legend in a race for the title of World Champion! The most exciting race driver in the world has teamed up with the greatest racing game producers to bring you the definitive Grand Prix experience. Race the full 1992 season in the superb Canon Williams Renault F1 car. Real-time coaching from Nigel Mansell himself! Experiment with the cars set up to achieve maximum performance for each of the 16 race circuits. Fast and furious race action with actual Renault F1 engine sound FX and superbly detailed graphics. The realism of the racetrack... The power and the glory!</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>26 hours</Length>
+		<Developer>Gremlin Graphics</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Nigel Mansell's World Championship Racing" region="EU">
+			<ReleasePublisher>Gremlin Graphics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nigel Mansell's World Championship Racing (EU)-46523_front.jpg</Image>
+				<Image>Nigel Mansell's World Championship Racing (EU)-46523_back.jpg</Image>
+				<Image>Nigel Mansell's World Championship Racing (EU)-46523_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Oscar" URL="/cd32/619955-oscar">
+		<Description>Lights! Camera! Action! It's time to meet Oscar, the newest legend of the silver screen, ready to take Tinseltown by storm... once he's used his star-power to escape the theater he's trapped in, that is!
+
+Star in the role of a lifetime as you help Oscar navigate 4 different levels full of fun and adventure in search of a way to escape the fantasy film world he's trapped in. Will our hero be able to turn in an award-winning performance and escape from the theater, or will he be stuck on-screen forever?</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Flair Software</Developer>
+		<Franchise>Oscar</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Oscar" region="EU">
+			<ReleasePublisher>Flair Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Overkill &amp; Lunar-C" URL="/cd32/619956-overkill-and-lunar-c">
+		<Description>Overkill &amp; Lunar-C is a Miscellaneous game, developed by Vision (Japan) and published by Mindscape Inc.,  which was released in Europe in 1993.</Description>
+		<Developer>Vision (Japan)</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Overkill &amp; Lunar-C" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Overkill &amp; Lunar-C (EU)-179221_front.jpg</Image>
+				<Image>Overkill &amp; Lunar-C (EU)-179221_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="PGA European Tour" URL="/cd32/952252-pga-european-tour">
+		<Description>Five great PGA European Tour courses to play on with 90 new challenging holes. Featuring 60 PGA European Tour pros, five different gameplay formats, new changing weather conditions, and new Match Play!</Description>
+		<Developer>Dome Software</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="PGA European Tour" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>PGA European Tour (EU)-51008_front.jpg</Image>
+				<Image>PGA European Tour (EU)-51008_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Pierre le Chef is... Out to Lunch" URL="/cd32/619957-pierre-le-chef-is-out-to-lunch">
+		<Description>Pierre le Chef is... Out to Lunch is an Action game, developed and published by Mindscape Inc.,  which was released in Europe in 1994.</Description>
+		<Developer>Mindscape Inc.</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Pierre le Chef is... Out to Lunch" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Pinball Fantasies" URL="/cd32/952094-pinball-fantasies">
+		<Description>Pinball Fantasies is the official port of the classic Amiga pinball simulator originally released in 1992.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Digital Illusions</Developer>
+		<Franchise>Pinball Dreams</Franchise>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pinball Fantasies" region="EU">
+			<ReleasePublisher>21st Century Entertainment</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pinball Fantasies (EU)-39494_front.jpg</Image>
+				<Image>Pinball Fantasies (EU)-39494_back.jpg</Image>
+				<Image>Pinball Fantasies (EU)-39494_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Pinball Illusions" URL="/cd32/619958-pinball-illusions">
+		<Description>Pinball Illusions is an Action game, developed by Digital Illusions and published by 21st Century Entertainment,  which was released in Europe in 1995.</Description>
+		<Developer>Digital Illusions</Developer>
+		<Franchise>Pinball Dreams</Franchise>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pinball Illusions" region="EU">
+			<ReleasePublisher>21st Century Entertainment</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pinball Illusions (EU)-90510_front.jpg</Image>
+				<Image>Pinball Illusions (EU)-90510_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Pinocchio" URL="/cd32/619983-pinocchio">
+		<Description>Pinocchio is an Action game, developed by Si-Lab and published by Giunti Multimedia,  which was released in Europe in 1993.</Description>
+		<Developer>Si-Lab</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Pinocchio" region="EU">
+			<ReleasePublisher>Giunti Multimedia</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Pirates! Gold" URL="/cd32/952225-pirates-gold">
+		<Description>Pirates! Gold gives you a ship, a crew and the whole of the Caribbean to explore. Captain your hot-blooded buccaneers in thrilling adventures, plundering enemy ships and attacking wealthy cities. Then visit boisterous harbour towns, to sell your booty and divide up the spoils.</Description>
+		<UserRating>4.30 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>14 hours</Length>
+		<Developer>MicroProse</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Pirates! Gold" region="EU">
+			<ReleasePublisher>MicroProse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pirates! Gold (EU)-47932_front.jpg</Image>
+				<Image>Pirates! Gold (EU)-47932_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Power Drive" URL="/cd32/619959-power-drive">
+		<Description>Burn through blizzards in Monte Carlo at midnight or race in the blistering desert heat of Kenya. Test your rally skills through the dense forests, dizzy mountain passes and icy frozen lakes of different international courses! POWER DRIVE... drive it if you dare!</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Rage Software</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Power Drive" region="EU">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Power Games" URL="/cd32/619984-power-games">
+		<Description>Power Games is a Miscellaneous game, developed and published by MediaTeam,  which was released in Europe in 1994.</Description>
+		<Developer>MediaTeam</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Power Games" region="EU">
+			<ReleasePublisher>MediaTeam</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Premiere" URL="/cd32/952226-premiere">
+		<Description>Première is an eight-way scrolling platform adventure played over six levels which are represented as different movie sets.
+A young film editor has had his film stolen from his cutting room the night before the film's première. Your task is to search through the six different movie sets ranging from black and white, science fiction and horror levels through to cartoon, western and fantasy sets to retrieve the stolen canisters.
+Will you find the stolen film before the Première?</Description>
+		<Developer>The 8th Day</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Premiere" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Premiere (EU)-90559_front.jpg</Image>
+				<Image>Premiere (EU)-90559_back.jpg</Image>
+				<Image>Premiere (EU)-90559_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Prey: An Alien Encounter" URL="/cd32/619985-prey-an-alien-encounter">
+		<Description>Prey: An Alien Encounter is a Role-Playing game, developed by Kirk Moreno and published by Almathera Systems,  which was released in Europe in 1994.</Description>
+		<Developer>Kirk Moreno</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="Prey: An Alien Encounter" region="EU">
+			<ReleasePublisher>Almathera Systems</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Prey An Alien Encounter (EU)-179239_front.jpg</Image>
+				<Image>Prey An Alien Encounter (EU)-179239_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Project-X: Special Edition &amp; F17 Challenge" URL="/cd32/619960-project-x-special-edition-and-f17-challenge">
+		<Description>Project-X: Special Edition &amp; F17 Challenge is a Miscellaneous game, developed and published by Team 17,  which was released in Europe in 1994.</Description>
+		<Developer>Team 17</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Project-X: Special Edition &amp; F17 Challenge" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Quik" URL="/cd32/952113-quik">
+		<Description>No time for fun, the carrot-locker is empty! The rabbit tribe of the Angels Meadow is in great danger, predators are ready to attack. Only one solution: find the Ultimate Seed. It's a magical seed that can produce as many carrots as anyone could ever want, for eternity. But the Ultimate Seed belongs to Quok, the good sorcerer, who lives thousands of miles away from the village. It's an emergency! Only one rabbit can get his seed back, the quickest rabbit of the Angels Meadow, QUIK, The Thunder Rabbit...</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Stywox</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Quik" region="EU">
+			<ReleasePublisher>Titus Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Quik (EU)-102757_front.jpg</Image>
+				<Image>Quik (EU)-102757_back.jpg</Image>
+				<Image>Quik (EU)-102757_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Rise of the Robots" URL="/cd32/952227-rise-of-the-robots">
+		<Description>A revolution in combat games - featuring a unique combat intelligence system that adapts to and learns your style of play! The first game with film-quality, controllable 3D graphics. Robot attack routines choreographed by a martial arts expert. Witness the first ever morphing character to appear in a computer game! Awesome cinematic link sequences.</Description>
+		<UserRating>0.70 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Mirage</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Rise of the Robots" region="EU">
+			<ReleasePublisher>Time Warner Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rise of the Robots (EU)-45225_front.jpg</Image>
+				<Image>Rise of the Robots (EU)-45225_back.jpg</Image>
+				<Image>Rise of the Robots (EU)-45225_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Roadkill" URL="/cd32/952228-roadkill">
+		<Description>Roadkill is a Racing game, developed by Vision Software and published by Acid Software,  which was released in Europe in 1994.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Vision Software</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Roadkill" region="EU">
+			<ReleasePublisher>Acid Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Roadkill (EU)-77256_front.jpg</Image>
+				<Image>Roadkill (EU)-77256_back.jpg</Image>
+				<Image>Roadkill (EU)-77256_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Ryder Cup: Johnnie Walker" URL="/cd32/619963-ryder-cup-johnnie-walker">
+		<Description>Ryder Cup: Johnnie Walker is a Sports game, developed by RISC and published by Ocean,  which was released in Europe in 1993.</Description>
+		<Developer>RISC</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Ryder Cup: Johnnie Walker" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ryder Cup Johnnie Walker (EU)-179223_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Sabre Team" URL="/cd32/955639-sabre-team">
+		<Description>Sabre Team is a Strategy game, developed and published by Krisalis Software,  which was released in Europe in 1994.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Sabre Team" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sabre Team (EU)-25666_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Seek &amp; Destroy" URL="/cd32/952229-seek-and-destroy">
+		<Description>Take control of an Apache helicopter in a series of daring missions behind enemy lines. You're fully loaded with a deadly arsenal of weapons to Seek out and Destroy hostile units! Fast and frantic 360-degree scrolling arcade action. Multi-phase missions spread out across desert, sea, snow and jungle scenarios. Varied selection of military weapons including interceptor and air-to-ground missiles. Co-pilot feature - player one pilots the Apache and player two mans the weapons. Limitless gameplay opportunites - after all 14 missions are completed, go on to new levels of difficulty.</Description>
+		<Developer>Vision Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Seek &amp; Destroy" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Seek &amp; Destroy (EU)-102878_front.jpg</Image>
+				<Image>Seek &amp; Destroy (EU)-102878_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Sensible Soccer: European Champions" URL="/cd32/952253-sensible-soccer-european-champions">
+		<Description>Take charge of your favourite club or national team from all over Europe in a whole host of different cup and league competitions.
+With all the atmostphere of European Soccer at its highest level, you (and your friends - up to 64 players can compete in competitions!) can take a squad of 16 players on to cup glory.
+There's no other football game quite like it!</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Apache Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Sensible Soccer: European Champions" region="EU">
+			<ReleasePublisher>Renegade</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sensible Soccer European Champions (EU)-78786_front.jpg</Image>
+				<Image>Sensible Soccer European Champions (EU)-78786_back.jpg</Image>
+				<Image>Sensible Soccer European Champions (EU)-78786_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Sensible Soccer: International Edition" URL="/cd32/619986-sensible-soccer-international-edition">
+		<Description>Sensible Soccer: International Edition is a Sports game, developed by Apache Software and published by Renegade,  which was released in Europe in 1994.</Description>
+		<Developer>Apache Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Sensible Soccer: International Edition" region="EU">
+			<ReleasePublisher>Renegade</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Seven Gates of Jambala, The" URL="/cd32/952096-the-seven-gates-of-jambala">
+		<Description>Escape from the caves of Jambala in this fun-filled run and jump game with stunning graphics and sound. You will face a labyrinth of caves which not surprisingly hide a host of inhabitants, good and bad, treasures, puzzles, magic spells and many hidden screens. If you are lucky enough to find all 7 pieces of the missing magic wand and reach the last city you will finally have the chance to escape from the labyrinth. A fascinating voyage of discovery through an unknown world of fantasy!</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>The Care Bears</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="The Seven Gates of Jambala" region="EU">
+			<ReleasePublisher>Unique Entertainment</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Seven Gates of Jambala (EU)-102743_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Shadow Fighter" URL="/cd32/952230-shadow-fighter">
+		<Description>Shadow Fighter features 17 characters to fight - more than any other Amiga beat-em-up! Easy play 1 button joystick control system. Use the Blood option during a match for ultraviolence! 8MB of fighter graphics with over 150 frames per character and at least 25 different moves per fighter. Unique training mode with a specially armed puppet - The Macabre Pupazz. Featuring an average of 64 parallax levels on every screen, 80 colors and a unique digital-quality soundtrack!</Description>
+		<UserRating>0.75 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Naps Team</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Shadow Fighter" region="EU">
+			<ReleasePublisher>Gremlin Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Shadow Fighter (EU)-80808_front.jpg</Image>
+				<Image>Shadow Fighter (EU)-80808_back.jpg</Image>
+				<Image>Shadow Fighter (EU)-80808_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Simon the Sorcerer" URL="/cd32/952095-simon-the-sorcerer">
+		<Description>What had begun as a straightforward quest to banish the Shapeshifter Witch and free the good wizard Calypso, has become hideously strange. Only this morning I was eaten by an amphibian whose table manners were quite appalling. As if that wasn't a sufficiently inconvenient start to the day, within minutes I was leered at by a'rock which flatly returned to say a word.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Adventure Soft</Developer>
+		<Franchise>Simon the Sorcerer</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Simon the Sorcerer" region="EU">
+			<ReleasePublisher>Adventure Soft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Simon the Sorcerer (EU)-24924_front.jpg</Image>
+				<Image>Simon the Sorcerer (EU)-24924_back.jpg</Image>
+				<Image>Simon the Sorcerer (EU)-24924_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Skeleton Krew" URL="/cd32/952231-skeleton-krew">
+		<Description>Wanna pack a BIG GUN with enough ammo to level a city? You got it...! Wanna massakre seriously psykotic Psykogenix mutants and get paid? You got it...!
+Wanna blast your way through the savage secret zones, deadly Krewtraps, mad n' bad buildings and hideous end-of-level Psykos comprising 6 HUMUNGOUS levels of 3D isometrik karnage - and wear a spectacularly sexy, hyper-hi-tek, Big Ordanance Neutralising Exo-skeleton, to boot?
+Well you got it all - but only if you join Spine, Joint and Rib, otherwise known as the SKELETON KREW, in their first outRAGEous blastfest!!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Core Design Ltd.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Skeleton Krew" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Skeleton Krew (EU)-48086_front.jpg</Image>
+				<Image>Skeleton Krew (EU)-48086_back.jpg</Image>
+				<Image>Skeleton Krew (EU)-48086_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Sleepwalker" URL="/cd32/619961-sleepwalker">
+		<Description>Lee is having a restless night. Sure he's fast asleep, but that won't stop him from taking one of his nocturnal journeys! Fortunately, our sleepwalker has a courageous canine companion who will try his utmost to protect his master from coming to any harm - Lee's faithful mutt, Ralph. Lee's 4-legged friend is zapped, bashed, clobbered, pummeled, singed and squashed, but nothing will stop him from performing his dedicated duty... it's all par for the course of a night errand. These midnight meanderings take him to the most hazardous of places... the creepy graveyard, the gooky zoo, precarious construction sites and the traffic strewn city streets, but Lee's loyal rover steadfastly guards his master from all impending dangers - with painful consequences!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>CTA</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Sleepwalker" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Sleepwalker &amp; Pinball Fantasies" URL="/cd32/640228-sleepwalker-and-pinball-fantasies">
+		<Description>Sleepwalker &amp; Pinball Fantasies is a Miscellaneous game, developed and published by Commodore,  which was released in Europe in 1993.</Description>
+		<Developer>Commodore</Developer>
+		<Franchise>Pinball Dreams</Franchise>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Sleepwalker &amp; Pinball Fantasies" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Soccer Kid" URL="/cd32/619962-soccer-kid">
+		<Description>Seconds before the Soccer Cup final was to begin, a marauding alien pirate swoops down and steals the Soccer Cup trophy. Gloating on his latest acquisition, the careless alien collides with an orbiting satellite. The precious trophy is smashed into five pieces which fall back to Earth. Join Soccer Kid in his quest to recover and reassemble the scattered pieces of the Soccer Cup. Grab a ball. There's no time to lose!</Description>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Soccer Kid" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer Kid (EU)-19137_front.jpg</Image>
+				<Image>Soccer Kid (EU)-19137_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Soccer Superstars" URL="/cd32/999134-soccer-superstars">
+		<Description>Soccer Superstars is a Sports game, developed by Flair Software and published by Flair,  which was released in Europe in 1995.</Description>
+		<Developer>Flair Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Soccer Superstars" region="EU">
+			<ReleasePublisher>Flair</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Speedball 2" URL="/cd32/619964-speedball-2">
+		<Description>It's two years since the last ball was thrown on a Speedball pitch. There are new teams, new stadia and new rules. The arena is bigger, the players are tougher and the action is faster than ever before. The challenge is this: Take control of Brutal Deluxe, the worst team in Speedball history, and turn them into champions!</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Franchise>Speedball</Franchise>
+		<Genre>Sports &gt; Team &gt; Futuristic</Genre>
+		<Release name="Speedball 2" region="EU">
+			<ReleasePublisher>Renegade</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>705902100093</ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Speedball 2 (EU)-179225_front.jpg</Image>
+				<Image>Speedball 2 (EU)-179225_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Speris Legacy" URL="/cd32/619987-speris-legacy">
+		<Description>Speris Legacy is a Role-Playing game, developed by Binary Emotions and published by Team 17,  which was released in Europe in 1996.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Binary Emotions</Developer>
+		<Genre>Role-Playing &gt; Action RPG</Genre>
+		<Release name="Speris Legacy" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Speris Legacy (EU)-179242_front.jpg</Image>
+				<Image>Speris Legacy (EU)-179242_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Star Crusader" URL="/cd32/619966-star-crusader">
+		<Description>Star Crusader is a Simulation game, developed by Human Soft and published by GameTek,  which was released in Europe in 1996.</Description>
+		<Developer>Human Soft</Developer>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="Star Crusader" region="EU">
+			<ReleasePublisher>GameTek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Striker" URL="/cd32/619965-striker">
+		<Description>Striker is a Sports game, developed and published by Rage Software,  which was released in Europe in 1994.</Description>
+		<Developer>Rage Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Striker" region="EU">
+			<ReleasePublisher>Rage Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Striker (EU)-179226_front.jpg</Image>
+				<Image>Striker (EU)-179226_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Strip Pot" URL="/cd32/619988-strip-pot">
+		<Description>Strip Pot is a Miscellaneous game, developed by Pixel Blue and published by Fin Soft,  which was released in Europe in 1994.</Description>
+		<Developer>Pixel Blue</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Strip Pot" region="EU">
+			<ReleasePublisher>Fin Soft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Subwar 2050" URL="/cd32/619967-subwar-2050">
+		<Description>Subwar 2050 is a Strategy game, developed by Particle Systems and published by MicroProse,  which was released in Europe in 1994.</Description>
+		<Developer>Particle Systems</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Subwar 2050" region="EU">
+			<ReleasePublisher>MicroProse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Subwar 2050 (EU)-26066_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Summer Olympix" URL="/cd32/952233-summer-olympix">
+		<Description>Take part in this humorous Super Sports Simulation without having to leave the comfort of your armchair. 8 great challenging events that require qualifying before you can proclaim yourself a Super Champion. Boxing, Long Jump, Swimming, Javelin, Kayak Racing, Skeet Shooting, Archery and 100 metre Sprint. Play against the computer or fellow player. Great entertainment for the whole family.</Description>
+		<Developer>Flair Software</Developer>
+		<Genre>Sports &gt; Individual &gt; Athletics</Genre>
+		<Release name="Summer Olympix" region="EU">
+			<ReleasePublisher>Flair Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Summer Olympix (EU)-102880_front.jpg</Image>
+				<Image>Summer Olympix (EU)-102880_back.jpg</Image>
+				<Image>Summer Olympix (EU)-102880_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Super League Manager" URL="/cd32/619968-super-league-manager">
+		<Description>Super League Manager is a Sports game, developed and published by Audiogenic Ltd.,  which was released in Europe in 1995.</Description>
+		<Developer>Audiogenic Ltd.</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Management</Genre>
+		<Release name="Super League Manager" region="EU">
+			<ReleasePublisher>Audiogenic Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Super Methane Bros" URL="/cd32/952254-super-methane-bros">
+		<Description>Enter Puff and Blow, Methane guns at the ready. Armed and dangerous, they must advance through over 100 levels of puzzle and mayhem, securing each level before moving on. This wonderfully graphic arcade world is loaded with traps, puzzles and fiendish, intelligent enemies. Blast and suck your way through hours of solid, mega-playable entertainment.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Apache Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Super Methane Bros" region="EU">
+			<ReleasePublisher>Apache Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Methane Bros (EU)-102897_front.jpg</Image>
+				<Image>Super Methane Bros (EU)-102897_back.jpg</Image>
+				<Image>Super Methane Bros (EU)-102897_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Super Putty" URL="/cd32/952457-super-putty">
+		<Description>The game of immense playability, the character of immense pliability.
+
+Forget about hacking, slaying, punching and kicking - its time to inflate, stretch and bounce your way through a very weird and wonderful world.
+
+The deranged wizard Dozzledaze is selling your fellow Putty people to hoards of kids around the cosmos packed as the finest Bubblegum, and business is booming.
+
+Take on the shape shifting form of Super Putty and thwart this evil crime.
+
+Rescue the robot guards and send them safely for repairs on Putty Moon and always stay on slithery step ahead of the wacky wizard's henchman. Absorb anything animals or vegetable to keep yourself pliable and mould into the form of your enemies. Use their powers to your advantage.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>System 3</Developer>
+		<Franchise>Putty</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Super Putty" region="EU">
+			<ReleasePublisher>System 3</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Putty (EU)-103171_front.jpg</Image>
+				<Image>Super Putty (EU)-103171_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Super Skidmarks" URL="/cd32/619969-super-skidmarks">
+		<Description>Super Skidmarks is a Racing game, developed and published by Acid,  which was released in Europe in 1995.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>14 hours</Length>
+		<Developer>Acid</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Super Skidmarks" region="EU">
+			<ReleasePublisher>Acid</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Skidmarks (EU)-179228_front.jpg</Image>
+				<Image>Super Skidmarks (EU)-179228_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Super Stardust" URL="/cd32/952232-super-stardust">
+		<Description>There's a way out there... and it's coming your way. Gigantic meteors hurtle toward Earth, promising mass death and destruction unless you can stop them. Warring aliens thunder through the starbelts, intent on taking advantage of mankind's stretched resources.
+You are the world's leading aerial combat pilot and it is you who must take control of the Panther PX-2. It is you who must not only blow apart every threatening meteor but you must also repel the alien forces.
+Fear is for the weak. Mercy is for the foolish. Power, strength and victory are the only words which can mean anything to you... have you got what it takes?</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Bloodhouse</Developer>
+		<Franchise>Stardust</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Super Stardust" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Stardust (EU)-77272_front.jpg</Image>
+				<Image>Super Stardust (EU)-77272_back.jpg</Image>
+				<Image>Super Stardust (EU)-77272_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Super Street Fighter II Turbo" URL="/cd32/952777-super-street-fighter-ii-turbo">
+		<Description>Super Street Fighter II Turbo is an Action game, developed by Human Soft and published by GameTek,  which was released in Europe in 1996.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Human Soft</Developer>
+		<Franchise>Street Fighter</Franchise>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Super Street Fighter II Turbo" region="EU">
+			<ReleasePublisher>GameTek</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Street Fighter II Turbo (EU)-20876_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Superfrog" URL="/cd32/952234-superfrog">
+		<Description>Curses! The evil old witch has done it this time... she's gone and turned the Prince of the Magic Kingdom into a bright green frog and made off with hs loved on... Sometimes life, even in the Magic Kindom, is just not fair! But life by the riverside was not to be all doom and gloom for our once regal, yet now green and warty chum... As luck would have it, a strange and powerful elixir (which goes by the name of Lucozade™ in modern times) floats down the stream and catches his attention... Intrigued, our soon-to-be-hero takes a huge swig, after a few minor explosions he becomes the legend that soon will be... SUPERFROG! With boundless courage and new heights of determination, he sets off toward the magic Forest with three objectives in mind. One, to get back his girl, two, vanquish the curse and three, give that nasty old witch just what she deserves!</Description>
+		<UserRating>4.10 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Team 17</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Superfrog" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Superfrog (EU)-61519_front.jpg</Image>
+				<Image>Superfrog (EU)-61519_back.jpg</Image>
+				<Image>Superfrog (EU)-61519_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Surf Ninjas" URL="/cd32/619970-surf-ninjas">
+		<Description>Surf Ninjas is an Action game, developed and published by Microvalue,  which was released in Europe in 1994.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Microvalue</Developer>
+		<Genre>Action &gt; Beat-'Em-Up &gt; 2D</Genre>
+		<Release name="Surf Ninjas" region="EU">
+			<ReleasePublisher>Microvalue</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Surf Ninjas (EU)-179229_front.jpg</Image>
+				<Image>Surf Ninjas (EU)-179229_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Syndicate" URL="/cd32/619971-syndicate">
+		<Description>Mission Briefing: Sources indicate that a rival syndicate has developed a dangerous new computer program and our research boys want it. In the year 2096, the world is divided into regions controlled by a handful of massive corporations, struggling for dominance. Prepare yourself for the ultimate corporate takeover!</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Bullfrog Productions</Developer>
+		<Franchise>Syndicate</Franchise>
+		<Genre>Strategy &gt; Real-Time &gt; General</Genre>
+		<Release name="Syndicate" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Syndicate (EU)-179230_front.jpg</Image>
+				<Image>Syndicate (EU)-179230_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Theme Park" URL="/cd32/604968-theme-park">
+		<Description>Theme Park is a Strategy game, developed by Bullfrog Productions and published by Mindscape Inc.,  which was released in Europe in 1995.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Bullfrog Productions</Developer>
+		<Franchise>Theme Park</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Theme Park" region="EU">
+			<ReleasePublisher>Mindscape Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Theme Park (EU)-162091_front.jpg</Image>
+				<Image>Theme Park (EU)-162091_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Thomas The Tank Engine's Pinball" URL="/cd32/619972-thomas-the-tank-engines-pinball">
+		<Description>Thomas The Tank Engine's Pinball is an Action game, developed by Spidersoft and published by Alternative Software,  which was released in Europe in 1995.</Description>
+		<Developer>Spidersoft</Developer>
+		<Franchise>Thomas the Tank Engine</Franchise>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Thomas The Tank Engine's Pinball" region="EU">
+			<ReleasePublisher>Alternative Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Thomas The Tank Engine's Pinball (EU)-179231_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Top Gear 2" URL="/cd32/619974-top-gear-2">
+		<Description>Top Gear 2 is a Racing game, developed and published by Gremlin Interactive,  which was released in Europe in 1994.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Gremlin Interactive</Developer>
+		<Franchise>Top Gear</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Top Gear 2" region="EU">
+			<ReleasePublisher>Gremlin Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Top Gear 2 (EU)-179232_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Total Carnage" URL="/cd32/952097-total-carnage">
+		<Description>Total Carnage is an Action game, developed and published by ICE,  which was released in Europe in 1994.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>ICE</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Total Carnage" region="EU">
+			<ReleasePublisher>ICE</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Total Carnage (EU)-102744_front.jpg</Image>
+				<Image>Total Carnage (EU)-102744_back.jpg</Image>
+				<Image>Total Carnage (EU)-102744_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Trivial Pursuit" URL="/cd32/619973-trivial-pursuit">
+		<Description>The all-time best-selling trivia game comes to life in this state-of-the-art multimedia edition. The object is the same... be the first to earn 6 "pies" by correctly answering questions in the classic six categories. And the presentation is... LIVE! In the classic game, roll the on-screen die and move around the board answering questions. In the Fast Game, cut right to the questions! To win, give a correct answer in each of these six categories: People &amp; Places, Sports &amp; Leisure, History, Arts &amp; Entertainment, Science &amp; Nature, and Wild Card.</Description>
+		<Developer>Domark</Developer>
+		<Franchise>Trivial Pursuit</Franchise>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Trivial Pursuit" region="EU">
+			<ReleasePublisher>Domark</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Trivial Pursuit (EU)-29822_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Trolls" URL="/cd32/952236-trolls">
+		<Description>TROLLS is packed with loads of action, collectables and surprises. It's a game you won't want to stop playing and it's just like having your very own coin-op arcade machine.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Flair Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Trolls" region="EU">
+			<ReleasePublisher>Flair Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Trolls (EU)-33215_front.jpg</Image>
+				<Image>Trolls (EU)-33215_back.jpg</Image>
+				<Image>Trolls (EU)-33215_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="UFO: Enemy Unknown" URL="/cd32/619976-ufo-enemy-unknown">
+		<Description>UFO: Enemy Unknown is a Strategy game, developed by Mythos Software and published by MicroProse,  which was released in Europe in 1994.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>Mythos Software</Developer>
+		<Genre>Strategy &gt; Real-Time &gt; General</Genre>
+		<Release name="UFO: Enemy Unknown" region="EU">
+			<ReleasePublisher>MicroProse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>UFO Enemy Unknown (EU)-179234_front.jpg</Image>
+				<Image>UFO Enemy Unknown (EU)-179234_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Ultimate Body Blows" URL="/cd32/952237-ultimate-body-blows">
+		<Description>Experience arcade quality action in this incredible, all action beat'em-up! Select your character from the 22 available and go for the glittering Body Blows crown!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Developer>Team 17</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Ultimate Body Blows" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ultimate Body Blows (EU)-77948_front.jpg</Image>
+				<Image>Ultimate Body Blows (EU)-77948_back.jpg</Image>
+				<Image>Ultimate Body Blows (EU)-77948_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Ultimate Body Blows &amp; Project-X: Special Edition" URL="/cd32/619975-ultimate-body-blows-and-project-x-special-edition">
+		<Description>Ultimate Body Blows &amp; Project-X: Special Edition is a Miscellaneous game, developed and published by Team 17,  which was released in Europe in 1994.</Description>
+		<Developer>Team 17</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Ultimate Body Blows &amp; Project-X: Special Edition" region="EU">
+			<ReleasePublisher>Team 17</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Universe" URL="/cd32/952238-universe">
+		<Description>Encounter weird alien worlds and their even wierder alien inhabitants! Guide Boris on an action-packed chase across the gulfs of space to find a fabled last star. Help him find the key to defeating the evil Golden King who rules his UNIVERSE!</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Core Design Ltd.</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Universe" region="EU">
+			<ReleasePublisher>Core Design Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Universe (EU)-102871_front.jpg</Image>
+				<Image>Universe (EU)-102871_back.jpg</Image>
+				<Image>Universe (EU)-102871_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Vital Light" URL="/cd32/955788-vital-light">
+		<Description>Vital Light is a Puzzle game, developed by Efecto Caos and published by Millenium Interactive,  which was released in Europe in 1995.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Efecto Caos</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Vital Light" region="EU">
+			<ReleasePublisher>Millenium Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Vital Light (EU)-107609_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Wembley International Soccer" URL="/cd32/619977-wembley-international-soccer">
+		<Description>Wembley International Soccer is a Sports game, developed and published by Audiogenic Ltd.,  which was released in Europe in 1994.</Description>
+		<Developer>Audiogenic Ltd.</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Wembley International Soccer" region="EU">
+			<ReleasePublisher>Audiogenic Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wembley International Soccer (EU)-73270_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Whale's Voyage" URL="/cd32/952098-whales-voyage">
+		<Description>Explore the Alien planets of the 24th century, with their sinister worlds and cities inhabited by strange sometimes violent people. Learn to tell friend from foe, as you try to outwit traders with your merchandise, the competition can be instense, but the rewards great, as you strive to financially secure your race.
+Select your genetically created crew members and take off in your "Rustbucket" of a spaceship to the other solar planets, whilst battling against maurauding pirate ships that will try to hinder your trading progress.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>neo Software</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Whale's Voyage" region="EU">
+			<ReleasePublisher>Flair Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Whale's Voyage (EU)-102745_front.jpg</Image>
+				<Image>Whale's Voyage (EU)-102745_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Whizz" URL="/cd32/832863-whizz">
+		<Description>ONE, TWO, THREE D!
+Whizz takes you into the third dimension. 3D perspective Whizz is the new generation of game that all platform addicts have been waiting for!</Description>
+		<Developer>Flair</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Whizz" region="EU">
+			<ReleasePublisher>Flair</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Wild Cup Soccer" URL="/cd32/955789-wild-cup-soccer">
+		<Description>Wild Cup Soccer is a Sports game, developed by Teque Interactive and published by Millenium Interactive,  which was released in Europe in 1994.</Description>
+		<Developer>Teque Interactive</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Wild Cup Soccer" region="EU">
+			<ReleasePublisher>Millenium Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wild Cup Soccer (EU)-107610_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Will Bridge: Initiation Junior" URL="/cd32/651976-will-bridge-initiation-junior">
+		<Description>Will Bridge: Initiation Junior is a Miscellaneous game, developed by Will-Bridge and published by Loridim,  which was released in Europe in 1994.</Description>
+		<Developer>Will-Bridge</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Will Bridge: Initiation Junior" region="EU">
+			<ReleasePublisher>Loridim</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Word Construction Set" URL="/cd32/687874-word-construction-set">
+		<Description>Word Construction Set is a Miscellaneous game, developed and published by Lascelles,  which was released in Europe in 1994.</Description>
+		<Developer>Lascelles</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Word Construction Set" region="EU">
+			<ReleasePublisher>Lascelles</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Worms" URL="/cd32/619978-worms">
+		<Description>Worms is an ultra-fast-paced game of team strategy for up to 16 players. It's a little bit "Lemmings™" and a lotta bit "Terminator™"... only more pink and squishy, with bazookas, homing missiles and cluster bombs blasting the screen in an unrelenting fury, only the moist can survive!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Team 17</Developer>
+		<Franchise>Worms</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; Artillery</Genre>
+		<Release name="Worms" region="EU">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Worms (EU)-9002_front.jpg</Image>
+				<Image>Worms (EU)-9002_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Zool 2" URL="/cd32/619979-zool-2">
+		<Description>Zool 2 is an Action game, developed by Warp Factory and published by Gremlin Graphics,  which was released in Europe in 1994.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Warp Factory</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Zool 2" region="EU">
+			<ReleasePublisher>Gremlin Graphics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zool 2 (EU)-38630_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Amiga CD32" name="Zool: Ninja of the ''Nth'' Dimension" URL="/cd32/961383-zool-ninja-of-the-nth-dimension">
+		<Description>Once every year, the games world is rocked by a game so stunning, so fast, so colorful, so big, so demanding, so mega, so awesome, so varied , so incredible, and so full of fabulous features and unexpected treats, that everybody just looks at it and says "THAT'S IT!" This year, ZOOL, THE NINJA FROM THE Nth DIMENSION, is definitely "IT!"</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>47.3 hours</Length>
+		<Developer>Gremlin Graphics</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Zool: Ninja of the ''Nth'' Dimension" region="EU">
+			<ReleasePublisher>Gremlin Graphics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zool Ninja of the ''Nth'' Dimension (EU)-29939_front.jpg</Image>
+				<Image>Zool Ninja of the ''Nth'' Dimension (EU)-29939_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

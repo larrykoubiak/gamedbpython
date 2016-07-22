@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Adventurevision" name="Adventure Vision" URL="/avision/934106-adventurevision">
+		<Description>Exciting breakthrough in state-of-the-art electronics -- the Entex cartridge-programmable high resolution graphic system. The most realistic display system since television. A big screen, "real" sound, electronic cartridge game system that looks and plays just like a TV cartridge system that requires no television.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Developer>Entex</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Adventure Vision" region="US">
+			<ReleasePublisher>Entex</ReleasePublisher>
+			<ReleaseProductID>6075</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Adventure Vision (US)-308042_front.jpg</Image>
+				<Image>Adventure Vision (US)-308042_back.jpg</Image>
+				<Image>Adventure Vision (US)-308042_side.jpg</Image>
+				<Image>Adventure Vision (US)-308042_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Adventurevision" name="Adventurevision" URL="/avision/934106-adventurevision">
+		<Description>Exciting breakthrough in state-of-the-art electronics -- the Entex cartridge-programmable high resolution graphic system. The most realistic display system since television. A big screen, "real" sound, electronic cartridge game system that looks and plays just like a TV cartridge system that requires no television.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Developer>Entex</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Adventure Vision" region="US">
+			<ReleasePublisher>Entex</ReleasePublisher>
+			<ReleaseProductID>6075</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Adventure Vision (US)-308042_front.jpg</Image>
+				<Image>Adventure Vision (US)-308042_back.jpg</Image>
+				<Image>Adventure Vision (US)-308042_side.jpg</Image>
+				<Image>Adventure Vision (US)-308042_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Adventurevision" name="Defender" URL="/avision/929241-defender">
+		<Description>The Defender cartridge is patterned after the world famous Defender video arcade machine by Williams. The object of Defender is to score as many points as possible by defending the earth and the humans from wave after wave of evil invaders from outer space. You are in command of the Defender ship with its laser cannons and smart bombs. If all the humans are stolen, the earth will be destroyed and you will find yourself in outer space fighting fleet after fleet of mutants.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>3.2 hours</Length>
+		<Developer>Entex</Developer>
+		<Franchise>Defender</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Defender" region="US">
+			<ReleasePublisher>Entex</ReleasePublisher>
+			<ReleaseProductID>6076</ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Adventurevision" name="Space Force" URL="/avision/929242-space-force">
+		<Description>The Adventure Vision Space Force cartridge is based on the famous Venture Line arcade game and includes all the key features of its big brother. Your mission is to fly the mothership through wave after wave of meteor showers launched by the evil alliance power from the planets Zereal and Xenac. Your job is to blow all alien life forms and meteors to atoms with your phaser canon, but, you had better be quick in your ability to manuever and fire. So, plug your cartridge into Adventure Vision, grab the joystick and get ready for action.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Entex</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Space Force" region="US">
+			<ReleasePublisher>Entex</ReleasePublisher>
+			<ReleaseProductID>6078</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Force (US)-70081_front.jpg</Image>
+				<Image>Space Force (US)-70081_back.jpg</Image>
+				<Image>Space Force (US)-70081_side.jpg</Image>
+				<Image>Space Force (US)-70081_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Adventurevision" name="Super Cobra" URL="/avision/929243-super-cobra">
+		<Description>This Adventure Vision cartridge is based on the famous KONAMI arcade game and includes all the key features and elements of its big brother. You are the pilot and your chopper awaits full of fuel and armed with sidewinder missles and bombs. Your mission is to fly your helicopter over 10 different terrains and get the booty at the end of the secret enemy base. It may sound easy but watch out. There are enemy rockets, magnetic space mines, UFO's, and the most treacherous terrain an Ace pilot like you has ever encountered. So plug this cartridge into an Adventure Vision, grab the joystick, and get ready for action.</Description>
+		<UserRating>3.86 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Entex</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Super Cobra" region="US">
+			<ReleasePublisher>Entex</ReleasePublisher>
+			<ReleaseProductID>6077</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Cobra (US)-39694_front.jpg</Image>
+				<Image>Super Cobra (US)-39694_back.jpg</Image>
+				<Image>Super Cobra (US)-39694_side.jpg</Image>
+				<Image>Super Cobra (US)-39694_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Adventurevision" name="Turtles" URL="/avision/929244-turtles">
+		<Description>This Adventure Vision cartridge is based on the famous Konami arcade game and includes all the key features and elements of its big brother.  It's your job to rescue six little turtlettes and take them home.  It may sound easy, but you had better watch out because the beetles are after you.  Each floor contains eight mystery squares.  Behind six of the squares are those cute little turtlettes.  But beware, 'cause the other two contain beetles.  If a beetle gets too close you can use a bug bomb, but use them wisely, because you only can use one at a time.  So plug your cartridge into Adventure Vision, grab the joystick, hit the start button and get ready for action and excitement.</Description>
+		<UserRating>4.42 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Entex</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Turtles" region="US">
+			<ReleasePublisher>Entex</ReleasePublisher>
+			<ReleaseProductID>6076</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Turtles (US)-70082_front.jpg</Image>
+				<Image>Turtles (US)-70082_back.jpg</Image>
+				<Image>Turtles (US)-70082_side.jpg</Image>
+				<Image>Turtles (US)-70082_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="F-Zero X: Expansion Kit" URL="/n64dd/916569-f-zero-x-expansion-kit">
+		<Description>F-Zero X: Expansion Kit is a Racing game, developed by Nintendo and published by Randnet,  which was released in Japan in 2000.</Description>
+		<UserRating>4.57 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>32.3 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>F-Zero</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Futuristic</Genre>
+		<Release name="F-Zero X: Expansion Kit" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DFZJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370504743</ReleaseBarCode>
+			<ReleaseDate>04/21/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>F-Zero X Expansion Kit (JP)-55492_front.jpg</Image>
+				<Image>F-Zero X Expansion Kit (JP)-55492_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Gendai Daisenryaku Ultimate War" URL="/n64dd/916584-gendai-daisenryaku-ultimate-war">
+		<Description>Gendai Daisenryaku Ultimate War is a Strategy game, developed by Seta Corporation and published by Randnet,  which was cancelled before it was released.</Description>
+		<Developer>Seta Corporation</Developer>
+		<Franchise>Daisenryaku</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Gendai Daisenryaku Ultimate War" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Kyojin no Doshin 1" URL="/n64dd/916553-kyojin-no-doshin-1">
+		<Description>Kyojin no Doshin 1 is a Strategy game, developed by Param and published by Randnet,  which was released in Japan in 1999.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>24 hours</Length>
+		<Developer>Param</Developer>
+		<Franchise>Doshin the Giant</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Kyojin no Doshin 1" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DKDJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4527485000029</ReleaseBarCode>
+			<ReleaseDate>12/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kyojin no Doshin 1 (JP)-55521_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Kyojin no Doshin: Kaihou Sensen Chibikko Chikko Daishuugou" URL="/n64dd/930147-kyojin-no-doshin-kaihou-sensen-chibikko-chikko-daishuugou">
+		<Description>Kyojin no Doshin: Kaihou Sensen Chibikko Chikko Daishuugou is a Strategy game, developed by Param and published by Nintendo,  which was released in Japan in 2000.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>25.6 hours</Length>
+		<Developer>Param</Developer>
+		<Franchise>Doshin the Giant</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Kyojin no Doshin: Kaihou Sensen Chibikko Chikko Daishuugou" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>NUD-DKKJ-JPN</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>05/17/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kyojin no Doshin Kaihou Sensen Chibikko Chikko Daishuugou (JP)-71633_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Legend of Zelda: Ocarina of Time - Master Quest, The" URL="/n64dd/809933-the-legend-of-zelda-ocarina-of-time-master-quest">
+		<Description>The Legend of Zelda: Ocarina of Time - Master Quest is an Action Adventure game, developed and published by Nintendo,  which was cancelled before it was released.</Description>
+		<AKA>Ura Zelda (JP)</AKA>
+		<Developer>Nintendo</Developer>
+		<Franchise>Legend of Zelda</Franchise>
+		<Genre>Action Adventure &gt; Open-World</Genre>
+		<Release name="Ura Zelda" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Mario Artist: Communication Kit" URL="/n64dd/916661-mario-artist-communication-kit">
+		<Description>Mario Artist: Communication Kit is a Miscellaneous game, developed by Nintendo and published by Randnet,  which was released in Japan in 2000.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>25.1 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Mario Artist</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Mario Artist: Communication Kit" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DMBJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370504750</ReleaseBarCode>
+			<ReleaseDate>06/29/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Artist Communication Kit (JP)-55478_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Mario Artist: Paint Studio" URL="/n64dd/916556-mario-artist-paint-studio">
+		<Description>Mario Artist: Paint Studio is a Miscellaneous game, developed by Nintendo and published by Randnet,  which was released in Japan in 1999.</Description>
+		<UserRating>4.56 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>34.3 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Mario Artist</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Mario Artist: Paint Studio" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DMPJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370504453</ReleaseBarCode>
+			<ReleaseDate>12/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Artist Paint Studio (JP)-55522_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mario Artist: Paint Studio (w/Mouse)" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DMPJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370504446</ReleaseBarCode>
+			<ReleaseDate>12/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Artist Paint Studio (wMouse) (JP)-55523_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Mario Artist: Polygon Studio" URL="/n64dd/916581-mario-artist-polygon-studio">
+		<Description>Mario Artist: Polygon Studio is a Miscellaneous game, developed by Nintendo and published by Randnet,  which was released in Japan in 2000.</Description>
+		<UserRating>4.67 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>52 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Mario Artist</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Mario Artist: Polygon Studio" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DMGJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370504767</ReleaseBarCode>
+			<ReleaseDate>08/29/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Artist Polygon Studio (JP)-55472_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Mario Artist: Talent Studio" URL="/n64dd/916555-mario-artist-talent-studio">
+		<Description>Mario Artist: Talent Studio is a Miscellaneous game, developed by Nintendo and published by Randnet,  which was released in Japan in 2000.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>37.7 hours</Length>
+		<Developer>Nintendo</Developer>
+		<Franchise>Mario Artist</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Mario Artist: Talent Studio" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DMTJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370504477</ReleaseBarCode>
+			<ReleaseDate>02/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Artist Talent Studio (JP)-55506_front.jpg</Image>
+				<Image>Mario Artist Talent Studio (JP)-55506_back.jpg</Image>
+				<Image>Mario Artist Talent Studio (JP)-55506_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mario Artist: Talent Studio (w/Capture Cassette)" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DMTJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370504460</ReleaseBarCode>
+			<ReleaseDate>02/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mario Artist Talent Studio (wCapture Cassette) (JP)-55507_front.jpg</Image>
+				<Image>Mario Artist Talent Studio (wCapture Cassette) (JP)-55507_back.jpg</Image>
+				<Image>Mario Artist Talent Studio (wCapture Cassette) (JP)-55507_side.jpg</Image>
+				<Image>Mario Artist Talent Studio (wCapture Cassette) (JP)-55507_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Nintendo 64DD" URL="/n64dd/916552-nintendo-64dd">
+		<Description>Nintendo 64DD is a Hardware game, developed and published by Nintendo,  which was released in Japan in 1999.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Developer>Nintendo</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Nintendo 64DD Hardware" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>NUS-010</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo 64DD Hardware (JP)-307903_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Nintendo 64DD Hardware" URL="/n64dd/916552-nintendo-64dd">
+		<Description>Nintendo 64DD is a Hardware game, developed and published by Nintendo,  which was released in Japan in 1999.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Developer>Nintendo</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Nintendo 64DD Hardware" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>NUS-010</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nintendo 64DD Hardware (JP)-307903_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Nippon Pro Golf Tour 64" URL="/n64dd/916599-nippon-pro-golf-tour-64">
+		<Description>Nippon Pro Golf Tour 64 is a Sports game, developed by Media Factory and published by Randnet,  which was released in Japan in 2000.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Media Factory</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Nippon Pro Golf Tour 64" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DPGJ-JPN</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>05/02/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nippon Pro Golf Tour 64 (JP)-55488_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Randnet Disk" URL="/n64dd/950854-randnet-disk">
+		<Description>Randnet Disk is a Miscellaneous game, developed by Randnet and published by Nintendo,  which was released in Japan in 2000.</Description>
+		<UserRating>4.67 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>44.7 hours</Length>
+		<Developer>Randnet</Developer>
+		<Genre>Miscellaneous &gt; Application</Genre>
+		<Release name="Randnet Disk" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID>NUD-DRDJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4527485000159</ReleaseBarCode>
+			<ReleaseDate>02/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Randnet Disk (JP)-101321_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="SimCity 64" URL="/n64dd/916554-simcity-64">
+		<Description>SimCity 64 is a Strategy game, developed by HAL Labs and published by Randnet,  which was released in Japan in 2000.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>40 hours</Length>
+		<Developer>HAL Labs</Developer>
+		<Franchise>SimCity</Franchise>
+		<Genre>Strategy &gt; Management &gt; Government</Genre>
+		<Release name="SimCity 64" region="JP">
+			<ReleasePublisher>Randnet</ReleasePublisher>
+			<ReleaseProductID>NUD-DSCJ-JPN</ReleaseProductID>
+			<ReleaseBarCode>4902370504620</ReleaseBarCode>
+			<ReleaseDate>02/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>SimCity 64 (JP)-55505_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Super Mario 64 Disk Version" URL="/n64dd/191236-super-mario-64-disk-version">
+		<Description>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</Description>
+		<Developer>Nintendo</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Action &gt; Platformer &gt; 3D</Genre>
+		<Release name="Super Mario 64 Disk Version" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Nintendo 64DD" name="Ura Zelda" URL="/n64dd/809933-the-legend-of-zelda-ocarina-of-time-master-quest">
+		<Description>The Legend of Zelda: Ocarina of Time - Master Quest is an Action Adventure game, developed and published by Nintendo,  which was cancelled before it was released.</Description>
+		<AKA>Ura Zelda (JP)</AKA>
+		<Developer>Nintendo</Developer>
+		<Franchise>Legend of Zelda</Franchise>
+		<Genre>Action Adventure &gt; Open-World</Genre>
+		<Release name="Ura Zelda" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

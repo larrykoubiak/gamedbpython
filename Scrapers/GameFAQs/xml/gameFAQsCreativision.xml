@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="CreatiVision" name="Air/Sea Attack" URL="/cvision/931874-air-sea-attack">
+		<Description>Air/Sea Attack is a Miscellaneous game, developed and published by VTech,  which was released in Australia in 1981.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>VTech</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Air/Sea Attack" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8008</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>AirSea Attack (AU)-73592_front.jpg</Image>
+				<Image>AirSea Attack (AU)-73592_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Astro Pinball" URL="/cvision/931792-astro-pinball">
+		<Description>Astro Pinball is an Action game, developed and published by VTech,  which was released in Australia in 1981.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>VTech</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Astro Pinball" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astro Pinball (AU)-73540_front.jpg</Image>
+				<Image>Astro Pinball (AU)-73540_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Auto Chase" URL="/cvision/931793-auto-chase">
+		<Description>Auto Chase is a Racing game, developed and published by VTech,  which was released in Australia in 1981.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>VTech</Developer>
+		<Genre>Racing &gt; General</Genre>
+		<Release name="Auto Chase" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8006</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Auto Chase (AU)-73541_front.jpg</Image>
+				<Image>Auto Chase (AU)-73541_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Chopper Rescue" URL="/cvision/931875-chopper-rescue">
+		<Description>Chopper Rescue is a Miscellaneous game, developed and published by VTech,  which was released in Australia in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Chopper Rescue" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8021</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chopper Rescue (AU)-73593_front.jpg</Image>
+				<Image>Chopper Rescue (AU)-73593_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Crazy Chicky" URL="/cvision/931794-crazy-chicky">
+		<Description>Crazy Chicky is an Action game, developed and published by VTech,  which was released in Australia in 1982.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Crazy Chicky" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Crazy Chicky (AU)-73542_front.jpg</Image>
+				<Image>Crazy Chicky (AU)-73542_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="CreatiVision" URL="/cvision/934111-creativision">
+		<Description>CreatiVision is a Hardware game, developed and published by VTech,  which was released in Europe in 1981.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="CreatiVision Hardware" region="EU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>CreatiVision Hardware (EU)-308018_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="CreatiVision Hardware" URL="/cvision/934111-creativision">
+		<Description>CreatiVision is a Hardware game, developed and published by VTech,  which was released in Europe in 1981.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="CreatiVision Hardware" region="EU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>CreatiVision Hardware (EU)-308018_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Deep Sea Adventure" URL="/cvision/931876-deep-sea-adventure">
+		<Description>Deep Sea Adventure is a Miscellaneous game, developed and published by VTech,  which was released in Australia in 1982.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>VTech</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Deep Sea Adventure" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8013</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Deep Sea Adventure (AU)-73594_front.jpg</Image>
+				<Image>Deep Sea Adventure (AU)-73594_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Locomotive" URL="/cvision/931877-locomotive">
+		<Description>Locomotive is a Miscellaneous game, developed and published by VTech,  which was released in Australia in 1983.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Locomotive" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8020</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Locomotive (AU)-73595_front.jpg</Image>
+				<Image>Locomotive (AU)-73595_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Mouse Puzzle" URL="/cvision/931878-mouse-puzzle">
+		<Description>Mouse Puzzle is a Miscellaneous game, developed and published by VTech,  which was released in Australia in 1982.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Mouse Puzzle" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mouse Puzzle (AU)-73596_front.jpg</Image>
+				<Image>Mouse Puzzle (AU)-73596_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Music Maker" URL="/cvision/949746-music-maker">
+		<Description>Music Maker is a Miscellaneous game, developed and published by VTech,  which was released in Australia in 1983.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.1 hours</Length>
+		<Developer>VTech</Developer>
+		<Genre>Miscellaneous &gt; Application</Genre>
+		<Release name="Music Maker" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8016</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Music Maker (AU)-100341_front.jpg</Image>
+				<Image>Music Maker (AU)-100341_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Planet Defender" URL="/cvision/931879-planet-defender">
+		<Description>Planet Defender is a Miscellaneous game, developed and published by VTech,  which was released in Australia in 1981.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Planet Defender" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Planet Defender (AU)-73597_front.jpg</Image>
+				<Image>Planet Defender (AU)-73597_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Police Jump" URL="/cvision/931880-police-jump">
+		<Description>Police Jump is a Miscellaneous game, developed and published by VTech,  which was released in Australia in 1981.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Police Jump" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8009</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Police Jump (AU)-73598_front.jpg</Image>
+				<Image>Police Jump (AU)-73598_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Soccer" URL="/cvision/931881-soccer">
+		<Description>Soccer is a Sports game, developed and published by VTech,  which was released in Australia in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Soccer" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8017</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer (AU)-73599_front.jpg</Image>
+				<Image>Soccer (AU)-73599_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Sonic Invader" URL="/cvision/931882-sonic-invader">
+		<Description>Sonic Invader is an Action game, developed and published by VTech,  which was released in Australia in 1981.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Sonic Invader" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sonic Invader (AU)-73600_front.jpg</Image>
+				<Image>Sonic Invader (AU)-73600_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Tank Attack" URL="/cvision/931883-tank-attack">
+		<Description>Tank Attack is an Action game, developed and published by VTech,  which was released in Australia in 1981.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>VTech</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tank Attack" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tank Attack (AU)-73601_front.jpg</Image>
+				<Image>Tank Attack (AU)-73601_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CreatiVision" name="Tennis" URL="/cvision/931884-tennis">
+		<Description>Tennis is a Sports game, developed and published by VTech,  which was released in Australia in 1981.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Developer>VTech</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Tennis" region="AU">
+			<ReleasePublisher>VTech</ReleasePublisher>
+			<ReleaseProductID>8004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tennis (AU)-73602_front.jpg</Image>
+				<Image>Tennis (AU)-73602_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

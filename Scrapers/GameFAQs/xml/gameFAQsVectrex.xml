@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Vectrex" name="3D Crazy Coaster" URL="/vectrex/927511-3d-crazy-coaster">
+		<Description>3D Crazy Coaster is an Action game, developed and published by GCE,  which was released in 1983.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.2 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Platformer &gt; 3D</Genre>
+		<Release name="3D Crazy Coaster" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3634</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>3D Crazy Coaster (US)-67350_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="3D Mine Storm" URL="/vectrex/927512-3d-mine-storm">
+		<Description>3D Mine Storm is an Action game, developed and published by GCE,  which was released in 1983.</Description>
+		<UserRating>3.81 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="3D Mine Storm" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3632</ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="3D Narrow Escape" URL="/vectrex/927513-3d-narrow-escape">
+		<Description>3D Narrow Escape is an Action game, developed and published by GCE,  which was released in 1983.</Description>
+		<UserRating>4.38 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.6 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="3D Narrow Escape" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3633</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>3D Narrow Escape (US)-67352_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="AnimAction" URL="/vectrex/937684-animaction">
+		<Description>AnimAction is a Miscellaneous game, developed and published by GCE,  which was released in 1983.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="AnimAction" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3604</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>AnimAction (US)-82934_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Armor..Attack" URL="/vectrex/576744-armorattack">
+		<Description>Armor..Attack is an Action game, developed and published by GCE,  which was released in 1982.</Description>
+		<UserRating>3.92 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Armor..Attack" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3301</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Armor..Attack (US)-39098_front.jpg</Image>
+				<Image>Armor..Attack (US)-39098_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Armor..Attack" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Armor..Attack (JP)-591144_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Armor..Attack" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8124</ReleaseProductID>
+			<ReleaseBarCode>5011228124725</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Armor..Attack (EU)-39099_front.jpg</Image>
+				<Image>Armor..Attack (EU)-39099_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Art Master" URL="/vectrex/937685-art-master">
+		<Description>Art Master is a Miscellaneous game, developed and published by GCE,  which was released in 1983.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Art Master" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3601</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Art Master (US)-82935_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Bedlam" URL="/vectrex/576745-bedlam">
+		<Description>Bedlam is an Action game, developed and published by GCE,  which was released in 1982.</Description>
+		<UserRating>3.69 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.8 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Bedlam" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3305</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bedlam (US)-1861_front.jpg</Image>
+				<Image>Bedlam (US)-1861_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Bedlam" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8134</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bedlam (EU)-1862_front.jpg</Image>
+				<Image>Bedlam (EU)-1862_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Berzerk" URL="/vectrex/576746-berzerk">
+		<Description>Maneuver your humanoid through the electrified mazes of robot filled rooms. You many kill off the first group of robots but initial success does not mean survival...future groups begin firing at your! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!</Description>
+		<UserRating>3.79 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Western Technologies, Inc.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Berzerk" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3302</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Berzerk (US)-20941_front.jpg</Image>
+				<Image>Berzerk (US)-20941_back.jpg</Image>
+				<Image>Berzerk (US)-20941_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Berzerk" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Berzerk (JP)-591145_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Berzerk" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8123</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Berzerk (EU)-20942_front.jpg</Image>
+				<Image>Berzerk (EU)-20942_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Blitz!" URL="/vectrex/576747-blitz">
+		<Description>Blitz! is a Sports game, developed and published by GCE,  which was released in 1982.</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="Blitz!" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3202</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Blitz! (US)-39100_front.jpg</Image>
+				<Image>Blitz! (US)-39100_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Blitz!" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8131</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Blitz! (EU)-39101_front.jpg</Image>
+				<Image>Blitz! (EU)-39101_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Clean Sweep" URL="/vectrex/924473-clean-sweep">
+		<Description>Evil bank robbers have just blown your bank to smithereens. As bank president, you only hhhave a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</Description>
+		<UserRating>2.94 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Clean Sweep" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3303</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Clean Sweep (US)-63332_front.jpg</Image>
+				<Image>Clean Sweep (US)-63332_back.jpg</Image>
+				<Image>Clean Sweep (US)-63332_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Clean Sweep" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8122</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Clean Sweep (EU)-63333_front.jpg</Image>
+				<Image>Clean Sweep (EU)-63333_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Computer Vision Kousokusen" URL="/vectrex/916399-vectrex">
+		<Description>Vectrex is a Hardware game, developed by GCE and published by Milton Bradley,  which was released in 1982.</Description>
+		<UserRating>3.78 / 5</UserRating>
+		<Developer>GCE</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Vectrex Hardware" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>HP3000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Vectrex Hardware" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1983</ReleaseDate>
+		</Release>
+		<Release name="Computer Vision Kousokusen" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Cosmic Chasm" URL="/vectrex/562925-cosmic-chasm">
+		<Description>Can you save the galaxy by blowing up the alien-inhabited planet...and get off the planet before you explode too? You must burrow deep inside finding yours way through the underground maze while battling the Planet Protectors. If you can get to the center, plant your one bomb and try to find your way out. It's only a matter of seconds before the planet goes BOOM!</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Cosmic Chasm" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3101</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cosmic Chasm (US)-20336_front.jpg</Image>
+				<Image>Cosmic Chasm (US)-20336_back.jpg</Image>
+				<Image>Cosmic Chasm (US)-20336_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Cosmic Chasm" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cosmic Chasm (JP)-591146_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Cosmic Chasm" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8126</ReleaseProductID>
+			<ReleaseBarCode>5011228126729</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cosmic Chasm (EU)-20337_front.jpg</Image>
+				<Image>Cosmic Chasm (EU)-20337_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Dark Tower" URL="/vectrex/580017-dark-tower">
+		<Description>Dark Tower is an Adventure game, developed by GCE and published by Bootleg,  which was cancelled before it was released.</Description>
+		<Developer>GCE</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Dark Tower" region="US">
+			<ReleasePublisher>Bootleg</ReleasePublisher>
+			<ReleaseProductID>VT 3307</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Flipper Pinball" URL="/vectrex/937686-spinball">
+		<Description>Spinball is an Action game, developed by GCE and published by Milton Bradley,  which was released in 1983.</Description>
+		<UserRating>4.36 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.6 hours</Length>
+		<AKA>Flipper Pinball (EU)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Spinball" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>VT 3204</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Spinball (US)-82936_front.jpg</Image>
+				<Image>Spinball (US)-82936_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Flipper Pinball" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8133</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flipper Pinball (EU)-82937_front.jpg</Image>
+				<Image>Flipper Pinball (EU)-82937_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Fortress of Narzod" URL="/vectrex/576748-fortress-of-narzod">
+		<Description>A long time ago, before our history began, wizards-both good and evil-battled for supremacy for the earth.  It was a time of magic and adventure when all men possessed special powers.  The most evil wizard, Narzod, gained the power to enslave all mankind.  You are the only remaining honorable wizard with the knowledge to harness all the forces of good to defeat Narzod and destroy his sinister fortress.  But Narzod has prepared for your approach and guards his realm with deadly creatures of darkness, including the Mystic Hurler.  Beware, and approach the Fortress of Narzod with great caution!</Description>
+		<UserRating>4.07 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Fortress of Narzod" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3304</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fortress of Narzod (US)-39102_front.jpg</Image>
+				<Image>Fortress of Narzod (US)-39102_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Fortress of Narzod" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8132</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fortress of Narzod (EU)-39103_front.jpg</Image>
+				<Image>Fortress of Narzod (EU)-39103_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Harmagedon" URL="/vectrex/929712-star-trek-the-motion-picture">
+		<Description>Welcome, Captain Kirk, to your command on the Starship Enterprise. Your mission is to seek out and destroy the enemy Klingon Mothership. Travel through nine sectors of space, each more difficult or take a shortcut through the Black Hole. Be careful...the Klingons and Romulans are hiding in space, waiting to destroy you at every turn!</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7.4 hours</Length>
+		<AKA>Star Ship (EU), Harmagedon (JP)</AKA>
+		<Developer>GCE</Developer>
+		<Franchise>Star Trek</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Star Trek: The Motion Picture" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3107</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Trek The Motion Picture (US)-70834_front.jpg</Image>
+				<Image>Star Trek The Motion Picture (US)-70834_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Harmagedon" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Harmagedon (JP)-591147_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Star Ship" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8125</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Ship (EU)-70835_front.jpg</Image>
+				<Image>Star Ship (EU)-70835_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Heads-Up" URL="/vectrex/582062-heads-up">
+		<Description>Challenge another player or take on the computer itself in an action-packed soccer game that demands all the concentration, strategy and split second reactions of the real thing. Realistic, dimensional players move the ball down a scrolling field by passing and kicking the ball to each other--just like the actual game.
+Head Up--all the excitement and challenge at a real soccer tournament complete with the roar of the crowd!</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<AKA>Soccer Football (EU)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Heads-Up" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3203</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Heads-Up (US)-43523_front.jpg</Image>
+				<Image>Heads-Up (US)-43523_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Soccer Football" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8135</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer Football (EU)-43524_front.jpg</Image>
+				<Image>Soccer Football (EU)-43524_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Hyperchase" URL="/vectrex/925075-hyperchase">
+		<Description>Watch out for the guardrail! You're behind the wheel of your formula one racer about to start the world's toughest grand prix. Shift through all four gears as you try to stay alive through city streets and country roads. Fire up your engine--the start lights are counting down!</Description>
+		<UserRating>3.68 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.2 hours</Length>
+		<Developer>Western Technologies, Inc.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hyperchase" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3201</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hyperchase (US)-64036_front.jpg</Image>
+				<Image>Hyperchase (US)-64036_back.jpg</Image>
+				<Image>Hyperchase (US)-64036_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Hyperchase" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8128</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hyperchase (EU)-64037_front.jpg</Image>
+				<Image>Hyperchase (EU)-64037_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Melody Master" URL="/vectrex/937687-melody-master">
+		<Description>Enter a remarkable new world of musical entertainment and learning Melody Master™--a unique approach to music composition and education.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Miscellaneous &gt; Application</Genre>
+		<Release name="Melody Master" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3601</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Melody Master (US)-82938_front.jpg</Image>
+				<Image>Melody Master (US)-82938_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="MineStorm" URL="/vectrex/576749-minestorm">
+		<Description>MineStorm is an Action game, developed and published by GCE,  which was released in 1982.</Description>
+		<UserRating>3.68 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.7 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="MineStorm" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3000</ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="MineStorm" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Pitchers Duel" URL="/vectrex/942663-pitchers-duel">
+		<Description>Pitchers Duel is a Sports game, developed by GCE and published by CGE Services,  which was released in 2007.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>GCE</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="Pitchers Duel" region="US">
+			<ReleasePublisher>CGE Services</ReleasePublisher>
+			<ReleaseProductID>VT 3205</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>07/28/07</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pitchers Duel (US)-90355_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Polar Rescue" URL="/vectrex/924625-polar-rescue">
+		<Description>Polar Rescue is an Action game, developed and published by GCE,  which was released in 1983.</Description>
+		<UserRating>3.92 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Polar Rescue" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3308</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Polar Rescue (US)-63507_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Pole Position" URL="/vectrex/937688-pole-position">
+		<Description>Qualify for the Grand Prix and win the Pole Position, the number one starting spot. Then go flat out to beat the track record and finish a winner. Pass cars like they're standing still, but watch those curves! One mistake and you could go up in flames.</Description>
+		<UserRating>4.11 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.2 hours</Length>
+		<Developer>GCE</Developer>
+		<Franchise>Pole Position</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Pole Position" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3206</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pole Position (US)-82939_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Rip Off" URL="/vectrex/562926-rip-off">
+		<Description>Beware of scavenging pirates trying to steal your precious fuel cells! The more pirates you destroy, the faster their successors become. Guard your tanks carefully...you are always outnumbered!</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Western Technologies, Inc.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Rip Off" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3102</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rip Off (US)-20338_front.jpg</Image>
+				<Image>Rip Off (US)-20338_back.jpg</Image>
+				<Image>Rip Off (US)-20338_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Rip Off" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rip Off (JP)-591148_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Rip Off" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8129</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rip Off (EU)-20339_front.jpg</Image>
+				<Image>Rip Off (EU)-20339_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Scramble" URL="/vectrex/562927-scramble">
+		<Description>Scramble your fighter and take on the enemy! The base is heavily guarded and you must guide your ship through five levels of enemy defenses before you can destroy your objective.</Description>
+		<UserRating>4.23 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.9 hours</Length>
+		<AKA>Scramble Wars (JP)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Scramble" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3103</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scramble (US)-20340_front.jpg</Image>
+				<Image>Scramble (US)-20340_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Scramble Wars" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scramble Wars (JP)-591149_front.jpg</Image>
+				<Image>Scramble Wars (JP)-591149_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Scramble" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8120</ReleaseProductID>
+			<ReleaseBarCode>5011228120727</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scramble (EU)-20341_front.jpg</Image>
+				<Image>Scramble (EU)-20341_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Scramble Wars" URL="/vectrex/562927-scramble">
+		<Description>Scramble your fighter and take on the enemy! The base is heavily guarded and you must guide your ship through five levels of enemy defenses before you can destroy your objective.</Description>
+		<UserRating>4.23 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.9 hours</Length>
+		<AKA>Scramble Wars (JP)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Scramble" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3103</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scramble (US)-20340_front.jpg</Image>
+				<Image>Scramble (US)-20340_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Scramble Wars" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scramble Wars (JP)-591149_front.jpg</Image>
+				<Image>Scramble Wars (JP)-591149_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Scramble" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8120</ReleaseProductID>
+			<ReleaseBarCode>5011228120727</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scramble (EU)-20341_front.jpg</Image>
+				<Image>Scramble (EU)-20341_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Soccer Football" URL="/vectrex/582062-heads-up">
+		<Description>Challenge another player or take on the computer itself in an action-packed soccer game that demands all the concentration, strategy and split second reactions of the real thing. Realistic, dimensional players move the ball down a scrolling field by passing and kicking the ball to each other--just like the actual game.
+Head Up--all the excitement and challenge at a real soccer tournament complete with the roar of the crowd!</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<AKA>Soccer Football (EU)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Heads-Up" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3203</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Heads-Up (US)-43523_front.jpg</Image>
+				<Image>Heads-Up (US)-43523_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Soccer Football" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8135</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer Football (EU)-43524_front.jpg</Image>
+				<Image>Soccer Football (EU)-43524_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Solar Quest" URL="/vectrex/570145-solar-quest">
+		<Description>How many types of alien vessels will you be able to destroy? Seven different types are after you. You must first destroy them and then attempt to rescure the survivors before they float into the sun. Don't get your ship too close to the sun...it's high temperatures can destroy you.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>13.5 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Solar Quest" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3104</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Solar Quest (US)-30711_front.jpg</Image>
+				<Image>Solar Quest (US)-30711_back.jpg</Image>
+				<Image>Solar Quest (US)-30711_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Solar Quest" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Solar Quest (JP)-591150_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Solar Quest" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8121</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Solar Quest (EU)-30712_front.jpg</Image>
+				<Image>Solar Quest (EU)-30712_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Space Wars" URL="/vectrex/576751-space-wars">
+		<Description>Who says there are no rule in intergalactic warfare. Pick your own--bounce, expanded universe, black hole--as you embark on a deadly dogfight.</Description>
+		<UserRating>3.85 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.9 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Wars" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3105</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Wars (US)-39106_front.jpg</Image>
+				<Image>Space Wars (US)-39106_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Space Wars" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Wars (JP)-591151_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Space Wars" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8130</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Wars (EU)-39107_front.jpg</Image>
+				<Image>Space Wars (EU)-39107_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Spike" URL="/vectrex/576752-spike">
+		<Description>The dastardly villain Spud has kidnapped our heroine, the lovely and oh so innocent Molly, and taken her far away to his secret hideout. "Eek! Help, Spike!"
+Spike, our courageous hero and Molly's true love, races to her rescure. He'll be relying on your skills and split-second timing to help him in his quest to save poor Molly. Maneuver Spike through treacherous obstacles and avoid the dangerous creatures along the way to Spud's hideout. If you're successful, Spike can rescure Molly and the two will live happily ever after--that is until Spud strikes again. "Oh, No!"</Description>
+		<UserRating>3.96 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Spike" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3306</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Spike (US)-39108_front.jpg</Image>
+				<Image>Spike (US)-39108_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Spike" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8137</ReleaseProductID>
+			<ReleaseBarCode>5011228137725</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Spike (EU)-39109_front.jpg</Image>
+				<Image>Spike (EU)-39109_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Spinball" URL="/vectrex/937686-spinball">
+		<Description>Spinball is an Action game, developed by GCE and published by Milton Bradley,  which was released in 1983.</Description>
+		<UserRating>4.36 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.6 hours</Length>
+		<AKA>Flipper Pinball (EU)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Spinball" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>VT 3204</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Spinball (US)-82936_front.jpg</Image>
+				<Image>Spinball (US)-82936_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Flipper Pinball" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8133</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flipper Pinball (EU)-82937_front.jpg</Image>
+				<Image>Flipper Pinball (EU)-82937_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Star Castle" URL="/vectrex/562928-star-castle">
+		<Description>The legend of the Start Castle is indeed famous--a mysterious fortress in a far away galaxy filled with incredible riches and surrounded by revolving wats of shimmering solid gold. Yet no one, until now, has ever actually seen the Castle--or lived to tell about it!
+As you approach, you are overwhelmed with the beauty of the Castle but you suddenly realize that the golden wats hide a deadly arsenal. To survive you must destroy the wats and the powerful Energy Cannon they shield. Perhaps you will be the first to survive the Star Castle's arsenal and prove the legend true. Perhaps Not!</Description>
+		<UserRating>3.89 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8.8 hours</Length>
+		<Developer>Cinematronics</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Star Castle" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3109</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Castle (US)-20344_front.jpg</Image>
+				<Image>Star Castle (US)-20344_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Star Ship" URL="/vectrex/929712-star-trek-the-motion-picture">
+		<Description>Welcome, Captain Kirk, to your command on the Starship Enterprise. Your mission is to seek out and destroy the enemy Klingon Mothership. Travel through nine sectors of space, each more difficult or take a shortcut through the Black Hole. Be careful...the Klingons and Romulans are hiding in space, waiting to destroy you at every turn!</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7.4 hours</Length>
+		<AKA>Star Ship (EU), Harmagedon (JP)</AKA>
+		<Developer>GCE</Developer>
+		<Franchise>Star Trek</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Star Trek: The Motion Picture" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3107</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Trek The Motion Picture (US)-70834_front.jpg</Image>
+				<Image>Star Trek The Motion Picture (US)-70834_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Harmagedon" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Harmagedon (JP)-591147_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Star Ship" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8125</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Ship (EU)-70835_front.jpg</Image>
+				<Image>Star Ship (EU)-70835_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Star Trek: The Motion Picture" URL="/vectrex/929712-star-trek-the-motion-picture">
+		<Description>Welcome, Captain Kirk, to your command on the Starship Enterprise. Your mission is to seek out and destroy the enemy Klingon Mothership. Travel through nine sectors of space, each more difficult or take a shortcut through the Black Hole. Be careful...the Klingons and Romulans are hiding in space, waiting to destroy you at every turn!</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7.4 hours</Length>
+		<AKA>Star Ship (EU), Harmagedon (JP)</AKA>
+		<Developer>GCE</Developer>
+		<Franchise>Star Trek</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Star Trek: The Motion Picture" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3107</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Trek The Motion Picture (US)-70834_front.jpg</Image>
+				<Image>Star Trek The Motion Picture (US)-70834_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Harmagedon" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Harmagedon (JP)-591147_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Star Ship" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8125</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Ship (EU)-70835_front.jpg</Image>
+				<Image>Star Ship (EU)-70835_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Starhawk" URL="/vectrex/937689-starhawk">
+		<Description>Fasten your seatbelt...you're the pilot defending the sovereignty of your planet. Don't blink--you might miss one of the alien vessels.</Description>
+		<UserRating>3.32 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.8 hours</Length>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Starhawk" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3106</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Starhawk (US)-82940_front.jpg</Image>
+				<Image>Starhawk (US)-82940_back.jpg</Image>
+				<Image>Starhawk (US)-82940_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Starhawk" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8127</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Starhawk (EU)-82941_front.jpg</Image>
+				<Image>Starhawk (EU)-82941_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Vectrex" URL="/vectrex/916399-vectrex">
+		<Description>Vectrex is a Hardware game, developed by GCE and published by Milton Bradley,  which was released in 1982.</Description>
+		<UserRating>3.78 / 5</UserRating>
+		<AKA>Vectrex Hardware (US, EU), Computer Vision Kousokusen (JP)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Vectrex Hardware" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>HP3000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Vectrex Hardware" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1983</ReleaseDate>
+		</Release>
+		<Release name="Computer Vision Kousokusen" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Vectrex Hardware" URL="/vectrex/916399-vectrex">
+		<Description>Vectrex is a Hardware game, developed by GCE and published by Milton Bradley,  which was released in 1982.</Description>
+		<UserRating>3.78 / 5</UserRating>
+		<AKA>Vectrex Hardware (US, EU), Computer Vision Kousokusen (JP)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Vectrex Hardware" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>HP3000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Vectrex Hardware" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1983</ReleaseDate>
+		</Release>
+		<Release name="Computer Vision Kousokusen" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Web Warp" URL="/vectrex/562929-web-wars">
+		<Description>Enter a galaxy of the future filled with adventure and danger--a galaxy unlike any you have imagined before.
+You became the Hawk King--a crature capable of incredible speed and power--as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<AKA>Web Warp (EU)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Web Wars" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3108</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Web Wars (US)-20345_front.jpg</Image>
+				<Image>Web Wars (US)-20345_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Web Warp" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8136</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Web Warp (EU)-20346_front.jpg</Image>
+				<Image>Web Warp (EU)-20346_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Vectrex" name="Web Wars" URL="/vectrex/562929-web-wars">
+		<Description>Enter a galaxy of the future filled with adventure and danger--a galaxy unlike any you have imagined before.
+You became the Hawk King--a crature capable of incredible speed and power--as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<AKA>Web Warp (EU)</AKA>
+		<Developer>GCE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Web Wars" region="US">
+			<ReleasePublisher>GCE</ReleasePublisher>
+			<ReleaseProductID>VT 3108</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Web Wars (US)-20345_front.jpg</Image>
+				<Image>Web Wars (US)-20345_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Web Warp" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>8136</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Web Warp (EU)-20346_front.jpg</Image>
+				<Image>Web Warp (EU)-20346_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

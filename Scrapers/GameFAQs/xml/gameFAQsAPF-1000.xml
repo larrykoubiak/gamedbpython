@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="APF-*1000/IM" URL="/apf1000/918383-apf-1000-im">
+		<Description>APF-*1000/IM is a Hardware game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<AKA>APF-*1000/IM Hardware (US), M1000 (US), MP-1000 (US), Imagination Machine (US)</AKA>
+		<Developer>APF</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="APF-*1000/IM Hardware" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>IM-1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="M1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>M-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="MP-1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MP-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Imagination Machine" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MPA-10</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="APF-*1000/IM Hardware" URL="/apf1000/918383-apf-1000-im">
+		<Description>APF-*1000/IM is a Hardware game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>APF</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="APF-*1000/IM Hardware" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>IM-1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="M1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>M-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="MP-1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MP-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Imagination Machine" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MPA-10</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Artist and Easel" URL="/apf1000/942147-artist-and-easel">
+		<Description>Artist and Easel is a Miscellaneous game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Artist and Easel" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Backgammon" URL="/apf1000/926408-backgammon">
+		<Description>Backgammon is a Miscellaneous game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.40 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Backgammon" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1008</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Backgammon (US)-65669_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Baseball" URL="/apf1000/918384-baseball">
+		<Description>Baseball is a Sports game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Baseball" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1006</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/78</ReleaseDate>
+			<ReleaseImages>
+				<Image>Baseball (US)-56779_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Basic Tutor" URL="/apf1000/926409-basic-tutor">
+		<Description>Basic Tutor is a Miscellaneous game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Basic Tutor" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Blackjack" URL="/apf1000/926410-blackjack">
+		<Description>Blackjack is a Miscellaneous game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Blackjack" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1007</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Blackjack (US)-65671_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Bowling / Micro Match" URL="/apf1000/926411-bowling-micro-match">
+		<Description>Bowling / Micro Match is a Sports game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>4.10 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="Bowling / Micro Match" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bowling  Micro Match (US)-65672_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Boxing" URL="/apf1000/926412-boxing">
+		<Description>Put on your gloves! You're about to mix it up in the most pulse-pounding fight of your life! Listen to the THUD of those jabs and power punches. Watch your opponent reel back when you catch him with a good one. Keep bobbing and weaving - and DON'T GET PINNED AGAINST THE ROPES! It's fast and furious fun! And if you stay in training, you'll soon be a champion at BOXING by Activision!</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Boxing / Martial Arts</Genre>
+		<Release name="Boxing" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1012</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Brickdown/Shooting Gallery" URL="/apf1000/926414-brickdown-shooting-gallery">
+		<Description>Brickdown/Shooting Gallery is an Action game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Brickdown/Shooting Gallery" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>BrickdownShooting Gallery (US)-65674_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Casino 1: Roulette / Keno / Slots" URL="/apf1000/926413-casino-1-roulette-keno-slots">
+		<Description>Casino 1: Roulette / Keno / Slots is a Miscellaneous game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Casino 1: Roulette / Keno / Slots" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1009</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Catena" URL="/apf1000/926415-catena">
+		<Description>Catena is a Puzzle game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Catena" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Catena (US)-65675_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Hangman / Tic Tac Toe / Doodle" URL="/apf1000/926418-hangman-tic-tac-toe-doodle">
+		<Description>Hangman / Tic Tac Toe / Doodle is a Miscellaneous game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Hangman / Tic Tac Toe / Doodle" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hangman  Tic Tac Toe  Doodle (US)-65679_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Imagination Machine" URL="/apf1000/918383-apf-1000-im">
+		<Description>APF-*1000/IM is a Hardware game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<AKA>APF-*1000/IM Hardware (US), M1000 (US), MP-1000 (US), Imagination Machine (US)</AKA>
+		<Developer>APF</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="APF-*1000/IM Hardware" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>IM-1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="M1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>M-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="MP-1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MP-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Imagination Machine" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MPA-10</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="M1000" URL="/apf1000/918383-apf-1000-im">
+		<Description>APF-*1000/IM is a Hardware game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<AKA>APF-*1000/IM Hardware (US), M1000 (US), MP-1000 (US), Imagination Machine (US)</AKA>
+		<Developer>APF</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="APF-*1000/IM Hardware" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>IM-1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="M1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>M-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="MP-1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MP-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Imagination Machine" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MPA-10</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="MP-1000" URL="/apf1000/918383-apf-1000-im">
+		<Description>APF-*1000/IM is a Hardware game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<AKA>APF-*1000/IM Hardware (US), M1000 (US), MP-1000 (US), Imagination Machine (US)</AKA>
+		<Developer>APF</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="APF-*1000/IM Hardware" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>IM-1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="M1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>M-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="MP-1000" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MP-1000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Imagination Machine" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MPA-10</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Pinball / Dungeon Hunt / Blockout" URL="/apf1000/926416-pinball-dungeon-hunt-blockout">
+		<Description>Pinball / Dungeon Hunt / Blockout is a Miscellaneous game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Pinball / Dungeon Hunt / Blockout" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1011</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Rocket Patrol" URL="/apf1000/926417-rocket-patrol">
+		<Description>Ever wished you could play a cool retro scifi turn based racing card game?Now you can!Rocket Patrol is a turn based card game you play with your friends, race to be the first to cross the finish line! Play delay cards on your opponent to throw them into an asteroid field, make their engine catch on fire or cause their ships reactor to go offline!From the creators of the world smash hit “Full Deck Solitaire”, Rocket Patrol is a uniquely new take on an old fashioned game.- single player and multiplayer- chat with your friends live in any game- 12 regular play cards, 2 more cards available via in-app-purchase- opportunity to travel to new galaxies!- play against your friends, a fiendish AI or a random opponentA Game Center account is required to play online.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Rocket Patrol" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="Space Destroyers" URL="/apf1000/926419-space-destroyers">
+		<Description>Space Destroyers is an Action game, developed and published by APF,  which was released in 1979.</Description>
+		<UserRating>2.88 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Space Destroyers" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1013</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="APF-*1000/IM" name="UFO / Sea Monster / Break It Down / Rebuild / Shoot" URL="/apf1000/926420-ufo-sea-monster-break-it-down-rebuild-shoot">
+		<Description>UFO / Sea Monster / Break It Down / Rebuild / Shoot is a Miscellaneous game, developed and published by APF,  which was released in 1978.</Description>
+		<UserRating>4.36 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20.3 hours</Length>
+		<Developer>APF</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="UFO / Sea Monster / Break It Down / Rebuild / Shoot" region="US">
+			<ReleasePublisher>APF</ReleasePublisher>
+			<ReleaseProductID>MG1010</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>UFO  Sea Monster  Break It Down  Rebuild  Shoot (US)-65681_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Apple II" name="221B Baker St." URL="/appleii/564133-221b-baker-st">
+		<Description>Sherlock Holmes, Dr. Watson, Irene Adler, and Inspector Lestrade must solve thirty of the most difficult and intriguing cases to ever test their abilities. Each sleuth thinks he or she is the most capable of finding the solutions, so they've decided to turn each mystery into a friendly competition of their skills.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8.7 hours</Length>
+		<Developer>IntelliCreations</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="221B Baker St." region="US">
+			<ReleasePublisher>Datasoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/86</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

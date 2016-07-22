@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="EACA Colour Genie 2000" name="Cosmic Attack" URL="/cg2000/932026-cosmic-attack">
+		<Description>Cosmic Attack is an Action game, developed and published by Kansas Software,  which was released in Asia in 1983.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Kansas Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cosmic Attack" region="AS">
+			<ReleasePublisher>Kansas Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="EACA Colour Genie 2000" name="EACA Colour Genie 2000" URL="/cg2000/934104-eaca-colour-genie-2000">
+		<Description>EACA Colour Genie 2000 is a Hardware game, developed and published by EACA,  which was released in 1982.</Description>
+		<AKA>EACA Colour Genie 2000 Hardware (US)</AKA>
+		<Developer>EACA</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="EACA Colour Genie 2000 Hardware" region="US">
+			<ReleasePublisher>EACA</ReleasePublisher>
+			<ReleaseProductID>EG-2000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="EACA Colour Genie 2000" name="EACA Colour Genie 2000 Hardware" URL="/cg2000/934104-eaca-colour-genie-2000">
+		<Description>EACA Colour Genie 2000 is a Hardware game, developed and published by EACA,  which was released in 1982.</Description>
+		<AKA>EACA Colour Genie 2000 Hardware (US)</AKA>
+		<Developer>EACA</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="EACA Colour Genie 2000 Hardware" region="US">
+			<ReleasePublisher>EACA</ReleasePublisher>
+			<ReleaseProductID>EG-2000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="EACA Colour Genie 2000" name="Invasion" URL="/cg2000/932025-invasion">
+		<Description>Invasion is an Action game, developed and published by Trommeschlaeger Computer GmbH,  which was released in Europe in 1982.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Trommeschlaeger Computer GmbH</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Invasion" region="EU">
+			<ReleasePublisher>Trommeschlaeger Computer GmbH</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="EACA Colour Genie 2000" name="kong32" URL="/cg2000/932024-kong32">
+		<Description>kong32 is an Action game, developed and published by Trommeschlaeger Computer GmbH,  which was released in Europe in 1983.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Trommeschlaeger Computer GmbH</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="kong32" region="EU">
+			<ReleasePublisher>Trommeschlaeger Computer GmbH</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="EACA Colour Genie 2000" name="Lunar Lander" URL="/cg2000/932023-lunar-lander">
+		<Description>Lunar Lander is a Simulation game, developed and published by Trommeschlaeger Computer GmbH,  which was released in Europe in 1983.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Trommeschlaeger Computer GmbH</Developer>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="Lunar Lander" region="EU">
+			<ReleasePublisher>Trommeschlaeger Computer GmbH</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

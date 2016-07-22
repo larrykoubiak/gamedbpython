@@ -1,0 +1,1895 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Odyssey^2" name="4 in 1 Row" URL="/odyssey2/605361-4-in-1-row">
+		<Description>4 in 1 Row is a Puzzle game, developed and published by Philips,  which was released in Europe in 1982.</Description>
+		<UserRating>3.70 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Puzzle &gt; Logic</Genre>
+		<Release name="4 in 1 Row" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>4 in 1 Row (EU)-162817_front.jpg</Image>
+				<Image>4 in 1 Row (EU)-162817_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Abelhas Assassinas!" URL="/odyssey2/587830-killer-bees">
+		<Description>Killer Bees! is an Action game, developed and published by Magnavox,  which was released in 1983.</Description>
+		<UserRating>4.42 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.7 hours</Length>
+		<AKA>Abelhas Assassinas! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Killer Bees!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9447</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Killer Bees! (US)-49990_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Killer Bees" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Abelhas Assassinas!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9447</ReleaseProductID>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Abelhas Assassinas! (SA)-49991_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Acerte Seu Numero!" URL="/odyssey2/587826-ive-got-your-number">
+		<Description>I've Got Your Number! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.85 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="I've Got Your Number!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9413</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>I've Got Your Number! (US)-49982_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Playschool Maths" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+		<Release name="Acerte Seu Número!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9413</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Acoplagem! / Resgate!" URL="/odyssey2/587823-out-of-this-world-helicopter-rescue">
+		<Description>Out of this World! / Helicopter Rescue! is an Action game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>4.67 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6.3 hours</Length>
+		<AKA>Acoplagem! / Resgate! (SA), Helicopter Rescue (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Out of this World! / Helicopter Rescue!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9419</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_front.jpg</Image>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_back.jpg</Image>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Helicopter Rescue" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>27159</ReleaseProductID>
+			<ReleaseBarCode>862227159209</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Acoplagem! / Resgate!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9419</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Acoplagem!  Resgate! (SA)-49980_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Acrobatas!" URL="/odyssey2/587837-pt-barnums-acrobats">
+		<Description>P.T. Barnum's Acrobats! is an Action game, developed by Magnavox and published by Philips,  which was released in Europe in 1981.</Description>
+		<UserRating>3.11 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<AKA>Jumping Acrobats (EU), Acrobatas! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jumping Acrobats" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jumping Acrobats (EU)-49999_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="P.T. Barnum's Acrobats!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9443</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>P.T. Barnum's Acrobats! (US)-50000_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Acrobatas!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9443</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Acrobatas! (SA)-50001_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Adventures of the Pink Panther" URL="/odyssey2/587840-adventures-of-the-pink-panther">
+		<Description>Adventures of the Pink Panther is an Action game, developed and published by Magnavox,  which was cancelled before it was released.</Description>
+		<Developer>Magnavox</Developer>
+		<Franchise>Pink Panther</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Adventures of the Pink Panther" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Air Battle!" URL="/odyssey2/934368-air-battle">
+		<Description>Air Battle! is a Simulation game, developed by Magnavox and published by Philips,  which was released in Europe in 1983.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Simulation &gt; Flight &gt; Combat</Genre>
+		<Release name="Air Battle!" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>58</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Air Battle! (EU)-78245_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Alien Invaders--Plus!" URL="/odyssey2/587797-alien-invaders-plus">
+		<Description>Alien Invaders--Plus! is an Action game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<AKA>Alien! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Alien Invaders--Plus!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AA9428</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Invaders--Plus! (US)-49954_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Alien!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Alien!" URL="/odyssey2/587797-alien-invaders-plus">
+		<Description>Alien Invaders--Plus! is an Action game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<AKA>Alien! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Alien Invaders--Plus!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AA9428</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Invaders--Plus! (US)-49954_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Alien!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Alpine Skiing!" URL="/odyssey2/587798-alpine-skiing">
+		<Description>Alpine Skiing! is a Sports game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.55 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Franchise>Alpine Ski Racing</Franchise>
+		<Genre>Sports &gt; Individual &gt; Ski / Snowboard</Genre>
+		<Release name="Alpine Skiing!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9418</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alpine Skiing! (US)-49956_front.jpg</Image>
+				<Image>Alpine Skiing! (US)-49956_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Armored Encounter! / Sub Chase!" URL="/odyssey2/587851-armored-encounter-sub-chase">
+		<Description>Armored Encounter! / Sub Chase! is an Action game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>4.21 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Armored Encounter! / Sub Chase!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9403</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Armored Encounter!  Sub Chase! (US)-50018_front.jpg</Image>
+				<Image>Armored Encounter!  Sub Chase! (US)-50018_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Atlantis" URL="/odyssey2/587800-atlantis">
+		<Description>Only you can save the lost city of Atlantis, one of the greatest civilizations man has ever known. You command the three defense posts that guard the skies. As the dreaded Gorgon Fleet descends on Atlantis, you must destroy them, or perish! One or two players can help defend the submerged city of Atlantis. The longer you last, the faster they come. Some enemy ships fly slowly but steadily over Atlantis. Others streak across the sky. Knock out a Bandit Bomber and annihilate its entire Gorgon squad! Blitz them!</Description>
+		<UserRating>3.69 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Atlantis" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>720076-1A</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Atlantis (US)-38686_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Attack of the Timelord!" URL="/odyssey2/587801-attack-of-the-timelord">
+		<Description>Attack of the Timelord! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.95 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<AKA>Terrahawks (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Attack of the Timelord!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9445</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Attack of the Timelord! (US)-49957_front.jpg</Image>
+				<Image>Attack of the Timelord! (US)-49957_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Terrahawks" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>27151</ReleaseProductID>
+			<ReleaseBarCode>8710895001366</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Bacara!" URL="/odyssey2/587804-las-vegas-blackjack">
+		<Description>Las Vegas Blackjack! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Las Vegas Blackjack!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9401</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Las Vegas Blackjack! (US)-49961_front.jpg</Image>
+				<Image>Las Vegas Blackjack! (US)-49961_back.jpg</Image>
+				<Image>Las Vegas Blackjack! (US)-49961_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Bacara!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bacara! (SA)-49962_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Baseball!" URL="/odyssey2/587802-baseball">
+		<Description>Baseball! is a Sports game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>7.6 hours</Length>
+		<AKA>Basebol! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Baseball!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9408</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Baseball! (US)-49958_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Basebol!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Basebol!" URL="/odyssey2/587802-baseball">
+		<Description>Baseball! is a Sports game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>7.6 hours</Length>
+		<AKA>Basebol! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Baseball!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9408</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Baseball! (US)-49958_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Basebol!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Batalha Medieval!" URL="/odyssey2/587846-smithereens">
+		<Description>Smithereens! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<AKA>Batalha Medieval! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Smithereens!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9441</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Smithereens! (US)-50014_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Batalha Medieval!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Batalha Medieval! (SA)-50015_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Bilhar!" URL="/odyssey2/587841-pocket-billiards">
+		<Description>Pocket Billiards! is a Sports game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>3.13 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<AKA>Bilhar! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; Individual &gt; Billiards</Genre>
+		<Release name="Pocket Billiards!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9424</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pocket Billiards! (US)-50005_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Bilhar!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bilhar! (SA)-50006_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Blockout! / Breakdown!" URL="/odyssey2/587807-blockout-breakdown">
+		<Description>Blockout! / Breakdown! is an Action game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Blockout! / Breakdown!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AA9427</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Blockout!  Breakdown! (US)-49963_front.jpg</Image>
+				<Image>Blockout!  Breakdown! (US)-49963_back.jpg</Image>
+				<Image>Blockout!  Breakdown! (US)-49963_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Bowling! / Basketball!" URL="/odyssey2/587803-bowling-basketball">
+		<Description>Bowling! / Basketball! is a Sports game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Bowling! / Basketball!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9404</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bowling!  Basketball! (US)-49960_front.jpg</Image>
+				<Image>Bowling!  Basketball! (US)-49960_back.jpg</Image>
+				<Image>Bowling!  Basketball! (US)-49960_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Casino Slot Machine!" URL="/odyssey2/587809-casino-slot-machine">
+		<Description>Casino Slot Machine! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Casino Slot Machine!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AA9426</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Casino Slot Machine! (US)-49964_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Chinese Logic" URL="/odyssey2/605363-chinese-logic">
+		<Description>Chinese Logic is a Puzzle game, developed and published by Philips,  which was released in Europe in 1980.</Description>
+		<UserRating>0.88 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>Philips</Developer>
+		<Genre>Puzzle &gt; Logic</Genre>
+		<Release name="Chinese Logic" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chinese Logic (EU)-162819_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Comando Noturno!" URL="/odyssey2/712871-comando-noturno">
+		<Description>Comando Noturno! is an Action game, developed and published by Philips,  which was released in South America in 1985.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Comando Noturno!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Come-Come!" URL="/odyssey2/587828-k-cs-krazy-chase">
+		<Description>K. C.'s Krazy Chase! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.6 hours</Length>
+		<AKA>Come-Come! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="K. C.'s Krazy Chase!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9442</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>K. C.'s Krazy Chase! (US)-49985_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Come-Come!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Come-Come! (SA)-49986_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Computer Golf!" URL="/odyssey2/587810-computer-golf">
+		<Description>Computer Golf! is a Sports game, developed and published by Magnovox,  which was released in 1978.</Description>
+		<UserRating>3.40 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Magnovox</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Computer Golf!" region="US">
+			<ReleasePublisher>Magnovox</ReleasePublisher>
+			<ReleaseProductID>AJ9410</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Computer Golf! (US)-49965_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Computer Intro!" URL="/odyssey2/587811-computer-intro">
+		<Description>Computer Intro! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>2.63 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Computer Intro!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9406</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Computer Intro! (US)-49969_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Conquest of the World" URL="/odyssey2/587812-conquest-of-the-world">
+		<Description>Conquest of the World is a Strategy game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.2 hours</Length>
+		<AKA>A Conquista do Mundo! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Conquest of the World" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AB9431</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Conquest of the World (US)-49966_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Conquest of the World" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="A Conquista do Mundo!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9431</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Conquista do Mundo!, A" URL="/odyssey2/587812-conquest-of-the-world">
+		<Description>Conquest of the World is a Strategy game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.2 hours</Length>
+		<AKA>A Conquista do Mundo! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Conquest of the World" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AB9431</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Conquest of the World (US)-49966_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Conquest of the World" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="A Conquista do Mundo!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9431</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Cosmic Conflict!" URL="/odyssey2/587813-cosmic-conflict">
+		<Description>Cosmic Conflict! is a Simulation game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.65 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="Cosmic Conflict!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9411</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cosmic Conflict! (US)-49970_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Demon Attack" URL="/odyssey2/587815-demon-attack">
+		<Description>Devastating waves of cosmic creatures attack from above. Blast them with your laser cannon. Careful! These foes are tricky. When hit, some split in two. They keep coming. The challenge never lets up as you fight back for the ultimate victory.</Description>
+		<UserRating>1.13 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Demon Attack" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>710075-1A</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Demon Attack" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Didi Na Mina Encantada!" URL="/odyssey2/587839-pick-axe-pete">
+		<Description>Pick Axe Pete! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>4.21 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Pick Axe Pete!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9437</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pick Axe Pete! (US)-50003_front.jpg</Image>
+				<Image>Pick Axe Pete! (US)-50003_back.jpg</Image>
+				<Image>Pick Axe Pete! (US)-50003_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Didi Na Mina Encantada!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Didi Na Mina Encantada! (SA)-50004_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Dynasty!" URL="/odyssey2/587817-dynasty">
+		<Description>Dynasty! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>2.89 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.5 hours</Length>
+		<AKA>Samurai (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Dynasty!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9421</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dynasty! (US)-49974_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Samurai" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>15</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Samurai (EU)-49975_front.jpg</Image>
+				<Image>Samurai (EU)-49975_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Electronic Table Soccer!" URL="/odyssey2/587819-electronic-table-soccer">
+		<Description>Electronic Table Soccer! is a Sports game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>3.31 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Electronic Table Soccer!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AA9423</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Electronic Table Soccer! (US)-49973_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Em Busca dos Aneis Perdidos" URL="/odyssey2/587843-the-quest-for-the-rings">
+		<Description>The Quest for the Rings is an Action game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>3.79 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.7 hours</Length>
+		<AKA>Em Busca dos Aneis Perdidos (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The Quest for the Rings" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9429</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Quest for the Rings (US)-50010_front.jpg</Image>
+				<Image>The Quest for the Rings (US)-50010_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Em Busca dos Aneis Perdidos" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Football!" URL="/odyssey2/587820-football">
+		<Description>Football! is a Sports game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.59 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="Football!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9402</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Football! (US)-49977_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Formula 1!/Interlagos!/Crypto-Logic!" URL="/odyssey2/587814-speedway-spin-out-crypto-logic">
+		<Description>Speedway! / Spin-Out! / Crypto-Logic! is an Action game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.53 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.9 hours</Length>
+		<AKA>Formula 1!/Interlagos!/Crypto-Logic! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Speedway! / Spin-Out! / Crypto-Logic!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9400</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Speedway!  Spin-Out!  Crypto-Logic! (US)-49971_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Formula 1!/Interlagos!/Crypto-Logic!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>AJ9400</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Freedom Fighters!" URL="/odyssey2/587821-freedom-fighters">
+		<Description>Freedom Fighters! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.65 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.1 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Freedom Fighters!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9436</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Freedom Fighters! (US)-49978_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Frogger" URL="/odyssey2/915541-frogger">
+		<Description>It's tough to be a frog! Life isn't all lazy days and lily pads--it abounds with dangers. Can you help Frogger survive some perils and spring him home to safety? First hop your frogs across a busy highway. Then cross a raging river to reach the safety of home. But your frogs will have to leap away from one danger after another before they're safe. Watch out for the tricky diving turtles...jump away from the frog-eating snakes...hop from the jaws of the hungry alligators!</Description>
+		<UserRating>2.94 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Parker Brothers</Developer>
+		<Franchise>Frogger</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Frogger" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Great Wall Street Fortune Hunt, The" URL="/odyssey2/587822-the-great-wall-street-fortune-hunt">
+		<Description>The Great Wall Street Fortune Hunt is a Strategy game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.21 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Strategy &gt; Management &gt; Business / Tycoon</Genre>
+		<Release name="The Great Wall Street Fortune Hunt" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9434</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Great Wall Street Fortune Hunt (US)-49976_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Gunfighter" URL="/odyssey2/587844-showdown-in-2100-ad">
+		<Description>Showdown in 2100 A.D. is an Action game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.04 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<AKA>Gunfighter (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Showdown in 2100 A.D." region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9416</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Showdown in 2100 A.D. (US)-50012_front.jpg</Image>
+				<Image>Showdown in 2100 A.D. (US)-50012_back.jpg</Image>
+				<Image>Showdown in 2100 A.D. (US)-50012_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Gunfighter" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>14</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gunfighter (EU)-50013_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Helicopter Rescue" URL="/odyssey2/587823-out-of-this-world-helicopter-rescue">
+		<Description>Out of this World! / Helicopter Rescue! is an Action game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>4.67 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6.3 hours</Length>
+		<AKA>Acoplagem! / Resgate! (SA), Helicopter Rescue (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Out of this World! / Helicopter Rescue!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9419</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_front.jpg</Image>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_back.jpg</Image>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Helicopter Rescue" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>27159</ReleaseProductID>
+			<ReleaseBarCode>862227159209</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Acoplagem! / Resgate!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9419</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Acoplagem!  Resgate! (SA)-49980_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Hockey! / Soccer!" URL="/odyssey2/587847-hockey-soccer">
+		<Description>Hockey! / Soccer! is a Sports game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.61 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Hockey! / Soccer!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9420</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hockey!  Soccer! (US)-50016_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="I've Got Your Number!" URL="/odyssey2/587826-ive-got-your-number">
+		<Description>I've Got Your Number! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.85 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="I've Got Your Number!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9413</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>I've Got Your Number! (US)-49982_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Playschool Maths" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+		<Release name="Acerte Seu Número!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9413</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Invaders from Hyperspace!" URL="/odyssey2/587825-invaders-from-hyperspace">
+		<Description>Invaders from Hyperspace! is an Action game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.59 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Invaders from Hyperspace!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9414</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Invaders from Hyperspace! (US)-49981_front.jpg</Image>
+				<Image>Invaders from Hyperspace! (US)-49981_back.jpg</Image>
+				<Image>Invaders from Hyperspace! (US)-49981_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Jopac" URL="/odyssey2/916389-odyssey2">
+		<Description>Odyssey^2 is a Hardware game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<AKA>Odyssey^2 Hardware (US), Videopac G7000 (EU), Jopac (EU), Videopac + G7400 (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Odyssey^2 Hardware" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>BK-7600-GY02</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Odyssey^2 Hardware (US)-307777_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Videopac G7000" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Odyssey^2" region="JP">
+			<ReleasePublisher>Kouton Trading</ReleasePublisher>
+			<ReleaseDate>December 1982</ReleaseDate>
+		</Release>
+		<Release name="Jopac" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Videopac + G7400" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Jumping Acrobats" URL="/odyssey2/587837-pt-barnums-acrobats">
+		<Description>P.T. Barnum's Acrobats! is an Action game, developed by Magnavox and published by Philips,  which was released in Europe in 1981.</Description>
+		<UserRating>3.11 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<AKA>Jumping Acrobats (EU), Acrobatas! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jumping Acrobats" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jumping Acrobats (EU)-49999_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="P.T. Barnum's Acrobats!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9443</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>P.T. Barnum's Acrobats! (US)-50000_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Acrobatas!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9443</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Acrobatas! (SA)-50001_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="K. C. Munchkin!" URL="/odyssey2/587827-k-c-munchkin">
+		<Description>K. C. Munchkin! is an Action game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>3.69 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>23.2 hours</Length>
+		<AKA>Munchkin (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="K. C. Munchkin!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9435</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>K. C. Munchkin! (US)-49987_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Munchkin" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>38</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Munchkin (EU)-49988_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="K. C.'s Krazy Chase!" URL="/odyssey2/587828-k-cs-krazy-chase">
+		<Description>K. C.'s Krazy Chase! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.6 hours</Length>
+		<AKA>Come-Come! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="K. C.'s Krazy Chase!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9442</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>K. C.'s Krazy Chase! (US)-49985_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Come-Come!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Come-Come! (SA)-49986_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Keyboard Creations!" URL="/odyssey2/587829-keyboard-creations">
+		<Description>Keyboard Creations! is a Puzzle game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Keyboard Creations!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9433</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Killer Bees!" URL="/odyssey2/587830-killer-bees">
+		<Description>Killer Bees! is an Action game, developed and published by Magnavox,  which was released in 1983.</Description>
+		<UserRating>4.42 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.7 hours</Length>
+		<AKA>Abelhas Assassinas! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Killer Bees!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9447</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Killer Bees! (US)-49990_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Killer Bees" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Abelhas Assassinas!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9447</ReleaseProductID>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Abelhas Assassinas! (SA)-49991_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="A Labyrinth Game / Supermind" URL="/odyssey2/605362-a-labyrinth-game-supermind">
+		<Description>A Labyrinth Game / Supermind is a Puzzle game, developed and published by Philips,  which was released in Europe in 1981.</Description>
+		<UserRating>2.79 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Puzzle &gt; Logic</Genre>
+		<Release name="A Labyrinth Game / Supermind" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>A Labyrinth Game  Supermind (EU)-162818_front.jpg</Image>
+				<Image>A Labyrinth Game  Supermind (EU)-162818_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Las Vegas Blackjack!" URL="/odyssey2/587804-las-vegas-blackjack">
+		<Description>Las Vegas Blackjack! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Las Vegas Blackjack!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9401</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Las Vegas Blackjack! (US)-49961_front.jpg</Image>
+				<Image>Las Vegas Blackjack! (US)-49961_back.jpg</Image>
+				<Image>Las Vegas Blackjack! (US)-49961_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Bacara!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bacara! (SA)-49962_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Loony Balloon!" URL="/odyssey2/934335-loony-balloon">
+		<Description>Loony Balloon! is an Action game, developed and published by Magnavox,  which was released in Europe in 1983.</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Loony Balloon!" region="EU">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>54</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Loony Balloon! (EU)-78190_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Macacos Me Mordam!" URL="/odyssey2/587834-monkeyshines">
+		<Description>Monkeyshines! is a Puzzle game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>2.35 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<AKA>Macacos Me Mordam! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Monkeyshines!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AB9432</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Monkeyshines! (US)-49996_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Macacos Me Mordam!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Macacos Me Mordam! (SA)-49997_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Matchmaker! / Buzzword! / Logix!" URL="/odyssey2/587831-matchmaker-buzzword-logix">
+		<Description>Matchmaker! / Buzzword! / Logix! is a Puzzle game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.56 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<AKA>Pairs / Space Rendezvous / Logic (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Matchmaker! / Buzzword! / Logix!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9407</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Matchmaker!  Buzzword!  Logix! (US)-49993_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Pairs / Space Rendezvous / Logic" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>2</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pairs  Space Rendezvous  Logic (EU)-49994_front.jpg</Image>
+				<Image>Pairs  Space Rendezvous  Logic (EU)-49994_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Math-a-Magic! / Echo!" URL="/odyssey2/587833-math-a-magic-echo">
+		<Description>Math-a-Magic! / Echo! is an Action game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.78 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Math-a-Magic! / Echo!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9405</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Math-a-Magic!  Echo! (US)-49998_front.jpg</Image>
+				<Image>Math-a-Magic!  Echo! (US)-49998_back.jpg</Image>
+				<Image>Math-a-Magic!  Echo! (US)-49998_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Monkeyshines!" URL="/odyssey2/587834-monkeyshines">
+		<Description>Monkeyshines! is a Puzzle game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>2.35 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<AKA>Macacos Me Mordam! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Monkeyshines!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AB9432</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Monkeyshines! (US)-49996_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Macacos Me Mordam!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Macacos Me Mordam! (SA)-49997_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Munchkin" URL="/odyssey2/587827-k-c-munchkin">
+		<Description>K. C. Munchkin! is an Action game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>3.69 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>23.2 hours</Length>
+		<AKA>Munchkin (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="K. C. Munchkin!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9435</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>K. C. Munchkin! (US)-49987_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Munchkin" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>38</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Munchkin (EU)-49988_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Nimble Numbers Ned" URL="/odyssey2/587835-nimble-numbers-ned">
+		<Description>Nimble Numbers Ned is a Miscellaneous game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Nimble Numbers Ned" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9439</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nimble Numbers Ned (US)-49995_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Odyssey^2" URL="/odyssey2/916389-odyssey2">
+		<Description>Odyssey^2 is a Hardware game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<AKA>Odyssey^2 Hardware (US), Videopac G7000 (EU), Jopac (EU), Videopac + G7400 (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Odyssey^2 Hardware" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>BK-7600-GY02</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Odyssey^2 Hardware (US)-307777_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Videopac G7000" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Odyssey^2" region="JP">
+			<ReleasePublisher>Kouton Trading</ReleasePublisher>
+			<ReleaseDate>December 1982</ReleaseDate>
+		</Release>
+		<Release name="Jopac" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Videopac + G7400" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Odyssey^2 Hardware" URL="/odyssey2/916389-odyssey2">
+		<Description>Odyssey^2 is a Hardware game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<AKA>Odyssey^2 Hardware (US), Videopac G7000 (EU), Jopac (EU), Videopac + G7400 (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Odyssey^2 Hardware" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>BK-7600-GY02</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Odyssey^2 Hardware (US)-307777_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Videopac G7000" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Odyssey^2" region="JP">
+			<ReleasePublisher>Kouton Trading</ReleasePublisher>
+			<ReleaseDate>December 1982</ReleaseDate>
+		</Release>
+		<Release name="Jopac" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Videopac + G7400" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Out of this World! / Helicopter Rescue!" URL="/odyssey2/587823-out-of-this-world-helicopter-rescue">
+		<Description>Out of this World! / Helicopter Rescue! is an Action game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>4.67 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6.3 hours</Length>
+		<AKA>Acoplagem! / Resgate! (SA), Helicopter Rescue (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Out of this World! / Helicopter Rescue!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9419</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_front.jpg</Image>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_back.jpg</Image>
+				<Image>Out of this World!  Helicopter Rescue! (US)-49979_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Helicopter Rescue" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>27159</ReleaseProductID>
+			<ReleaseBarCode>862227159209</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Acoplagem! / Resgate!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9419</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Acoplagem!  Resgate! (SA)-49980_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="P.T. Barnum's Acrobats!" URL="/odyssey2/587837-pt-barnums-acrobats">
+		<Description>P.T. Barnum's Acrobats! is an Action game, developed by Magnavox and published by Philips,  which was released in Europe in 1981.</Description>
+		<UserRating>3.11 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<AKA>Jumping Acrobats (EU), Acrobatas! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jumping Acrobats" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jumping Acrobats (EU)-49999_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="P.T. Barnum's Acrobats!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9443</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>P.T. Barnum's Acrobats! (US)-50000_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Acrobatas!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9443</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Acrobatas! (SA)-50001_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Pachinko!" URL="/odyssey2/587838-pachinko">
+		<Description>Pachinko! is an Action game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pachinko!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AA9425</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pachinko! (US)-50002_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Pairs / Space Rendezvous / Logic" URL="/odyssey2/587831-matchmaker-buzzword-logix">
+		<Description>Matchmaker! / Buzzword! / Logix! is a Puzzle game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.56 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<AKA>Pairs / Space Rendezvous / Logic (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Matchmaker! / Buzzword! / Logix!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9407</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Matchmaker!  Buzzword!  Logix! (US)-49993_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Pairs / Space Rendezvous / Logic" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>2</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pairs  Space Rendezvous  Logic (EU)-49994_front.jpg</Image>
+				<Image>Pairs  Space Rendezvous  Logic (EU)-49994_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Pick Axe Pete!" URL="/odyssey2/587839-pick-axe-pete">
+		<Description>Pick Axe Pete! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>4.21 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Pick Axe Pete!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9437</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pick Axe Pete! (US)-50003_front.jpg</Image>
+				<Image>Pick Axe Pete! (US)-50003_back.jpg</Image>
+				<Image>Pick Axe Pete! (US)-50003_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Didi Na Mina Encantada!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Didi Na Mina Encantada! (SA)-50004_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Playschool Maths" URL="/odyssey2/587826-ive-got-your-number">
+		<Description>I've Got Your Number! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.85 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="I've Got Your Number!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9413</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>I've Got Your Number! (US)-49982_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Playschool Maths" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+		<Release name="Acerte Seu Número!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>06AV9413</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Pocket Billiards!" URL="/odyssey2/587841-pocket-billiards">
+		<Description>Pocket Billiards! is a Sports game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>3.13 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<AKA>Bilhar! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; Individual &gt; Billiards</Genre>
+		<Release name="Pocket Billiards!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9424</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pocket Billiards! (US)-50005_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Bilhar!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bilhar! (SA)-50006_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Popeye" URL="/odyssey2/915542-popeye">
+		<Description>Popeye is an Action game, developed by Magnavox and published by Parker Brothers,  which was released in 1980.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Franchise>Popeye</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Popeye" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Power Lords" URL="/odyssey2/587842-power-lords">
+		<Description>Power Lords is an Action game, developed and published by Magnavox,  which was released in 1983.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Power Lords" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9448</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Power Lords (US)-50008_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Quest for the Rings, The" URL="/odyssey2/587843-the-quest-for-the-rings">
+		<Description>The Quest for the Rings is an Action game, developed and published by Magnavox,  which was released in 1981.</Description>
+		<UserRating>3.79 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.7 hours</Length>
+		<AKA>Em Busca dos Aneis Perdidos (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The Quest for the Rings" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9429</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Quest for the Rings (US)-50010_front.jpg</Image>
+				<Image>The Quest for the Rings (US)-50010_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Em Busca dos Aneis Perdidos" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Samurai" URL="/odyssey2/587817-dynasty">
+		<Description>Dynasty! is a Miscellaneous game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>2.89 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.5 hours</Length>
+		<AKA>Samurai (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Dynasty!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9421</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dynasty! (US)-49974_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Samurai" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>15</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Samurai (EU)-49975_front.jpg</Image>
+				<Image>Samurai (EU)-49975_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Showdown in 2100 A.D." URL="/odyssey2/587844-showdown-in-2100-ad">
+		<Description>Showdown in 2100 A.D. is an Action game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.04 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<AKA>Gunfighter (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Showdown in 2100 A.D." region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9416</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Showdown in 2100 A.D. (US)-50012_front.jpg</Image>
+				<Image>Showdown in 2100 A.D. (US)-50012_back.jpg</Image>
+				<Image>Showdown in 2100 A.D. (US)-50012_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Gunfighter" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>14</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gunfighter (EU)-50013_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Sid the Spellbinder" URL="/odyssey2/587845-sid-the-spellbinder">
+		<Description>Sid the Spellbinder is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.3 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Sid the Spellbinder" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9438</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sid the Spellbinder (US)-50009_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Smithereens!" URL="/odyssey2/587846-smithereens">
+		<Description>Smithereens! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<AKA>Batalha Medieval! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Smithereens!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9441</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Smithereens! (US)-50014_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Batalha Medieval!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Batalha Medieval! (SA)-50015_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Space Monster" URL="/odyssey2/605364-space-monster">
+		<Description>Space Monster is an Action game, developed and published by Philips,  which was released in Europe in 1980.</Description>
+		<UserRating>4.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Space Monster" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Monster (EU)-162820_front.jpg</Image>
+				<Image>Space Monster (EU)-162820_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Speedway! / Spin-Out! / Crypto-Logic!" URL="/odyssey2/587814-speedway-spin-out-crypto-logic">
+		<Description>Speedway! / Spin-Out! / Crypto-Logic! is an Action game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.53 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.9 hours</Length>
+		<AKA>Formula 1!/Interlagos!/Crypto-Logic! (SA)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Speedway! / Spin-Out! / Crypto-Logic!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9400</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Speedway!  Spin-Out!  Crypto-Logic! (US)-49971_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Formula 1!/Interlagos!/Crypto-Logic!" region="SA">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>AJ9400</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Stone Sling" URL="/odyssey2/587850-stone-sling">
+		<Description>Stone Sling is an Action game, developed and published by Philips,  which was released in Europe in 1981.</Description>
+		<UserRating>4.21 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Stone Sling" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>20</ReleaseProductID>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Stone Sling (EU)-319055_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Take the Money and Run!" URL="/odyssey2/587852-take-the-money-and-run">
+		<Description>Take the Money and Run! is an Action game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Take the Money and Run!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AJ9412</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Take the Money and Run! (US)-50019_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Terrahawks" URL="/odyssey2/587801-attack-of-the-timelord">
+		<Description>Attack of the Timelord! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.95 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<AKA>Terrahawks (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Attack of the Timelord!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9445</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Attack of the Timelord! (US)-49957_front.jpg</Image>
+				<Image>Attack of the Timelord! (US)-49957_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Terrahawks" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>27151</ReleaseProductID>
+			<ReleaseBarCode>8710895001366</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Thunderball!" URL="/odyssey2/587853-thunderball">
+		<Description>Thunderball! is an Action game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.31 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Thunderball!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9415</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Thunderball! (US)-50017_front.jpg</Image>
+				<Image>Thunderball! (US)-50017_back.jpg</Image>
+				<Image>Thunderball! (US)-50017_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Turtles" URL="/odyssey2/587854-turtles">
+		<Description>Turtles is an Action game, developed and published by Magnavox,  which was released in 1983.</Description>
+		<UserRating>4.38 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>3.5 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Turtles" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9446</ReleaseProductID>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Turtles (US)-50020_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Type &amp; Tell" URL="/odyssey2/587855-type-and-tell">
+		<Description>Type &amp; Tell is a Miscellaneous game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.56 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Type &amp; Tell" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AC9440</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Type &amp; Tell (US)-50021_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="UFO!" URL="/odyssey2/587856-ufo">
+		<Description>UFO! is an Action game, developed and published by Magnavox,  which was released in 1982.</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="UFO!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AB9430</ReleaseProductID>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>UFO! (US)-50022_front.jpg</Image>
+				<Image>UFO! (US)-50022_back.jpg</Image>
+				<Image>UFO! (US)-50022_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Videopac + G7400" URL="/odyssey2/916389-odyssey2">
+		<Description>Odyssey^2 is a Hardware game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<AKA>Odyssey^2 Hardware (US), Videopac G7000 (EU), Jopac (EU), Videopac + G7400 (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Odyssey^2 Hardware" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>BK-7600-GY02</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Odyssey^2 Hardware (US)-307777_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Videopac G7000" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Odyssey^2" region="JP">
+			<ReleasePublisher>Kouton Trading</ReleasePublisher>
+			<ReleaseDate>December 1982</ReleaseDate>
+		</Release>
+		<Release name="Jopac" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Videopac + G7400" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Videopac G7000" URL="/odyssey2/916389-odyssey2">
+		<Description>Odyssey^2 is a Hardware game, developed and published by Magnavox,  which was released in 1978.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<AKA>Odyssey^2 Hardware (US), Videopac G7000 (EU), Jopac (EU), Videopac + G7400 (EU)</AKA>
+		<Developer>Magnavox</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Odyssey^2 Hardware" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>BK-7600-GY02</ReleaseProductID>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Odyssey^2 Hardware (US)-307777_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Videopac G7000" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1978</ReleaseDate>
+		</Release>
+		<Release name="Odyssey^2" region="JP">
+			<ReleasePublisher>Kouton Trading</ReleasePublisher>
+			<ReleaseDate>December 1982</ReleaseDate>
+		</Release>
+		<Release name="Jopac" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+		<Release name="Videopac + G7400" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="Volleyball!" URL="/odyssey2/587857-volleyball">
+		<Description>Volleyball! is a Sports game, developed and published by Magnavox,  which was released in 1980.</Description>
+		<UserRating>4.39 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Sports &gt; Team &gt; Volleyball</Genre>
+		<Release name="Volleyball!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AA9422</ReleaseProductID>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Volleyball! (US)-50023_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Odyssey^2" name="War of Nerves!" URL="/odyssey2/587858-war-of-nerves">
+		<Description>War of Nerves! is a Strategy game, developed and published by Magnavox,  which was released in 1979.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Magnavox</Developer>
+		<Genre>Strategy &gt; Real-Time &gt; General</Genre>
+		<Release name="War of Nerves!" region="US">
+			<ReleasePublisher>Magnavox</ReleasePublisher>
+			<ReleaseProductID>AK9417</ReleaseProductID>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>War of Nerves! (US)-50024_front.jpg</Image>
+				<Image>War of Nerves! (US)-50024_back.jpg</Image>
+				<Image>War of Nerves! (US)-50024_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

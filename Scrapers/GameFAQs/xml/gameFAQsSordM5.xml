@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Sord M5" name="CGL M5" URL="/sordm5/946855-sord-m5">
+		<Description>Sord M5 is a Hardware game, developed by Sord Computer Corporation and published by Computer Games Limited,  which was released in Europe in 1982.</Description>
+		<UserRating>1.17 / 5</UserRating>
+		<AKA>CGL M5 (EU)</AKA>
+		<Developer>Sord Computer Corporation</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="CGL M5" region="EU">
+			<ReleasePublisher>Computer Games Limited</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Sord M5" region="JP">
+			<ReleasePublisher>Sord Computer Corporation</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Dragon Attack" URL="/sordm5/946866-dragon-attack">
+		<Description>Dragon Attack is an Action game, developed and published by Takara,  which was released in Japan in 1983.</Description>
+		<UserRating>3.22 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Takara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Dragon Attack" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Eskimon" URL="/sordm5/184621-eskimon">
+		<Description>Eskimon is an Action game, developed and published by Takara,  which was released in Japan in 1983.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Developer>Takara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Eskimon" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Eskimon (JP)-591115_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Fruit Search" URL="/sordm5/947251-fruit-search">
+		<Description>Fruit Search is a Puzzle game, developed and published by Takara,  which was released in Japan in 1983.</Description>
+		<UserRating>4.22 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Takara</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Fruit Search" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Heavy Boxing" URL="/sordm5/947252-heavy-boxing">
+		<Description>Heavy Boxing is a Sports game, developed and published by Takara,  which was released in Japan in 1983.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Takara</Developer>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Boxing / Martial Arts</Genre>
+		<Release name="Heavy Boxing" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Moon Patrol" URL="/sordm5/611643-moon-patrol">
+		<Description>Hop into your Moon Buggy and test yourself on a lunar obstacle course. You'll fight off hostile aliens, jump over huge crates and landmines, and blast moonrocks from your path. And as if that weren't enough, you'll encounter alien tanks and missiles that'll blow you into moondust if you aren't careful!</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Takara</Developer>
+		<Franchise>Moon Patrol</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Moon Patrol" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Moon Patrol (JP)-170159_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Pooyan" URL="/sordm5/611644-pooyan">
+		<Description>One day, in the middle of a forest, a group of fierce Wolves attacked the House where a Mother Pig (Mama) and her little Piglets (Pooyans) were living together peacefully. To protect her Pooyans, Mama fought back using arrows and bait, but despite all of her efforts, some of the Pooyans were kidnapped. Full of hate for the Wolves, Mama bravely seeks out the Wolves' Lair to rescue her Pooyans. Will she succeed in overcoming the Wolves and bringing her Pooyans back home?</Description>
+		<UserRating>3.95 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7.7 hours</Length>
+		<Developer>Konami</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Pooyan" region="JP">
+			<ReleasePublisher>Konami</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Real Tennis" URL="/sordm5/611645-real-tennis">
+		<Description>Real Tennis is a Sports game, developed and published by Takara,  which was released in Japan in 1983.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>9 hours</Length>
+		<Developer>Takara</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Real Tennis" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Sord M5" URL="/sordm5/946855-sord-m5">
+		<Description>Sord M5 is a Hardware game, developed by Sord Computer Corporation and published by Computer Games Limited,  which was released in Europe in 1982.</Description>
+		<UserRating>1.17 / 5</UserRating>
+		<AKA>CGL M5 (EU)</AKA>
+		<Developer>Sord Computer Corporation</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="CGL M5" region="EU">
+			<ReleasePublisher>Computer Games Limited</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Sord M5" region="JP">
+			<ReleasePublisher>Sord Computer Corporation</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Step Up" URL="/sordm5/611646-step-up">
+		<Description>Step Up is an Action game, developed and published by Takara,  which was released in Japan in 1983.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>Takara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Step Up" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Step Up (JP)-170160_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Super Cobra" URL="/sordm5/951719-super-cobra">
+		<Description>You're a helicopter gunship pilot on a daring and dangerous mission: air surveillance of enemy territory. Success depends on how far you can penetrate enemy airspace. Can you handle the pressure? Because the further you go, the more difficult the mission becomes. Show that you've got what it takes by maneuvering your chopper around craggy mountain peaks, through deep dark tunnels, and over tall city buildings. All while you face enemy tanks and missiles and weird sky-flying weapons. But you can fight back with high-flying, quick-thinking, fast-reaction moves. Good luck and good flying!</Description>
+		<UserRating>2.96 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>Konami</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Super Cobra" region="JP">
+			<ReleasePublisher>Konami</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Tank Battalion" URL="/sordm5/127449-tank-battalion">
+		<Description>Tank Battalion is an Action game, developed by Namco and published by Takara,  which was released in Japan in 1982.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Namco</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Tank Battalion" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Warp &amp; Warp" URL="/sordm5/184620-warp-and-warp">
+		<Description>Warp &amp; Warp is an Action game, developed and published by Takara,  which was released in Japan in 1983.</Description>
+		<Developer>Takara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Warp &amp; Warp" region="JP">
+			<ReleasePublisher>Takara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Warp &amp; Warp (JP)-591114_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Sord M5" name="Wonder Hole" URL="/sordm5/611647-wonder-hole">
+		<Description>Wonder Hole is a Racing game, developed and published by Irem,  which was released in Japan in 1982.</Description>
+		<UserRating>3.79 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.8 hours</Length>
+		<Developer>Irem</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Wonder Hole" region="JP">
+			<ReleasePublisher>Irem</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

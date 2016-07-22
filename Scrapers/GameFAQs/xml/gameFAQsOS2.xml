@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="OS/2" name="Entrepreneur" URL="/os2/918368-entrepreneur">
+		<Description>Entrepreneur is a Strategy game, developed and published by Stardock,  which was released in 1997.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.3 hours</Length>
+		<Developer>Stardock</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Entrepreneur" region="US">
+			<ReleasePublisher>Stardock</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="OS/2" name="Galactic Civilizations" URL="/os2/918369-galactic-civilizations">
+		<Description>The year is 2178 and the galaxy is evolving at an alarming pace. Years ago, human scientists introduced a new technology, the "Hyper-drive", which vastly improved interstellar travel, but instead of forging closer bonds throughout the galaxy, communication between civilizations has ground to a halt. Colonization and a battle for supremacy have become the primary goals...
+Lead humanity in a struggle to dominate the galaxy in Galactic Civilizations, a 4X strategy game where you use whatever means necessary: technological advancements, economic might, cultural expansion and military prowess to survive the hostile intergalactic war.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>28 hours</Length>
+		<Developer>Stardock</Developer>
+		<Franchise>Galactic Civilizations</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; 4X</Genre>
+		<Release name="Galactic Civilizations" region="US">
+			<ReleasePublisher>Advanced Idea Machines</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="OS/2" name="Links OS/2" URL="/os2/938889-links-os-2">
+		<Description>Links OS/2 is a Sports game, developed by Access Software and published by Stardock,  which was released in 1997.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Access Software</Developer>
+		<Franchise>Links Golf</Franchise>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Links OS/2" region="US">
+			<ReleasePublisher>Stardock</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="OS/2" name="OS/2" URL="/os2/918370-os-2">
+		<Description>OS/2 is a Hardware game, developed and published by IBM,  which was released in 1987.</Description>
+		<UserRating>1.00 / 5</UserRating>
+		<AKA>OS/2 Hardware (US)</AKA>
+		<Developer>IBM</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="OS/2 Hardware" region="US">
+			<ReleasePublisher>IBM</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>December 1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="OS/2" name="OS/2 Hardware" URL="/os2/918370-os-2">
+		<Description>OS/2 is a Hardware game, developed and published by IBM,  which was released in 1987.</Description>
+		<UserRating>1.00 / 5</UserRating>
+		<AKA>OS/2 Hardware (US)</AKA>
+		<Developer>IBM</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="OS/2 Hardware" region="US">
+			<ReleasePublisher>IBM</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>December 1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="OS/2" name="SimCity 2000" URL="/os2/971497-simcity-2000">
+		<Description>SimCity 2000 puts an entire city in the palm of your hand.  SimCity 2000 lets you create, build, and run a city of your own.  Take on the role as a mayor and call the shots for the entire city.  You'll have to keep up on the housing, industries, mass transportation, and commerce to attract potential citizens.  And just when you think you have it under control, a natural disaster or alien invasion may occur to set you back.  However, if you can conquer all of these problems, you just might be able to turn a small town into a thriving metropolis.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Maxis</Developer>
+		<Franchise>SimCity</Franchise>
+		<Genre>Strategy &gt; Management &gt; Government</Genre>
+		<Release name="SimCity 2000" region="US">
+			<ReleasePublisher>Maxis</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="OS/2" name="Stellar Frontier" URL="/os2/938890-stellar-frontier">
+		<Description>Stellar Frontier is a Simulation game, developed and published by Stardock,  which was released in 2000.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Stardock</Developer>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="Stellar Frontier" region="US">
+			<ReleasePublisher>Stardock</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2000</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="PC-FX" name="Aa! Megami-sama!" URL="/pcfx/587859-aa-megami-sama">
+		<Description>Aa! Megami-sama! is an Adventure game, published by NEC,  which was released in Japan in 1997.</Description>
+		<UserRating>3.36 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>11 hours</Length>
+		<Developer>NEC</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Aa! Megami-sama!" region="JP">
+			<ReleasePublisher>NEC</ReleasePublisher>
+			<ReleaseProductID>FXNHE742</ReleaseProductID>
+			<ReleaseBarCode>4904323270453</ReleaseBarCode>
+			<ReleaseDate>12/12/97</ReleaseDate>
+			<ReleaseImages>
+				<Image>Aa! Megami-sama! (JP)-316561_front.jpg</Image>
+				<Image>Aa! Megami-sama! (JP)-316561_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

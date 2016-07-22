@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Andromeda Conquest" URL="/coco/944001-andromeda-conquest">
+		<Description>Andromeda Conquest is a Strategy game, developed by Microcomputer Games Inc. and published by Avalon Hill,  which was released in 1982.</Description>
+		<UserRating>4.42 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Andromeda Conquest" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Andromeda Conquest (US)-27637_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="AstroBlast" URL="/coco/605736-astroblast">
+		<Description>AstroBlast is an Action game, developed and published by Mark Data Products,  which was released in 1982.</Description>
+		<UserRating>4.10 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="AstroBlast" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Backgammon" URL="/coco/941771-backgammon">
+		<Description>Backgammon is a Miscellaneous game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>4.10 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Backgammon" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3059</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Ballyhoo" URL="/coco/178873-ballyhoo">
+		<Description>Spangleland! Sawdust and glitter, buffoons and cotton candy! It's a place where your wildest dreams can come true! At least, that's what you think... until you get behind the scenes at the big top. Then you learn how easily sweet dreams can turn into nightmares.</Description>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Ballyhoo" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/15/85</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ballyhoo (US)-581728_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Bingo Math" URL="/coco/941772-bingo-math">
+		<Description>Bingo Math is a Miscellaneous game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>3.36 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Bingo Math" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Black Sanctum, The" URL="/coco/946077-the-black-sanctum">
+		<Description>The Black Sanctum is an Adventure game, developed and published by Mark Data Products,  which was released in 1984.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="The Black Sanctum" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Black Sanctum (US)-96523_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Calixto Island" URL="/coco/946072-calixto-island">
+		<Description>Calixto Island is an Adventure game, developed and published by Mark Data Products,  which was released in 1984.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Calixto Island" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Calixto Island (US)-96512_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Canyon Climber" URL="/coco/604972-canyon-climber">
+		<Description>Canyon Climber is an Action game, developed by Datasoft and published by Tandy,  which was released in 1982.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Developer>Datasoft</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Canyon Climber" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Checker King" URL="/coco/941773-checker-king">
+		<Description>Checker King is a Miscellaneous game, developed by Personal Software and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Personal Software</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Checker King" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Conflict 2500" URL="/coco/944002-conflict-2500">
+		<Description>A challenging space game, Conflict 2500 is a radical departure from the typical first generation one-ship startrek-type games. In Conflict 2500, you have the option to set the scenarios, ranging from one-on-one competition against the computer to elaborate situations involving up to 10 people. The computer will play smart, acting out a variety of strategic actions to countermand your actions and strategy. Conflict 2500's variable scenario system gives you the option of playing a quick game (20 minutes) or a long multi-ship game (2 or more hours), allowing you to set the game up as easy or as difficult to master as desired.</Description>
+		<UserRating>4.63 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Conflict 2500" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Dallas Quest, The" URL="/coco/941783-the-dallas-quest">
+		<Description>The Dallas Quest is an Adventure game, developed and published by Datasoft,  which was released in 1984.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Datasoft</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="The Dallas Quest" region="US">
+			<ReleasePublisher>Datasoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Dallas Quest (US)-28996_front.jpg</Image>
+				<Image>The Dallas Quest (US)-28996_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Dino Wars" URL="/coco/941774-dino-wars">
+		<Description>Dino Wars is an Action game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Dino Wars" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3057</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dino Wars (US)-88746_front.jpg</Image>
+				<Image>Dino Wars (US)-88746_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Donald Duck's Playground" URL="/coco/102983-donald-ducks-playground">
+		<Description>Donald Duck's Playground is a Miscellaneous game, developed and published by Sierra Entertainment,  which was released in 1987.</Description>
+		<UserRating>4.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Sierra Entertainment</Developer>
+		<Franchise>Donald Duck</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Donald Duck's Playground" region="US">
+			<ReleasePublisher>Sierra Entertainment</ReleasePublisher>
+			<ReleaseProductID>26-3245</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donald Duck's Playground (US)-500540_front.jpg</Image>
+				<Image>Donald Duck's Playground (US)-500540_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Downland" URL="/coco/605737-downland">
+		<Description>Downland is an Action game, developed by Spectral Associates and published by Tandy,  which was released in 1983.</Description>
+		<UserRating>3.43 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Spectral Associates</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Downland" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Dragon 32" URL="/coco/934101-tandy-color-computer">
+		<Description>Tandy Color Computer is a Hardware game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<AKA>Tandy Color Computer Hardware (US), Dragon 32 (EU)</AKA>
+		<Developer>Tandy</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Tandy Color Computer Hardware" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+		<Release name="Dragon 32" region="EU">
+			<ReleasePublisher>Dragon Data</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Dungeons of Daggorath" URL="/coco/938764-dungeons-of-daggorath">
+		<Description>Dungeons of Daggorath is a Role-Playing game, developed by DynaMicro and published by Tandy,  which was released in 1982.</Description>
+		<UserRating>4.15 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>11 hours</Length>
+		<Developer>DynaMicro</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="Dungeons of Daggorath" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3093</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dungeons of Daggorath (US)-84603_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Enchanter" URL="/coco/179649-enchanter">
+		<Description>In ENCHANTER, the first of a spellbinding series in the tradition of Zork, you are a novice magician whom fate has chosen to do singlehanded combat with a dark and fierce power. But wordly weapons will avail you naught, for your foe is the evil warlock who holds sway over the land. To defeat him you will have to match your skills as a necromancer against his, casting spells you have learned from your masters in the Circle of Enchanters and other incantations you will acquire as you proceed on your quest. If you succeed, you will be elevated to a seat in the illustrious Circle; if you fail, your land will be doomed to an eternity of darkness.</Description>
+		<Developer>Infocom</Developer>
+		<Franchise>Zork / Enchanter</Franchise>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Enchanter" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Enchanter (US)-582939_front.jpg</Image>
+				<Image>Enchanter (US)-582939_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Facemaker" URL="/coco/151383-facemaker">
+		<Description>Facemaker is a Miscellaneous game, developed by Spinnaker Software and published by Tandy,  which was released in 1984.</Description>
+		<Developer>Spinnaker Software</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Facemaker" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>TANDY0077</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Flight Simulator II" URL="/coco/951643-flight-simulator-ii">
+		<Description>Put yourself in the pilot's seat of a Cessna 182 single-engine aircraft and head for the skies! Or fly a Gates Learjet 25G! High-speed 3D graphics provide a spectacular panoramic view as you practice takeoffs, landings and aerobatics. Complete documentation gets you airborne quickly even if you've never flown before. And when you think you're ready, you can test your flying skills with the "World War I Ace" aerial battle game.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Sublogic</Developer>
+		<Genre>Simulation &gt; Flight &gt; Combat</Genre>
+		<Release name="Flight Simulator II" region="US">
+			<ReleasePublisher>Sublogic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Football" URL="/coco/941775-football">
+		<Description>Football is a Sports game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Sim</Genre>
+		<Release name="Football" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3053</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Football (US)-88747_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Glaxxons" URL="/coco/605738-glaxxons">
+		<Description>Glaxxons is an Action game, developed and published by Mark Data Products,  which was released in 1983.</Description>
+		<UserRating>3.94 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Glaxxons" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Ice Master" URL="/coco/619370-ice-master">
+		<Description>Ice Master is an Action game, developed and published by Arcade Animation,  which was released in 1983.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Arcade Animation</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Ice Master" region="US">
+			<ReleasePublisher>Arcade Animation</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Infidel" URL="/coco/178832-infidel">
+		<Description>Infidel is an Adventure game, developed and published by Infocom,  which was released in 1983.</Description>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Infidel" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/16/83</ReleaseDate>
+			<ReleaseImages>
+				<Image>Infidel (US)-581639_front.jpg</Image>
+				<Image>Infidel (US)-581639_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Interbank Incident, The" URL="/coco/616315-the-interbank-incident">
+		<Description>The Interbank Incident is a Role-Playing game, developed and published by Spectral Associates,  which was released in 1985.</Description>
+		<UserRating>3.39 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>6.6 hours</Length>
+		<Developer>Spectral Associates</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="The Interbank Incident" region="US">
+			<ReleasePublisher>Spectral Associates</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="King's Quest III: To Heir Is Human" URL="/coco/605532-kings-quest-iii-to-heir-is-human">
+		<Description>Become Gwydion, young slave to the evil wizard Manannan of Llewdor. Discover the wizard's secret spells and use his magic to free yourself from his thrall. Embark upon a dangerous voyage to another land. Scale snowy peaks and brave a terrible monster to free a kingdom from its ravages!</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Sierra Entertainment</Developer>
+		<Franchise>King's Quest</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="King's Quest III: To Heir is Human" region="US">
+			<ReleasePublisher>Sierra Entertainment</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+			<ReleaseImages>
+				<Image>King's Quest III To Heir is Human (US)-19798_front.jpg</Image>
+				<Image>King's Quest III To Heir is Human (US)-19798_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Leisure Suit Larry in the Land of the Lounge Lizards" URL="/coco/605533-leisure-suit-larry-in-the-land-of-the-lounge-lizards">
+		<Description>Become the lovable nerd Larry for one fabulous night. You'll dance, you'll drink, you'll gamble. And, if you play your cards right, you might even meet the girl (or girls) of your dreams! Leisure Suit Larry is a humorous, harmless endeavor for adults. The object of the game is to help Larry overcome his jerkisms and lose his "you-know-what." It's a silly, risque romp through the singles scene and a challenging adventure game that will test your street smarts and suave sophistication. So, slip into your leisure suit and venture out into "the land of the lounge lizards." We guarantee it'll be a night you will never forget!</Description>
+		<UserRating>2.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Sierra Entertainment</Developer>
+		<Franchise>Leisure Suit Larry</Franchise>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Leisure Suit Larry in the Land of the Lounge Lizards" region="US">
+			<ReleasePublisher>Sierra Entertainment</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Mazing World of Malcom Mortar, A" URL="/coco/975573-a-mazing-world-of-malcom-mortar">
+		<Description>A Mazing World of Malcom Mortar is an Action game, developed by ZCT Systems Group and published by Tandy,  which was released in 1987.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>ZCT Systems Group</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="A Mazing World Of Malcom Mortar" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Mega-Bug" URL="/coco/605739-mega-bug">
+		<Description>Mega-Bug is an Action game, developed by Datasoft and published by Tandy,  which was released in 1982.</Description>
+		<UserRating>3.06 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Datasoft</Developer>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Mega-Bug" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mega-Bug (US)-163442_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Microbes" URL="/coco/938601-microbes">
+		<Description>Microbes is an Action game, published by Tandy,  which was released in 1982.</Description>
+		<UserRating>2.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Microbes" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3085</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/82</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="MicroChess" URL="/coco/941776-microchess">
+		<Description>MicroChess is a Miscellaneous game, developed by Personal Software and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Personal Software</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="MicroChess" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Pac-Tac" URL="/coco/941781-pac-tac">
+		<Description>Pac-Tac is an Action game, developed and published by Computerware,  which was released in 1981.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Computerware</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Pac-Tac" region="US">
+			<ReleasePublisher>Computerware</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Panic Button" URL="/coco/151384-panic-button">
+		<Description>Panic Button is a Puzzle game, developed by First Star Software and published by Tandy,  which was released in 1985.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>First Star Software</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Panic Button" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>April 1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Planetfall" URL="/coco/949634-planetfall">
+		<Description>Planetfall teleports you 12,000 years into an outrageous future. You joined the Stellar Patrol to explore the galaxy, but all you've seen is the end of a mop - until your ship explodes and you're jettisoned onto a mysterious, deserted planet. Luckily, you have Floyd, a lovable multi-purpose robot with the personality of a mischievous 8-year-old. He's the ideal companion with whom to brave your new world, as you dare its dangers and uncover its secrets.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Planetfall" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Planetfall (US)-24379_front.jpg</Image>
+				<Image>Planetfall (US)-24379_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Poltergeist" URL="/coco/151385-poltergeist">
+		<Description>Poltergeist is an Adventure game, developed and published by Tandy,  which was released in 1982.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Tandy</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Poltergeist" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>TANDY0081</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Popcorn" URL="/coco/941782-popcorn">
+		<Description>Popcorn is an Action game, developed by Datasoft and published by Computerware,  which was released in 1981.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Developer>Datasoft</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Popcorn" region="US">
+			<ReleasePublisher>Computerware</ReleasePublisher>
+			<ReleaseProductID>26-3090</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Quasar Commander" URL="/coco/941777-quasar-commander">
+		<Description>Quasar Commander is an Action game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>4.42 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Quasar Commander" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3051</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Quasar Commander (US)-88749_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Rampage" URL="/coco/605740-rampage">
+		<Description>The game where the nice guys don't get a look in. Grab your way through Chicago, punch up New York, and jump on San Francisco. Three indescribably nasty characters which bear a remarkable likeness to King Kong, Godzilla and Wolf-Man, need you to send them on a RAMPAGE in an enduring 150 days of destruction through 50 different cities!</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>SRB Software</Developer>
+		<Franchise>Rampage</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Rampage" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Rogue: The Adventure Game" URL="/coco/930932-rogue-the-adventure-game">
+		<Description>Rogue: The Adventure Game is a Role-Playing game, developed and published by Epyx,  which was released in 1985.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Epyx</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Rogue: The Adventure Game" region="US">
+			<ReleasePublisher>Epyx</ReleasePublisher>
+			<ReleaseProductID>26-3297</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Sea Dragon" URL="/coco/941778-sea-dragon">
+		<Description>Sea Dragon is an Action game, developed and published by Adventure International,  which was released in 1982.</Description>
+		<UserRating>4.10 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Adventure International</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Sea Dragon" region="US">
+			<ReleasePublisher>Adventure International</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Sea Search" URL="/coco/946075-sea-search">
+		<Description>Sea Search is an Adventure game, developed and published by Mark Data Products,  which was released in 1984.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Sea Search" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sea Search (US)-96521_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Seastalker" URL="/coco/949909-seastalker">
+		<Description>Seastalker is an Adventure game, developed and published by Infocom,  which was released in 1984.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.5 hours</Length>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Seastalker" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Seastalker (US)-24428_front.jpg</Image>
+				<Image>Seastalker (US)-24428_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Shenanigans" URL="/coco/946076-shenanigans">
+		<Description>Shenanigans is an Adventure game, developed and published by Mark Data Products,  which was released in 1984.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Shenanigans" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Shenanigans (US)-96522_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Shock Trooper" URL="/coco/605741-shock-trooper">
+		<Description>Shock Trooper is an Action game, developed and published by Mark Data Products,  which was released in 1985.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Shock Trooper" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Silpheed" URL="/coco/962360-silpheed">
+		<Description>The earth-based "Grayzon" computer defense system has been 'net-jacked'. Mankind's future in space is in your hands! This highly modified SA-77 "Silpheed" tactical fighter spacecraft is up to the challenge... are you? The best space-shooter ever, 11 fast, tough, action-filled battle stages. Amazingly detailed polygon graphics and CD quality music and sound. Left and right main weapons, plus choice of optional weapons systems: Graviton Bomb, EM Defense System, Photon Torpedo or Anti-Matter Bomb.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Synergistic Software</Developer>
+		<Franchise>Silpheed</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Silpheed" region="US">
+			<ReleasePublisher>Sierra Entertainment</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Skiing" URL="/coco/941780-skiing">
+		<Description>Skiing is a Sports game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Sports &gt; Individual &gt; Ski / Snowboard</Genre>
+		<Release name="Skiing" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3058</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Soko-ban" URL="/coco/942696-soko-ban">
+		<Description>Soko-ban is a Puzzle game, developed by Spectral Associates and published by Tandy,  which was released in 1988.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Spectral Associates</Developer>
+		<Franchise>Soukoban</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Soko-ban" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3161</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Star Blaze" URL="/coco/938602-star-blaze">
+		<Description>Star Blaze is an Action game, published by Tandy,  which was released in 1983.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Star Blaze" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3094</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/83</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Star Trek III" URL="/coco/941779-star-trek-iii">
+		<Description>Star Trek III is an Action Adventure game, developed and published by Adventure International,  which was released in 1981.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Adventure International</Developer>
+		<Franchise>Star Trek</Franchise>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Star Trek III" region="US">
+			<ReleasePublisher>Adventure International</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Stellar Life Line" URL="/coco/938600-stellar-life-line">
+		<Description>Stellar Life Line is an Action game, developed by SRB Software and published by Tandy,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>SRB Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Stellar Life Line" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3047</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/83</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Super Bustout" URL="/coco/936054-super-bustout">
+		<Description>Super Bustout is an Action game, published by Tandy,  which was released in 1980.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Tandy</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Super Bustout" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/80</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Suspended" URL="/coco/949635-suspended">
+		<Description>Suspended is an Adventure game, developed and published by Infocom,  which was released in 1982.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Suspended" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Tandy Color Computer" URL="/coco/934101-tandy-color-computer">
+		<Description>Tandy Color Computer is a Hardware game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<AKA>Tandy Color Computer Hardware (US), Dragon 32 (EU)</AKA>
+		<Developer>Tandy</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Tandy Color Computer Hardware" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+		<Release name="Dragon 32" region="EU">
+			<ReleasePublisher>Dragon Data</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Tandy Color Computer Hardware" URL="/coco/934101-tandy-color-computer">
+		<Description>Tandy Color Computer is a Hardware game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<AKA>Tandy Color Computer Hardware (US), Dragon 32 (EU)</AKA>
+		<Developer>Tandy</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Tandy Color Computer Hardware" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+		<Release name="Dragon 32" region="EU">
+			<ReleasePublisher>Dragon Data</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Tetris" URL="/coco/604973-tetris-tetpne">
+		<Description>Your pulse quickens. Beams, boxes, zig-zags and "L" shaped building blocks drop relentlessly down a narrow passage. You quickly spin, shift, and align the shapes then slide them in for a perfect fit. It's challenging and the pace is demanding. But satisfaction comes as you position each block neatly into place.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<AKA>Tetris (US)</AKA>
+		<Developer>AcademySoft</Developer>
+		<Franchise>Tetris</Franchise>
+		<Genre>Puzzle &gt; Stacking</Genre>
+		<Release name="Tetris (Tetpne)" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Trekboer" URL="/coco/946079-trekboer">
+		<Description>Trekboer is an Adventure game, developed and published by Mark Data Products,  which was released in 1985.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Trekboer" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+			<ReleaseImages>
+				<Image>Trekboer (US)-96525_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Video Pinball" URL="/coco/941784-video-pinball">
+		<Description>Video Pinball is an Action game, developed and published by Tandy,  which was released in 1980.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Video Pinball" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Vortex Factor, The" URL="/coco/946078-the-vortex-factor">
+		<Description>The Vortex Factor is an Adventure game, developed and published by Mark Data Products,  which was released in 1985.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Mark Data Products</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="The Vortex Factor" region="US">
+			<ReleasePublisher>Mark Data Products</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Vortex Factor (US)-96524_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Wildcatting" URL="/coco/934316-wildcatting">
+		<Description>Wildcatting is a Strategy game, developed and published by Tandy,  which was released in 1982.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Tandy</Developer>
+		<Genre>Strategy &gt; Management &gt; Business / Tycoon</Genre>
+		<Release name="Wildcatting" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID>26-3067</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Q4 1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Wishbringer" URL="/coco/178958-wishbringer">
+		<Description>Wishbringer is the ideal starting point for first-time interactive fiction players. You're granted seven magic wishes which you can use to solve the puzzles, or you can solve them just by using your wits and logic. To help you out, the puzzles start out fairly easy, with the challenge increasing only as you become more skilled. When you combine these features with a richly-woven storyline, it's no wonder Wishbringer is a favorite of novice and seasoned players alike.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Wishbringer" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wishbringer (US)-581894_front.jpg</Image>
+				<Image>Wishbringer (US)-581894_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Witness, The" URL="/coco/179214-the-witness">
+		<Description>It's like waking up inside a story! Load Infocom's interactive fiction into your computer and discover yourself at the center of a world jam-packed with surprising twists, unique characters and original, logical, often hilarious puzzles. For the first time, you're more than a passive reader. You can talk to the story, typing in full English sentences. And the story talks right back, communicating entirely in vividly descriptive prose. What's more, you can actually shape the story's course of events through your choice of actions. And you have hundreds of alternatives at every step. In fact, there's so much you can see and do, your investigation can last for weeks and even months.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Infocom</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="The Witness" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Witness (US)-582269_front.jpg</Image>
+				<Image>The Witness (US)-582269_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Zork" URL="/coco/949911-zork">
+		<Description>Zork I beckons you into a world fraught with danger and discovery. Using all the cunning you can muster, you'll plunge far below the surface of the earth in search of the incomparable Treasures of Zork. But this is no mere treasure hunt. During your amazing journey you'll come face to face with creatures so outlandish they defy description. And you'll wander through an underground domain so vast, with so many twists and turns, it can offer you new surprises no matter how many times you explore it.</Description>
+		<UserRating>3.94 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20.3 hours</Length>
+		<AKA>Zork I (US)</AKA>
+		<Developer>Infocom</Developer>
+		<Franchise>Zork / Enchanter</Franchise>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Zork" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zork (US)-100417_front.jpg</Image>
+				<Image>Zork (US)-100417_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Zork I" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zork I (US)-583720_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Zork I" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zork I (US)-583720_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Zork I" URL="/coco/949911-zork">
+		<Description>Zork I beckons you into a world fraught with danger and discovery. Using all the cunning you can muster, you'll plunge far below the surface of the earth in search of the incomparable Treasures of Zork. But this is no mere treasure hunt. During your amazing journey you'll come face to face with creatures so outlandish they defy description. And you'll wander through an underground domain so vast, with so many twists and turns, it can offer you new surprises no matter how many times you explore it.</Description>
+		<UserRating>3.94 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20.3 hours</Length>
+		<AKA>Zork I (US)</AKA>
+		<Developer>Infocom</Developer>
+		<Franchise>Zork / Enchanter</Franchise>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Zork" region="US">
+			<ReleasePublisher>Tandy</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zork (US)-100417_front.jpg</Image>
+				<Image>Zork (US)-100417_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Zork I" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zork I (US)-583720_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Zork I" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zork I (US)-583720_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Zork II" URL="/coco/949910-zork-ii">
+		<Description>Expect the unexpected when you take on ZORK II: THE WIZARD OF FROBOZZ. As you explore the subterranean realm of Zork, you'll continually be confronted with new surprises. Chief amongst these is the Wizard himself, who'll endeavor to confound you with his capricious powers. But more than that, you'll face a challenge the likes of which you've never experienced before.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Infocom</Developer>
+		<Franchise>Zork / Enchanter</Franchise>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Zork II" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zork II (US)-24334_front.jpg</Image>
+				<Image>Zork II (US)-24334_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Tandy Color Computer" name="Zork III" URL="/coco/949912-zork-iii">
+		<Description>ZORK III: THE DUNGEON MASTER draws you into the deepest and most mysterious reaches of the Great Underground Empire. Nothing is as it seems. And the one responsible for the shadow and darkness - the Dungeon Master - embodies the greatest mystery of all. in this test of wisdom and courage, you will face countless dangers. But what awaits you at the culmination of your odyssey is well worth risking all.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>50 hours</Length>
+		<Developer>Infocom</Developer>
+		<Franchise>Zork / Enchanter</Franchise>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Zork III" region="US">
+			<ReleasePublisher>Infocom</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zork III (US)-24345_front.jpg</Image>
+				<Image>Zork III (US)-24345_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

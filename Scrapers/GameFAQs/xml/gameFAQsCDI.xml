@@ -1,0 +1,3457 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="CD-I" name="1995: All the News and Views" URL="/cdi/937425-1995-all-the-news-and-views">
+		<Description>1995: All the News and Views is a Miscellaneous game, developed by Lost Boys and published by Philips Media,  which was released in Europe in 1995.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Lost Boys</Developer>
+		<Genre>Miscellaneous &gt; Application</Genre>
+		<Release name="1995: All the News and Views" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="3rd Degree" URL="/cdi/581295-3rd-degree">
+		<Description>3rd Degree is a Miscellaneous game, developed by PF.Magic and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>PF.Magic</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="3rd Degree" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>3rd Degree (US)-312120_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="7th Guest, The" URL="/cdi/585442-the-7th-guest">
+		<Description>A stunning interactive drama of mystery and intrigue... You don't know why you're in the mansion of the long-gone master toy maker, but you do know that you're not alone...</Description>
+		<UserRating>4.03 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>43.3 hours</Length>
+		<Developer>Trilobyte</Developer>
+		<Franchise>The 7th Guest</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="The 7th Guest" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690252-2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>The 7th Guest (US)-14764_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="The 7th Guest" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 00 76</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>The 7th Guest (EU)-14765_front.jpg</Image>
+				<Image>The 7th Guest (EU)-14765_back.jpg</Image>
+				<Image>The 7th Guest (EU)-14765_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="ABC Sports Presents: Power Hitter" URL="/cdi/937175-abc-sports-presents-power-hitter">
+		<Description>ABC Sports Presents: Power Hitter is a Sports game, developed by Fathom Pictures and published by Philips Media,  which was released in Europe in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Fathom Pictures</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="ABC Sports Presents: Power Hitter" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0043</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>ABC Sports Presents Power Hitter (EU)-82243_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="ABC Sports Presents: The Palm Spring Open" URL="/cdi/937189-abc-sports-presents-the-palm-spring-open">
+		<Description>ABC Sports Presents: The Palm Spring Open is a Sports game, developed by Fathom Pictures and published by Philips,  which was released in 1991.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Fathom Pictures</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Arcade</Genre>
+		<Release name="ABC Sports Presents: The Palm Spring Open" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690013-2</ReleaseProductID>
+			<ReleaseBarCode>731069001324</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+		<Release name="ABC Sports Presents: The Palm Spring Open" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 00 30</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>ABC Sports Presents The Palm Spring Open (EU)-82247_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Accelerator" URL="/cdi/937426-accelerator">
+		<Description>Accelerator is a Racing game, developed by The Vision Factory and published by SPC Vision,  which was released in Europe in 1997.</Description>
+		<UserRating>2.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>The Vision Factory</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Accelerator" region="EU">
+			<ReleasePublisher>SPC Vision</ReleasePublisher>
+			<ReleaseProductID>810 17 00</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Accelerator (EU)-82665_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Alfapet" URL="/cdi/937427-alfapet">
+		<Description>Alfapet is a Miscellaneous game, developed and published by ADATEK,  which was released in Europe in 1993.</Description>
+		<Developer>ADATEK</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Alfapet" region="EU">
+			<ReleasePublisher>ADATEK</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alfapet (EU)-82666_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Alice in Wonderland" URL="/cdi/926991-alice-in-wonderland">
+		<Description>Now you are Alice and Wonderland awaits you.
+
+
+Mad Hatter, the Cheshire Cat, the Queen of Spades, and all the Wonderland characters are there.
+
+
+This Interactive fast-paced adventure game of the classic Alice in Wonderland excites the player with 250 amazing scenarios and 40 eccentric and rich characters.
+
+
+There are mushrooms, cakes and potions, all ready to eat. One will make you as small as a mouse; another as big as a giant!
+
+
+Characters appear to help (or hinder) you as you gather the clues and acquire the powers needed to escape from Wonderland and return home.
+
+
+Rich digital color and sound add to one of the most inventive, fun CD-I programs yet.</Description>
+		<UserRating>3.06 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Spinnaker Software</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Alice in Wonderland" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alice in Wonderland (US)-320197_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Alien Gate" URL="/cdi/575475-alien-gate">
+		<Description>Alien Gate is an Action game, developed by Vision Games and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>2.60 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Vision Games</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Alien Gate" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Gate (US)-37533_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Alien Gate" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>810 0049</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Gate (EU)-37534_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Apprentice, The" URL="/cdi/581271-the-apprentice-1994">
+		<Description>Poor Marvin needs your help! As apprentice to the great wizard Gandorf S. Wandburner III, Marvin must perform treacherous tasks throughout the castle towers. Take control of the apprentice and guide him through six heart-stopping levels in the arcade-style platform game that delivers fast, furious play with thousands of frames of animation. You'll be running, jumping, flying, even swimming your way around the towers, working against the clock and all the beastly enemies who are eager to prove that a wizard's work is never done!</Description>
+		<UserRating>3.95 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<AKA>The Apprentice (US, EU)</AKA>
+		<Developer>The Vision Factory</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The Apprentice (1994)" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Apprentice (1994) (US)-42992_front.jpg</Image>
+				<Image>The Apprentice (1994) (US)-42992_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="The Apprentice (1994)" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0199</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Apprentice (1994) (EU)-42993_front.jpg</Image>
+				<Image>The Apprentice (1994) (EU)-42993_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Arcade Classics" URL="/cdi/937190-arcade-classics">
+		<Description>Remember the good old days spending hours behind the arcade machine? These days are back. "Arcade Classics" has 3 all time classic games from the time that "Game play" was #1: Ms. Pac-Man, Galaxian and Galaga!</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Arcade Classics" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0329</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Arcade Classics (EU)-82248_front.jpg</Image>
+				<Image>Arcade Classics (EU)-82248_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Asterix: Caesar's Challenge" URL="/cdi/937193-asterix-caesars-challenge">
+		<Description>Asterix: Caesar's Challenge is an Adventure game, developed by Infogrames and published by Philips Media,  which was released in Europe in 1995.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Infogrames</Developer>
+		<Franchise>Asterix</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Asterix: Caesar's Challenge" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 0060</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Asterix Caesar's Challenge (EU)-82249_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Atlantis: The Last Resort" URL="/cdi/575476-atlantis-the-last-resort">
+		<Description>The parole officer has just made you an offer you cannot refuse... "Shut down the reactor at the heart of the Atlantis resort and you can have your freedom." Your reply... "Where's my rocket launcher?" 20 levels of mindless blasting!!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Atlantis: The Last Resort" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Atlantis The Last Resort (US)-37535_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Axis and Allies" URL="/cdi/581272-axis-and-allies">
+		<Description>Axis and Allies is a Miscellaneous game, developed by CapDisc and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Axis and Allies" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Axis and Allies (US)-42994_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Backgammon" URL="/cdi/937176-backgammon">
+		<Description>Backgammon is a Miscellaneous game, developed by Capitol Disc Interactive and published by Philips Media,  which was released in Europe in 1991.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Capitol Disc Interactive</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Backgammon" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690039-2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Backgammon (EU)-82244_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Battleship" URL="/cdi/580682-battleship">
+		<Description>Battleship is a Miscellaneous game, developed by CapDisc and published by American Softworks,  which was released in 1991.</Description>
+		<UserRating>4.36 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.7 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Franchise>Battleship</Franchise>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Battleship" region="US">
+			<ReleasePublisher>American Softworks</ReleasePublisher>
+			<ReleaseProductID>310690033-2</ReleaseProductID>
+			<ReleaseBarCode>731069003328</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Battleship (US)-42660_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Beauty &amp; The Beast" URL="/cdi/937907-beauty-and-the-beast">
+		<Description>Beauty &amp; The Beast is an Action game, developed by Lightyear Entertainment and published by Philips Media,  which was released in 1992.</Description>
+		<Developer>Lightyear Entertainment</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Beauty &amp; The Beast" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Beauty &amp; The Beast (US)-83217_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Berenstain Bears: On Their Own, The" URL="/cdi/937906-the-berenstain-bears-on-their-own">
+		<Description>The Berenstain Bears: On Their Own is a Miscellaneous game, developed and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>3.28 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Franchise>Berenstain Bears</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="The Berenstain Bears: On Their Own" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Berenstain Bears On Their Own (US)-83216_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Big Bang Show" URL="/cdi/937428-big-bang-show">
+		<Description>Big Bang Show is a Puzzle game, developed by Infogrames and published by Philips Media,  which was released in Europe in 1995.</Description>
+		<UserRating>0.67 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Infogrames</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Big Bang Show" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Big Bang Show (EU)-82667_front.jpg</Image>
+				<Image>Big Bang Show (EU)-82667_back.jpg</Image>
+				<Image>Big Bang Show (EU)-82667_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Brain Dead 13" URL="/cdi/937204-brain-dead-13">
+		<Description>As Lance, the world's hippest computer repair guru, you're called to the mysterious castle of the disembodied brain, Dr. Nero Neurosis. You learn of the Doctor's master plan... There's no turning back now! Race through the evil playground of the demented Doctor's twisted castle and battle the ultimate mishaps of science: Moose, Vivi, and Fritz, the half-human half-pet of Dr. Neurosis.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>ReadySoft</Developer>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Brain Dead 13" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Brain Dead 13 (EU)-2042_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Brer Rabbit and the Wonderful Tar Baby" URL="/cdi/937681-brer-rabbit-and-the-wonderful-tar-baby">
+		<Description>Brer Rabbit and the Wonderful Tar Baby is a Miscellaneous game, developed and published by Philips,  which was released in 1991.</Description>
+		<Developer>Philips</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Brer Rabbit and the Wonderful Tar Baby" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Brer Rabbit and the Wonderful Tar Baby (US)-82931_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Burn:Cycle" URL="/cdi/585443-burncycle">
+		<Description>Sol Cutter's plan was to slip into Softech, do some quick electronic thievery and make a pile of cash. What could go wrong? Plenty. The job sours when a freak power surge leaves Cutter with the mother of all headaches. But that's not all. Somehow, a computer virus has installed itself in his head. In exactly two hours, the Burn:Cycle virus will turn Sol Cutter's brain into jelly - unless you can find a way to deactivate it. Think fast. Shoot faster.</Description>
+		<UserRating>3.35 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Trip Media</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Burn:Cycle" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810-0114</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/28/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>BurnCycle (EU)-42883_front.jpg</Image>
+				<Image>BurnCycle (EU)-42883_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Burn:Cycle" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>BurnCycle (US)-42882_front.jpg</Image>
+				<Image>BurnCycle (US)-42882_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Caesar's World of Boxing" URL="/cdi/937208-caesars-world-of-boxing">
+		<Description>Caesar's World of Boxing is a Sports game, developed by CD-I Systems and published by Philips Media,  which was released in Europe in 1993.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>CD-I Systems</Developer>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Boxing / Martial Arts</Genre>
+		<Release name="Caesar's World of Boxing" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0143</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Caesar's World of Boxing (EU)-82256_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Caesar's World of Gambling" URL="/cdi/581273-caesars-world-of-gambling">
+		<Description>Caesar's World of Gambling is a Miscellaneous game, developed by CD-I Systems and published by Philips Media,  which was released in 1991.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>CD-I Systems</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Caesar's World of Gambling" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Caesar's World of Gambling (US)-42995_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="CD Shoot" URL="/cdi/937219-cd-shoot">
+		<Description>CD Shoot is a Sports game, developed by Eaglevision and published by Philips Media,  which was released in Europe in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Eaglevision</Developer>
+		<Genre>Sports &gt; Individual &gt; Other</Genre>
+		<Release name="CD Shoot" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0034</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>CD Shoot (EU)-82268_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="CD-I" URL="/cdi/916370-cd-i">
+		<Description>CD-I is a Hardware game, developed and published by Philips,  which was released in 1991.</Description>
+		<UserRating>2.34 / 5</UserRating>
+		<AKA>CD-i Hardware (US, EU)</AKA>
+		<Developer>Philips</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="CD-i Hardware" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>CDi-450</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>CD-i Hardware (US)-307630_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="CD-i Hardware" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>CDi-205</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="CD-i Hardware" URL="/cdi/916370-cd-i">
+		<Description>CD-I is a Hardware game, developed and published by Philips,  which was released in 1991.</Description>
+		<UserRating>2.34 / 5</UserRating>
+		<AKA>CD-i Hardware (US, EU)</AKA>
+		<Developer>Philips</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="CD-i Hardware" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>CDi-450</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>CD-i Hardware (US)-307630_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="CD-i Hardware" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>CDi-205</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Chaos Control" URL="/cdi/581274-chaos-control">
+		<Description>You have been chosen to repel the attacks of the Kesh-Rhan extra-terrestrials who are threatening Earth. In command of a spacefighter, you will travel through universes in full-screen synthesized images, going from the island of Manhattan to the heart of a virtual reality computer, reaching ultimately the pitfallls of outer space. Quick, take the controls, there is not a minute to be wasted!</Description>
+		<UserRating>4.39 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>14 hours</Length>
+		<Developer>Infogrames</Developer>
+		<Genre>Action &gt; Shooter &gt; Rail</Genre>
+		<Release name="Chaos Control" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chaos Control (US)-42996_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Chaos Control" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 02 00</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chaos Control (EU)-42997_front.jpg</Image>
+				<Image>Chaos Control (EU)-42997_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Child Is Born, A" URL="/cdi/937174-a-child-is-born">
+		<Description>A Child Is Born is a Miscellaneous game, developed by Electronic Sound and Pictures Limited and published by Philips Media,  which was released in Europe in 1993.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Electronic Sound and Pictures Limited</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="A Child Is Born" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>A Child Is Born (EU)-82242_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Children's Musical Theatre" URL="/cdi/937361-childrens-musical-theatre">
+		<Description>Children's Musical Theatre is a Simulation game, developed by Sonic Images Productions, Inc. and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Sonic Images Productions, Inc.</Developer>
+		<Genre>Simulation &gt; General</Genre>
+		<Release name="Children's Musical Theatre" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Children's Musical Theatre (US)-82563_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Christmas Country" URL="/cdi/937305-christmas-country">
+		<Description>Finally, a platform game for CD-i with lots of enemies. Play and explore the exciting, long lasting, fun filled, 16 levels of Christmas Country.</Description>
+		<UserRating>3.38 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Creative Multimedia Corporation</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Christmas Country" region="EU">
+			<ReleasePublisher>Creative Multimedia Corporation</ReleasePublisher>
+			<ReleaseProductID>CM962512</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Christmas Country (EU)-82391_front.jpg</Image>
+				<Image>Christmas Country (EU)-82391_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Christmas Crisis" URL="/cdi/937306-christmas-crisis">
+		<Description>Christmas Crisis is an Action game, developed by DIMA and published by Philips Media,  which was released in Europe in 1995.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>DIMA</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Christmas Crisis" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>CM962512 2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Christmas Crisis (EU)-82392_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Classical Jukebox" URL="/cdi/190550-classical-jukebox">
+		<Description>Classical Jukebox is a Miscellaneous game, published by Philips,  which was released in 1991.</Description>
+		<Developer>Philips</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Classical Jukebox" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690005-2</ReleaseProductID>
+			<ReleaseBarCode>731069000525</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Clue" URL="/cdi/581275-clue">
+		<Description>Clue is a Miscellaneous game, developed by 3T Productions Ltd. and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<AKA>Cluedo (EU)</AKA>
+		<Developer>3T Productions Ltd.</Developer>
+		<Franchise>Clue/Cluedo</Franchise>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Clue" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Clue (US)-43000_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Cluedo" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Cluedo" URL="/cdi/581275-clue">
+		<Description>Clue is a Miscellaneous game, developed by 3T Productions Ltd. and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<AKA>Cluedo (EU)</AKA>
+		<Developer>3T Productions Ltd.</Developer>
+		<Franchise>Clue/Cluedo</Franchise>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Clue" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Clue (US)-43000_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Cluedo" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Compton's Interactive Encyclopedia" URL="/cdi/682458-comptons-interactive-encyclopedia">
+		<Description>Compton's Interactive Encyclopedia is a Miscellaneous game, developed by Philips and published by Compton's NewMedia,  which was released in 1992.</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Compton's Interactive Encyclopedia" region="US">
+			<ReleasePublisher>Compton's NewMedia</ReleasePublisher>
+			<ReleaseProductID>310690173-2</ReleaseProductID>
+			<ReleaseBarCode>731069017325</ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Compton's Interactive Encyclopedia (US)-248519_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Connect Four" URL="/cdi/937220-connect-four">
+		<Description>Connect Four is a Miscellaneous game, developed by Capitol Disc Interactive and published by Philips,  which was released in 1991.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Capitol Disc Interactive</Developer>
+		<Franchise>Connect Four</Franchise>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Connect Four" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690020-2</ReleaseProductID>
+			<ReleaseBarCode>731069002024</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+		<Release name="Connect Four" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>699 020 2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Connect Four (EU)-82269_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Crayon Factory, The" URL="/cdi/937222-the-crayon-factory">
+		<Description>The Crayon Factory is a Miscellaneous game, developed and published by Philips Media,  which was released in Europe in 1995.</Description>
+		<UserRating>3.29 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>21 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="The Crayon Factory" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Crayon Factory (EU)-82270_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Creature Shock" URL="/cdi/937221-creature-shock">
+		<Description>We have no idea what's out there but whatever it is, it isn't friendly. Take no chances: shoot anything that moves. It took Argonaut 3 years to cram this Double CD full of stunningly rendered 3D environments. Play this eerie, creepy game at night with the lights out and your headphones on, if you dare!!!</Description>
+		<UserRating>2.20 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.3 hours</Length>
+		<Developer>Argonaut Games</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Creature Shock" region="EU">
+			<ReleasePublisher>Virgin Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Creature Shock (EU)-25701_front.jpg</Image>
+				<Image>Creature Shock (EU)-25701_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Crime Patrol" URL="/cdi/933348-crime-patrol">
+		<Description>Be the ultimate crime fighter in this multi-level live action thriller! Face streetfight gangs and armed robbers as a rookie. Undercover, you'll hit mobsters and drug dealers. Join SWAT to take down bank robbers and bikers. Make it to the top in Delta Force and take on international terrorists!</Description>
+		<UserRating>2.92 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Genre>Action &gt; Shooter &gt; Light Gun</Genre>
+		<Release name="Crime Patrol" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+		<Release name="Crime Patrol" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Crime Patrol (EU)-28239_front.jpg</Image>
+				<Image>Crime Patrol (EU)-28239_back.jpg</Image>
+				<Image>Crime Patrol (EU)-28239_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Dame Was Loaded, The" URL="/cdi/585444-the-dame-was-loaded">
+		<Description>The Dame Was Loaded is an Adventure game, developed and published by Philips Media,  which was cancelled before it was released.</Description>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="The Dame Was Loaded" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Dark Castle" URL="/cdi/937307-dark-castle">
+		<Description>Dark Castle is an Adventure game, developed by Silicon Beach Software, Inc. and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>1.17 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Silicon Beach Software, Inc.</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Dark Castle" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690026-2</ReleaseProductID>
+			<ReleaseBarCode>731069002628</ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dark Castle (US)-82393_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Dark Fables of Aesop, The" URL="/cdi/937337-the-dark-fables-of-aesop">
+		<Description>The Dark Fables of Aesop is a Miscellaneous game, developed and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="The Dark Fables of Aesop" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Dark Fables of Aesop (US)-82526_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Defender of the Crown" URL="/cdi/937308-defender-of-the-crown">
+		<Description>Strategy is vital in this chivalrous charade, and smarts will protect your hide better than armor as you command the role of a brave Saxon knight destined to avenge King Richard's murder. To reclaim the crown and conquer the heart of a beautiful maiden, you must outwit and outmaneuver hordes of medieval marauders. Read maps, plan raids, even team with Robin Hood, then plunder enemy strongholds, dueling for gold needed to build an army of mercenary vassals. You'll also need to stash cash for catapults that launch boulders, fire and disease into formidable fortresses. So wise up and rise up to this unique challenge where leadership is as important as swordmanship. For when you've survived this strategic adventure, complete with daring jousts and courageous castle sieges, you won't be sorry - you'll be king!</Description>
+		<UserRating>3.38 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>Philips Media</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Defender of the Crown" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Defender of the Crown (US)-29275_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Destination Great Britain: Central &amp; Northern England" URL="/cdi/937362-destination-great-britain-central-and-northern-england">
+		<Description>Destination Great Britain: Central &amp; Northern England is a Miscellaneous game, developed and published by World of Wonders,  which was released in 1994.</Description>
+		<Developer>World of Wonders</Developer>
+		<Franchise>Destination Great Britain</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Destination Great Britain: Central &amp; Northern England" region="US">
+			<ReleasePublisher>World of Wonders</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Destination Great Britain Central &amp; Northern England (US)-82564_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Destination Great Britain: England's West Country" URL="/cdi/937363-destination-great-britain-englands-west-country">
+		<Description>Destination Great Britain: England's West Country is a Miscellaneous game, developed and published by World of Wonders,  which was released in 1994.</Description>
+		<Developer>World of Wonders</Developer>
+		<Franchise>Destination Great Britain</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Destination Great Britain: England's West Country" region="US">
+			<ReleasePublisher>World of Wonders</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Destination Great Britain England's West Country (US)-82565_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Destination Great Britain: London &amp; Southern England" URL="/cdi/937364-destination-great-britain-london-and-southern-england">
+		<Description>Destination Great Britain: London &amp; Southern England is a Miscellaneous game, developed and published by World of Wonders,  which was released in 1995.</Description>
+		<Developer>World of Wonders</Developer>
+		<Franchise>Destination Great Britain</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Destination Great Britain: London &amp; Southern England" region="US">
+			<ReleasePublisher>World of Wonders</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Destination Great Britain London &amp; Southern England (US)-82566_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Destination Great Britain: Wales" URL="/cdi/937365-destination-great-britain-wales">
+		<Description>Destination Great Britain: Wales is a Miscellaneous game, developed and published by World of Wonders,  which was released in 1994.</Description>
+		<Developer>World of Wonders</Developer>
+		<Franchise>Destination Great Britain</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Destination Great Britain: Wales" region="US">
+			<ReleasePublisher>World of Wonders</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Destination Great Britain Wales (US)-82567_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Dimo's Quest" URL="/cdi/581276-dimos-quest">
+		<Description>Dimo's Quest is a Puzzle game, published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.58 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Dimo's Quest" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dimo's Quest (US)-43002_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Domino" URL="/cdi/937429-domino">
+		<Description>Domino is a Miscellaneous game, developed by Wigant Interactive Media and published by Haarlems Uitgeef Bedrijf,  which was released in Europe in 1997.</Description>
+		<Developer>Wigant Interactive Media</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Domino" region="EU">
+			<ReleasePublisher>Haarlems Uitgeef Bedrijf</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Domino (EU)-82668_front.jpg</Image>
+				<Image>Domino (EU)-82668_back.jpg</Image>
+				<Image>Domino (EU)-82668_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Downhome Blues, The" URL="/cdi/937366-the-downhome-blues">
+		<Description>The Downhome Blues is a Miscellaneous game, developed by Lunaria and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Lunaria</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="The Downhome Blues" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Dragon's Lair" URL="/cdi/934715-dragons-lair">
+		<Description>You are Dirk the Daring, trying to rescue the lovely Princess Daphne from the evil Wizard Mordroc's spooky castle. Mordroc has more than a few twisted tricks up his sleeve, like tilting tiles, gobbling goblins, and a surplus of slime. His line-up of heinous henchmen include the Acid Creature and the Robot Knight - two nasty characters - and a fire-breathing dragon named Singe, whose welcome may be a bit too warm! The heat is on! Enter the lair - if you dare!</Description>
+		<UserRating>3.36 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>5.3 hours</Length>
+		<Developer>Superclub</Developer>
+		<Franchise>Dragon's Lair</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Dragon's Lair" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dragon's Lair (US)-78818_front.jpg</Image>
+				<Image>Dragon's Lair (US)-78818_back.jpg</Image>
+				<Image>Dragon's Lair (US)-78818_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Dragon's Lair II: Time Warp" URL="/cdi/585445-dragons-lair-ii-time-warp">
+		<Description>Princess Daphne has been spirited away to a wrinkle in time by the Evil Wizard Mordroc who plans to force her into marriage. Only you, Dirk the Daring, can save her. 
+
+
+Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne's finger in marriage and she will be lost forever in the Time Warp!</Description>
+		<UserRating>3.36 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Superclub</Developer>
+		<Franchise>Dragon's Lair</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Dragon's Lair II: Time Warp" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dragon's Lair II Time Warp (US)-38590_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Dragon's Lair II: Time Warp" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0125</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dragon's Lair II Time Warp (EU)-38591_front.jpg</Image>
+				<Image>Dragon's Lair II Time Warp (EU)-38591_back.jpg</Image>
+				<Image>Dragon's Lair II Time Warp (EU)-38591_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Drug Wars" URL="/cdi/933355-drug-wars">
+		<Description>Drug Wars is an Action game, developed by CapDisc and published by Philips Media,  which was released in 1996.</Description>
+		<Developer>CapDisc</Developer>
+		<Franchise>Crime Patrol</Franchise>
+		<Genre>Action &gt; Shooter &gt; Light Gun</Genre>
+		<Release name="Drug Wars" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Drug Wars (US)-76899_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Earth Command" URL="/cdi/937430-earth-command">
+		<Description>Earth Command is a Strategy game, developed by Visionary Media and published by Philips Media,  which was released in Europe in 1993.</Description>
+		<UserRating>2.90 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Visionary Media</Developer>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="Earth Command" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 0040</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Earth Command (EU)-82669_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Effacer" URL="/cdi/937431-effacer">
+		<Description>Effacer is a Puzzle game, developed by CapDisc and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<AKA>Effacer: Hangman from the 25th Century (EU)</AKA>
+		<Developer>CapDisc</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Effacer: Hangman from the 25th Century" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Effacer Hangman from the 25th Century (EU)-82670_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Effacer: Hangman from the 25th Century" URL="/cdi/937431-effacer">
+		<Description>Effacer is a Puzzle game, developed by CapDisc and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<AKA>Effacer: Hangman from the 25th Century (EU)</AKA>
+		<Developer>CapDisc</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Effacer: Hangman from the 25th Century" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Effacer Hangman from the 25th Century (EU)-82670_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Emperor's New Clothes, The" URL="/cdi/937338-the-emperors-new-clothes">
+		<Description>The Emperor's New Clothes is a Miscellaneous game, developed and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="The Emperor's New Clothes" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Emperor's New Clothes (US)-82527_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Escape from Cyber City" URL="/cdi/581277-escape-from-cyber-city">
+		<Description>The Earth is under attack. The evil Guardian's forces are in control. Only a few continue to resist and only you can help. Your mission is to survive the dangers of CyberCity, fight your way to the train and destroy the Guardian's planet. Beware: things are not what they seem! Escape From CyberCity is the first CD-Interactive action adventure to utilize full cel-animation, giving the player the feel of starring in a fast action motion picture. This beautifully animated production features a dynamic, high impact soundtrack and complete interactive play.</Description>
+		<UserRating>2.81 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Fathom Pictures</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Escape from Cyber City" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Escape from Cyber City (US)-43004_front.jpg</Image>
+				<Image>Escape from Cyber City (US)-43004_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Family Games" URL="/cdi/937335-family-games">
+		<Description>Here's a game collection for the whole family. It'll keep EVERYONE glued to the screen for hours! Take your pick - action and adventure, brain teasers or straightforward entertainment. There are ten great games - Full Attack, Jokisen, Where's That Sound, Skid Kart, Captain Alphabet, Draw Stamp Color, SuperSlide, Morphon Invasion, Wizard and Hot Rocks.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>DIMA</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Family Games" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 02 15</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Family Games (EU)-82524_front.jpg</Image>
+				<Image>Family Games (EU)-82524_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Family Games II: Junk Food Jive" URL="/cdi/937336-family-games-ii-junk-food-jive">
+		<Description>If you like to flit around like a fly along dirty food residue, have to fight over the bill with your partner, if you want to invent your own clever pizza topping, have had greater ambitions than smaller people or have painted (yes) your masterpieces on thick place mats, then you will feel quite at home here!</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>DIMA</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Family Games II: Junk Food Jive" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 02 69</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Family Games II Junk Food Jive (EU)-82525_front.jpg</Image>
+				<Image>Family Games II Junk Food Jive (EU)-82525_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Flashback" URL="/cdi/581278-flashback-the-quest-for-identity">
+		<Description>You're Conrad B. Hart, Galaxis Bureau of Investigation Agent and right now you're stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans. This is truly the most explosive and intriguing Flashback experience. And it's gonna rip you right out of your comfortable little century and hurl you smack into a time and place that'll have you begging for a nap!</Description>
+		<UserRating>3.72 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<AKA>Flashback (US, EU)</AKA>
+		<Developer>Delphine Software International</Developer>
+		<Franchise>Flashback</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Flashback" region="US">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flashback (US)-25902_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Flashback" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0258</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flashback (EU)-25903_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Flashback: The Quest for Identity" URL="/cdi/581278-flashback-the-quest-for-identity">
+		<Description>You're Conrad B. Hart, Galaxis Bureau of Investigation Agent and right now you're stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans. This is truly the most explosive and intriguing Flashback experience. And it's gonna rip you right out of your comfortable little century and hurl you smack into a time and place that'll have you begging for a nap!</Description>
+		<UserRating>3.72 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<AKA>Flashback (US, EU)</AKA>
+		<Developer>Delphine Software International</Developer>
+		<Franchise>Flashback</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Flashback" region="US">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flashback (US)-25902_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Flashback" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0258</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flashback (EU)-25903_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Flintstones &amp; Jetsons: Timewarp" URL="/cdi/937413-flintstones-and-jetsons-timewarp">
+		<Description>Flintstones &amp; Jetsons: Timewarp is an Adventure game, developed by R/GA Interactive and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>R/GA Interactive</Developer>
+		<Franchise>The Flintstones</Franchise>
+		<Genre>Adventure &gt; 3D &gt; Third-Person</Genre>
+		<Release name="Flintstones &amp; Jetsons: Timewarp" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 01 04</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flintstones &amp; Jetsons Timewarp (EU)-82642_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Foqus" URL="/cdi/976280-foqus">
+		<Description>Foqus is a Miscellaneous game, developed by Bildgarden and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<Developer>Bildgarden</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Foqus" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Getting Ahead: Making Time" URL="/cdi/937414-getting-ahead-making-time">
+		<Description>Getting Ahead: Making Time is a Strategy game, developed and published by Xdra,  which was released in Europe in 1994.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Xdra</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Getting Ahead: Making Time" region="EU">
+			<ReleasePublisher>Xdra</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Getting Ahead: Managing Your Boss" URL="/cdi/937415-getting-ahead-managing-your-boss">
+		<Description>Getting Ahead: Managing Your Boss is a Strategy game, developed and published by Xdra,  which was released in Europe in 1994.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Developer>Xdra</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Getting Ahead: Managing Your Boss" region="EU">
+			<ReleasePublisher>Xdra</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Getting Ahead: Money At Work" URL="/cdi/937416-getting-ahead-money-at-work">
+		<Description>Getting Ahead: Money At Work is a Strategy game, developed and published by Xdra,  which was released in Europe in 1994.</Description>
+		<Developer>Xdra</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Getting Ahead: Money At Work" region="EU">
+			<ReleasePublisher>Xdra</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Getting Ahead: Presentation Skills" URL="/cdi/937421-getting-ahead-presentation-skills">
+		<Description>Getting Ahead: Presentation Skills is a Strategy game, developed and published by Xdra,  which was released in Europe in 1994.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>Xdra</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Getting Ahead: Presentation Skills" region="EU">
+			<ReleasePublisher>Xdra</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Girl's Club" URL="/cdi/937417-girls-club">
+		<Description>Girl's Club is an Action game, developed by POV Entertainment and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>2.60 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>POV Entertainment</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Girl's Club" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Girl's Club (US)-82646_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Gnomes" URL="/cdi/937418-gnomes">
+		<Description>Gnomes is an Action game, developed by Eaglevision and published by Philips Media,  which was released in 1995.</Description>
+		<UserRating>1.33 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Eaglevision</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Gnomes" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gnomes (US)-82647_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Go" URL="/cdi/937419-go">
+		<Description>Go is a Miscellaneous game, developed by Good Deal Games and published by Older Games,  which was released in 2002.</Description>
+		<Developer>Good Deal Games</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Go" region="US">
+			<ReleasePublisher>Older Games</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/10/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Go (US)-82648_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Goal!" URL="/cdi/937432-goal">
+		<Description>When it comes to creating action-packed, super-playable football games, no one can beat Dino Dini, the mastermind behind Kick Off and Kick Off 2, except Dino Dini himself, that is... Now Dino has surpassed all his previous efforts. Goal!, his latest excursion onto the pitch, offers greater depth than any other footie game you've seen. What's more, it's got a host of features that make getting to grips with the gameplay a delight and mastering it the ultimate challenge. Goal! has all you'll ever need - or want - in a footie action game!</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Developer>iContact</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Goal!" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Golden Oldies" URL="/cdi/937484-golden-oldies">
+		<Description>Golden Oldies is an Action game, developed by The Vision Factory and published by Philips,  which was released in 1991.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<AKA>Golden Oldies Jukebox (US)</AKA>
+		<Developer>The Vision Factory</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Golden Oldies Jukebox" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690006-2</ReleaseProductID>
+			<ReleaseBarCode>731069000624</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+		<Release name="Golden Oldies" region="EU">
+			<ReleasePublisher>SPC Vision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golden Oldies (EU)-82696_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Golden Oldies II" URL="/cdi/937485-golden-oldies-ii">
+		<Description>Golden Oldies II is an Action game, developed by The Vision Factory and published by SPC Vision,  which was released in Europe in 1997.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>The Vision Factory</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Golden Oldies II" region="EU">
+			<ReleasePublisher>SPC Vision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golden Oldies II (EU)-82697_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Golden Oldies Jukebox" URL="/cdi/937484-golden-oldies">
+		<Description>Golden Oldies is an Action game, developed by The Vision Factory and published by Philips,  which was released in 1991.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<AKA>Golden Oldies Jukebox (US)</AKA>
+		<Developer>The Vision Factory</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Golden Oldies Jukebox" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690006-2</ReleaseProductID>
+			<ReleaseBarCode>731069000624</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+		<Release name="Golden Oldies" region="EU">
+			<ReleasePublisher>SPC Vision</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golden Oldies (EU)-82696_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Golf My Way" URL="/cdi/937420-golf-my-way">
+		<Description>Golf My Way is a Sports game, developed and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Golf My Way" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golf My Way (US)-82649_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Great American Golf 1" URL="/cdi/937486-great-american-golf-1">
+		<Description>Great American Golf 1 is a Sports game, developed by iContact and published by Xdra,  which was released in Europe in 1994.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Developer>iContact</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Arcade</Genre>
+		<Release name="Great American Golf 1" region="EU">
+			<ReleasePublisher>Xdra</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Great American Golf 1 (EU)-82698_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Great American Golf 2" URL="/cdi/937487-great-american-golf-2">
+		<Description>Great American Golf 2 is a Sports game, developed by iContact and published by Xdra,  which was released in Europe in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>iContact</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Arcade</Genre>
+		<Release name="Great American Golf 2" region="EU">
+			<ReleasePublisher>Xdra</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Great Day at the Races, A" URL="/cdi/937218-a-great-day-at-the-races">
+		<Description>A Great Day at the Races is a Sports game, developed and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>3.10 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.4 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Sports &gt; Individual &gt; Other</Genre>
+		<Release name="A Great Day at the Races" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690128-2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>A Great Day at the Races (US)-82267_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Harvest of the Sun" URL="/cdi/190417-harvest-of-the-sun">
+		<Description>Harvest of the Sun is a Miscellaneous game, developed and published by American Interactive Media,  which was released in 1991.</Description>
+		<Developer>American Interactive Media</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Harvest of the Sun" region="US">
+			<ReleasePublisher>American Interactive Media</ReleasePublisher>
+			<ReleaseProductID>310690028-2</ReleaseProductID>
+			<ReleaseBarCode>731069002826</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Haunted House" URL="/cdi/937488-haunted-house">
+		<Description>Haunted House is an Adventure game, developed and published by Philips Media,  which was released in Europe in 1997.</Description>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; 3D &gt; First-Person</Genre>
+		<Release name="Haunted House" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Haunted House (EU)-82700_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Hieroglyph" URL="/cdi/937529-hieroglyph">
+		<Description>Hieroglyph is a Puzzle game, developed by DOKU and published by ZYX Music,  which was released in Europe in 1994.</Description>
+		<Developer>DOKU</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Hieroglyph" region="EU">
+			<ReleasePublisher>ZYX Music</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Hotel Mario" URL="/cdi/580681-hotel-mario">
+		<Description>An original Mario Bros game, available only on the CD-i!
+
+
+Bowser has taken over the Mushroom Kingdom, he's captured Princess Toadstool and is holding her in one of the seven hotels in the kingdom. Only you and Mario can save the Princess, but you'll have to battle Koopas, Parabombs, Banzai Bill, Spiney, Monty, Pat the Bat and other nefarious nasties! 
+
+
+* Full Motion, Full Screen Animation! * Original Music! * CD Quality Audio and Sound Effects!</Description>
+		<UserRating>2.91 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>45 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Hotel Mario" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hotel Mario (US)-42658_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Hotel Mario" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 00 90</ReleaseProductID>
+			<ReleaseBarCode>8712581000905</ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hotel Mario (EU)-42659_front.jpg</Image>
+				<Image>Hotel Mario (EU)-42659_back.jpg</Image>
+				<Image>Hotel Mario (EU)-42659_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Inca" URL="/cdi/575477-inca">
+		<Description>Inca is an Adventure game, developed by Coktel Vision and published by Philips,  which was released in 1993.</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Coktel Vision</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Inca" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Inca (US)-24849_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Inca II" URL="/cdi/939232-inca-ii">
+		<Description>Inca II is an Adventure game, developed by Vision Games and published by Philips,  which was released in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Vision Games</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Inca II" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Inca II (US)-24919_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="International Tennis Open" URL="/cdi/579983-international-tennis-open">
+		<Description>International Tennis Open is a Sports game, developed by Infogrames and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>2.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Infogrames</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="International Tennis Open" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>International Tennis Open (US)-42208_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Invasion from the Planet Skyron" URL="/cdi/937530-invasion-from-the-planet-skyron">
+		<Description>Invasion from the Planet Skyron is a Miscellaneous game, developed by Daedalus and published by Philips Media,  which was released in Europe in 1995.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Developer>Daedalus</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Invasion from the Planet Skyron" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Invasion from the Planet Skyron (EU)-82745_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Jack Sprite vs. The Crimson Ghost" URL="/cdi/937489-jack-sprite-vs-the-crimson-ghost">
+		<Description>Jack Sprite vs. The Crimson Ghost is an Action game, developed by PF.Magic and published by Older Games,  which was released in Europe in 2002.</Description>
+		<Developer>PF.Magic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jack Sprite vs. The Crimson Ghost" region="EU">
+			<ReleasePublisher>Older Games</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/10/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jack Sprite vs. The Crimson Ghost (EU)-82701_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Jeopardy!" URL="/cdi/581279-jeopardy">
+		<Description>Jeopardy! is a Miscellaneous game, developed and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>4.40 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Franchise>Jeopardy!</Franchise>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Jeopardy!" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jeopardy! (US)-43003_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Jigsaw" URL="/cdi/937531-jigsaw">
+		<Description>Jigsaw is a Puzzle game, developed by NovaLogic and published by Philips Media,  which was released in Europe in 1991.</Description>
+		<UserRating>3.40 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>NovaLogic</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Jigsaw" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>699 0292</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jigsaw (EU)-82746_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Joker's Wild Jr., The" URL="/cdi/937694-the-jokers-wild-jr">
+		<Description>The Joker's Wild Jr. is a Miscellaneous game, developed by Accent and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.7 hours</Length>
+		<Developer>Accent</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="The Joker's Wild Jr." region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Joker's Wild Jr. (US)-82946_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Joker's Wild, The" URL="/cdi/581280-the-jokers-wild">
+		<Description>The Joker's Wild is a Miscellaneous game, developed by Accent Media Productions and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Accent Media Productions</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="The Joker's Wild" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Joker's Wild (US)-43005_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Kether" URL="/cdi/581281-kether">
+		<Description>Kether is an Action game, developed by Infogrames and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Infogrames</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Kether" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kether (US)-43006_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Kether" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 0100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kether (EU)-43007_front.jpg</Image>
+				<Image>Kether (EU)-43007_back.jpg</Image>
+				<Image>Kether (EU)-43007_side.jpg</Image>
+				<Image>Kether (EU)-43007_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Kingdom II: Shadoan" URL="/cdi/937490-kingdom-ii-shadoan">
+		<Description>Kingdom II: Shadoan is an Adventure game, developed by CapDisc and published by Philips Media,  which was released in Europe in 1996.</Description>
+		<Developer>CapDisc</Developer>
+		<Franchise>Shadoan</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Kingdom II: Shadoan" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kingdom II Shadoan (EU)-7089_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Kingdom: The Far Reaches" URL="/cdi/581282-kingdom-the-far-reaches">
+		<Description>Venture into a fully-animated game world of wizards and spectres, of bright steel and dark magic, of heroic deeds and base treacheries. You are Lathan, striving to restore an amulet of great power - now scattered throughout three kingdoms - and defeat the evil Torlock, whose reign of terror has vanquished your homeland. Collect items of power and magic, learn clues to determine friend from foe and strive to return Princess Grace Delight to the throne, as every move you make opens new vistas of awesome animation and the chance to conquer The Far Reaches!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>24 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Kingdom: The Far Reaches" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kingdom The Far Reaches (US)-25501_front.jpg</Image>
+				<Image>Kingdom The Far Reaches (US)-25501_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="L'affaire Morlov" URL="/cdi/937491-laffaire-morlov">
+		<Description>L'affaire Morlov is an Adventure game, developed by CPIO Multimedia and published by Titus Software,  which was released in Europe in 1996.</Description>
+		<Developer>CPIO Multimedia</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="L'affaire Morlov" region="EU">
+			<ReleasePublisher>Titus Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>L'affaire Morlov (EU)-82702_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="L'Ange et le Demon" URL="/cdi/575478-lange-et-le-demon">
+		<Description>L'Ange et le Demon is an Adventure game, developed and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>0.67 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="L'Ange et le Demon" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/06/93</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Labyrinth of Crete" URL="/cdi/937492-labyrinth-of-crete">
+		<Description>Labyrinth of Crete is a Puzzle game, developed by Funhouse and published by Philips Media,  which was released in Europe in 1995.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Funhouse</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Labyrinth of Crete" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Labyrinth of Crete (EU)-82703_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Laser Lords" URL="/cdi/564361-laser-lords">
+		<Description>Laser Lords is an Action game, developed by Spinnaker Software and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>3.14 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>14 hours</Length>
+		<Developer>Spinnaker Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Laser Lords" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Laser Lords (US)-24152_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Last Bounty Hunter, The" URL="/cdi/937695-the-last-bounty-hunter">
+		<Description>As a Bounty Hunter, you will be equipped with a six-shooter and sometimes a shotgun. Careful, one of the gunfighters that protects the four outlaws is renowned fast draw world champion Wes Flowers. The pusuit of each outlaw will take you through different shootout scenarios and challenges. Plus, the order in which you stalk each outlaw will change the play action responses and difficulty level making for a different game each time you play!</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>American Laser Games</Developer>
+		<Genre>Action &gt; Shooter &gt; Light Gun</Genre>
+		<Release name="The Last Bounty Hunter" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Last Bounty Hunter (EU)-82947_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Lemmings" URL="/cdi/581283-lemmings">
+		<Description>A unique mind-boggling game of multiple skill levels. Take command of the wackiest collection of misdirected rodents ever seen on your screen. Featuring fantastically animated graphics and simple yet addictive gameplay.</Description>
+		<UserRating>4.14 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>DMA Design</Developer>
+		<Franchise>Lemmings</Franchise>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Lemmings" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lemmings (EU)-23589_front.jpg</Image>
+				<Image>Lemmings (EU)-23589_back.jpg</Image>
+				<Image>Lemmings (EU)-23589_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Lemmings" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lemmings (US)-23588_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Lettergreep" URL="/cdi/937493-lettergreep">
+		<Description>Lettergreep is a Miscellaneous game, developed by Wigant Interactive Media and published by Philips Media,  which was released in Europe in 1996.</Description>
+		<Developer>Wigant Interactive Media</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Lettergreep" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 01 58</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lettergreep (EU)-82707_front.jpg</Image>
+				<Image>Lettergreep (EU)-82707_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Lingo" URL="/cdi/937494-lingo">
+		<Description>Lingo is a Puzzle game, developed by SPC Vision and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<Developer>SPC Vision</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Lingo" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 01 02</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lingo (EU)-82708_front.jpg</Image>
+				<Image>Lingo (EU)-82708_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Link: The Faces of Evil" URL="/cdi/564181-link-the-faces-of-evil">
+		<Description>Ganon and his minions have seized the peaceful island of Koridai and imprisoned Zelda.  It is written, "Only Link can defeat Ganon."  To do so, he must conquer the hideious Faces of Evil...Each more diabolic than the one before.  Against all odds, Zelda must be freed and Koridai returned to harmony.  This fast-paced action adventure game features 70 playfields.  From the friendliest to the meanest, 90 astonishing character will talk to you in full animation.  Encounter the spear-throwing Molblins, rock-spitting Octoroks and much more.</Description>
+		<UserRating>2.28 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>29 hours</Length>
+		<Developer>Animation Magic</Developer>
+		<Franchise>Legend of Zelda</Franchise>
+		<Genre>Action Adventure &gt; Open-World</Genre>
+		<Release name="Link: The Faces of Evil" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690118-2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Link The Faces of Evil (US)-23746_front.jpg</Image>
+				<Image>Link The Faces of Evil (US)-23746_back.jpg</Image>
+				<Image>Link The Faces of Evil (US)-23746_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Link: The Faces of Evil" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 0080</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Link The Faces of Evil (EU)-23747_front.jpg</Image>
+				<Image>Link The Faces of Evil (EU)-23747_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Litil Divil" URL="/cdi/585446-litil-divil">
+		<Description>Litil Divil is an Action game, developed by Gremlin Interactive and published by Philips Media,  which was released in 1995.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Gremlin Interactive</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Litil Divil" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Litil Divil (US)-45847_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Litil Divil" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Litil Divil (EU)-45848_front.jpg</Image>
+				<Image>Litil Divil (EU)-45848_back.jpg</Image>
+				<Image>Litil Divil (EU)-45848_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Little Monster At School" URL="/cdi/937682-little-monster-at-school">
+		<Description>Little Monster At School is a Miscellaneous game, developed by Broderbund and published by Philips,  which was released in 1991.</Description>
+		<UserRating>4.36 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Broderbund</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Little Monster At School" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690097-2</ReleaseProductID>
+			<ReleaseBarCode>731069009726</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Little Monster At School (US)-82932_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Lords of the Rising Sun" URL="/cdi/937495-lords-of-the-rising-sun">
+		<Description>Fight the epic Gempei War of ancient Japan with a unique mix of military strategy, engaging action sequences, and role playing. Become one of two Minamoto brothers sworn to avenge their father's death or be the Taira warlord who caused it! Command Samurai armies. Direct strategic troop movements on a scrolling map of cities, castles, and monasteries. Attempt alliances, seek sacred treasures, and rescue the Emperor. Besiege castles or defend your own. Thwart ninja assassins and do battle with sword, bow, and on horseback. Enjoy absorbing hours of challenge and fun as you alter the course of history forever!</Description>
+		<UserRating>2.92 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>POV Entertainment</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Lords of the Rising Sun" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0026</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lords of the Rising Sun (EU)-56153_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Lost Eden" URL="/cdi/937496-lost-eden">
+		<Description>On another Earth, in another time, where dinosaurs speak and the air is charged with magic, the old ways have broken down. Where once was harmony, now are slavery and war. You must learn what's forgotten and unite the creatures of our continents against a tyrannical tyrannosaur and his carnivorous army. One chance stands between Eden and extinction: You must learn the secrets of the citadels.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Cryo Interactive</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Lost Eden" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>812 0154</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lost Eden (EU)-25776_front.jpg</Image>
+				<Image>Lost Eden (EU)-25776_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Lost Ride, The" URL="/cdi/937706-the-lost-ride">
+		<Description>The Lost Ride is an Action game, developed by Formula and published by Philips Media,  which was released in Europe in 1998.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Formula</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="The Lost Ride" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1998</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Lost Ride (EU)-82960_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Lucky Luke: The Video Game" URL="/cdi/937497-lucky-luke-the-video-game">
+		<Description>Lucky Luke: The Video Game is an Action game, developed by The Vision Factory and published by Philips Media,  which was released in Europe in 1996.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>The Vision Factory</Developer>
+		<Franchise>Lucky Luke</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Lucky Luke: The Video Game" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 03 28</ReleaseProductID>
+			<ReleaseBarCode>8712581003289</ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lucky Luke The Video Game (EU)-82709_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Mad Dog II: The Lost Gold" URL="/cdi/933356-mad-dog-ii-the-lost-gold">
+		<Description>A live-action adventure that challenges your shooting skills by confronting banditos, renegades, and Mad Dog's men. Select one of three different guides and experience a variety of trails in a quest to beat Mad Dog to the lost gold and return with it to the old mission where the longest interactive battle ever filmed awaits the more-skilled game player!</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>American Laser Games</Developer>
+		<Franchise>Mad Dog McCree</Franchise>
+		<Genre>Action &gt; Shooter &gt; Light Gun</Genre>
+		<Release name="Mad Dog II: The Lost Gold" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mad Dog II The Lost Gold (US)-29240_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mad Dog II: The Lost Gold" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 02 78</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mad Dog II The Lost Gold (EU)-29241_front.jpg</Image>
+				<Image>Mad Dog II The Lost Gold (EU)-29241_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Mad Dog McCree" URL="/cdi/581284-mad-dog-mccree">
+		<Description>There's trouble in old Tuscon. Mad Dog McCree and his gang have kidnapped the town's Mayor and his daughter. To save the town, you will be challenged by a saloon full of outlaws, a hair-raising bank robbery, gunfighters, a slew of old West ambushes, and Mad Dog himself. Blaze your way into town and blast the desperadoes in a classic live-action shooting game!</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>37.3 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Franchise>Mad Dog McCree</Franchise>
+		<Genre>Action &gt; Shooter &gt; Light Gun</Genre>
+		<Release name="Mad Dog McCree" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mad Dog McCree (US)-43008_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mad Dog McCree" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 02 12</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mad Dog McCree (EU)-43009_front.jpg</Image>
+				<Image>Mad Dog McCree (EU)-43009_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Marco Polo" URL="/cdi/937498-marco-polo">
+		<Description>Marco Polo is an Adventure game, developed by Infogrames and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8.3 hours</Length>
+		<Developer>Infogrames</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Marco Polo" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0109</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Marco Polo (EU)-43836_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Master Labyrinth" URL="/cdi/937532-master-labyrinth">
+		<Description>Master Labyrinth is a Puzzle game, developed by AVM AG and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<Developer>AVM AG</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Master Labyrinth" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0225</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Max Magic" URL="/cdi/937904-max-magic">
+		<Description>Max Magic is a Miscellaneous game, developed by PF.Magic and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<UserRating>4.38 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>PF.Magic</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Max Magic" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Max Magic (EU)-83214_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Mega-Maze" URL="/cdi/581285-mega-maze">
+		<Description>Mega-Maze is an Action game, developed by PolyMedia Communications and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.7 hours</Length>
+		<Developer>PolyMedia Communications</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Mega-Maze" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mega-Maze (US)-43010_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Merlin's Apprentice" URL="/cdi/581286-merlins-apprentice">
+		<Description>Merlin's Apprentice is a Puzzle game, developed by Funhouse and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.69 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>55 hours</Length>
+		<Developer>Funhouse</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Merlin's Apprentice" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Merlin's Apprentice (US)-43011_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Micro Machines" URL="/cdi/581287-micro-machines">
+		<Description>Small cars and BIG racing action! Race nine turbo-charged vehicles over 36 of the most challenging circuits! Fast, furious and fantastically playable, Micro Machines is THE arcade racer!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Codemasters</Developer>
+		<Franchise>MicroMachines</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Micro Machines" region="US">
+			<ReleasePublisher>Codemasters</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/01/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Micro Machines (US)-18754_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Micro Machines" region="EU">
+			<ReleasePublisher>Codemasters</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/01/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Micro Machines (EU)-18755_front.jpg</Image>
+				<Image>Micro Machines (EU)-18755_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Mozart: A Musical Biography" URL="/cdi/190551-mozart-a-musical-biography">
+		<Description>Mozart: A Musical Biography is a Miscellaneous game, published by Philips,  which was released in 1991.</Description>
+		<Developer>Philips</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Mozart: A Musical Biography" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690041-2</ReleaseProductID>
+			<ReleaseBarCode>731069004127</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Mutant Rampage: BodySlam" URL="/cdi/581288-mutant-rampage-bodyslam">
+		<Description>Civilization is in decay. Teams of bionic warriors rule the ravaged capitals of the world. But now a human challenge has been issued - YOU! Only you have the speed and skill to beat the mutants and triumph in MUTANT RAMPAGE! Face ten mutant teams in ten ravaged cities around the world. Expect to be taunted and teased by in-your-face foes in full-screen digital video animation.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Animation Magic</Developer>
+		<Genre>Action &gt; Beat-'Em-Up &gt; 2D</Genre>
+		<Release name="Mutant Rampage: BodySlam" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mutant Rampage BodySlam (US)-43012_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mutant Rampage: BodySlam" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0208</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mutant Rampage BodySlam (EU)-43013_front.jpg</Image>
+				<Image>Mutant Rampage BodySlam (EU)-43013_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Myst" URL="/cdi/937499-myst">
+		<Description>Journey to an island world eerily tinged with mystery--where every rock, every scrap of paper, every fleeting sound holds a clue to an ancient mystery.  Enter, if you dare, a starkly beautiful landscape shrouded in intrigue and injustice.  Only your wits and imagination hold the power to unlock the shocking betrayal of ages past.  During your virtual exploration, Myst challenges your wits, instincts, and powers of observation.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Cyan Worlds</Developer>
+		<Franchise>Myst</Franchise>
+		<Genre>Adventure &gt; 3D &gt; First-Person</Genre>
+		<Release name="Myst" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0308</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Myst (EU)-699_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Mystic Midway: Phantom Express" URL="/cdi/932756-mystic-midway-phantom-express">
+		<Description>Mystic Midway: Phantom Express is an Action game, developed and published by Philips,  which was released in 1993.</Description>
+		<UserRating>2.64 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Action &gt; Shooter &gt; Rail</Genre>
+		<Release name="Mystic Midway: Phantom Express" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mystic Midway Phantom Express (US)-75337_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Mystic Midway: Rest in Pieces" URL="/cdi/932757-mystic-midway-rest-in-pieces">
+		<Description>Mystic Midway: Rest in Pieces is an Action game, developed and published by Philips,  which was released in 1992.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Mystic Midway: Rest in Pieces" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690152-2</ReleaseProductID>
+			<ReleaseBarCode>731069015222</ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mystic Midway Rest in Pieces (US)-75338_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mystic Midway: Rest in Pieces" region="EU">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>8712581000219</ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mystic Midway Rest in Pieces (EU)-75339_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Name That Tune" URL="/cdi/937500-name-that-tune">
+		<Description>Name That Tune is a Miscellaneous game, developed and published by Philips Media,  which was released in Europe in 1993.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Name That Tune" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Name That Tune (EU)-82710_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="NFL Football Trivia Challenge" URL="/cdi/581289-nfl-football-trivia-challenge-94-95-edition">
+		<Description>NFL Football Trivia Challenge ('94 - '95 Edition) is a Miscellaneous game, developed by CapDisc and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3 hours</Length>
+		<AKA>NFL Football Trivia Challenge (US)</AKA>
+		<Developer>CapDisc</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="NFL Football Trivia Challenge ('94 - '95 Edition)" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>NFL Football Trivia Challenge ('94 - '95 Edition) (US)-43016_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="NFL Hall of Fame Football" URL="/cdi/581290-nfl-hall-of-fame-football">
+		<Description>NFL Hall of Fame Football is a Sports game, developed and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.38 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.7 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Sim</Genre>
+		<Release name="NFL Hall of Fame Football" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>NFL Hall of Fame Football (US)-43015_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="NFL Instant Replay" URL="/cdi/581291-nfl-instant-replay">
+		<Description>NFL Instant Replay is a Miscellaneous game, developed and published by Philips Media,  which was released in 1995.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="NFL Instant Replay" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>NFL Instant Replay (US)-43014_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Origami" URL="/cdi/937905-origami">
+		<Description>Origami is a Miscellaneous game, developed by Eaglevision and published by Philips Media,  which was released in Europe in 1993.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Eaglevision</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Origami" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Othello" URL="/cdi/937533-othello">
+		<Description>Haven't you always had a secret desire to challenge some of the greatest minds of all time? With this CD-i you can. Take on the likes of Albert Einstein or Leonardo da Vinci as they vie for the chance to play you at Othello®!</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Codim Interactive Media</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Othello" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0163</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Othello (EU)-82748_front.jpg</Image>
+				<Image>Othello (EU)-82748_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Pac-Panic" URL="/cdi/937501-pac-panic">
+		<Description>Pac-Man makes a rare appearance outside of a maze environment in Pac-Attack, a fun and quirky puzzle game. This unique entry in the genre puts its own twist on established conventions and adds one of gaming's most iconic characters to the mix. The goal is simple: Keep your screen clear of falling blocks and ghosts by lining up blocks horizontally, causing them to disappear.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Namco</Developer>
+		<Franchise>Pac-Man</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Pac-Panic" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 03 15</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pac-Panic (EU)-82711_front.jpg</Image>
+				<Image>Pac-Panic (EU)-82711_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Paint School I" URL="/cdi/938030-paint-school-i">
+		<Description>Paint School I is a Miscellaneous game, developed by Spinnaker Software and published by Philips Media,  which was released in 1991.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Spinnaker Software</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Paint School I" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Paint School I (US)-83386_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Paint School II" URL="/cdi/938031-paint-school-ii">
+		<Description>Paint School II is a Miscellaneous game, developed by Spinnaker Software and published by Philips Media,  which was released in 1991.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Spinnaker Software</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Paint School II" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Paint School II (US)-83387_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Peanuts: Yearn 2 Learn" URL="/cdi/938039-peanuts-yearn-2-learn">
+		<Description>Peanuts: Yearn 2 Learn is a Miscellaneous game, developed by Lost Boys and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Lost Boys</Developer>
+		<Franchise>Peanuts</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Peanuts: Yearn 2 Learn" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Peanuts Yearn 2 Learn (EU)-83396_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Pecos Bill" URL="/cdi/937683-pecos-bill">
+		<Description>Pecos Bill is a Miscellaneous game, developed and published by Philips,  which was released in 1991.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Pecos Bill" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pecos Bill (US)-82933_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Pegasus" URL="/cdi/938032-pegasus">
+		<Description>Pegasus is a Miscellaneous game, developed by Lightyear Entertainment and published by Philips Media,  which was released in Europe in 1992.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Lightyear Entertainment</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Pegasus" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pegasus (EU)-83388_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Pinball" URL="/cdi/581292-pinball">
+		<Description>Pinball is an Action game, developed by CapDisc and published by Philips Media,  which was released in 1991.</Description>
+		<UserRating>3.14 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pinball" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pinball (US)-43020_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Pinball" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Plunderball" URL="/cdi/937534-plunderball">
+		<Description>Plunderball is an Action game, developed by ISG Productions and published by Older Games,  which was released in 2002.</Description>
+		<Developer>ISG Productions</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Plunderball" region="US">
+			<ReleasePublisher>Older Games</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2002</ReleaseDate>
+			<ReleaseImages>
+				<Image>Plunderball (US)-82749_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Rand McNally's America: United States Atlas" URL="/cdi/190649-rand-mcnallys-america-united-states-atlas">
+		<Description>Rand McNally's America: United States Atlas is a Miscellaneous game, developed by American Interactive Media and published by Philips,  which was released in 1991.</Description>
+		<Developer>American Interactive Media</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Rand McNally's America: United States Atlas" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690014-2</ReleaseProductID>
+			<ReleaseBarCode>731069001423</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Rhythm Maker" URL="/cdi/938033-rhythm-maker">
+		<Description>Rhythm Maker is an Action game, developed by Sonic Images Productions, Inc. and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Sonic Images Productions, Inc.</Developer>
+		<Genre>Action &gt; Rhythm &gt; Music</Genre>
+		<Release name="Rhythm Maker" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rhythm Maker (US)-83389_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Richard Scarry's Best Neighborhood Disc Ever!" URL="/cdi/937134-richard-scarrys-best-neighborhood-disc-ever">
+		<Description>Richard Scarry's Best Neighborhood Disc Ever! is a Miscellaneous game, developed and published by Philips Media,  which was released in 1991.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Franchise>Richard Scarry</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Richard Scarry's Best Neighborhood Disc Ever!" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690038-2</ReleaseProductID>
+			<ReleaseBarCode>731069003823</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Richard Scarry's Best Neighborhood Disc Ever! (US)-82209_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Richard Scarry's Busiest Neighborhood Disc Ever" URL="/cdi/937135-richard-scarrys-busiest-neighborhood-disc-ever">
+		<Description>Richard Scarry's Busiest Neighborhood Disc Ever is a Miscellaneous game, developed and published by Philips Media,  which was released in 1991.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Franchise>Richard Scarry</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Richard Scarry's Busiest Neighborhood Disc Ever" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Richard Scarry's Busiest Neighborhood Disc Ever (US)-82210_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Rise of the Robots" URL="/cdi/937502-rise-of-the-robots">
+		<Description>A revolution in combat games - featuring a unique combat intelligence system that adapts to and learns your style of play! The first game with film-quality, controllable 3D graphics. Robot attack routines choreographed by a martial arts expert. Witness the first ever morphing character to appear in a computer game! Awesome cinematic link sequences.</Description>
+		<UserRating>2.33 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Mirage</Developer>
+		<Genre>Action &gt; Beat-'Em-Up &gt; 2D</Genre>
+		<Release name="Rise of the Robots" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>819 1031</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rise of the Robots (EU)-82712_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Sandy's Circus Adventure" URL="/cdi/938034-sandys-circus-adventure">
+		<Description>Sandy's Circus Adventure is an Adventure game, developed and published by Philips Media,  which was released in 1990.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>2.1 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Sandy's Circus Adventure" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690022-2</ReleaseProductID>
+			<ReleaseBarCode>731069002222</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sandy's Circus Adventure (US)-83391_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Sargon Chess" URL="/cdi/937503-sargon-chess">
+		<Description>Sargon Chess is a Miscellaneous game, developed by Spinnaker Software and published by Philips Media,  which was released in 1991.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Spinnaker Software</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Sargon Chess" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690030-2</ReleaseProductID>
+			<ReleaseBarCode>731069003021</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sargon Chess (US)-82713_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Scotland Yard Interactive" URL="/cdi/937535-scotland-yard-interactive">
+		<Description>Scotland Yard Interactive is an Adventure game, developed by Audio Visuellen Medien and published by Philips Media,  which was released in Europe in 1993.</Description>
+		<Developer>Audio Visuellen Medien</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Scotland Yard Interactive" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scotland Yard Interactive (EU)-82750_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Secret Mission" URL="/cdi/585447-secret-mission">
+		<Description>It's the 1950's. The place is the Indo-Chinese country of Opalia. Opalia has become the target of the USSR and the United States and its geographic position has made it a real hot spot in the Cold War battle of the superpowers. Networks of underground informants and foreign spies have totally destabilized this once peaceful country and local rebels, led by the devious Prime Minister, Vishaka, are trying to topple the king. The safety of Opalia is in your hands alone... you can't let them down!</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>63.3 hours</Length>
+		<Developer>Microids</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Secret Mission" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Secret Mission (US)-45845_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Secret Mission" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 0133</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Secret Mission (EU)-45846_front.jpg</Image>
+				<Image>Secret Mission (EU)-45846_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Shaolin's Road" URL="/cdi/937504-shaolins-road">
+		<Description>Shaolin's Road is an Adventure game, developed by Infogrames and published by Philips Media,  which was released in Europe in 1995.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Infogrames</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Shaolin's Road" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Shaolin's Road (EU)-82714_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Solar Crusade" URL="/cdi/937536-solar-crusade">
+		<Description>Solar Crusade is an Action game, developed and published by Infogrames,  which was released in Europe in 1999.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Infogrames</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Solar Crusade" region="EU">
+			<ReleasePublisher>Infogrames</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1999</ReleaseDate>
+			<ReleaseImages>
+				<Image>Solar Crusade (EU)-82751_front.jpg</Image>
+				<Image>Solar Crusade (EU)-82751_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Space Ace" URL="/cdi/585448-space-ace">
+		<Description>The evil commander Borf has kidnapped Ace's girlfriend, the beautiful Kimberly, and is plotting to enslave the Earth using his dreaded "Infanto Ray", a weapon that changes everyone it blasts into a helpless baby. Armed with only a laser gun, Ace must find and destroy the Infanto Ray, rescue Kimberly and save the Earth. All in a day's work for a superhero, right?</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>International Creative Digital Image</Developer>
+		<Franchise>Space Ace</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Ace" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Ace (US)-45849_front.jpg</Image>
+				<Image>Space Ace (US)-45849_back.jpg</Image>
+				<Image>Space Ace (US)-45849_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Space Ace" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 01 02 2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Ace (EU)-45850_front.jpg</Image>
+				<Image>Space Ace (EU)-45850_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Space Ranger: Return to Earth" URL="/cdi/937537-space-ranger-return-to-earth">
+		<Description>Space Ranger: Return to Earth is an Action game, developed by Studio Interactive and published by Older Games,  which was released in 2002.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Studio Interactive</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Ranger: Return to Earth" region="US">
+			<ReleasePublisher>Older Games</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2002</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Ranger Return to Earth (US)-82752_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Sport Freaks" URL="/cdi/937505-sport-freaks">
+		<Description>Sport Freaks is a Miscellaneous game, developed by SPC Vision and published by Philips Media,  which was released in Europe in 1996.</Description>
+		<Developer>SPC Vision</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Sport Freaks" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>819 10 33</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Steel Machine" URL="/cdi/937507-steel-machine">
+		<Description>Steel Machine is an Action game, developed by SPC Vision and published by Philips Media,  which was released in Europe in 1993.</Description>
+		<UserRating>2.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>SPC Vision</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Steel Machine" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0160</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Steel Machine (EU)-82718_front.jpg</Image>
+				<Image>Steel Machine (EU)-82718_back.jpg</Image>
+				<Image>Steel Machine (EU)-82718_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Stickybear Math" URL="/cdi/938035-stickybear-math">
+		<Description>Stickybear Math is a Miscellaneous game, developed by Optimum Resource and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>14 hours</Length>
+		<Developer>Optimum Resource</Developer>
+		<Franchise>Stickybear</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Stickybear Math" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Stickybear Math (US)-83392_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Stickybear Preschool" URL="/cdi/938036-stickybear-preschool">
+		<Description>Stickybear Preschool is a Miscellaneous game, developed by Optimum Resource and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Optimum Resource</Developer>
+		<Franchise>Stickybear</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Stickybear Preschool" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Stickybear Preschool (US)-83393_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Stickybear Reading" URL="/cdi/938037-stickybear-reading">
+		<Description>Stickybear Reading is a Miscellaneous game, developed by Optimum Resource and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Optimum Resource</Developer>
+		<Franchise>Stickybear</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Stickybear Reading" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Stickybear Reading (US)-83394_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Striker Pro" URL="/cdi/937506-striker-pro">
+		<Description>Striker Pro is a Sports game, developed by Rage Software and published by Philips,  which was released in 1994.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Rage Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Striker Pro" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690143-2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Striker Pro (US)-82717_front.jpg</Image>
+				<Image>Striker Pro (US)-82717_back.jpg</Image>
+				<Image>Striker Pro (US)-82717_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Striker Pro" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>811 00 44</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Striker Pro (EU)-82716_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Super Mario's Wacky Worlds" URL="/cdi/633281-super-marios-wacky-worlds">
+		<Description>Super Mario's Wacky Worlds is an Action game, developed by NovaLogic and published by Philips,  which was cancelled before it was released.</Description>
+		<Developer>NovaLogic</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Super Mario's Wacky Worlds" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Surf City" URL="/cdi/920982-surf-city">
+		<Description>Surf City is an Adventure game, developed and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.58 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; 3D &gt; Third-Person</Genre>
+		<Release name="Surf City" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Surf City (US)-60977_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Tangram" URL="/cdi/937680-tangram">
+		<Description>CD-I makes Tangram more challenging, more exciting. There are more symbols, more silhouettes, so you can develop greater skills. Just use the cursor to rotate and move the pieces. Choose free expression or tackle set tasks. And choose your own level of play: beginner, intermediate, advanced, expert - up to the highest level of all. Free Form Tangram on CD-I means moving forms, mood music, and much more fun!</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Eaglevision</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Tangram" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 0010</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tangram (EU)-82930_front.jpg</Image>
+				<Image>Tangram (EU)-82930_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Tell Me Why 1" URL="/cdi/937690-tell-me-why-1">
+		<Description>Tell Me Why 1 is a Miscellaneous game, developed and published by Philips,  which was released in 1990.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Tell Me Why 1" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690003-2</ReleaseProductID>
+			<ReleaseBarCode>731069000327</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tell Me Why 1 (US)-82942_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Tell Me Why 2" URL="/cdi/937691-tell-me-why-2">
+		<Description>Tell Me Why 2 is a Miscellaneous game, developed and published by Philips,  which was released in 1990.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Philips</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Tell Me Why 2" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tell Me Why 2 (US)-82943_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Tetris" URL="/cdi/579981-tetris">
+		<Description>Your pulse quickens. Beams, boxes, zig-zags and "L" shaped building blocks drop relentlessly down a narrow passage. You quickly spin, shift, and align the shapes then slide them in for a perfect fit. It's challenging and the pace is demanding. But satisfaction comes as you position each block neatly into place.</Description>
+		<UserRating>3.96 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Franchise>Tetris</Franchise>
+		<Genre>Puzzle &gt; Stacking</Genre>
+		<Release name="Tetris" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>310690188-2</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tetris (US)-42207_front.jpg</Image>
+				<Image>Tetris (US)-42207_back.jpg</Image>
+				<Image>Tetris (US)-42207_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Tetsuo Gaiden" URL="/cdi/937692-tetsuo-gaiden">
+		<Description>Tetsuo Gaiden is an Action game, developed by Creative Multimedia Corporation and published by New Frontier,  which was released in Europe in 1997.</Description>
+		<UserRating>1.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Creative Multimedia Corporation</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Tetsuo Gaiden" region="EU">
+			<ReleasePublisher>New Frontier</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tetsuo Gaiden (EU)-82944_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Text Tiles" URL="/cdi/581293-text-tiles">
+		<Description>Text Tiles is a Puzzle game, developed by CapDisc and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Text Tiles" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Text Tiles (US)-43019_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Thunder in Paradise" URL="/cdi/581294-thunder-in-paradise">
+		<Description>Here's your shot at Paradise, bro. You're in the middle of an action-packed adventure with your cohorts Spence (Terry "Hulk" Hogan) and Bru (Chris Lemmon). Blast your way through these mind-blowing action encounters as you attempt to rescue Spence's daughter Jessica, regain control of the M.A.J.O.R., and crush your arch enemy, RAMPIKE! Race at hyperspeed through the Caribbean, aboard THUNDER, a 45-foot piece of hi-tech marine hardware. Take control of the boat's weapon systems and defend THUNDER from a shower of deadly threats. Face down minions of the psychotic RAMPIKE on the eerie trails of Rossiter's Island. Go toe-to-toe with the M.A.J.O.R., a bio-humanoid gone haywire, in a battle for Jessica's life!</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Thunder in Paradise" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Thunder in Paradise (US)-43017_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Thunder in Paradise" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 01 98</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Thunder in Paradise (EU)-43018_front.jpg</Image>
+				<Image>Thunder in Paradise (EU)-43018_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Time-Life Photography" URL="/cdi/190648-time-life-photography">
+		<Description>Time-Life Photography is a Miscellaneous game, developed by American Interactive Media and published by Philips,  which was released in 1990.</Description>
+		<Developer>American Interactive Media</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Time-Life Photography" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690017-2</ReleaseProductID>
+			<ReleaseBarCode>731069001720</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Treasures of The Smithsonian" URL="/cdi/190508-treasures-of-the-smithsonian">
+		<Description>Treasures of The Smithsonian is a Miscellaneous game, published by Philips,  which was released in 1990.</Description>
+		<Developer>Philips</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Treasures of The Smithsonian" region="US">
+			<ReleasePublisher>Philips</ReleasePublisher>
+			<ReleaseProductID>310690010-2</ReleaseProductID>
+			<ReleaseBarCode>731069001027</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Ultimate Noah's Ark" URL="/cdi/937696-ultimate-noahs-ark">
+		<Description>Ultimate Noah's Ark is an Adventure game, developed and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Ultimate Noah's Ark" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ultimate Noah's Ark (EU)-82950_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Ultra CD-i Soccer" URL="/cdi/937693-ultra-cd-i-soccer">
+		<Description>Ultra CD-i Soccer is a Sports game, developed by Krisalis Software and published by Philips Media,  which was released in Europe in 1997.</Description>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Ultra CD-i Soccer" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0220</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ultra CD-i Soccer (EU)-82945_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Uncover Featuring Tatjana" URL="/cdi/937699-uncover-featuring-tatjana">
+		<Description>Uncover Featuring Tatjana is an Adventure game, developed by SPC Vision and published by Philips Media,  which was released in Europe in 1996.</Description>
+		<UserRating>1.00 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>SPC Vision</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Uncover Featuring Tatjana" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Uncover Featuring Tatjana (EU)-82952_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Uptown Blues, The" URL="/cdi/937367-the-uptown-blues">
+		<Description>The Uptown Blues is a Miscellaneous game, developed by Lunaria and published by Philips Media,  which was released in 1994.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Lunaria</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="The Uptown Blues" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Vegas Girls" URL="/cdi/938038-vegas-girls">
+		<Description>Vegas Girls is a Miscellaneous game, developed and published by Status,  which was released in Europe in 1995.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Status</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Vegas Girls" region="EU">
+			<ReleasePublisher>Status</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Vegas Girls (EU)-83395_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Video Speedway" URL="/cdi/920983-video-speedway">
+		<Description>Video Speedway is a Racing game, developed by ISG Productions and published by Philips Media,  which was released in 1992.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>ISG Productions</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Video Speedway" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Video Speedway (US)-60978_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Visit to Sesame Street: Letters, A" URL="/cdi/937902-a-visit-to-sesame-street-letters">
+		<Description>A Visit to Sesame Street: Letters is a Miscellaneous game, developed and published by CapDisc,  which was released in 1992.</Description>
+		<UserRating>4.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Franchise>Sesame Street</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="A Visit to Sesame Street: Letters" region="US">
+			<ReleasePublisher>CapDisc</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>A Visit to Sesame Street Letters (US)-83212_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Visit to Sesame Street: Numbers, A" URL="/cdi/937903-a-visit-to-sesame-street-numbers">
+		<Description>A Visit to Sesame Street: Numbers is a Miscellaneous game, developed and published by CapDisc,  which was released in 1992.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>CapDisc</Developer>
+		<Franchise>Sesame Street</Franchise>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="A Visit to Sesame Street: Numbers" region="US">
+			<ReleasePublisher>CapDisc</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>A Visit to Sesame Street Numbers (US)-83213_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Voyeur" URL="/cdi/937697-voyeur">
+		<Description>Like To Watch?
+
+
+You'll get an eye-full as you peer into your neighbors' sordid lives in the wickedly seductive interactive mystery, Voyeur. Political blackmail... murder... seductive intrigue... you'll see it all. But will you only watch - hidden like a true voyeur - or will you step into the drama and try to prevent a murder?
+
+
+Voyeur combines dramatic game play with chilling suspense and erotic undertones guaranteed to keep your excitement level up. Hollywood actors, excellent film quality and an alluring storyline make this a sizzling thriller that will bring our the voyeur in everyone. Come on. We know you want to watch.</Description>
+		<UserRating>1.91 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Voyeur" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0162</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Voyeur (EU)-36674_front.jpg</Image>
+				<Image>Voyeur (EU)-36674_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Wacky World of Miniature Golf with Eugene Levy, The" URL="/cdi/934716-the-wacky-world-of-miniature-golf-with-eugene-levy">
+		<Description>The Wacky World of Miniature Golf with Eugene Levy is a Sports game, developed and published by Philips Media,  which was released in 1993.</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Arcade</Genre>
+		<Release name="The Wacky World of Miniature Golf with Eugene Levy" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Wacky World of Miniature Golf with Eugene Levy (US)-78819_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Whack a Bubble" URL="/cdi/937698-whack-a-bubble">
+		<Description>Whack a Bubble is a Puzzle game, developed by Creative Multimedia Corporation and published by New Frontier,  which was released in Europe in 1997.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Creative Multimedia Corporation</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Whack a Bubble" region="EU">
+			<ReleasePublisher>New Frontier</ReleasePublisher>
+			<ReleaseProductID>8 799999 714068</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Whack a Bubble (EU)-82951_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Who Shot Johnny Rock?" URL="/cdi/581296-who-shot-johnny-rock">
+		<Description>It's the rollicking 30's and someone has killed popular singer Johnny Rock in this action-packed gangster whodunit. The player will need to navigate the back streets, gaming halls, funeral parlors and the dirty sections of this city to get at the clues held by a number of shady characters and solve this murder mystery. Bad guys with machine guns provide a high level of shooting action.</Description>
+		<UserRating>3.94 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>American Laser Games</Developer>
+		<Genre>Action &gt; Shooter &gt; Light Gun</Genre>
+		<Release name="Who Shot Johnny Rock?" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Who Shot Johnny Rock (US)-28410_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Who Shot Johnny Rock?" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 02 85</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Who Shot Johnny Rock (EU)-28411_front.jpg</Image>
+				<Image>Who Shot Johnny Rock (EU)-28411_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Wordplay" URL="/cdi/937707-wordplay">
+		<Description>Wordplay is a Puzzle game, developed by Backs Electronic Publishing and published by Philips Media,  which was released in Europe in 1994.</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Backs Electronic Publishing</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Wordplay" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wordplay (EU)-82961_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="World Cup Golf" URL="/cdi/937700-world-cup-golf">
+		<Description>World Cup Golf is a Sports game, developed and published by U.S. Gold,  which was released in 1995.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<AKA>World Cup Golf: Hyatt Dorado Beach (US)</AKA>
+		<Developer>U.S. Gold</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="World Cup Golf: Hyatt Dorado Beach" region="US">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+		<Release name="World Cup Golf" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>World Cup Golf (EU)-82953_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="World Cup Golf: Hyatt Dorado Beach" URL="/cdi/937700-world-cup-golf">
+		<Description>World Cup Golf is a Sports game, developed and published by U.S. Gold,  which was released in 1995.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<AKA>World Cup Golf: Hyatt Dorado Beach (US)</AKA>
+		<Developer>U.S. Gold</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="World Cup Golf: Hyatt Dorado Beach" region="US">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+		<Release name="World Cup Golf" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>World Cup Golf (EU)-82953_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Xplora 1: Peter Gabriel's Secret World" URL="/cdi/974877-xplora-1-peter-gabriels-secret-world">
+		<Description>Xplora 1: Peter Gabriel's Secret World is a Miscellaneous game, developed by Real World Multimedia and published by Philips Media,  which was released in 1995.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Real World Multimedia</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Xplora 1: Peter Gabriel's Secret World" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Zelda's Adventure" URL="/cdi/564215-zeldas-adventure">
+		<Description>As the brave warrior, Princess Zelda, it's your mission to thwart the enemy, Gannon, who has captured Link and taken over Tolemac.  On the way to freeing Link, you'll journey deep into the Seven Shrines of the Underworld.  You will acquire powerful weapons as you fight evil characters in your attempt to restore the Age of Lightness to this magical land.</Description>
+		<UserRating>1.74 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>41.1 hours</Length>
+		<Developer>Viridis</Developer>
+		<Franchise>Legend of Zelda</Franchise>
+		<Genre>Action Adventure &gt; Open-World</Genre>
+		<Release name="Zelda's Adventure" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0147</ReleaseProductID>
+			<ReleaseBarCode>8712581001476</ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zelda's Adventure (US)-23819_front.jpg</Image>
+				<Image>Zelda's Adventure (US)-23819_back.jpg</Image>
+				<Image>Zelda's Adventure (US)-23819_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Zelda's Adventure" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810 0147</ReleaseProductID>
+			<ReleaseBarCode>8712581001476</ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zelda's Adventure (EU)-23818_front.jpg</Image>
+				<Image>Zelda's Adventure (EU)-23818_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Zelda: The Wand of Gamelon" URL="/cdi/564210-zelda-the-wand-of-gamelon">
+		<Description>When King Harkinian vanishes on a mission to save Gamelon, Link takes off to rescue him.  But soon Link is also missing, and Zelda must free them both from their evil captors.  This action adventure arcade-style game features 70 playfields, including palaces, forests, swamps, and a mysterious fairy pool.  An awesome array of 90 amazing character will talk to you in full animation.  Confront sword-wielding Stalfos, floating Ghini, dreaded Dodongos, pinching Gohma, and much more.  You'll have a blast smashing your enemies into utter disgrace!</Description>
+		<UserRating>2.57 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>19 hours</Length>
+		<Developer>Animation Magic</Developer>
+		<Franchise>Legend of Zelda</Franchise>
+		<Genre>Action Adventure &gt; Open-World</Genre>
+		<Release name="Zelda: The Wand of Gamelon" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>810-0096</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zelda The Wand of Gamelon (US)-23813_front.jpg</Image>
+				<Image>Zelda The Wand of Gamelon (US)-23813_back.jpg</Image>
+				<Image>Zelda The Wand of Gamelon (US)-23813_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Zelda: The Wand of Gamelon" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID>814 0096</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zelda The Wand of Gamelon (EU)-23814_front.jpg</Image>
+				<Image>Zelda The Wand of Gamelon (EU)-23814_back.jpg</Image>
+				<Image>Zelda The Wand of Gamelon (EU)-23814_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Zenith" URL="/cdi/937702-zenith">
+		<Description>Zenith is an Action game, developed by Radarsoft and published by Philips Media,  which was released in Europe in 1997.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Radarsoft</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Zenith" region="EU">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zenith (EU)-82956_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="CD-I" name="Zombie Dinos from Planet Zeltoid" URL="/cdi/937701-zombie-dinos-from-planet-zeltoid">
+		<Description>Innocent dinosaurs have become mindless zombies, controlled by the evil Harry the Harrier and his alien Brain Blobs. But all is not lost. Wise-cracking Dexter the Dinodroid has managed to escape, bringing to Earth the incredible Time Machine. His goal: "Let's kick some brain!" Travel back in the Time Machine 200 million years. Locate each dinosaur before the Brain Blobs take control. Stop them from destroying unsuspecting humans in your hometown. Dexter will help you, along with the Time Machine's invaluable Dino Encyclopedia containing everything you need to know to save the planet.</Description>
+		<UserRating>2.88 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Philips Media</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Zombie Dinos from Planet Zeltoid" region="US">
+			<ReleasePublisher>Philips Media</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zombie Dinos from Planet Zeltoid (US)-82955_front.jpg</Image>
+				<Image>Zombie Dinos from Planet Zeltoid (US)-82955_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

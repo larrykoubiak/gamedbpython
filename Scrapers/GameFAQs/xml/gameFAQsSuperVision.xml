@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="SuperVision" name="Alien" URL="/svision/932779-alien">
+		<Description>Alien is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Alien" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien (US)-75386_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="B52 Battle" URL="/svision/934537-b52-battle">
+		<Description>B52 Battle is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="B52 Battle" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Balloon Fight" URL="/svision/932780-balloon-fight">
+		<Description>Balloon Fight is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Balloon Fight" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Balloon Fight (US)-75387_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Block Buster" URL="/svision/932781-block-buster">
+		<Description>Block Buster is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Block Buster" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Block Buster (US)-75388_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Brain Power" URL="/svision/933556-brain-power">
+		<Description>Brain Power is a Miscellaneous game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Brain Power" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Brain Power (US)-77154_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Bubble World" URL="/svision/934538-bubble-world">
+		<Description>Bubble World is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Bubble World" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Carrier" URL="/svision/933557-carrier">
+		<Description>Carrier is a Puzzle game, developed by Travellmate and published by Watara,  which was released in 1992.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>28 hours</Length>
+		<Developer>Travellmate</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Carrier" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Carrier (US)-77155_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Cave Wonders" URL="/svision/934539-cave-wonders">
+		<Description>Cave Wonders is an Action game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cave Wonders" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Challenger Tank" URL="/svision/933558-challenger-tank">
+		<Description>Challenger Tank is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Challenger Tank" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Challenger Tank (US)-77156_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Chimera" URL="/svision/933559-chimera">
+		<Description>Investigations have traced the source of erratic radio signals to a giant alien vessel, orbiting the Earth high in the exosphere. That the craft is hostile, there is no doubt; somebody will have to go aboard and find out how to eliminate the threat.</Description>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Chimera" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chimera (US)-77157_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Chinese Checkers" URL="/svision/933560-chinese-checkers">
+		<Description>Chinese Checkers is a Miscellaneous game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Chinese Checkers" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Classic Casino" URL="/svision/933561-classic-casino">
+		<Description>Classic Casino is a Miscellaneous game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Classic Casino" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Climber" URL="/svision/933562-climber">
+		<Description>Climber is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Climber" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Climber (US)-77160_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Crystball" URL="/svision/933563-crystball">
+		<Description>Crystball is a Miscellaneous game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Crystball" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Dancing Block" URL="/svision/934540-dancing-block">
+		<Description>Dancing Block is a Miscellaneous game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Dancing Block" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Delta Hero" URL="/svision/933564-delta-hero">
+		<Description>Delta Hero is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Delta Hero" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Delta Hero (US)-77162_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Dream World" URL="/svision/933565-dream-world">
+		<Description>Dream World is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>40 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Dream World" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dream World (US)-77163_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Eagle Plan" URL="/svision/933566-eagle-plan">
+		<Description>Eagle Plan is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Eagle Plan" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Eagle Plan (US)-77164_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Earth Defender" URL="/svision/933567-earth-defender">
+		<Description>Earth Defender is an Action game, developed by Bon Treasure and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Earth Defender" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Earth Defender (US)-77165_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Fatal Craft" URL="/svision/934541-fatal-craft">
+		<Description>Fatal Craft is an Action game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Fatal Craft" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Final Combat" URL="/svision/933568-final-combat">
+		<Description>Final Combat is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Final Combat" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Final Combat (US)-77166_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Galactic Crusader" URL="/svision/933569-galactic-crusader">
+		<Description>Galactic Crusader is an Action game, developed by Thin Chen Enterprises and published by Watara,  which was released in 1992.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Galactic Crusader" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Galaxy Fighter" URL="/svision/933646-galaxy-fighter">
+		<Description>Galaxy Fighter is an Action game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>1.50 / 5</UserRating>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Galaxy Fighter" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Grand Prix" URL="/svision/933570-grand-prix">
+		<Description>Grand Prix is a Racing game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Grand Prix" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Happy Pairs" URL="/svision/933647-happy-pairs">
+		<Description>Happy Pairs is a Puzzle game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Happy Pairs" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Happy Race" URL="/svision/933571-happy-race">
+		<Description>Happy Race is a Racing game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Happy Race" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Hash Block" URL="/svision/933555-hash-block">
+		<Description>Hash Block is an Action game, developed by GTC and published by Watara,  which was released in 1992.</Description>
+		<Developer>GTC</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hash Block" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Hero Hawk" URL="/svision/934542-hero-hawk">
+		<Description>Hero Hawk is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hero Hawk" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Hero-Kid" URL="/svision/933572-hero-kid">
+		<Description>Hero-Kid is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hero-Kid" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Honey Bee" URL="/svision/934543-honey-bee">
+		<Description>Honey Bee is a Miscellaneous game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Honey Bee" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Jacky Lucky" URL="/svision/933648-jacky-lucky">
+		<Description>Jacky Lucky is an Action game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>1.00 / 5</UserRating>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Jacky Lucky" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Jade Legend" URL="/svision/934544-jade-legend">
+		<Description>Jade Legend is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jade Legend" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Jaguar Bomber" URL="/svision/933573-jaguar-bomber">
+		<Description>Jaguar Bomber is an Action game, developed and published by Watara,  which was released in 1992.</Description>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jaguar Bomber" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Johns Adventure" URL="/svision/934545-johns-adventure">
+		<Description>Johns Adventure is an Action Adventure game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Johns Adventure" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Journey to the West" URL="/svision/933574-journey-to-the-west">
+		<Description>Journey to the West is an Action game, developed by TXC and published by Watara,  which was released in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>TXC</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Journey to the West" region="US">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Juggler" URL="/svision/933575-juggler">
+		<Description>Juggler is a Puzzle game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Juggler" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Juggler (AS)-77173_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Kabi Island" URL="/svision/934463-kabi-island">
+		<Description>Kabi Island is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Kabi Island" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kabi Island (AS)-78501_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Kitchen War" URL="/svision/934546-kitchen-war">
+		<Description>Kitchen War is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Kitchen War" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Kung-Fu Street" URL="/svision/934547-kung-fu-street">
+		<Description>Kung-Fu Street is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Kung-Fu Street" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Linear Racing" URL="/svision/934464-linear-racing">
+		<Description>Linear Racing is a Puzzle game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Linear Racing" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Linear Racing (AS)-78502_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Ma Jong" URL="/svision/934548-ma-jong">
+		<Description>Ma Jong is a Miscellaneous game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Ma Jong" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Magincross" URL="/svision/933649-magincross">
+		<Description>Magincross is an Action game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Magincross" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Matta Blatta" URL="/svision/934465-matta-blatta">
+		<Description>Matta Blatta is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Matta Blatta" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Olympic Trials" URL="/svision/934549-olympic-trials">
+		<Description>Olympic Trials is a Sports game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Sports &gt; Individual &gt; Athletics</Genre>
+		<Release name="Olympic Trials" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="P52 Sea Battle" URL="/svision/934466-p52-sea-battle">
+		<Description>P52 Sea Battle is a Strategy game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Developer>Watara</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="P52 Sea Battle" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>P52 Sea Battle (AS)-78504_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Pac-Boy &amp; Mouse" URL="/svision/934467-pac-boy-and-mouse">
+		<Description>Pac-Boy &amp; Mouse is a Puzzle game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Pac-Boy &amp; Mouse" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Pacific Battle" URL="/svision/934462-pacific-battle">
+		<Description>Pacific Battle is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Pacific Battle" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pacific Battle (AS)-78500_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Penguin Hunt" URL="/svision/934550-penguin-hunt">
+		<Description>Penguin Hunt is a Puzzle game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Penguin Hunt" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Police Bust" URL="/svision/934461-police-bust">
+		<Description>Police Bust is an Action game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Police Bust" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="PoPo Team" URL="/svision/934551-popo-team">
+		<Description>PoPo Team is an Action game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="PoPo Team" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>PoPo Team (AS)-78612_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Pyramid" URL="/svision/934552-pyramid">
+		<Description>Pyramid is a Miscellaneous game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Pyramid" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pyramid (AS)-78613_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Recycle Design" URL="/svision/934553-recycle-design">
+		<Description>Recycle Design is a Miscellaneous game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>1.50 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Recycle Design" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Scaffolder" URL="/svision/934554-scaffolder">
+		<Description>Scaffolder is a Miscellaneous game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Scaffolder" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scaffolder (AS)-78615_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Soccer Champion" URL="/svision/934555-soccer-champion">
+		<Description>Soccer Champion is a Sports game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Soccer Champion" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Sonny X'Press" URL="/svision/934556-sonny-xpress">
+		<Description>Sonny X'Press is a Miscellaneous game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Sonny X'Press" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Space Fighter" URL="/svision/934557-space-fighter">
+		<Description>Space Fighter is an Action Adventure game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Space Fighter" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Sssnake" URL="/svision/934564-sssnake">
+		<Description>Sssnake is an Action game, developed by B.I.T.S. and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>B.I.T.S.</Developer>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Sssnake" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sssnake (AS)-78625_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Super Block" URL="/svision/933650-super-block">
+		<Description>Super Block is a Puzzle game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Super Block" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Block (AS)-77246_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Super Kong" URL="/svision/933576-super-kong">
+		<Description>Super Kong is an Action game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>1.00 / 5</UserRating>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Super Kong" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Kong (AS)-77174_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Super Pang" URL="/svision/934558-super-pang">
+		<Description>Super Pang is an Action game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Super Pang" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="SuperVision" URL="/svision/934107-supervision">
+		<Description>SuperVision is a Hardware game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<AKA>SuperVision Hardware (AS, US)</AKA>
+		<Developer>Watara</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="SuperVision Hardware" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+		<Release name="SuperVision Hardware" region="US">
+			<ReleasePublisher>Goldnation</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>SuperVision Hardware (US)-307543_front.jpg</Image>
+				<Image>SuperVision Hardware (US)-307543_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="SuperVision Hardware" URL="/svision/934107-supervision">
+		<Description>SuperVision is a Hardware game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<AKA>SuperVision Hardware (AS, US)</AKA>
+		<Developer>Watara</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="SuperVision Hardware" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+		<Release name="SuperVision Hardware" region="US">
+			<ReleasePublisher>Goldnation</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>SuperVision Hardware (US)-307543_front.jpg</Image>
+				<Image>SuperVision Hardware (US)-307543_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Tasac 2010" URL="/svision/933651-tasac-2010">
+		<Description>Tasac 2010 is an Action game, developed by Thin Chen Enterprises and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Thin Chen Enterprises</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Tasac 2010" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Tennis Pro '92" URL="/svision/933652-tennis-pro-92">
+		<Description>Tennis Pro '92 is a Sports game, developed by Bits Studios and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Bits Studios</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Tennis Pro '92" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tennis Pro '92 (AS)-77248_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Thunder Shooting" URL="/svision/934559-thunder-shooting">
+		<Description>Thunder Shooting is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Thunder Shooting" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Treasure Hunter" URL="/svision/934560-treasure-hunter">
+		<Description>Treasure Hunter is an Action Adventure game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Treasure Hunter" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+			<ReleaseImages>
+				<Image>Treasure Hunter (AS)-78621_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Untouchable" URL="/svision/934561-untouchable">
+		<Description>Untouchable is a Miscellaneous game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Watara</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Untouchable" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="USA Sea Battle" URL="/svision/934562-usa-sea-battle">
+		<Description>USA Sea Battle is an Action game, developed and published by Watara,  which was released in Asia in 1992.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Watara</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="USA Sea Battle" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="SuperVision" name="Witty Kitty" URL="/svision/934563-witty-kitty">
+		<Description>Witty Kitty is a Miscellaneous game, developed by Bon Treasure and published by Watara,  which was released in Asia in 1992.</Description>
+		<Developer>Bon Treasure</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Witty Kitty" region="AS">
+			<ReleasePublisher>Watara</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/30/92</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

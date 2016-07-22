@@ -1,0 +1,1755 @@
+<?xml version="1.0" ?>
+<gameList>
+  <game>
+    <path>./Aa Harimanada (Japan).zip</path>
+    <name>Aa Harimanada</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Aa Harimanada (Japan)_front.jpg</image>
+    <rating>1.8</rating>
+    <releasedate>1993-07-02</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Aerial Assault (World).zip</path>
+    <name>Aerial Assault</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Aerial Assault (World)_front.jpg</image>
+    <rating>3.0</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Alien Syndrome (USA, Europe).zip</path>
+    <name>Alien Syndrome</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Alien Syndrome (USA, Europe)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Arena (USA, Europe).zip</path>
+    <name>Arena</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Arena (USA, Europe)_front.jpg</image>
+    <rating>2.8</rating>
+    <releasedate>1996-01-01</releasedate>
+    <developer>Eden Entertainment Software Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Asterix and the Secret Mission (Europe) (En,Fr,De).zip</path>
+    <name>Asterix and the Secret Mission</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Asterix and the Secret Mission (Europe) (En,Fr,De)_front.jpg</image>
+    <rating>4.3</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Ayrton Senna's Super Monaco GP II (USA, Europe).zip</path>
+    <name>Ayrton Senna's Super Monaco GP II</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Ayrton Senna's Super Monaco GP II (USA, Europe)_front.jpg</image>
+    <rating>2.2</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Racing / Driving</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World).zip</path>
+    <name>Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)_front.jpg</image>
+    <rating>3.4</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Shout!Designworks Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Batman Returns (World).zip</path>
+    <name>Batman Returns</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Batman Returns (World)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Aspect Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Berlin no Kabe (Japan).zip</path>
+    <name>Berlin no Kabe</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Berlin no Kabe (Japan)_front.jpg</image>
+    <rating></rating>
+    <releasedate>1991-11-29</releasedate>
+    <developer>Inter State Co., Ltd.</developer>
+    <publisher>Kaneko</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Bishoujo Senshi Sailor Moon S (Japan).zip</path>
+    <name>Bishoujo Senshi Sailor Moon S</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Bishoujo Senshi Sailor Moon S (Japan)_front.jpg</image>
+    <rating>2.2</rating>
+    <releasedate>1995-01-27</releasedate>
+    <developer>Shimada Kikaku</developer>
+    <publisher>Bandai</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Buster Fight (Japan).zip</path>
+    <name>Buster Fight</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Buster Fight (Japan)_front.jpg</image>
+    <rating>3.8</rating>
+    <releasedate>1994-02-11</releasedate>
+    <developer>SIMS Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Castle of Illusion Starring Mickey Mouse (USA, Europe).zip</path>
+    <name>Castle of Illusion Starring Mickey Mouse</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Castle of Illusion Starring Mickey Mouse (USA, Europe)_front.jpg</image>
+    <rating>4.1</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Chakan (USA, Europe).zip</path>
+    <name>Chakan</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Chakan (USA, Europe)_front.jpg</image>
+    <rating>2.4</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Extended Play</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Championship Hockey (Europe).zip</path>
+    <name>Championship Hockey</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Championship Hockey (Europe)_front.jpg</image>
+    <rating></rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Electronic Arts, Inc.</developer>
+    <publisher>U.S. Gold</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).zip</path>
+    <name>Cheese Cat-Astrophe Starring Speedy Gonzales</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)_front.jpg</image>
+    <rating>4.4</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Cryo Interactive Entertainment</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Chicago Syndicate (USA, Europe).zip</path>
+    <name>Chicago Syndicate</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Chicago Syndicate (USA, Europe)_front.jpg</image>
+    <rating>2.5</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Climax Group, The</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Chuck Rock (World).zip</path>
+    <name>Chuck Rock</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Chuck Rock (World)_front.jpg</image>
+    <rating>3.8</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Core Design Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Clutch Hitter (USA).zip</path>
+    <name>Clutch Hitter</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Clutch Hitter (USA)_front.jpg</image>
+    <rating>2.1</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>SEGA of America, Inc.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Coca-Cola Kid (Japan).zip</path>
+    <name>Coca-Cola Kid</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Coca-Cola Kid (Japan)_front.jpg</image>
+    <rating>4.1</rating>
+    <releasedate>1994-08-05</releasedate>
+    <developer>Aspect Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Columns (USA, Europe).zip</path>
+    <name>Columns</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Columns (USA, Europe)_front.jpg</image>
+    <rating>3.6</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Cosmic Spacehead (Europe).zip</path>
+    <name>Cosmic Spacehead</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Cosmic Spacehead (Europe)_front.jpg</image>
+    <rating>1.8</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Codemasters</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Adventure</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Cutthroat Island (USA, Europe).zip</path>
+    <name>Cutthroat Island</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Cutthroat Island (USA, Europe)_front.jpg</image>
+    <rating>2.3</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Software Creations</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).zip</path>
+    <name>Daffy Duck in Hollywood</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)_front.jpg</image>
+    <rating></rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Probe Software Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA).zip</path>
+    <name>Desert Speedtrap Starring Road Runner and Wile E. Coyote</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA)_front.jpg</image>
+    <rating>2.5</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Probe Software Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Devilish (USA).zip</path>
+    <name>Devilish</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Devilish (USA)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>Opera House Inc.</developer>
+    <publisher>Sage's Creation</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Donald no Magical World (Japan) (En,Ja).zip</path>
+    <name>Donald no Magical World</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Donald no Magical World (Japan) (En,Ja)_front.jpg</image>
+    <rating>2.25</rating>
+    <releasedate>1994-03-04</releasedate>
+    <developer>Sims</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Doraemon - Waku Waku Pocket Paradise (Japan).zip</path>
+    <name>Doraemon - Waku Waku Pocket Paradise</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Doraemon - Waku Waku Pocket Paradise (Japan)_front.jpg</image>
+    <rating>4.42</rating>
+    <releasedate>1996-04-26</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Double Dragon (USA, Europe).zip</path>
+    <name>Double Dragon</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Double Dragon (USA, Europe)_front.jpg</image>
+    <rating>5.0</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Virgin Games, Inc.</developer>
+    <publisher>Virgin Interactive</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Dr. Robotnik's Mean Bean Machine (USA, Europe).zip</path>
+    <name>Dr. Robotnik's Mean Bean Machine</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Dr. Robotnik's Mean Bean Machine (USA, Europe)_front.jpg</image>
+    <rating>3.1</rating>
+    <releasedate>1993-02-01</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Dunk Kids (Japan).zip</path>
+    <name>Dunk Kids</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Dunk Kids (Japan)_front.jpg</image>
+    <rating>0.90</rating>
+    <releasedate>1994-09-16</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Ernie Els Golf (Europe) (En,Fr,De,Es,It).zip</path>
+    <name>Ernie Els Golf</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Ernie Els Golf (Europe) (En,Fr,De,Es,It)_front.jpg</image>
+    <rating>2.21</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Codemasters</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Eternal Legend - Eien no Densetsu (Japan).zip</path>
+    <name>Eternal Legend - Eien no Densetsu</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Eternal Legend - Eien no Densetsu (Japan)_front.jpg</image>
+    <rating>1.75</rating>
+    <releasedate>1991-08-09</releasedate>
+    <developer>Japan Art Media (JAM)</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Evander Holyfield's 'Real Deal' Boxing (USA, Europe).zip</path>
+    <name>Evander Holyfield's 'Real Deal' Boxing</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Evander Holyfield's 'Real Deal' Boxing (USA, Europe)_front.jpg</image>
+    <rating>2.5</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Novotrade Software Kft.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Excellent Dizzy Collection, The (Europe).zip</path>
+    <name>Excellent Dizzy Collection, The</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Excellent Dizzy Collection, The (Europe)_front.jpg</image>
+    <rating>3.58</rating>
+    <releasedate>1993-11-01</releasedate>
+    <developer>Codemasters</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Faceball 2000 (Japan).zip</path>
+    <name>Faceball 2000</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Faceball 2000 (Japan)_front.jpg</image>
+    <rating>2.9</rating>
+    <releasedate>1993-12-17</releasedate>
+    <developer>Xanth Software F/X, Inc.</developer>
+    <publisher>Riverhillsoft</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Factory Panic (Europe).zip</path>
+    <name>Factory Panic</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Factory Panic (Europe)_front.jpg</image>
+    <rating>3.0</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>JSH</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Fantasy Zone (USA).zip</path>
+    <name>Fantasy Zone</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Fantasy Zone (USA)_front.jpg</image>
+    <rating>4.0</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>Sanritsu Denki Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Frank Thomas Big Hurt Baseball (USA).zip</path>
+    <name>Frank Thomas Big Hurt Baseball</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Frank Thomas Big Hurt Baseball (USA)_front.jpg</image>
+    <rating>2.7</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Realtime Associates Seattle Division</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Fred Couples' Golf (USA).zip</path>
+    <name>Fred Couples' Golf</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Fred Couples' Golf (USA)_front.jpg</image>
+    <rating>2.9</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>SIMS Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Gamble Panic (Japan).zip</path>
+    <name>Gamble Panic</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Gamble Panic (Japan)_front.jpg</image>
+    <rating>1.20</rating>
+    <releasedate>1995-01-27</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Gambler Jiko Chuushinha (Japan).zip</path>
+    <name>Gambler Jiko Chuushinha</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Gambler Jiko Chuushinha (Japan)_front.jpg</image>
+    <rating>2.08</rating>
+    <releasedate>1992-06-12</releasedate>
+    <developer>Game Arts</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./GG Aleste (Japan).zip</path>
+    <name>GG Aleste</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_GG Aleste (Japan)_front.jpg</image>
+    <rating>4.2</rating>
+    <releasedate>1991-12-29</releasedate>
+    <developer>Compile</developer>
+    <publisher>Compile</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./GG Aleste II ~ Power Strike II (Japan, Europe).zip</path>
+    <name>GG Aleste II ~ Power Strike II</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_GG Aleste II ~ Power Strike II (Japan, Europe)_front.jpg</image>
+    <rating>4.0</rating>
+    <releasedate>1993-10-01</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./GG Doraemon - Noranosuke no Yabou (Japan).zip</path>
+    <name>GG Doraemon - Noranosuke no Yabou</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_GG Doraemon - Noranosuke no Yabou (Japan)_front.jpg</image>
+    <rating>3.95</rating>
+    <releasedate>1993-04-29</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./GG Portrait - Pai Chen (Japan).zip</path>
+    <name>GG Portrait - Pai Chen</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_GG Portrait - Pai Chen (Japan)_front.jpg</image>
+    <rating>4.00</rating>
+    <releasedate>1996-11-22</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./GG Portrait - Yuuki Akira (Japan).zip</path>
+    <name>GG Portrait - Yuuki Akira</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_GG Portrait - Yuuki Akira (Japan)_front.jpg</image>
+    <rating>1.50</rating>
+    <releasedate>1996-11-01</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Halley Wars (USA, Europe).zip</path>
+    <name>Halley Wars</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Halley Wars (USA, Europe)_front.jpg</image>
+    <rating>3.7</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>Taito Corporation</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Head Buster (Japan).zip</path>
+    <name>Head Buster</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Head Buster (Japan)_front.jpg</image>
+    <rating>3.5</rating>
+    <releasedate>1991-03-15</releasedate>
+    <developer>Winds Co., Ltd.</developer>
+    <publisher>NCS</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Home Alone (USA, Europe).zip</path>
+    <name>Home Alone</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Home Alone (USA, Europe)_front.jpg</image>
+    <rating>1.1</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Brian A. Rice, Inc.</developer>
+    <publisher>Sega</publisher>
+    <genre>Adventure</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Honoo no Toukyuuji - Dodge Danpei (Japan).zip</path>
+    <name>Honoo no Toukyuuji - Dodge Danpei</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Honoo no Toukyuuji - Dodge Danpei (Japan)_front.jpg</image>
+    <rating>3.30</rating>
+    <releasedate>1992-08-07</releasedate>
+    <developer>Sims</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Hurricanes (Europe).zip</path>
+    <name>Hurricanes</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Hurricanes (Europe)_front.jpg</image>
+    <rating>1.0</rating>
+    <releasedate>1994-12-01</releasedate>
+    <developer>Arc Developments</developer>
+    <publisher>U.S. Gold</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./J.League GG Pro Striker '94 (Japan).zip</path>
+    <name>J.League GG Pro Striker '94</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_J.League GG Pro Striker '94 (Japan)_front.jpg</image>
+    <rating>3.17</rating>
+    <releasedate>1994-07-22</releasedate>
+    <developer>Sims</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./J.League Soccer - Dream Eleven (Japan).zip</path>
+    <name>J.League Soccer - Dream Eleven</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_J.League Soccer - Dream Eleven (Japan)_front.jpg</image>
+    <rating>2.10</rating>
+    <releasedate>1995-11-24</releasedate>
+    <developer>Sims</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./James Bond 007 - The Duel (Europe).zip</path>
+    <name>James Bond 007 - The Duel</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_James Bond 007 - The Duel (Europe)_front.jpg</image>
+    <rating>2.8</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Domark Software Ltd.</developer>
+    <publisher>Domark</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Jungle Strike (USA).zip</path>
+    <name>Jungle Strike</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Jungle Strike (USA)_front.jpg</image>
+    <rating>4.0</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Unexpected Development</developer>
+    <publisher>Black Pearl</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Kaitou Saint Tail (Japan).zip</path>
+    <name>Kaitou Saint Tail</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Kaitou Saint Tail (Japan)_front.jpg</image>
+    <rating>3.7</rating>
+    <releasedate>1996-03-29</releasedate>
+    <developer>Minato Giken</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Kinetic Connection (Japan).zip</path>
+    <name>Kinetic Connection</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Kinetic Connection (Japan)_front.jpg</image>
+    <rating>2.5</rating>
+    <releasedate>1991-03-29</releasedate>
+    <developer></developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Kishin Douji Zenki (Japan).zip</path>
+    <name>Kishin Douji Zenki</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Kishin Douji Zenki (Japan)_front.jpg</image>
+    <rating>4.0</rating>
+    <releasedate>1995-09-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Land of Illusion Starring Mickey Mouse (USA, Europe).zip</path>
+    <name>Land of Illusion Starring Mickey Mouse</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Land of Illusion Starring Mickey Mouse (USA, Europe)_front.jpg</image>
+    <rating>4.1</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Lucky Dime Caper Starring Donald Duck, The (USA, Europe).zip</path>
+    <name>Lucky Dime Caper Starring Donald Duck, The</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Lucky Dime Caper Starring Donald Duck, The (USA, Europe)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Lunar - Sanposuru Gakuen (Japan).zip</path>
+    <name>Lunar - Sanposuru Gakuen</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Lunar - Sanposuru Gakuen (Japan)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1996-01-12</releasedate>
+    <developer>Studio Alex, Ltd.</developer>
+    <publisher>Game Arts</publisher>
+    <genre>Role-Playing (RPG)</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Madden NFL 95 (USA).zip</path>
+    <name>Madden NFL 95</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Madden NFL 95 (USA)_front.jpg</image>
+    <rating></rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Visual Concepts Entertainment, Inc.</developer>
+    <publisher>THQ</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Madou Monogatari I - 3-Tsu no Madoukyuu (Japan).zip</path>
+    <name>Madou Monogatari I - 3-Tsu no Madoukyuu</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)_front.jpg</image>
+    <rating>3.3</rating>
+    <releasedate>1993-12-03</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing (RPG)</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Madou Monogatari II - Arle 16-Sai (Japan).zip</path>
+    <name>Madou Monogatari II - Arle 16-Sai</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Madou Monogatari II - Arle 16-Sai (Japan)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1994-05-20</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing (RPG)</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev 1).zip</path>
+    <name>Madou Monogatari III - Kyuukyoku Joou-sama</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev 1)_front.jpg</image>
+    <rating>2.7</rating>
+    <releasedate>1994-11-25</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing (RPG)</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Magic Knight Rayearth 2 - Making of Magic Knight (Japan).zip</path>
+    <name>Magic Knight Rayearth 2 - Making of Magic Knight</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Magic Knight Rayearth 2 - Making of Magic Knight (Japan)_front.jpg</image>
+    <rating>4.06</rating>
+    <releasedate>1995-08-04</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Magical Taruruuto-kun (Japan).zip</path>
+    <name>Magical Taruruuto-kun</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Magical Taruruuto-kun (Japan)_front.jpg</image>
+    <rating></rating>
+    <releasedate>1991-07-05</releasedate>
+    <developer></developer>
+    <publisher>Tsukuda Ideal</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Majors Pro Baseball, The (USA).zip</path>
+    <name>Majors Pro Baseball, The</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Majors Pro Baseball, The (USA)_front.jpg</image>
+    <rating></rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>ITL Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Mappy (Japan).zip</path>
+    <name>Mappy</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Mappy (Japan)_front.jpg</image>
+    <rating>3.0</rating>
+    <releasedate>1991-05-24</releasedate>
+    <developer>Namco Limited</developer>
+    <publisher>Namco</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Marko's Magic Football (Europe) (En,Fr,De,Es).zip</path>
+    <name>Marko's Magic Football</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Marko's Magic Football (Europe) (En,Fr,De,Es)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Domark Group Ltd.</developer>
+    <publisher>Domark</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Megami Tensei Gaiden - Last Bible (Japan).zip</path>
+    <name>Megami Tensei Gaiden - Last Bible</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Megami Tensei Gaiden - Last Bible (Japan)_front.jpg</image>
+    <rating>2.0</rating>
+    <releasedate>1994-04-22</releasedate>
+    <developer>Multimedia Intelligence Transfer Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing (RPG)</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Megami Tensei Gaiden - Last Bible S (Japan).zip</path>
+    <name>Megami Tensei Gaiden - Last Bible S</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Megami Tensei Gaiden - Last Bible S (Japan)_front.jpg</image>
+    <rating>3.7</rating>
+    <releasedate>1995-03-24</releasedate>
+    <developer>SIMS Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing (RPG)</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Micro Machines (Europe).zip</path>
+    <name>Micro Machines</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Micro Machines (Europe)_front.jpg</image>
+    <rating>3.6</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Codemasters Software Company Limited, The</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Racing / Driving</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Micro Machines 2 - Turbo Tournament (Europe).zip</path>
+    <name>Micro Machines 2 - Turbo Tournament</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Micro Machines 2 - Turbo Tournament (Europe)_front.jpg</image>
+    <rating>3.5</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Codemasters Software Company Limited, The</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Racing / Driving</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Moldorian - Hikari to Yami no Sister (Japan).zip</path>
+    <name>Moldorian - Hikari to Yami no Sister</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Moldorian - Hikari to Yami no Sister (Japan)_front.jpg</image>
+    <rating>4.06</rating>
+    <releasedate>1994-10-30</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Mortal Kombat (USA, Europe).zip</path>
+    <name>Mortal Kombat</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Mortal Kombat (USA, Europe)_front.jpg</image>
+    <rating>3.6</rating>
+    <releasedate>1993-09-13</releasedate>
+    <developer>Midway Games, Inc.</developer>
+    <publisher>Arena</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Mortal Kombat 3 (Europe).zip</path>
+    <name>Mortal Kombat 3</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Mortal Kombat 3 (Europe)_front.jpg</image>
+    <rating>3.6</rating>
+    <releasedate>1996-01-01</releasedate>
+    <developer>Midway Games, Inc.</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Mortal Kombat II (World).zip</path>
+    <name>Mortal Kombat II</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Mortal Kombat II (World)_front.jpg</image>
+    <rating>3.8</rating>
+    <releasedate>1994-09-01</releasedate>
+    <developer>Midway Games, Inc.</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Nazo Puyo 2 (Japan).zip</path>
+    <name>Nazo Puyo 2</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Nazo Puyo 2 (Japan)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1993-12-10</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Neko Daisuki! (Japan).zip</path>
+    <name>Neko Daisuki!</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Neko Daisuki! (Japan)_front.jpg</image>
+    <rating>2.8</rating>
+    <releasedate>1996-07-19</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Simulation</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Ninku (Japan).zip</path>
+    <name>Ninku</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Ninku (Japan)_front.jpg</image>
+    <rating>3.67</rating>
+    <releasedate>1995-07-21</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Ninku 2 - Tenkuuryuu e no Michi (Japan).zip</path>
+    <name>Ninku 2 - Tenkuuryuu e no Michi</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Ninku 2 - Tenkuuryuu e no Michi (Japan)_front.jpg</image>
+    <rating>3.25</rating>
+    <releasedate>1995-12-22</releasedate>
+    <developer>Biox</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Ninku Gaiden - Hiroyuki Daikatsugeki (Japan).zip</path>
+    <name>Ninku Gaiden - Hiroyuki Daikatsugeki</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)_front.jpg</image>
+    <rating>3.64</rating>
+    <releasedate>1995-11-03</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1).zip</path>
+    <name>Olympic Gold</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1)_front.jpg</image>
+    <rating>2.5</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Tiertex Ltd.</developer>
+    <publisher>U.S. Gold</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Ottifants, The (Europe) (En,Fr,De,Es,It).zip</path>
+    <name>Ottifants, The</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Ottifants, The (Europe) (En,Fr,De,Es,It)_front.jpg</image>
+    <rating>3.8</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Graftgold Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Panzer Dragoon Mini (Japan).zip</path>
+    <name>Panzer Dragoon Mini</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Panzer Dragoon Mini (Japan)_front.jpg</image>
+    <rating>3.6</rating>
+    <releasedate>1996-11-22</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Pete Sampras Tennis (Europe).zip</path>
+    <name>Pete Sampras Tennis</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Pete Sampras Tennis (Europe)_front.jpg</image>
+    <rating>3.0</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Codemasters Software Company Limited, The</developer>
+    <publisher>Codemasters</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Phantasy Star Gaiden (Japan).zip</path>
+    <name>Phantasy Star Gaiden</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Phantasy Star Gaiden (Japan)_front.jpg</image>
+    <rating>3.1</rating>
+    <releasedate>1992-10-16</releasedate>
+    <developer>Japan System Supply</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing (RPG)</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Pocket Jansou (Japan).zip</path>
+    <name>Pocket Jansou</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Pocket Jansou (Japan)_front.jpg</image>
+    <rating>3.50</rating>
+    <releasedate>1992-02-07</releasedate>
+    <developer>Namco</developer>
+    <publisher>Namco</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Poker Face Paul's Blackjack (USA).zip</path>
+    <name>Poker Face Paul's Blackjack</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Poker Face Paul's Blackjack (USA)_front.jpg</image>
+    <rating>2.1</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Spidersoft Limited</developer>
+    <publisher>Adrenalin Interactive</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Poker Face Paul's Poker (USA).zip</path>
+    <name>Poker Face Paul's Poker</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Poker Face Paul's Poker (USA)_front.jpg</image>
+    <rating>1.5</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Freestyle</developer>
+    <publisher>Adrenalin Interactive</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Popeye no Beach Volleyball (Japan).zip</path>
+    <name>Popeye no Beach Volleyball</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Popeye no Beach Volleyball (Japan)_front.jpg</image>
+    <rating>3.63</rating>
+    <releasedate>1994-08-12</releasedate>
+    <developer>Technos</developer>
+    <publisher>Technos</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Primal Rage (USA, Europe).zip</path>
+    <name>Primal Rage</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Primal Rage (USA, Europe)_front.jpg</image>
+    <rating>3.0</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Atari Games Corporation</developer>
+    <publisher>Time Warner Interactive</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Pro Yakyuu GG League (Japan).zip</path>
+    <name>Pro Yakyuu GG League</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Pro Yakyuu GG League (Japan)_front.jpg</image>
+    <rating>3.40</rating>
+    <releasedate>1993-04-29</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Pro Yakyuu GG League '94 (Japan).zip</path>
+    <name>Pro Yakyuu GG League '94</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Pro Yakyuu GG League '94 (Japan)_front.jpg</image>
+    <rating>1.50</rating>
+    <releasedate>1994-09-30</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Psychic World (USA, Europe) (Rev 1).zip</path>
+    <name>Psychic World</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Psychic World (USA, Europe) (Rev 1)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>Hertz Co. Ltd</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Puyo Puyo (Japan).zip</path>
+    <name>Puyo Puyo</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Puyo Puyo (Japan)_front.jpg</image>
+    <rating>4.0</rating>
+    <releasedate>1993-03-19</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Puzzle and Action Tanto-R (Japan).zip</path>
+    <name>Puzzle and Action Tanto-R</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Puzzle and Action Tanto-R (Japan)_front.jpg</image>
+    <rating></rating>
+    <releasedate>1994-04-22</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Quiz Gear Fight!!, The (Japan).zip</path>
+    <name>Quiz Gear Fight!!, The</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Quiz Gear Fight!!, The (Japan)_front.jpg</image>
+    <rating>1.00</rating>
+    <releasedate>1995-04-07</releasedate>
+    <developer>Minato Giken</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Rastan Saga (Japan).zip</path>
+    <name>Rastan Saga</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Rastan Saga (Japan)_front.jpg</image>
+    <rating>4.2</rating>
+    <releasedate>1991-08-09</releasedate>
+    <developer>Taito Corporation</developer>
+    <publisher>Taito Corporation</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Rise of the Robots (USA, Europe).zip</path>
+    <name>Rise of the Robots</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Rise of the Robots (USA, Europe)_front.jpg</image>
+    <rating>1.8</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Mirage Technologies (Multimedia) Ltd.</developer>
+    <publisher>Time Warner Interactive</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Royal Stone - Hirakareshi Toki no Tobira (Japan).zip</path>
+    <name>Royal Stone - Hirakareshi Toki no Tobira</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Royal Stone - Hirakareshi Toki no Tobira (Japan)_front.jpg</image>
+    <rating>4.17</rating>
+    <releasedate>1995-02-24</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sensible Soccer (Europe).zip</path>
+    <name>Sensible Soccer</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sensible Soccer (Europe)_front.jpg</image>
+    <rating>1.6</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Sensible Software</developer>
+    <publisher>Sony Imagesoft</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Shanghai II (Japan) (Rev 1).zip</path>
+    <name>Shanghai II</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Shanghai II (Japan) (Rev 1)_front.jpg</image>
+    <rating></rating>
+    <releasedate>1990-12-27</releasedate>
+    <developer>Activision, Inc.</developer>
+    <publisher>SunSoft</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Shaq Fu (USA, Europe).zip</path>
+    <name>Shaq Fu</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Shaq Fu (USA, Europe)_front.jpg</image>
+    <rating>3.1</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Tiertex Ltd.</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan).zip</path>
+    <name>Shining Force Gaiden - Ensei, Jashin no Kuni e</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)_front.jpg</image>
+    <rating>3.8</rating>
+    <releasedate>1992-12-25</releasedate>
+    <developer>Sonic Co.</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Shining Force Gaiden - Final Conflict (Japan).zip</path>
+    <name>Shining Force Gaiden - Final Conflict</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Shining Force Gaiden - Final Conflict (Japan)_front.jpg</image>
+    <rating>3.8</rating>
+    <releasedate>1995-06-30</releasedate>
+    <developer>Sonic Co.</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Shining Force II - The Sword of Hajya (USA).zip</path>
+    <name>Shining Force II - The Sword of Hajya</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Shining Force II - The Sword of Hajya (USA)_front.jpg</image>
+    <rating>3.0</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Sonic Co.</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Shinobi II - The Silent Fury (World) (Ja).zip</path>
+    <name>Shinobi II - The Silent Fury</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Shinobi II - The Silent Fury (World) (Ja)_front.jpg</image>
+    <rating>3.6</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Smurfs, The (Europe) (En,Fr,De,Es).zip</path>
+    <name>Smurfs, The</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Smurfs, The (Europe) (En,Fr,De,Es)_front.jpg</image>
+    <rating>1.9</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Infogrames Europe SA</developer>
+    <publisher>Infogrames</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Solitaire FunPak (USA).zip</path>
+    <name>Solitaire FunPak</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Solitaire FunPak (USA)_front.jpg</image>
+    <rating>2.6</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Beam Software Pty., Ltd.</developer>
+    <publisher>Interplay</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sonic Drift (Japan).zip</path>
+    <name>Sonic Drift</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sonic Drift (Japan)_front.jpg</image>
+    <rating>3.5</rating>
+    <releasedate>1994-03-18</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Racing / Driving</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sonic Drift 2 (Japan, USA).zip</path>
+    <name>Sonic Drift 2</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sonic Drift 2 (Japan, USA)_front.jpg</image>
+    <rating>4.0</rating>
+    <releasedate>1995-03-17</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Racing / Driving</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sonic Labyrinth (World).zip</path>
+    <name>Sonic Labyrinth</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sonic Labyrinth (World)_front.jpg</image>
+    <rating>2.5</rating>
+    <releasedate>1995-11-01</releasedate>
+    <developer>Minato Giken</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sonic The Hedgehog (World) (Rev 1).zip</path>
+    <name>Sonic The Hedgehog</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sonic The Hedgehog (World) (Rev 1)_front.jpg</image>
+    <rating>3.3</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>Ancient Co. Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sonic The Hedgehog 2 (World).zip</path>
+    <name>Sonic The Hedgehog 2</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sonic The Hedgehog 2 (World)_front.jpg</image>
+    <rating>3.3</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Aspect Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sonic The Hedgehog Spinball (USA, Europe).zip</path>
+    <name>Sonic The Hedgehog Spinball</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sonic The Hedgehog Spinball (USA, Europe)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1994-09-01</releasedate>
+    <developer>Sega Technical Institute</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Soukoban (Japan).zip</path>
+    <name>Soukoban</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Soukoban (Japan)_front.jpg</image>
+    <rating>2.4</rating>
+    <releasedate>1990-12-15</releasedate>
+    <developer>Thinking Rabbit</developer>
+    <publisher>Riverhillsoft</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Space Harrier (World).zip</path>
+    <name>Space Harrier</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Space Harrier (World)_front.jpg</image>
+    <rating>3.3</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>AM R&amp;D Dept. #2</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Spider-Man - Return of the Sinister Six (USA, Europe).zip</path>
+    <name>Spider-Man - Return of the Sinister Six</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Spider-Man - Return of the Sinister Six (USA, Europe)_front.jpg</image>
+    <rating>3.0</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>B.I.T.S., Ltd.</developer>
+    <publisher>Flying Edge</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sports Trivia (USA).zip</path>
+    <name>Sports Trivia</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sports Trivia (USA)_front.jpg</image>
+    <rating>2.38</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Adrenalin Entertainment</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Super Columns (USA, Europe).zip</path>
+    <name>Super Columns</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Super Columns (USA, Europe)_front.jpg</image>
+    <rating>3.1</rating>
+    <releasedate>1995-06-05</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Super Momotarou Dentetsu III (Japan).zip</path>
+    <name>Super Momotarou Dentetsu III</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Super Momotarou Dentetsu III (Japan)_front.jpg</image>
+    <rating>3.20</rating>
+    <releasedate>1995-12-15</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Hudson</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Super Return of the Jedi (USA, Europe).zip</path>
+    <name>Super Return of the Jedi</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Super Return of the Jedi (USA, Europe)_front.jpg</image>
+    <rating>4.00</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>Realtime Associates</developer>
+    <publisher>Black Pearl</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Superman - The Man of Steel (Europe).zip</path>
+    <name>Superman - The Man of Steel</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Superman - The Man of Steel (Europe)_front.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Graftgold Creative Software</developer>
+    <publisher>Virgin Interactive</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Sylvan Tale (Japan).zip</path>
+    <name>Sylvan Tale</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Sylvan Tale (Japan)_front.jpg</image>
+    <rating>3.6</rating>
+    <releasedate>1995-01-27</releasedate>
+    <developer>SEGA Corporation</developer>
+    <publisher>Sega</publisher>
+    <genre>Role-Playing (RPG)</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./T2 - The Arcade Game (USA, Europe).zip</path>
+    <name>T2 - The Arcade Game</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_T2 - The Arcade Game (USA, Europe)_front.jpg</image>
+    <rating>1.75</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Probe Entertainment Limited</developer>
+    <publisher>Arena</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Tails Adventures (World) (En,Ja).zip</path>
+    <name>Tails Adventures</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Tails Adventures (World) (En,Ja)_front.jpg</image>
+    <rating>3.6</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Aspect Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Taisen Mahjong HaoPai 2 (Japan).zip</path>
+    <name>Taisen Mahjong HaoPai 2</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Taisen Mahjong HaoPai 2 (Japan)_front.jpg</image>
+    <rating>3.80</rating>
+    <releasedate>1993-12-17</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Tama &amp; Friends 3 Choume Kouen - Tamalympic (Japan).zip</path>
+    <name>Tama &amp; Friends 3 Choume Kouen - Tamalympic</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Tama &amp; Friends 3 Choume Kouen - Tamalympic (Japan)_front.jpg</image>
+    <rating>2.00</rating>
+    <releasedate>1995-03-03</releasedate>
+    <developer>Aspect</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Tarot no Yakata (Japan).zip</path>
+    <name>Tarot no Yakata</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Tarot no Yakata (Japan)_front.jpg</image>
+    <rating>0.94</rating>
+    <releasedate>1991-03-08</releasedate>
+    <developer>Japan System Supply</developer>
+    <publisher>Sega</publisher>
+    <genre>Miscellaneous</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv).zip</path>
+    <name>Tintin in Tibet</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)_front.jpg</image>
+    <rating>1.2</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Infogrames Europe SA</developer>
+    <publisher>Infogrames</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Torarete Tamaruka (Japan).zip</path>
+    <name>Torarete Tamaruka</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Torarete Tamaruka (Japan)_front.jpg</image>
+    <rating>3.75</rating>
+    <releasedate>1994-06-03</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Ultimate Soccer (Japan, Europe) (En,Fr,De,Es,It).zip</path>
+    <name>Ultimate Soccer</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Ultimate Soccer (Japan, Europe) (En,Fr,De,Es,It)_front.jpg</image>
+    <rating>1.7</rating>
+    <releasedate>1993-10-29</releasedate>
+    <developer>Rage Software Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Virtua Fighter Animation (USA, Europe).zip</path>
+    <name>Virtua Fighter Animation</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Virtua Fighter Animation (USA, Europe)_front.jpg</image>
+    <rating>2.6</rating>
+    <releasedate>1996-01-01</releasedate>
+    <developer>Aspect Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Wizard Pinball (Europe).zip</path>
+    <name>Wizard Pinball</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Wizard Pinball (Europe)_front.jpg</image>
+    <rating>5.0</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Teque London Ltd.</developer>
+    <publisher>Domark</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Wonder Boy - The Dragon's Trap (Europe).zip</path>
+    <name>Wonder Boy - The Dragon's Trap</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Wonder Boy - The Dragon's Trap (Europe)_front.jpg</image>
+    <rating>3.7</rating>
+    <releasedate>1992-01-01</releasedate>
+    <developer>Westone Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Woody Pop (World) (Rev 1).zip</path>
+    <name>Woody Pop</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Woody Pop (World) (Rev 1)_front.jpg</image>
+    <rating>3.3</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./World Class Leader Board (USA, Europe).zip</path>
+    <name>World Class Leader Board</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_World Class Leader Board (USA, Europe)_front.jpg</image>
+    <rating>3.0</rating>
+    <releasedate>1991-01-01</releasedate>
+    <developer>Access Software, Inc.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./World Derby (Japan).zip</path>
+    <name>World Derby</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_World Derby (Japan)_front.jpg</image>
+    <rating>3.00</rating>
+    <releasedate>1994-05-27</releasedate>
+    <developer>CRI</developer>
+    <publisher>CRI</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./World Series Baseball '95 (USA).zip</path>
+    <name>World Series Baseball '95</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_World Series Baseball '95 (USA)_front.jpg</image>
+    <rating>2.8</rating>
+    <releasedate>1994-01-01</releasedate>
+    <developer>ITL Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./WWF Wrestlemania Steel Cage Challenge (Europe).zip</path>
+    <name>WWF Wrestlemania Steel Cage Challenge</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_WWF Wrestlemania Steel Cage Challenge (Europe)_front.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>1993-01-01</releasedate>
+    <developer>Teeny Weeny Games, Ltd.</developer>
+    <publisher>Flying Edge</publisher>
+    <genre>Sports</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan).zip</path>
+    <name>Yu Yu Hakusho - Horobishimono no Gyakushuu</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)_front.jpg</image>
+    <rating>5.0</rating>
+    <releasedate>1994-03-25</releasedate>
+    <developer>SEGA Enterprises Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan).zip</path>
+    <name>Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan)_front.jpg</image>
+    <rating>3.2</rating>
+    <releasedate>1994-09-30</releasedate>
+    <developer>Minato Giken</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Zan Gear (Japan).zip</path>
+    <name>Zan Gear</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Zan Gear (Japan)_front.jpg</image>
+    <rating>2.7</rating>
+    <releasedate>1990-10-23</releasedate>
+    <developer>Gremlin Graphics Software Ltd.</developer>
+    <publisher>Nippon Telenet</publisher>
+    <genre>Action</genre>
+    <players>0</players>
+  </game>
+  <game>
+    <path>./Zoop (USA).zip</path>
+    <name>Zoop</name>
+    <desc>Should be plot here</desc>
+    <image>GameFAQS_Zoop (USA)_front.jpg</image>
+    <rating>1.6</rating>
+    <releasedate>1995-01-01</releasedate>
+    <developer>Hookstone Ltd.</developer>
+    <publisher>Viacom New Media</publisher>
+    <genre>Strategy</genre>
+    <players>0</players>
+  </game>
+</gameList>

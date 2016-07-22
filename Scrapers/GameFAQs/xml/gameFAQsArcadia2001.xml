@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="3-D Bowling" URL="/a2k1/926948-3-d-bowling">
+		<Description>3-D Bowling is a Sports game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>2.94 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="3-D Bowling" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1008</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>3-D Bowling (US)-66472_front.jpg</Image>
+				<Image>3-D Bowling (US)-66472_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Alien Invaders" URL="/a2k1/922038-alien-invaders">
+		<Description>Alien Invaders is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>2.79 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Alien Invaders" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Invaders (US)-61773_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="American Football" URL="/a2k1/926881-american-football">
+		<Description>American Football is a Sports game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>2.80 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="American Football" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1017</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>American Football (US)-66354_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Arcadia 2001" URL="/a2k1/916364-arcadia-2001">
+		<Description>Arcadia 2001 is a Hardware game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.75 / 5</UserRating>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Arcadia 2001" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>EA2001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>March 1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Baseball" URL="/a2k1/926952-baseball">
+		<Description>Baseball is a Sports game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="Baseball" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Baseball (US)-66476_front.jpg</Image>
+				<Image>Baseball (US)-66476_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Brain Quiz" URL="/a2k1/926949-brain-quiz">
+		<Description>Brain Quiz is a Miscellaneous game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Brain Quiz" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1012</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Brain Quiz (US)-66473_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Breakaway" URL="/a2k1/926950-breakaway">
+		<Description>Breakaway is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.10 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Breakaway" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1018</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Breakaway (US)-66474_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Capture" URL="/a2k1/926951-capture">
+		<Description>Capture is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Capture" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Capture (US)-66475_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Cat Trax" URL="/a2k1/926954-cat-trax">
+		<Description>Cat Trax is an Action game, developed by UA Limited and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>UA Limited</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cat Trax" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cat Trax (US)-66477_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Escape" URL="/a2k1/926955-escape">
+		<Description>Escape is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Escape" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1015</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Escape (US)-66478_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Funky Fish" URL="/a2k1/926956-funky-fish">
+		<Description>Funky Fish is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Funky Fish" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Funky Fish (US)-66479_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Grand Slam Tennis" URL="/a2k1/926958-grand-slam-tennis">
+		<Description>Grand Slam Tennis is a Sports game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Grand Slam Tennis" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1021</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Hobo" URL="/a2k1/961738-hobo">
+		<Description>Hobo is an Action Adventure game, developed by UA Limited and published by Leisure Dynamics,  which was released in Europe in 1983.</Description>
+		<UserRating>1.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>UA Limited</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Hobo" region="EU">
+			<ReleasePublisher>Leisure Dynamics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Jungler" URL="/a2k1/926957-jungler">
+		<Description>Jungler is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.30 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Jungler" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1023</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jungler (US)-66480_front.jpg</Image>
+				<Image>Jungler (US)-66480_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Missile War" URL="/a2k1/926959-missile-war">
+		<Description>Missile War is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.06 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Missile War" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1010</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Missile War (US)-66482_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Ocean Battle" URL="/a2k1/926960-ocean-battle">
+		<Description>Ocean Battle is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Ocean Battle" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1009</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ocean Battle (US)-66483_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Pleiades" URL="/a2k1/926962-pleiades">
+		<Description>Pleiades is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Pleiades" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Red Clash" URL="/a2k1/926961-red-clash">
+		<Description>Red Clash is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Red Clash" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1020</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Route 16" URL="/a2k1/951620-route-16">
+		<Description>Route 16 is a Racing game, developed and published by UA Limited,  which was released in 1983.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>UA Limited</Developer>
+		<Genre>Racing &gt; Arcade &gt; Other</Genre>
+		<Release name="Route 16" region="US">
+			<ReleasePublisher>UA Limited</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Route 16 (US)-102279_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Soccer" URL="/a2k1/926963-soccer">
+		<Description>Soccer is a Sports game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Soccer" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer (US)-66486_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Space Attack" URL="/a2k1/926965-space-attack">
+		<Description>Space Attack features two game modes: Radar Mode for strategy and Battle Mode for action! Six alien fleets of varying sizes attack your Mother Ship. Defend her with your three squadrons. Computer graphics and sound effects "take you there," for an outer space dogfight. Alien ships dodge your fire with evasive maneuvers, and fire back with deadly "photon blasts."</Description>
+		<UserRating>4.08 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Attack" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1013</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Attack (US)-45662_front.jpg</Image>
+				<Image>Space Attack (US)-45662_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Space Chess" URL="/a2k1/926964-space-chess">
+		<Description>Space Chess is a Miscellaneous game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6.5 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Space Chess" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Space Mission" URL="/a2k1/926967-space-mission">
+		<Description>Space Mission is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.30 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Mission" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1019</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Mission (US)-66490_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Space Raiders" URL="/a2k1/926966-space-raiders">
+		<Description>Space Raiders is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Space Raiders" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1016</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Raiders (US)-66489_front.jpg</Image>
+				<Image>Space Raiders (US)-66489_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Space Squadron" URL="/a2k1/961739-space-squadron">
+		<Description>Space Squadron is an Action game, developed by Emerson Radio Corp. and published by Leisure Dynamics,  which was released in Europe in 1982.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Space Squadron" region="EU">
+			<ReleasePublisher>Leisure Dynamics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Space Vultures" URL="/a2k1/926968-space-vultures">
+		<Description>Space Vultures is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>3.30 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Space Vultures" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1014</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Vultures (US)-66491_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Star Chess" URL="/a2k1/922037-star-chess">
+		<Description>Star Chess is a Miscellaneous game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>4.10 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.6 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Star Chess" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1006</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Chess (US)-61772_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Arcadia 2001" name="Tanks A Lot" URL="/a2k1/926970-tanks-a-lot">
+		<Description>Tanks A Lot is an Action game, developed and published by Emerson Radio Corp.,  which was released in 1982.</Description>
+		<UserRating>2.93 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Emerson Radio Corp.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tanks A Lot" region="US">
+			<ReleasePublisher>Emerson Radio Corp.</ReleasePublisher>
+			<ReleaseProductID>1007</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tanks A Lot (US)-66492_front.jpg</Image>
+				<Image>Tanks A Lot (US)-66492_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

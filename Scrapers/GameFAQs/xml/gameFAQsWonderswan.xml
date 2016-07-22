@@ -1,0 +1,2312 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="WonderSwan" name="Anchorz Field" URL="/wonderswan/576633-anchorz-field">
+		<Description>Anchorz Field is a Strategy game, developed and published by Sammy Studios,  which was released in Japan in 1999.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Sammy Studios</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Anchorz Field" region="JP">
+			<ReleasePublisher>Sammy Studios</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUM004</ReleaseProductID>
+			<ReleaseBarCode>4991694000307</ReleaseBarCode>
+			<ReleaseDate>06/24/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Anchorz Field (JP)-38963_front.jpg</Image>
+				<Image>Anchorz Field (JP)-38963_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Armored Unit" URL="/wonderswan/576395-armored-unit">
+		<Description>Armored Unit is a Strategy game, published by Sammy Studios,  which was released in Japan in 1999.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Sammy Studios</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Armored Unit" region="JP">
+			<ReleasePublisher>Sammy Studios</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUM003</ReleaseProductID>
+			<ReleaseBarCode>4991694000338</ReleaseBarCode>
+			<ReleaseDate>11/18/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Armored Unit (JP)-38680_front.jpg</Image>
+				<Image>Armored Unit (JP)-38680_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Bakusou Dekotora Densetsu for WonderSwan" URL="/wonderswan/576658-bakusou-dekotora-densetsu-for-wonderswan">
+		<Description>Bakusou Dekotora Densetsu for WonderSwan is a Racing game, developed by Human Club and published by Kaga Tech,  which was released in Japan in 1999.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Human Club</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Bakusou Dekotora Densetsu for WonderSwan" region="JP">
+			<ReleasePublisher>Kaga Tech</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT003</ReleaseProductID>
+			<ReleaseBarCode>4988658991139</ReleaseBarCode>
+			<ReleaseDate>12/29/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bakusou Dekotora Densetsu for WonderSwan (JP)-38992_front.jpg</Image>
+				<Image>Bakusou Dekotora Densetsu for WonderSwan (JP)-38992_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="BeatMania for WonderSwan" URL="/wonderswan/575743-beatmania-for-wonderswan">
+		<Description>BeatMania for WonderSwan is an Action game, developed and published by Konami,  which was released in Japan in 1999.</Description>
+		<UserRating>4.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Konami</Developer>
+		<Franchise>Beatmania</Franchise>
+		<Genre>Action &gt; Rhythm &gt; Music</Genre>
+		<Release name="BeatMania for WonderSwan" region="JP">
+			<ReleasePublisher>Konami</ReleasePublisher>
+			<ReleaseProductID>SWJ-KNM001</ReleaseProductID>
+			<ReleaseBarCode>4988602605495</ReleaseBarCode>
+			<ReleaseDate>04/28/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>BeatMania for WonderSwan (JP)-37905_front.jpg</Image>
+				<Image>BeatMania for WonderSwan (JP)-37905_back.jpg</Image>
+				<Image>BeatMania for WonderSwan (JP)-37905_side.jpg</Image>
+				<Image>BeatMania for WonderSwan (JP)-37905_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Bistro Recipe" URL="/wonderswan/576644-bistro-recipe">
+		<Description>Bistro Recipe is a Strategy game, developed and published by Banpresto,  which was released in Japan in 1999.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>16 hours</Length>
+		<AKA>Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen (JP)</AKA>
+		<Developer>Banpresto</Developer>
+		<Franchise>Kakutou Ryouri Densetsu Bistro Recipe</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen" region="JP">
+			<ReleasePublisher>Banpresto</ReleasePublisher>
+			<ReleaseProductID>SWJ-BPR002</ReleaseProductID>
+			<ReleaseBarCode>4983164739022</ReleaseBarCode>
+			<ReleaseDate>09/30/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kakutou Ryouri Densetsu Bistro Recipe Wonder Battle Hen (JP)-38976_front.jpg</Image>
+				<Image>Kakutou Ryouri Densetsu Bistro Recipe Wonder Battle Hen (JP)-38976_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Buffers Evolution" URL="/wonderswan/576562-buffers-evolution">
+		<Description>Buffers Evolution is an Action game, developed by Koto and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Koto</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Buffers Evolution" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN01B</ReleaseProductID>
+			<ReleaseBarCode>4902425743318</ReleaseBarCode>
+			<ReleaseDate>12/09/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Buffers Evolution (JP)-38876_front.jpg</Image>
+				<Image>Buffers Evolution (JP)-38876_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Card Captor Sakura: Sakura to Fushigi na Clow Card" URL="/wonderswan/576485-card-captor-sakura-sakura-to-fushigi-na-clow-card">
+		<Description>Card Captor Sakura: Sakura to Fushigi na Clow Card is a Role-Playing game, developed by Sims and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Sims</Developer>
+		<Franchise>Card Captor Sakura</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Card Captor Sakura: Sakura to Fushigi na Clow Card" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN01A</ReleaseProductID>
+			<ReleaseBarCode>4902425741017</ReleaseBarCode>
+			<ReleaseDate>12/02/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Card Captor Sakura Sakura to Fushigi na Clow Card (JP)-38784_front.jpg</Image>
+				<Image>Card Captor Sakura Sakura to Fushigi na Clow Card (JP)-38784_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Chaos Gear: Michibi Kareshi Mono" URL="/wonderswan/576631-chaos-gear-michibi-kareshi-mono">
+		<Description>Chaos Gear: Michibi Kareshi Mono is a Strategy game, developed by Lay-Up and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Lay-Up</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Chaos Gear: Michibi Kareshi Mono" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN00B</ReleaseProductID>
+			<ReleaseBarCode>4902425725925</ReleaseBarCode>
+			<ReleaseDate>06/10/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chaos Gear Michibi Kareshi Mono (JP)-38956_front.jpg</Image>
+				<Image>Chaos Gear Michibi Kareshi Mono (JP)-38956_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Cho Aniki: Otoko no Tamafuda" URL="/wonderswan/576903-cho-aniki-otoko-no-tamafuda">
+		<Description>Cho Aniki: Otoko no Tamafuda is a Role-Playing game, developed by C.P. Brain and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>1.50 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>C.P. Brain</Developer>
+		<Franchise>Cho Aniki</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Cho Aniki: Otoko no Tamafuda" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN023</ReleaseProductID>
+			<ReleaseBarCode>4902425751986</ReleaseBarCode>
+			<ReleaseDate>02/10/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cho Aniki Otoko no Tamafuda (JP)-39249_front.jpg</Image>
+				<Image>Cho Aniki Otoko no Tamafuda (JP)-39249_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Chocobo no Fushigi Dungeon for WonderSwan" URL="/wonderswan/576610-chocobo-no-fushigi-dungeon-for-wonderswan">
+		<Description>Chocobo no Fushigi Dungeon for WonderSwan is a Role-Playing game, developed by TOSE and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>TOSE</Developer>
+		<Franchise>Chocobo</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Chocobo no Fushigi Dungeon for WonderSwan" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN002</ReleaseProductID>
+			<ReleaseBarCode>4902425720494</ReleaseBarCode>
+			<ReleaseDate>03/04/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chocobo no Fushigi Dungeon for WonderSwan (JP)-38930_front.jpg</Image>
+				<Image>Chocobo no Fushigi Dungeon for WonderSwan (JP)-38930_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Chocobo no Fushigi Dungeon for WonderSwan (w/ Special WonderSwan)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A00A</ReleaseProductID>
+			<ReleaseBarCode>4902425759333</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chocobo no Fushigi Dungeon for WonderSwan (w Special WonderSwan) (JP)-38931_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou" URL="/wonderswan/576571-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou">
+		<Description>Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou is a Miscellaneous game, published by Koubunsha,  which was released in Japan in 1999.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Koubunsha</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou" region="JP">
+			<ReleasePublisher>Koubunsha</ReleasePublisher>
+			<ReleaseProductID>SWJ-KBS002</ReleaseProductID>
+			<ReleaseBarCode>4527559000016</ReleaseBarCode>
+			<ReleaseDate>12/16/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chou-Denki Card Battle Youfu Makai - Kikuchi Shuugyou (JP)-38888_front.jpg</Image>
+				<Image>Chou-Denki Card Battle Youfu Makai - Kikuchi Shuugyou (JP)-38888_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Clock Tower for WonderSwan" URL="/wonderswan/576564-clock-tower-for-wonderswan">
+		<Description>Clock Tower for WonderSwan is an Adventure game, developed by Human Club and published by Kaga Tech,  which was released in Japan in 1999.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>36.8 hours</Length>
+		<Developer>Human Club</Developer>
+		<Franchise>Clock Tower</Franchise>
+		<Genre>Adventure &gt; Point-and-Click</Genre>
+		<Release name="Clock Tower for WonderSwan" region="JP">
+			<ReleasePublisher>Kaga Tech</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT002</ReleaseProductID>
+			<ReleaseBarCode>4988658991122</ReleaseBarCode>
+			<ReleaseDate>12/09/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Clock Tower for WonderSwan (JP)-38878_front.jpg</Image>
+				<Image>Clock Tower for WonderSwan (JP)-38878_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Crazy Climber" URL="/wonderswan/576637-crazy-climber">
+		<Description>Come one, come all! Watch the death-defying feats of a human fly - Crazy Climber! Help him scale the world's tallest buildings while avoiding tumbling girders, a marauding bird, and the villainous Mad Doctor. Hurry up! The show's about to start!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Nihon Bussan</Developer>
+		<Franchise>Crazy Climber</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Crazy Climber" region="JP">
+			<ReleasePublisher>Nihon Bussan</ReleasePublisher>
+			<ReleaseProductID>SWJ-NHB001</ReleaseProductID>
+			<ReleaseBarCode>4960641110017</ReleaseBarCode>
+			<ReleaseDate>07/29/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Crazy Climber (JP)-38965_front.jpg</Image>
+				<Image>Crazy Climber (JP)-38965_back.jpg</Image>
+				<Image>Crazy Climber (JP)-38965_side.jpg</Image>
+				<Image>Crazy Climber (JP)-38965_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Densha de Go!" URL="/wonderswan/576608-densha-de-go">
+		<Description>Densha de Go! is a Simulation game, developed and published by Taito Corporation,  which was released in Japan in 1999.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>60 hours</Length>
+		<Developer>Taito Corporation</Developer>
+		<Franchise>Densha de Go</Franchise>
+		<Genre>Simulation &gt; Vehicle &gt; Train</Genre>
+		<Release name="Densha de Go!" region="JP">
+			<ReleasePublisher>Taito Corporation</ReleasePublisher>
+			<ReleaseProductID>SWJ-TAT001</ReleaseProductID>
+			<ReleaseBarCode>4988611990018</ReleaseBarCode>
+			<ReleaseDate>03/04/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Densha de Go! (JP)-38929_front.jpg</Image>
+				<Image>Densha de Go! (JP)-38929_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Densha de Go! 2" URL="/wonderswan/576647-densha-de-go-2">
+		<Description>Densha de Go! 2 is a Simulation game, developed by Taito Corporation and published by CyberFront,  which was released in Japan in 1999.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Taito Corporation</Developer>
+		<Franchise>Densha de Go</Franchise>
+		<Genre>Simulation &gt; Vehicle &gt; Train</Genre>
+		<Release name="Densha de Go! 2" region="JP">
+			<ReleasePublisher>CyberFront</ReleasePublisher>
+			<ReleaseProductID>SWJ-CFT001</ReleaseProductID>
+			<ReleaseBarCode>4521923030012</ReleaseBarCode>
+			<ReleaseDate>10/07/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Densha de Go! 2 (JP)-38977_front.jpg</Image>
+				<Image>Densha de Go! 2 (JP)-38977_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Digimon Adventure 02: Tag Tamers" URL="/wonderswan/578802-digimon-adventure-02-tag-tamers">
+		<Description>Digimon Adventure 02: Tag Tamers is an Adventure game, developed by Sims and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Sims</Developer>
+		<Franchise>Digimon</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Digimon Adventure 02: Tag Tamers" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN032</ReleaseProductID>
+			<ReleaseBarCode>4902425766751</ReleaseBarCode>
+			<ReleaseDate>08/03/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Digimon Adventure 02 Tag Tamers (JP)-41102_front.jpg</Image>
+				<Image>Digimon Adventure 02 Tag Tamers (JP)-41102_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Digimon Adventure: Anode Tamer" URL="/wonderswan/576573-digimon-adventure-anode-tamer">
+		<Description>Digimon Adventure: Anode Tamer is a Role-Playing game, developed by Sims and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.93 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Sims</Developer>
+		<Franchise>Digimon</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Digimon Adventure: Anode Tamer" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN01C</ReleaseProductID>
+			<ReleaseBarCode>4902425744216</ReleaseBarCode>
+			<ReleaseDate>12/16/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Digimon Adventure Anode Tamer (JP)-38890_front.jpg</Image>
+				<Image>Digimon Adventure Anode Tamer (JP)-38890_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Digimon Adventure: Anode Tamer (WonderSwan Pack)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A007</ReleaseProductID>
+			<ReleaseBarCode>4902425759265</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Digimon Adventure Anode Tamer (WonderSwan Pack) (JP)-38891_front.jpg</Image>
+				<Image>Digimon Adventure Anode Tamer (WonderSwan Pack) (JP)-38891_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Digimon Adventure: Cathode Tamer" URL="/wonderswan/576662-digimon-adventure-cathode-tamer">
+		<Description>Digimon Adventure: Cathode Tamer is a Role-Playing game, developed by Sims and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Sims</Developer>
+		<Franchise>Digimon</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Digimon Adventure: Cathode Tamer" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN01D</ReleaseProductID>
+			<ReleaseBarCode>4902425744223</ReleaseBarCode>
+			<ReleaseDate>01/20/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Digimon Adventure Cathode Tamer (JP)-38993_front.jpg</Image>
+				<Image>Digimon Adventure Cathode Tamer (JP)-38993_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Digital Monsters Ver. WonderSwan" URL="/wonderswan/576615-digital-monsters-ver-wonderswan">
+		<Description>Digital Monsters Ver. WonderSwan is a Strategy game, developed by Sims and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>17.3 hours</Length>
+		<Developer>Sims</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Digital Monsters Ver. WonderSwan" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN005</ReleaseProductID>
+			<ReleaseBarCode>4902425720524</ReleaseBarCode>
+			<ReleaseDate>03/25/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Digital Monsters Ver. WonderSwan (JP)-38938_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Digital Partner" URL="/wonderswan/577514-digital-partner">
+		<Description>Digital Partner is a Strategy game, developed by Tom Create and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>55 hours</Length>
+		<Developer>Tom Create</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Digital Partner" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN02C</ReleaseProductID>
+			<ReleaseBarCode>4902425759654</ReleaseBarCode>
+			<ReleaseDate>05/25/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Digital Partner (JP)-39941_front.jpg</Image>
+				<Image>Digital Partner (JP)-39941_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Digital Partner (w/WonderWave)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN02F</ReleaseProductID>
+			<ReleaseBarCode>4902425762913</ReleaseBarCode>
+			<ReleaseDate>05/25/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Digital Partner (wWonderWave) (JP)-39940_front.jpg</Image>
+				<Image>Digital Partner (wWonderWave) (JP)-39940_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Dokodemo Hamster" URL="/wonderswan/576660-dokodemo-hamster">
+		<Description>Dokodemo Hamster is a Strategy game, developed and published by Bec,  which was released in Japan in 2000.</Description>
+		<Developer>Bec</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Dokodemo Hamster" region="JP">
+			<ReleasePublisher>Bec</ReleasePublisher>
+			<ReleaseProductID>SWJ-BEC003</ReleaseProductID>
+			<ReleaseBarCode>4932873820163</ReleaseBarCode>
+			<ReleaseDate>01/06/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dokodemo Hamster (JP)-38991_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Engacho! for WonderSwan" URL="/wonderswan/576649-engacho-for-wonderswan">
+		<Description>Engacho! for WonderSwan is a Puzzle game, developed and published by NAC  Geographic Products Inc.,  which was released in Japan in 1999.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>NAC  Geographic Products Inc.</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Engacho! for WonderSwan" region="JP">
+			<ReleasePublisher>NAC  Geographic Products Inc.</ReleasePublisher>
+			<ReleaseProductID>SWJ-NAP001</ReleaseProductID>
+			<ReleaseBarCode>4996121004026</ReleaseBarCode>
+			<ReleaseDate>10/28/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Engacho! for WonderSwan (JP)-38981_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Fever Sankyo Koushiki Pachinko Simulation for WonderSwan" URL="/wonderswan/576563-fever-sankyo-koushiki-pachinko-simulation-for-wonderswan">
+		<Description>Fever Sankyo Koushiki Pachinko Simulation for WonderSwan is a Miscellaneous game, published by Bec,  which was released in Japan in 1999.</Description>
+		<Developer>Bec</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Fever Sankyo Koushiki Pachinko Simulation for WonderSwan" region="JP">
+			<ReleasePublisher>Bec</ReleasePublisher>
+			<ReleaseProductID>SWJ-BEC002</ReleaseProductID>
+			<ReleaseBarCode>4932873820156</ReleaseBarCode>
+			<ReleaseDate>12/09/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fever Sankyo Koushiki Pachinko Simulation for WonderSwan (JP)-38877_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Final Lap 2000" URL="/wonderswan/577184-final-lap-2000">
+		<Description>Final Lap 2000 is a Racing game, developed by Soft Machine and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Soft Machine</Developer>
+		<Franchise>Final Lap</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Final Lap 2000" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN026</ReleaseProductID>
+			<ReleaseBarCode>4902425754246</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Final Lap 2000 (JP)-39560_front.jpg</Image>
+				<Image>Final Lap 2000 (JP)-39560_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Fire ProWrestling for WonderSwan" URL="/wonderswan/578830-fire-prowrestling-for-wonderswan">
+		<Description>Fire ProWrestling for WonderSwan is a Sports game, developed by Shimada Kikaku and published by Kaga Tech,  which was released in Japan in 2000.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Shimada Kikaku</Developer>
+		<Franchise>Fire ProWrestling</Franchise>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Wrestling</Genre>
+		<Release name="Fire ProWrestling for WonderSwan" region="JP">
+			<ReleasePublisher>Kaga Tech</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT007</ReleaseProductID>
+			<ReleaseBarCode>4988658001173</ReleaseBarCode>
+			<ReleaseDate>08/31/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fire ProWrestling for WonderSwan (JP)-41141_front.jpg</Image>
+				<Image>Fire ProWrestling for WonderSwan (JP)-41141_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Fishing Freaks: BassRise for WonderSwan" URL="/wonderswan/577017-fishing-freaks-bassrise-for-wonderswan">
+		<Description>Fishing Freaks: BassRise for WonderSwan is a Sports game, developed by Bandai and published by Bec,  which was released in Japan in 2000.</Description>
+		<Developer>Bandai</Developer>
+		<Genre>Sports &gt; Individual &gt; Nature &gt; Fishing</Genre>
+		<Release name="Fishing Freaks: BassRise for WonderSwan" region="JP">
+			<ReleasePublisher>Bec</ReleasePublisher>
+			<ReleaseProductID>SWJ-BEC004</ReleaseProductID>
+			<ReleaseBarCode>4932873820170</ReleaseBarCode>
+			<ReleaseDate>02/24/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fishing Freaks BassRise for WonderSwan (JP)-39376_front.jpg</Image>
+				<Image>Fishing Freaks BassRise for WonderSwan (JP)-39376_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="From TV Animation: One Piece" URL="/wonderswan/578024-from-tv-animation-one-piece">
+		<Description>From TV Animation: One Piece is an Adventure game, developed and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>18.7 hours</Length>
+		<AKA>From TV Animation: One Piece - Mezase Kaizokuou! (JP)</AKA>
+		<Developer>Bandai</Developer>
+		<Franchise>One Piece</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="From TV Animation: One Piece - Mezase Kaizokuou!" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN02B</ReleaseProductID>
+			<ReleaseBarCode>4902425758312</ReleaseBarCode>
+			<ReleaseDate>07/19/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>From TV Animation One Piece - Mezase Kaizokuou! (JP)-40350_front.jpg</Image>
+				<Image>From TV Animation One Piece - Mezase Kaizokuou! (JP)-40350_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="From TV Animation: One Piece - Mezase Kaizokuou!" URL="/wonderswan/578024-from-tv-animation-one-piece">
+		<Description>From TV Animation: One Piece is an Adventure game, developed and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>18.7 hours</Length>
+		<AKA>From TV Animation: One Piece - Mezase Kaizokuou! (JP)</AKA>
+		<Developer>Bandai</Developer>
+		<Franchise>One Piece</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="From TV Animation: One Piece - Mezase Kaizokuou!" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN02B</ReleaseProductID>
+			<ReleaseBarCode>4902425758312</ReleaseBarCode>
+			<ReleaseDate>07/19/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>From TV Animation One Piece - Mezase Kaizokuou! (JP)-40350_front.jpg</Image>
+				<Image>From TV Animation One Piece - Mezase Kaizokuou! (JP)-40350_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Ganso Jajamaru-kun" URL="/wonderswan/576620-ganso-jajamaru-kun">
+		<Description>Ganso Jajamaru-kun is an Action game, developed by TOSE and published by Jaleco Entertainment,  which was released in Japan in 1999.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>TOSE</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Ganso Jajamaru-kun" region="JP">
+			<ReleasePublisher>Jaleco Entertainment</ReleasePublisher>
+			<ReleaseProductID>SWJ-JLC001</ReleaseProductID>
+			<ReleaseBarCode>4907859110019</ReleaseBarCode>
+			<ReleaseDate>04/15/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ganso Jajamaru-kun (JP)-38942_front.jpg</Image>
+				<Image>Ganso Jajamaru-kun (JP)-38942_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Glocal Hexcite" URL="/wonderswan/578022-glocal-hexcite">
+		<Description>Glocal Hexcite is a Puzzle game, developed by Gu Inc and published by Success,  which was released in Japan in 2000.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Gu Inc</Developer>
+		<Franchise>Hexcite</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Glocal Hexcite" region="JP">
+			<ReleasePublisher>Success</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT008</ReleaseProductID>
+			<ReleaseBarCode>4988658001180</ReleaseBarCode>
+			<ReleaseDate>06/29/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Glocal Hexcite (JP)-40353_front.jpg</Image>
+				<Image>Glocal Hexcite (JP)-40353_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Gomokunarabe &amp; Reversi: Touryuumon" URL="/wonderswan/576661-gomokunarabe-and-reversi-touryuumon">
+		<Description>Gomokunarabe &amp; Reversi: Touryuumon is a Miscellaneous game, developed and published by Sammy Studios,  which was released in Japan in 2000.</Description>
+		<Developer>Sammy Studios</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Gomokunarabe &amp; Reversi: Touryuumon" region="JP">
+			<ReleasePublisher>Sammy Studios</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUM006</ReleaseProductID>
+			<ReleaseBarCode>4991694000376</ReleaseBarCode>
+			<ReleaseDate>01/13/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gomokunarabe &amp; Reversi Touryuumon (JP)-38994_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Goraku Ou Tango!" URL="/wonderswan/576619-goraku-ou-tango">
+		<Description>Goraku Ou Tango! is a Puzzle game, published by Mebius,  which was released in Japan in 1999.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Mebius</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Goraku Ou Tango!" region="JP">
+			<ReleasePublisher>Mebius</ReleasePublisher>
+			<ReleaseProductID>SWJ-PAW001</ReleaseProductID>
+			<ReleaseBarCode>4524884000018</ReleaseBarCode>
+			<ReleaseDate>04/01/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Goraku Ou Tango! (JP)-38941_front.jpg</Image>
+				<Image>Goraku Ou Tango! (JP)-38941_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Gunpey" URL="/wonderswan/575496-gunpey">
+		<Description>Gunpey is a Puzzle game, developed by Koto and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>Koto</Developer>
+		<Franchise>Gunpey</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Gunpey" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN001</ReleaseProductID>
+			<ReleaseBarCode>4902425720487</ReleaseBarCode>
+			<ReleaseDate>03/04/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gunpey (JP)-37554_front.jpg</Image>
+				<Image>Gunpey (JP)-37554_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Gunpey (w/WonderSwan)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A001</ReleaseProductID>
+			<ReleaseBarCode>4902425748375</ReleaseBarCode>
+			<ReleaseDate>11/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gunpey (wWonderSwan) (JP)-331725_front.jpg</Image>
+				<Image>Gunpey (wWonderSwan) (JP)-331725_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Hanafuda Shiyouyo" URL="/wonderswan/577014-hanafuda-shiyouyo">
+		<Description>Hanafuda Shiyouyo is a Miscellaneous game, published by Success,  which was released in Japan in 2000.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Success</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Hanafuda Shiyouyo" region="JP">
+			<ReleasePublisher>Success</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT005</ReleaseProductID>
+			<ReleaseBarCode>4988658001159</ReleaseBarCode>
+			<ReleaseDate>02/17/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hanafuda Shiyouyo (JP)-39374_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Harobots" URL="/wonderswan/576645-harobots">
+		<Description>Harobots is a Role-Playing game, developed and published by Sunrise Interactive,  which was released in Japan in 1999.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Sunrise Interactive</Developer>
+		<Franchise>Harobots</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Harobots" region="JP">
+			<ReleasePublisher>Sunrise Interactive</ReleasePublisher>
+			<ReleaseProductID>SWJ-SRV001</ReleaseProductID>
+			<ReleaseBarCode>4526519000028</ReleaseBarCode>
+			<ReleaseDate>10/07/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Harobots (JP)-38975_front.jpg</Image>
+				<Image>Harobots (JP)-38975_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Hataraku Chocobo" URL="/wonderswan/578832-hataraku-chocobo">
+		<Description>Hataraku Chocobo is a Strategy game, developed and published by SquareSoft,  which was released in Japan in 2000.</Description>
+		<Developer>SquareSoft</Developer>
+		<Franchise>Chocobo</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Hataraku Chocobo" region="JP">
+			<ReleasePublisher>SquareSoft</ReleasePublisher>
+			<ReleaseProductID>SWJ-SQR004</ReleaseProductID>
+			<ReleaseBarCode>4961012002016</ReleaseBarCode>
+			<ReleaseDate>09/21/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hataraku Chocobo (JP)-41145_front.jpg</Image>
+				<Image>Hataraku Chocobo (JP)-41145_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Hunter X Hunter" URL="/wonderswan/577850-hunter-x-hunter">
+		<Description>Hunter X Hunter is a Role-Playing game, developed by Access and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<AKA>Hunter X Hunter: Ishi o Tsugomono (JP)</AKA>
+		<Developer>Access</Developer>
+		<Franchise>Hunter X Hunter</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Hunter X Hunter: Ishi o Tsugomono" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN02A</ReleaseProductID>
+			<ReleaseBarCode>4902425758305</ReleaseBarCode>
+			<ReleaseDate>06/01/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hunter X Hunter Ishi o Tsugomono (JP)-40155_front.jpg</Image>
+				<Image>Hunter X Hunter Ishi o Tsugomono (JP)-40155_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Hunter X Hunter: Ishi o Tsugomono" URL="/wonderswan/577850-hunter-x-hunter">
+		<Description>Hunter X Hunter is a Role-Playing game, developed by Access and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<AKA>Hunter X Hunter: Ishi o Tsugomono (JP)</AKA>
+		<Developer>Access</Developer>
+		<Franchise>Hunter X Hunter</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Hunter X Hunter: Ishi o Tsugomono" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN02A</ReleaseProductID>
+			<ReleaseBarCode>4902425758305</ReleaseBarCode>
+			<ReleaseDate>06/01/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hunter X Hunter Ishi o Tsugomono (JP)-40155_front.jpg</Image>
+				<Image>Hunter X Hunter Ishi o Tsugomono (JP)-40155_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen" URL="/wonderswan/576644-bistro-recipe">
+		<Description>Bistro Recipe is a Strategy game, developed and published by Banpresto,  which was released in Japan in 1999.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>16 hours</Length>
+		<AKA>Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen (JP)</AKA>
+		<Developer>Banpresto</Developer>
+		<Franchise>Kakutou Ryouri Densetsu Bistro Recipe</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen" region="JP">
+			<ReleasePublisher>Banpresto</ReleasePublisher>
+			<ReleaseProductID>SWJ-BPR002</ReleaseProductID>
+			<ReleaseBarCode>4983164739022</ReleaseBarCode>
+			<ReleaseDate>09/30/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kakutou Ryouri Densetsu Bistro Recipe Wonder Battle Hen (JP)-38976_front.jpg</Image>
+				<Image>Kakutou Ryouri Densetsu Bistro Recipe Wonder Battle Hen (JP)-38976_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Kaze no Klonoa: Moonlight Museum" URL="/wonderswan/562921-kaze-no-klonoa-moonlight-museum">
+		<Description>Kaze no Klonoa: Moonlight Museum is an Action game, developed by Namco and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Namco</Developer>
+		<Franchise>Klonoa</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Kaze no Klonoa: Moonlight Museum" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN008</ReleaseProductID>
+			<ReleaseBarCode>4902425725901</ReleaseBarCode>
+			<ReleaseDate>05/20/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kaze no Klonoa Moonlight Museum (JP)-20334_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Keiba" URL="/wonderswan/576396-keiba">
+		<Description>Keiba is a Sports game, published by Bec,  which was released in Japan in 1999.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2 hours</Length>
+		<AKA>Kyousouba Ikusei Simulation: Keiba (JP)</AKA>
+		<Developer>Bec</Developer>
+		<Genre>Sports &gt; Individual &gt; Horse Racing</Genre>
+		<Release name="Kyousouba Ikusei Simulation: Keiba" region="JP">
+			<ReleasePublisher>Bec</ReleasePublisher>
+			<ReleaseProductID>SWJ-BEC001</ReleaseProductID>
+			<ReleaseBarCode>4932873820149</ReleaseBarCode>
+			<ReleaseDate>11/18/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kyousouba Ikusei Simulation Keiba (JP)-38681_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Keiba Yousou Shien Soft: Yosou Shin Karon" URL="/wonderswan/576641-yosou-shin-karon">
+		<Description>Yosou Shin Karon is a Sports game, published by Media Entertainment,  which was released in Japan in 1999.</Description>
+		<AKA>Keiba Yousou Shien Soft: Yosou Shin Karon (JP)</AKA>
+		<Developer>Media Entertainment</Developer>
+		<Genre>Sports &gt; Individual &gt; Horse Racing</Genre>
+		<Release name="Keiba Yousou Shien Soft: Yosou Shin Karon" region="JP">
+			<ReleasePublisher>Media Entertainment</ReleasePublisher>
+			<ReleaseProductID>SWJ-MDE001</ReleaseProductID>
+			<ReleaseBarCode>4997232600015</ReleaseBarCode>
+			<ReleaseDate>09/14/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Keiba Yousou Shien Soft Yosou Shin Karon (JP)-38972_front.jpg</Image>
+				<Image>Keiba Yousou Shien Soft Yosou Shin Karon (JP)-38972_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="KISS Yori... Seaside Serenade" URL="/wonderswan/576487-kiss-yori-seaside-serenade">
+		<Description>KISS Yori... Seaside Serenade is an Adventure game, developed and published by Kid,  which was released in Japan in 1999.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Kid</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="KISS Yori... Seaside Serenade" region="JP">
+			<ReleasePublisher>Kid</ReleasePublisher>
+			<ReleaseProductID>SWJ-KDX001</ReleaseProductID>
+			<ReleaseBarCode>4933516905018</ReleaseBarCode>
+			<ReleaseDate>12/02/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>KISS Yori... Seaside Serenade (JP)-38785_front.jpg</Image>
+				<Image>KISS Yori... Seaside Serenade (JP)-38785_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Kosodate Quiz Dokodemo: My Angel" URL="/wonderswan/576621-kosodate-quiz-dokodemo-my-angel">
+		<Description>Kosodate Quiz Dokodemo: My Angel is a Miscellaneous game, developed by Namco and published by Bandai,  which was released in Japan in 1999.</Description>
+		<Developer>Namco</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Kosodate Quiz Dokodemo: My Angel" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN007</ReleaseProductID>
+			<ReleaseBarCode>4902425720548</ReleaseBarCode>
+			<ReleaseDate>04/15/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kosodate Quiz Dokodemo My Angel (JP)-38943_front.jpg</Image>
+				<Image>Kosodate Quiz Dokodemo My Angel (JP)-38943_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Kyousouba Ikusei Simulation: Keiba" URL="/wonderswan/576396-keiba">
+		<Description>Keiba is a Sports game, published by Bec,  which was released in Japan in 1999.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2 hours</Length>
+		<AKA>Kyousouba Ikusei Simulation: Keiba (JP)</AKA>
+		<Developer>Bec</Developer>
+		<Genre>Sports &gt; Individual &gt; Horse Racing</Genre>
+		<Release name="Kyousouba Ikusei Simulation: Keiba" region="JP">
+			<ReleasePublisher>Bec</ReleasePublisher>
+			<ReleaseProductID>SWJ-BEC001</ReleaseProductID>
+			<ReleaseBarCode>4932873820149</ReleaseBarCode>
+			<ReleaseDate>11/18/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kyousouba Ikusei Simulation Keiba (JP)-38681_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Langrisser Millennium WS: The Last Century" URL="/wonderswan/577052-langrisser-millennium-ws-the-last-century">
+		<Description>Langrisser Millennium WS: The Last Century is a Strategy game, developed and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>3.92 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Bandai</Developer>
+		<Franchise>Langrisser</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; Tactics</Genre>
+		<Release name="Langrisser Millennium WS: The Last Century" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN024</ReleaseProductID>
+			<ReleaseBarCode>4902425751368</ReleaseBarCode>
+			<ReleaseDate>03/09/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Langrisser Millennium WS The Last Century (JP)-39438_front.jpg</Image>
+				<Image>Langrisser Millennium WS The Last Century (JP)-39438_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Last Stand" URL="/wonderswan/576627-last-stand">
+		<Description>Last Stand is a Strategy game, developed by Soft Machine and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>55 hours</Length>
+		<Developer>Soft Machine</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Last Stand" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN009</ReleaseProductID>
+			<ReleaseBarCode>4902425725475</ReleaseBarCode>
+			<ReleaseDate>05/27/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Last Stand (JP)-38953_front.jpg</Image>
+				<Image>Last Stand (JP)-38953_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Lode Runner for WonderSwan" URL="/wonderswan/577323-lode-runner-for-wonderswan">
+		<Description>You're a highly trained Galactic Commando, deep in enemy territory. Your mission: to recover a fortune in gold, stolen from the Bungeling people by their power-hungry leaders. You'll be running, jumping, and climbing heroically, solving perplexing puzzles. With your laser pistol, you'll drill passageways through stone floors and barriers. To get through this mission alive, you'll need more than fleet feet and good looks. You'll need your quick wits and brains. And more than just a little luck.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Aisystem Tokyo</Developer>
+		<Franchise>Lode Runner</Franchise>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Lode Runner for WonderSwan" region="JP">
+			<ReleasePublisher>Banpresto</ReleasePublisher>
+			<ReleaseProductID>SWJ-BPR004</ReleaseProductID>
+			<ReleaseBarCode>4983164739046</ReleaseBarCode>
+			<ReleaseDate>04/20/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lode Runner for WonderSwan (JP)-39749_front.jpg</Image>
+				<Image>Lode Runner for WonderSwan (JP)-39749_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Macross: True Love Song" URL="/wonderswan/582267-macross-true-love-song">
+		<Description>Macross: True Love Song is a Strategy game, developed and published by Lay-Up,  which was released in Japan in 2000.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Developer>Lay-Up</Developer>
+		<Franchise>Macross</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Macross: True Love Song" region="JP">
+			<ReleasePublisher>Lay-Up</ReleasePublisher>
+			<ReleaseProductID>SWJ-LAY001</ReleaseProductID>
+			<ReleaseBarCode>4532224002103</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Macross True Love Song (JP)-43669_front.jpg</Image>
+				<Image>Macross True Love Song (JP)-43669_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Magical Drop for WonderSwan" URL="/wonderswan/576648-magical-drop-for-wonderswan">
+		<Description>Magical Drop for WonderSwan is a Puzzle game, developed by Gaibrain and published by Data East,  which was released in Japan in 1999.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Gaibrain</Developer>
+		<Franchise>Magical Drop</Franchise>
+		<Genre>Puzzle &gt; Matching</Genre>
+		<Release name="Magical Drop for WonderSwan" region="JP">
+			<ReleasePublisher>Data East</ReleasePublisher>
+			<ReleaseProductID>SWJ-DTE002</ReleaseProductID>
+			<ReleaseBarCode>4961082700256</ReleaseBarCode>
+			<ReleaseDate>10/14/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Magical Drop for WonderSwan (JP)-38979_front.jpg</Image>
+				<Image>Magical Drop for WonderSwan (JP)-38979_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Mahjong Touryuumon" URL="/wonderswan/576613-mahjong-touryuumon">
+		<Description>Mahjong Touryuumon is a Miscellaneous game, developed by Chat Noir and published by Sammy Studios,  which was released in Japan in 1999.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Chat Noir</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Mahjong Touryuumon" region="JP">
+			<ReleasePublisher>Sammy Studios</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUM001</ReleaseProductID>
+			<ReleaseBarCode>4991694000284</ReleaseBarCode>
+			<ReleaseDate>03/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mahjong Touryuumon (JP)-38936_front.jpg</Image>
+				<Image>Mahjong Touryuumon (JP)-38936_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Makai-Mura for WonderSwan" URL="/wonderswan/576636-makai-mura-for-wonderswan">
+		<Description>The beautiful princess is kidnapped. Her lover, the Knight in shining armor, armed with five different weapons to fight the enemy, sets out to rescue the beautiful princess. The Knight, aided by your skill, must pass through seven different guarded gates, fighting and destroying demons, dragons, giants and zombies. There are hidden characters, too! Some friends, some foes. Ghosts 'N Goblins is exciting... challenging you and the Knight to rescue the princess, amid great danger, escaping Hades, land of the enemies!</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.2 hours</Length>
+		<Developer>Capcom</Developer>
+		<Franchise>Ghosts 'n Goblins</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Makai-Mura for WonderSwan" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN011</ReleaseProductID>
+			<ReleaseBarCode>4902425731285</ReleaseBarCode>
+			<ReleaseDate>07/22/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Makai-Mura for WonderSwan (JP)-38966_front.jpg</Image>
+				<Image>Makai-Mura for WonderSwan (JP)-38966_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Medarot: Perfect Edition - Kabuto Version" URL="/wonderswan/576625-medarot-perfect-edition-kabuto-version">
+		<Description>Medarot: Perfect Edition - Kabuto Version is a Role-Playing game, developed by Natsume and published by Imagineer,  which was released in Japan in 1999.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>80+ hours</Length>
+		<Developer>Natsume</Developer>
+		<Franchise>Medabots / Medarot</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Medarot: Perfect Edition - Kabuto Version" region="JP">
+			<ReleasePublisher>Imagineer</ReleasePublisher>
+			<ReleaseProductID>SWJ-MGA001</ReleaseProductID>
+			<ReleaseBarCode>4965857060002</ReleaseBarCode>
+			<ReleaseDate>05/04/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Medarot Perfect Edition - Kabuto Version (JP)-38951_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Medarot: Perfect Edition - Kuwagata Version" URL="/wonderswan/618250-medarot-perfect-edition-kuwagata-version">
+		<Description>Medarot: Perfect Edition - Kuwagata Version is a Role-Playing game, developed by Natsume and published by Imagineer,  which was released in Japan in 1999.</Description>
+		<UserRating>4.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>56.7 hours</Length>
+		<Developer>Natsume</Developer>
+		<Franchise>Medabots / Medarot</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Medarot: Perfect Edition - Kuwagata Version" region="JP">
+			<ReleasePublisher>Imagineer</ReleasePublisher>
+			<ReleaseProductID>SWJ-MGA002</ReleaseProductID>
+			<ReleaseBarCode>4965857060019</ReleaseBarCode>
+			<ReleaseDate>05/04/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Medarot Perfect Edition - Kuwagata Version (JP)-177338_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Meitantei Conan: Majutsushi no Chousenjou!" URL="/wonderswan/576638-meitantei-conan-majutsushi-no-chousenjou">
+		<Description>Meitantei Conan: Majutsushi no Chousenjou! is an Adventure game, developed by Tomcat System and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>40 hours</Length>
+		<Developer>Tomcat System</Developer>
+		<Franchise>Detective Conan / Case Closed</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Meitantei Conan: Majutsushi no Chousenjou!" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN012</ReleaseProductID>
+			<ReleaseBarCode>4902425731292</ReleaseBarCode>
+			<ReleaseDate>08/05/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Meitantei Conan Majutsushi no Chousenjou! (JP)-38964_front.jpg</Image>
+				<Image>Meitantei Conan Majutsushi no Chousenjou! (JP)-38964_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Meitantei Conan: Nishi no Meitantei Saidai no Kiki!?" URL="/wonderswan/578025-meitantei-conan-nishi-no-meitantei-saidai-no-kiki">
+		<Description>Meitantei Conan: Nishi no Meitantei Saidai no Kiki!? is an Adventure game, developed by Tomcat System and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Tomcat System</Developer>
+		<Franchise>Detective Conan / Case Closed</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Meitantei Conan: Nishi no Meitantei Saidai no Kiki!?" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN027</ReleaseProductID>
+			<ReleaseBarCode>4902425758275</ReleaseBarCode>
+			<ReleaseDate>07/27/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Meitantei Conan Nishi no Meitantei Saidai no Kiki! (JP)-40356_front.jpg</Image>
+				<Image>Meitantei Conan Nishi no Meitantei Saidai no Kiki! (JP)-40356_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Meta Communication Therapy: Nee Kiite!" URL="/wonderswan/577185-meta-communication-therapy-nee-kiite">
+		<Description>Meta Communication Therapy: Nee Kiite! is a Strategy game, developed by Yoshidayama Workshop and published by Media Entertainment,  which was released in Japan in 2000.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Yoshidayama Workshop</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Meta Communication Therapy: Nee Kiite!" region="JP">
+			<ReleasePublisher>Media Entertainment</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT006</ReleaseProductID>
+			<ReleaseBarCode>4988658001166</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Meta Communication Therapy Nee Kiite! (JP)-39563_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Mingle Magnet" URL="/wonderswan/576652-mingle-magnet">
+		<Description>Mingle Magnet is a Puzzle game, developed by Mechanic Arms and published by HAL Labs,  which was released in Japan in 1999.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>40 hours</Length>
+		<Developer>Mechanic Arms</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Mingle Magnet" region="JP">
+			<ReleasePublisher>HAL Labs</ReleasePublisher>
+			<ReleaseProductID>SWJ-HAL002</ReleaseProductID>
+			<ReleaseBarCode>4939275501904</ReleaseBarCode>
+			<ReleaseDate>11/02/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mingle Magnet (JP)-38984_front.jpg</Image>
+				<Image>Mingle Magnet (JP)-38984_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Mobile Suit Gundam: MSVS" URL="/wonderswan/575904-mobile-suit-gundam-msvs">
+		<Description>Mobile Suit Gundam: MSVS is a Simulation game, developed by Sims and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>40 hours</Length>
+		<AKA>Mobile Suit Gundam: MSVS + Zeon Color WS (JP), Mobile Suit Gundam: MSVS + Renpou Color WS (JP)</AKA>
+		<Developer>Sims</Developer>
+		<Franchise>Mobile Suit Gundam</Franchise>
+		<Genre>Simulation &gt; General</Genre>
+		<Release name="Mobile Suit Gundam: MSVS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN015</ReleaseProductID>
+			<ReleaseBarCode>4902425731322</ReleaseBarCode>
+			<ReleaseDate>08/26/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS (JP)-38145_front.jpg</Image>
+				<Image>Mobile Suit Gundam MSVS (JP)-38145_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mobile Suit Gundam: MSVS + Renpou Color WS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A008</ReleaseProductID>
+			<ReleaseBarCode>4902425759272</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS + Renpou Color WS (JP)-38147_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mobile Suit Gundam: MSVS + Zeon Color WS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A009</ReleaseProductID>
+			<ReleaseBarCode>4902425759289</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS + Zeon Color WS (JP)-38146_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Mobile Suit Gundam: MSVS + Renpou Color WS" URL="/wonderswan/575904-mobile-suit-gundam-msvs">
+		<Description>Mobile Suit Gundam: MSVS is a Simulation game, developed by Sims and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>40 hours</Length>
+		<AKA>Mobile Suit Gundam: MSVS + Zeon Color WS (JP), Mobile Suit Gundam: MSVS + Renpou Color WS (JP)</AKA>
+		<Developer>Sims</Developer>
+		<Franchise>Mobile Suit Gundam</Franchise>
+		<Genre>Simulation &gt; General</Genre>
+		<Release name="Mobile Suit Gundam: MSVS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN015</ReleaseProductID>
+			<ReleaseBarCode>4902425731322</ReleaseBarCode>
+			<ReleaseDate>08/26/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS (JP)-38145_front.jpg</Image>
+				<Image>Mobile Suit Gundam MSVS (JP)-38145_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mobile Suit Gundam: MSVS + Renpou Color WS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A008</ReleaseProductID>
+			<ReleaseBarCode>4902425759272</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS + Renpou Color WS (JP)-38147_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mobile Suit Gundam: MSVS + Zeon Color WS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A009</ReleaseProductID>
+			<ReleaseBarCode>4902425759289</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS + Zeon Color WS (JP)-38146_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Mobile Suit Gundam: MSVS + Zeon Color WS" URL="/wonderswan/575904-mobile-suit-gundam-msvs">
+		<Description>Mobile Suit Gundam: MSVS is a Simulation game, developed by Sims and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>40 hours</Length>
+		<AKA>Mobile Suit Gundam: MSVS + Zeon Color WS (JP), Mobile Suit Gundam: MSVS + Renpou Color WS (JP)</AKA>
+		<Developer>Sims</Developer>
+		<Franchise>Mobile Suit Gundam</Franchise>
+		<Genre>Simulation &gt; General</Genre>
+		<Release name="Mobile Suit Gundam: MSVS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN015</ReleaseProductID>
+			<ReleaseBarCode>4902425731322</ReleaseBarCode>
+			<ReleaseDate>08/26/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS (JP)-38145_front.jpg</Image>
+				<Image>Mobile Suit Gundam MSVS (JP)-38145_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mobile Suit Gundam: MSVS + Renpou Color WS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A008</ReleaseProductID>
+			<ReleaseBarCode>4902425759272</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS + Renpou Color WS (JP)-38147_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Mobile Suit Gundam: MSVS + Zeon Color WS" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A009</ReleaseProductID>
+			<ReleaseBarCode>4902425759289</ReleaseBarCode>
+			<ReleaseDate>03/23/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mobile Suit Gundam MSVS + Zeon Color WS (JP)-38146_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Moero!! Pro Yakyuu Rookies" URL="/wonderswan/577210-moero-pro-yakyuu-rookies">
+		<Description>Moero!! Pro Yakyuu Rookies is a Sports game, developed by TOSE and published by Jaleco Entertainment,  which was released in Japan in 2000.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>TOSE</Developer>
+		<Franchise>Bases Loaded / Moero!! Pro Yakyuu</Franchise>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Moero!! Pro Yakyuu Rookies" region="JP">
+			<ReleasePublisher>Jaleco Entertainment</ReleasePublisher>
+			<ReleaseProductID>SWJ-JLC002</ReleaseProductID>
+			<ReleaseBarCode>4907859110026</ReleaseBarCode>
+			<ReleaseDate>03/30/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Moero!! Pro Yakyuu Rookies (JP)-39601_front.jpg</Image>
+				<Image>Moero!! Pro Yakyuu Rookies (JP)-39601_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Morita Shogi for WonderSwan" URL="/wonderswan/576656-morita-shogi-for-wonderswan">
+		<Description>Morita Shogi for WonderSwan is a Miscellaneous game, developed and published by Yuki,  which was released in Japan in 1999.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Yuki</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Morita Shogi for WonderSwan" region="JP">
+			<ReleasePublisher>Yuki</ReleasePublisher>
+			<ReleaseProductID>SWJ-YKE001</ReleaseProductID>
+			<ReleaseBarCode>4525068040011</ReleaseBarCode>
+			<ReleaseDate>12/22/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Morita Shogi for WonderSwan (JP)-38989_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Nazo-Oh Pocket" URL="/wonderswan/576397-nazo-oh-pocket">
+		<Description>Nazo-Oh Pocket is an Adventure game, developed by Bandai Visual and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Bandai Visual</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Nazo-Oh Pocket" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BVL001</ReleaseProductID>
+			<ReleaseBarCode>4934569501783</ReleaseBarCode>
+			<ReleaseDate>11/18/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nazo-Oh Pocket (JP)-38682_front.jpg</Image>
+				<Image>Nazo-Oh Pocket (JP)-38682_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Neon Genesis Evangelion" URL="/wonderswan/575905-neon-genesis-evangelion">
+		<Description>Neon Genesis Evangelion is a Role-Playing game, developed by Soft Machine and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<AKA>Neon Genesis Evangelion: Shito Ikusei (JP)</AKA>
+		<Developer>Soft Machine</Developer>
+		<Franchise>Evangelion</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Neon Genesis Evangelion: Shito Ikusei" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN00E</ReleaseProductID>
+			<ReleaseBarCode>4902425731278</ReleaseBarCode>
+			<ReleaseDate>07/22/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Neon Genesis Evangelion Shito Ikusei (JP)-5638_front.jpg</Image>
+				<Image>Neon Genesis Evangelion Shito Ikusei (JP)-5638_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Neon Genesis Evangelion: Shito Ikusei" URL="/wonderswan/575905-neon-genesis-evangelion">
+		<Description>Neon Genesis Evangelion is a Role-Playing game, developed by Soft Machine and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<AKA>Neon Genesis Evangelion: Shito Ikusei (JP)</AKA>
+		<Developer>Soft Machine</Developer>
+		<Franchise>Evangelion</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Neon Genesis Evangelion: Shito Ikusei" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN00E</ReleaseProductID>
+			<ReleaseBarCode>4902425731278</ReleaseBarCode>
+			<ReleaseDate>07/22/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Neon Genesis Evangelion Shito Ikusei (JP)-5638_front.jpg</Image>
+				<Image>Neon Genesis Evangelion Shito Ikusei (JP)-5638_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Nice On" URL="/wonderswan/576623-nice-on">
+		<Description>Nice On is a Sports game, developed by Aisystem Tokyo and published by Sammy Studios,  which was released in Japan in 1999.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Aisystem Tokyo</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Nice On" region="JP">
+			<ReleasePublisher>Sammy Studios</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUM002</ReleaseProductID>
+			<ReleaseBarCode>4991694000291</ReleaseBarCode>
+			<ReleaseDate>04/08/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nice On (JP)-38944_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Nippon Pro Mahjong Renmei Kounin: Tetsuman" URL="/wonderswan/576630-tetsuman">
+		<Description>Tetsuman is a Miscellaneous game, developed by Chat Noir and published by Kaga Tech,  which was released in Japan in 1999.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>40 hours</Length>
+		<AKA>Nippon Pro Mahjong Renmei Kounin: Tetsuman (JP)</AKA>
+		<Developer>Chat Noir</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Nippon Pro Mahjong Renmei Kounin: Tetsuman" region="JP">
+			<ReleasePublisher>Kaga Tech</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT001</ReleaseProductID>
+			<ReleaseBarCode>4988658991115</ReleaseBarCode>
+			<ReleaseDate>07/15/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nippon Pro Mahjong Renmei Kounin Tetsuman (JP)-38954_front.jpg</Image>
+				<Image>Nippon Pro Mahjong Renmei Kounin Tetsuman (JP)-38954_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Nobunaga no Yabou for Wonderswan" URL="/wonderswan/576570-nobunaga-no-yabou-for-wonderswan">
+		<Description>Nobunaga no Yabou for Wonderswan is a Strategy game, developed by Koei/Inis and published by Koei,  which was released in Japan in 1999.</Description>
+		<Developer>Koei/Inis</Developer>
+		<Franchise>Nobunaga's Ambition</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Nobunaga no Yabou for Wonderswan" region="JP">
+			<ReleasePublisher>Koei</ReleasePublisher>
+			<ReleaseProductID>SWJ-KEX001</ReleaseProductID>
+			<ReleaseBarCode>4988615012662</ReleaseBarCode>
+			<ReleaseDate>03/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nobunaga no Yabou for Wonderswan (JP)-38887_front.jpg</Image>
+				<Image>Nobunaga no Yabou for Wonderswan (JP)-38887_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Nobunaga no Yabou for Wonderswan (Re-Release)" region="JP">
+			<ReleasePublisher>Koei</ReleasePublisher>
+			<ReleaseProductID>SWJ-KEX001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/16/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nobunaga no Yabou for Wonderswan (Re-Release) (JP)-38886_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Ochan no Oekaki Logic" URL="/wonderswan/576659-ochan-no-oekaki-logic">
+		<Description>Ochan no Oekaki Logic is a Puzzle game, developed by Santaclaus and published by SunSoft,  which was released in Japan in 2000.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>Santaclaus</Developer>
+		<Franchise>Hebereke</Franchise>
+		<Genre>Puzzle &gt; Logic</Genre>
+		<Release name="Ochan no Oekaki Logic" region="JP">
+			<ReleasePublisher>SunSoft</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUN004</ReleaseProductID>
+			<ReleaseBarCode>4907940312322</ReleaseBarCode>
+			<ReleaseDate>01/06/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ochan no Oekaki Logic (JP)-38990_front.jpg</Image>
+				<Image>Ochan no Oekaki Logic (JP)-38990_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Pocket Fighter" URL="/wonderswan/577320-pocket-fighter">
+		<Description>It's the most outrageous fighting game ever! Innocent but deadly, these pint-sized champions from Street Fighter and DarkStalkers pack one heck of a punch. Battle to collect power-up gems and duke it out with the most insane attacks and hilarious fighting combos of all time.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Soft Machine</Developer>
+		<Franchise>Street Fighter</Franchise>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Pocket Fighter" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN00A</ReleaseProductID>
+			<ReleaseBarCode>4902425725932</ReleaseBarCode>
+			<ReleaseDate>04/06/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pocket Fighter (JP)-39746_front.jpg</Image>
+				<Image>Pocket Fighter (JP)-39746_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Pro Mahjong Kiwame for WonderSwan" URL="/wonderswan/576646-pro-mahjong-kiwame-for-wonderswan">
+		<Description>Pro Mahjong Kiwame for WonderSwan is a Miscellaneous game, published by Athena,  which was released in Japan in 1999.</Description>
+		<Developer>Athena</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Pro Mahjong Kiwame for WonderSwan" region="JP">
+			<ReleasePublisher>Athena</ReleasePublisher>
+			<ReleaseProductID>SWJ-ATN001</ReleaseProductID>
+			<ReleaseBarCode>4988679300019</ReleaseBarCode>
+			<ReleaseDate>10/07/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pro Mahjong Kiwame for WonderSwan (JP)-38980_front.jpg</Image>
+				<Image>Pro Mahjong Kiwame for WonderSwan (JP)-38980_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Puyo Puyo Tsuu" URL="/wonderswan/576614-puyo-puyo-tsuu">
+		<Description>The object of this head-to-head puzzle game is to clear your grid of falling patterns called puyos by forming chains of four or more same-colored puyos in a straight line or one of several geometric patterns. What makes this a challenging two-player contest is the fact that when you clear a chain of puyos from your grid, it drops a random piece of filler onto your opponent's grid. The more puyos you clear, the more you fill your opponent's grid, and if you can clutter up his grid enough to fill it to the top, you've won the game.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Compile</Developer>
+		<Franchise>Puyo Puyo</Franchise>
+		<Genre>Puzzle &gt; Matching</Genre>
+		<Release name="Puyo Puyo Tsuu" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN004</ReleaseProductID>
+			<ReleaseBarCode>4902425720517</ReleaseBarCode>
+			<ReleaseDate>03/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Puyo Puyo Tsuu (JP)-38939_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Puzzle Bobble" URL="/wonderswan/576635-puzzle-bobble">
+		<Description>Which will burst first: your concentration or the level you're working on? It takes more than just swinging the bubble-turret and taking aim on the falling ceiling; tactical planning and mental dexterity are the only way to string together three or more bubbles and 100 wins to make it through all the bubble and ego-bursting rounds of Bust-A-Move!</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Yoshidayama Workshop</Developer>
+		<Franchise>Bust-A-Move / Puzzle Bobble</Franchise>
+		<Genre>Puzzle &gt; Matching</Genre>
+		<Release name="Puzzle Bobble" region="JP">
+			<ReleasePublisher>SunSoft</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUN003</ReleaseProductID>
+			<ReleaseBarCode>4907940312179</ReleaseBarCode>
+			<ReleaseDate>07/01/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Puzzle Bobble (JP)-38962_front.jpg</Image>
+				<Image>Puzzle Bobble (JP)-38962_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Rainbow Islands: Putty's Party" URL="/wonderswan/578021-rainbow-islands-puttys-party">
+		<Description>Rainbow Islands: Putty's Party is an Action game, developed by DigitalWare and published by MegaHouse,  which was released in Japan in 2000.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>DigitalWare</Developer>
+		<Franchise>Bubble Bobble</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Rainbow Islands: Putty's Party" region="JP">
+			<ReleasePublisher>MegaHouse</ReleasePublisher>
+			<ReleaseProductID>SWJ-MGH003</ReleaseProductID>
+			<ReleaseBarCode>4535123900037</ReleaseBarCode>
+			<ReleaseDate>06/29/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rainbow Islands Putty's Party (JP)-40348_front.jpg</Image>
+				<Image>Rainbow Islands Putty's Party (JP)-40348_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Ring Infinity" URL="/wonderswan/578027-ring-infinity">
+		<Description>Ring Infinity is a Miscellaneous game, developed by Megas and published by Kadokawa,  which was released in Japan in 2000.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Megas</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Ring Infinity" region="JP">
+			<ReleasePublisher>Kadokawa</ReleasePublisher>
+			<ReleaseProductID>SWJ-KDK001</ReleaseProductID>
+			<ReleaseBarCode>4997766500010</ReleaseBarCode>
+			<ReleaseDate>08/10/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ring Infinity (JP)-40355_front.jpg</Image>
+				<Image>Ring Infinity (JP)-40355_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Ring Infinity (with Earphones)" region="JP">
+			<ReleasePublisher>Kadokawa</ReleasePublisher>
+			<ReleaseProductID>SWJ-KDK002</ReleaseProductID>
+			<ReleaseBarCode>4997766500027</ReleaseBarCode>
+			<ReleaseDate>08/10/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ring Infinity (with Earphones) (JP)-40354_front.jpg</Image>
+				<Image>Ring Infinity (with Earphones) (JP)-40354_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Robot Works" URL="/wonderswan/618217-robot-works">
+		<Description>Robot Works is a Miscellaneous game, developed and published by Bandai,  which was released in Japan in 2000.</Description>
+		<Developer>Bandai</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Robot Works" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/04/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Robot Works (JP)-177311_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="RockMan &amp; Forte" URL="/wonderswan/576651-rockman-and-forte">
+		<Description>Join Mega Man and Bass's fight for humankind as you face off with the newest menace in town--Robot King.  King's captured all of the data plans for Dr. Wily's creations.  They will  equip King with all the knowledge he needs to build his own indestructible army of robots.  As either Mega Man or Bass, you'll set out separate adventures using a variety of battle moves and weapons to defeat robot masters.  Hidden bolts and CDs give you extra items to assist in battles.</Description>
+		<UserRating>3.28 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.7 hours</Length>
+		<AKA>RockMan &amp; Forte: Mirai Kara no Chousen Sha (JP)</AKA>
+		<Developer>Lay-Up</Developer>
+		<Franchise>Mega Man</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="RockMan &amp; Forte: Mirai Kara no Chousen Sha" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN013</ReleaseProductID>
+			<ReleaseBarCode>4902425731308</ReleaseBarCode>
+			<ReleaseDate>10/28/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>RockMan &amp; Forte Mirai Kara no Chousen Sha (JP)-19626_front.jpg</Image>
+				<Image>RockMan &amp; Forte Mirai Kara no Chousen Sha (JP)-19626_back.jpg</Image>
+				<Image>RockMan &amp; Forte Mirai Kara no Chousen Sha (JP)-19626_side.jpg</Image>
+				<Image>RockMan &amp; Forte Mirai Kara no Chousen Sha (JP)-19626_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="RockMan &amp; Forte: Mirai Kara no Chousen Sha" URL="/wonderswan/576651-rockman-and-forte">
+		<Description>Join Mega Man and Bass's fight for humankind as you face off with the newest menace in town--Robot King.  King's captured all of the data plans for Dr. Wily's creations.  They will  equip King with all the knowledge he needs to build his own indestructible army of robots.  As either Mega Man or Bass, you'll set out separate adventures using a variety of battle moves and weapons to defeat robot masters.  Hidden bolts and CDs give you extra items to assist in battles.</Description>
+		<UserRating>3.28 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.7 hours</Length>
+		<AKA>RockMan &amp; Forte: Mirai Kara no Chousen Sha (JP)</AKA>
+		<Developer>Lay-Up</Developer>
+		<Franchise>Mega Man</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="RockMan &amp; Forte: Mirai Kara no Chousen Sha" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN013</ReleaseProductID>
+			<ReleaseBarCode>4902425731308</ReleaseBarCode>
+			<ReleaseDate>10/28/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>RockMan &amp; Forte Mirai Kara no Chousen Sha (JP)-19626_front.jpg</Image>
+				<Image>RockMan &amp; Forte Mirai Kara no Chousen Sha (JP)-19626_back.jpg</Image>
+				<Image>RockMan &amp; Forte Mirai Kara no Chousen Sha (JP)-19626_side.jpg</Image>
+				<Image>RockMan &amp; Forte Mirai Kara no Chousen Sha (JP)-19626_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="San Goku Shi for WonderSwan" URL="/wonderswan/576617-san-goku-shi-for-wonderswan">
+		<Description>China's Second Han Dynasty has collapsed. The entire country is in chaos as warlords battle each other for control. Each claims to be emperor, however none is powerful enough to retain the title. Romance of the Three Kingdoms puts you in the role of one of the warlords of Second Century China. As a master, you must recruit the best generals in the country and win their loyalty. They will advise you in times of peace, and fight alongside you on the battlefield. Negotiate with other masters, or simply attack them. Always use terrain to your best advantage, making sure to choose the right kind of attack for the situation. In times of peace, manage your states to increase their productivity and prepare your army for battle. Romance of the Three Kingdoms combines a huge database with advanced programming to give you a game in which the characters are so historically accurate and life-like, and the game events so real, you will swear you're living in Second Century China.</Description>
+		<Developer>Koei/Inis</Developer>
+		<Franchise>Romance of the Three Kingdoms</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="San Goku Shi for WonderSwan" region="JP">
+			<ReleasePublisher>Koei</ReleasePublisher>
+			<ReleaseProductID>SWJ-KEX002</ReleaseProductID>
+			<ReleaseBarCode>4988615012730</ReleaseBarCode>
+			<ReleaseDate>04/01/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>San Goku Shi for WonderSwan (JP)-38940_front.jpg</Image>
+				<Image>San Goku Shi for WonderSwan (JP)-38940_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="San Goku Shi II for WonderSwan" URL="/wonderswan/577321-san-goku-shi-ii-for-wonderswan">
+		<Description>Return to an age of chivalry and courage, a time when the destiny of entire kingdoms could be decided by combat between two heroes.
+
+As the virtuous Liu Bei, ruthless Cao Cao, or another powerful leader from China's past, take part in the struggle to unify a country torn apart by rebellion!
+
+Destroy your opposition through brute force or wear them down with patience and cunning. Gain mighty allies as you expand your domain, and carry out joint invasions on mutual enemies. If you victorious in war, you may also discover mystic relics to increase your power. Rule over your territories wisely or poverty, rebellion and disaster will be your reward. Only you can determine the fate of China!</Description>
+		<Developer>Koei/Inis</Developer>
+		<Franchise>Romance of the Three Kingdoms</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; General</Genre>
+		<Release name="San Goku Shi II for WonderSwan" region="JP">
+			<ReleasePublisher>Koei</ReleasePublisher>
+			<ReleaseProductID>SWJ-KEX004</ReleaseProductID>
+			<ReleaseBarCode>4988615014604</ReleaseBarCode>
+			<ReleaseDate>04/06/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>San Goku Shi II for WonderSwan (JP)-39747_front.jpg</Image>
+				<Image>San Goku Shi II for WonderSwan (JP)-39747_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="SD Gundam G Generation: Gather Beat" URL="/wonderswan/578023-sd-gundam-g-generation-gather-beat">
+		<Description>SD Gundam G Generation: Gather Beat is a Strategy game, developed by Vanguard Works and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Vanguard Works</Developer>
+		<Franchise>SD Gundam</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="SD Gundam G Generation: Gather Beat" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN030</ReleaseProductID>
+			<ReleaseBarCode>4902425766737</ReleaseBarCode>
+			<ReleaseDate>07/13/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>SD Gundam G Generation Gather Beat (JP)-40351_front.jpg</Image>
+				<Image>SD Gundam G Generation Gather Beat (JP)-40351_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="SD Gundam G Generation: Gather Beat (WonderWave Pack)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN031</ReleaseProductID>
+			<ReleaseBarCode>4902425766744</ReleaseBarCode>
+			<ReleaseDate>07/13/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>SD Gundam G Generation Gather Beat (WonderWave Pack) (JP)-40352_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="SD Gundam: Emotional Jam" URL="/wonderswan/562900-sd-gundam-emotional-jam">
+		<Description>SD Gundam: Emotional Jam is a Strategy game, developed by Tom Create and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>30 hours</Length>
+		<Developer>Tom Create</Developer>
+		<Franchise>SD Gundam</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="SD Gundam: Emotional Jam" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN006</ReleaseProductID>
+			<ReleaseBarCode>4902425720531</ReleaseBarCode>
+			<ReleaseDate>05/27/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>SD Gundam Emotional Jam (JP)-20271_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="SD Gundam: Emotional Jam (w/WonderSwan)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77A004</ReleaseProductID>
+			<ReleaseBarCode>4902425748405</ReleaseBarCode>
+			<ReleaseDate>11/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>SD Gundam Emotional Jam (wWonderSwan) (JP)-331726_front.jpg</Image>
+				<Image>SD Gundam Emotional Jam (wWonderSwan) (JP)-331726_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="SD Gundam: Gashapon Senki Episode 1" URL="/wonderswan/576657-sd-gundam-gashapon-senki-episode-1">
+		<Description>SD Gundam: Gashapon Senki Episode 1 is a Strategy game, developed by Graphic Research and published by Bandai,  which was released in Japan in 1999.</Description>
+		<Developer>Graphic Research</Developer>
+		<Franchise>SD Gundam</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="SD Gundam: Gashapon Senki Episode 1" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN020</ReleaseProductID>
+			<ReleaseBarCode>4902425744254</ReleaseBarCode>
+			<ReleaseDate>12/29/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>SD Gundam Gashapon Senki Episode 1 (JP)-38987_front.jpg</Image>
+				<Image>SD Gundam Gashapon Senki Episode 1 (JP)-38987_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Senkaiden" URL="/wonderswan/577019-senkaiden">
+		<Description>Senkaiden is a Role-Playing game, developed by Graphic Research and published by Bandai,  which was released in Japan in 2000.</Description>
+		<Developer>Graphic Research</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Senkaiden" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN022</ReleaseProductID>
+			<ReleaseBarCode>4902425751993</ReleaseBarCode>
+			<ReleaseDate>02/24/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Senkaiden (JP)-39379_front.jpg</Image>
+				<Image>Senkaiden (JP)-39379_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Sennou Millennium" URL="/wonderswan/577133-sennou-millennium">
+		<Description>Sennou Millennium is a Puzzle game, developed by Kouyousha and published by Bandai,  which was released in Japan in 2000.</Description>
+		<Developer>Kouyousha</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Sennou Millennium" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN025</ReleaseProductID>
+			<ReleaseBarCode>4902425754239</ReleaseBarCode>
+			<ReleaseDate>03/16/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sennou Millennium (JP)-39519_front.jpg</Image>
+				<Image>Sennou Millennium (JP)-39519_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Shanghai Pocket" URL="/wonderswan/576618-shanghai-pocket">
+		<Description>Shanghai Pocket is a Puzzle game, developed and published by SunSoft,  which was released in Japan in 1999.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>SunSoft</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Shanghai Pocket" region="JP">
+			<ReleasePublisher>SunSoft</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUN001</ReleaseProductID>
+			<ReleaseBarCode>4907940312131</ReleaseBarCode>
+			<ReleaseDate>04/01/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Shanghai Pocket (JP)-30601_front.jpg</Image>
+				<Image>Shanghai Pocket (JP)-30601_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Shin Nippon Pro Wrestling: Toukon Retsuden" URL="/wonderswan/576609-shin-nippon-pro-wrestling-toukon-retsuden">
+		<Description>Shin Nippon Pro Wrestling: Toukon Retsuden is a Sports game, developed and published by Tomy Corporation,  which was released in Japan in 1999.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Tomy Corporation</Developer>
+		<Franchise>Toukon Retsuden</Franchise>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Wrestling</Genre>
+		<Release name="Shin Nippon Pro Wrestling: Toukon Retsuden" region="JP">
+			<ReleasePublisher>Tomy Corporation</ReleasePublisher>
+			<ReleaseProductID>SWJ-TMY001</ReleaseProductID>
+			<ReleaseBarCode>4904810554646</ReleaseBarCode>
+			<ReleaseDate>03/04/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Shin Nippon Pro Wrestling Toukon Retsuden (JP)-35575_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Shogi Touryuumon" URL="/wonderswan/576650-shogi-touryuumon">
+		<Description>Shogi Touryuumon is a Miscellaneous game, developed and published by Sammy Studios,  which was released in Japan in 1999.</Description>
+		<Developer>Sammy Studios</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Shogi Touryuumon" region="JP">
+			<ReleasePublisher>Sammy Studios</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUM005</ReleaseProductID>
+			<ReleaseBarCode>4991694000345</ReleaseBarCode>
+			<ReleaseDate>10/28/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Shogi Touryuumon (JP)-38982_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Side Pocket for WonderSwan" URL="/wonderswan/576413-side-pocket-for-wonderswan">
+		<Description>Side Pocket for WonderSwan is a Sports game, developed and published by Data East,  which was released in Japan in 1999.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Data East</Developer>
+		<Franchise>Side Pocket</Franchise>
+		<Genre>Sports &gt; Individual &gt; Billiards</Genre>
+		<Release name="Side Pocket for WonderSwan" region="JP">
+			<ReleasePublisher>Data East</ReleasePublisher>
+			<ReleaseProductID>SWJ-DTE001</ReleaseProductID>
+			<ReleaseBarCode>4961082100339</ReleaseBarCode>
+			<ReleaseDate>11/25/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Side Pocket for WonderSwan (JP)-38706_front.jpg</Image>
+				<Image>Side Pocket for WonderSwan (JP)-38706_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Slither Link" URL="/wonderswan/577322-slither-link">
+		<Description>Slither Link is a Puzzle game, developed by Tomcat System and published by Bandai,  which was released in Japan in 2000.</Description>
+		<Developer>Tomcat System</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Slither Link" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN029</ReleaseProductID>
+			<ReleaseBarCode>4902425758299</ReleaseBarCode>
+			<ReleaseDate>04/20/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Slither Link (JP)-39748_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Soccer Yarou! Challenge the World" URL="/wonderswan/576640-soccer-yarou-challenge-the-world">
+		<Description>Soccer Yarou! Challenge the World is a Sports game, developed and published by Coconuts Japan,  which was released in Japan in 1999.</Description>
+		<Developer>Coconuts Japan</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Soccer Yarou! Challenge the World" region="JP">
+			<ReleasePublisher>Coconuts Japan</ReleasePublisher>
+			<ReleaseProductID>SWJ-CCJ002</ReleaseProductID>
+			<ReleaseBarCode>4953507990786</ReleaseBarCode>
+			<ReleaseDate>08/12/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer Yarou! Challenge the World (JP)-38967_front.jpg</Image>
+				<Image>Soccer Yarou! Challenge the World (JP)-38967_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Sotsugyou: Graduation for WonderSwan" URL="/wonderswan/576572-sotsugyou-graduation-for-wonderswan">
+		<Description>Sotsugyou: Graduation for WonderSwan is an Adventure game, developed by Imageworks (Japan) and published by Bandai Visual,  which was released in Japan in 1999.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Developer>Imageworks (Japan)</Developer>
+		<Franchise>Sotsugyou: Graduation</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Sotsugyou: Graduation for WonderSwan" region="JP">
+			<ReleasePublisher>Bandai Visual</ReleasePublisher>
+			<ReleaseProductID>SWJ-BVL002</ReleaseProductID>
+			<ReleaseBarCode>4934569501790</ReleaseBarCode>
+			<ReleaseDate>12/16/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sotsugyou Graduation for WonderSwan (JP)-38889_front.jpg</Image>
+				<Image>Sotsugyou Graduation for WonderSwan (JP)-38889_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Space Invaders" URL="/wonderswan/576624-space-invaders">
+		<Description>Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!</Description>
+		<Developer>SunSoft</Developer>
+		<Franchise>Space Invaders</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Space Invaders" region="JP">
+			<ReleasePublisher>SunSoft</ReleasePublisher>
+			<ReleaseProductID>SWJ-SUN002</ReleaseProductID>
+			<ReleaseBarCode>4907940312148</ReleaseBarCode>
+			<ReleaseDate>05/13/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Invaders (JP)-7437_front.jpg</Image>
+				<Image>Space Invaders (JP)-7437_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Super Robot Taisen Compact" URL="/wonderswan/562901-super-robot-taisen-compact">
+		<Description>Super Robot Taisen Compact is a Strategy game, developed by TOSE and published by Banpresto,  which was released in Japan in 1999.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>TOSE</Developer>
+		<Franchise>Super Robot Wars</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; Tactics</Genre>
+		<Release name="Super Robot Taisen Compact" region="JP">
+			<ReleasePublisher>Banpresto</ReleasePublisher>
+			<ReleaseProductID>SWJ-BPR001</ReleaseProductID>
+			<ReleaseBarCode>4983164739015</ReleaseBarCode>
+			<ReleaseDate>04/28/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Robot Taisen Compact (JP)-20272_front.jpg</Image>
+				<Image>Super Robot Taisen Compact (JP)-20272_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Super Robot Taisen Compact 2 Dai-1-Bu: Chijou Gekidou-hen" URL="/wonderswan/577209-super-robot-taisen-compact-2-dai-1-bu-chijou-gekidou-hen">
+		<Description>Super Robot Taisen Compact 2 Dai-1-Bu: Chijou Gekidou-hen is a Strategy game, developed by TOSE and published by Bandai,  which was released in Japan in 2000.</Description>
+		<Developer>TOSE</Developer>
+		<Franchise>Super Robot Wars</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; Tactics</Genre>
+		<Release name="Super Robot Taisen Compact 2 Dai-1-Bu: Chijou Gekidou-hen" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BPR003</ReleaseProductID>
+			<ReleaseBarCode>4983164739039</ReleaseBarCode>
+			<ReleaseDate>03/30/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Robot Taisen Compact 2 Dai-1-Bu Chijou Gekidou-hen (JP)-39600_front.jpg</Image>
+				<Image>Super Robot Taisen Compact 2 Dai-1-Bu Chijou Gekidou-hen (JP)-39600_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Super Robot Taisen Compact 2 Dai-2-Bu: Uchuu Gekishin-hen" URL="/wonderswan/578831-super-robot-taisen-compact-2-dai-2-bu-uchuu-gekishin-hen">
+		<Description>Super Robot Taisen Compact 2 Dai-2-Bu: Uchuu Gekishin-hen is a Strategy game, developed by TOSE and published by Banpresto,  which was released in Japan in 2000.</Description>
+		<Developer>TOSE</Developer>
+		<Franchise>Super Robot Wars</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; Tactics</Genre>
+		<Release name="Super Robot Taisen Compact 2 Dai-2-Bu: Uchuu Gekishin-hen" region="JP">
+			<ReleasePublisher>Banpresto</ReleasePublisher>
+			<ReleaseProductID>SWJ-BPR006</ReleaseProductID>
+			<ReleaseBarCode>4983164739060</ReleaseBarCode>
+			<ReleaseDate>09/14/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Robot Taisen Compact 2 Dai-2-Bu Uchuu Gekishin-hen (JP)-41140_front.jpg</Image>
+				<Image>Super Robot Taisen Compact 2 Dai-2-Bu Uchuu Gekishin-hen (JP)-41140_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Super Robot Taisen Compact 2 Dai-3-Bu: Ginga Kessen-hen" URL="/wonderswan/578840-super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen">
+		<Description>Super Robot Taisen Compact 2 Dai-3-Bu: Ginga Kessen-hen is a Strategy game, developed by TOSE and published by Banpresto,  which was released in Japan in 2001.</Description>
+		<Developer>TOSE</Developer>
+		<Franchise>Super Robot Wars</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; Tactics</Genre>
+		<Release name="Super Robot Taisen Compact 2 Dai-3-Bu: Ginga Kessen-hen" region="JP">
+			<ReleasePublisher>Banpresto</ReleasePublisher>
+			<ReleaseProductID>SWJ-BPR007</ReleaseProductID>
+			<ReleaseBarCode>4983164739091</ReleaseBarCode>
+			<ReleaseDate>01/18/01</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Robot Taisen Compact 2 Dai-3-Bu Ginga Kessen-hen (JP)-41156_front.jpg</Image>
+				<Image>Super Robot Taisen Compact 2 Dai-3-Bu Ginga Kessen-hen (JP)-41156_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Taikyoku Igo: Heisei Kiin" URL="/wonderswan/577015-taikyoku-igo-heisei-kiin">
+		<Description>Taikyoku Igo: Heisei Kiin is a Miscellaneous game, developed and published by Success,  which was released in Japan in 2000.</Description>
+		<Developer>Success</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Taikyoku Igo: Heisei Kiin" region="JP">
+			<ReleasePublisher>Success</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT004</ReleaseProductID>
+			<ReleaseBarCode>4988658001142</ReleaseBarCode>
+			<ReleaseDate>02/24/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Taikyoku Igo Heisei Kiin (JP)-39375_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Tane o Makutori" URL="/wonderswan/576653-tane-o-makutori">
+		<Description>Tane o Makutori is a Puzzle game, developed and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Bandai</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Tane o Makutori" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN01E</ReleaseProductID>
+			<ReleaseBarCode>4902425744230</ReleaseBarCode>
+			<ReleaseDate>12/22/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tane o Makutori (JP)-38983_front.jpg</Image>
+				<Image>Tane o Makutori (JP)-38983_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Tanjou Debut for WonderSwan" URL="/wonderswan/577018-tanjou-debut-for-wonderswan">
+		<Description>Tanjou Debut for WonderSwan is a Strategy game, developed and published by Bandai Visual,  which was released in Japan in 2000.</Description>
+		<Developer>Bandai Visual</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Tanjou Debut for WonderSwan" region="JP">
+			<ReleasePublisher>Bandai Visual</ReleasePublisher>
+			<ReleaseProductID>SWJ-BVL003</ReleaseProductID>
+			<ReleaseBarCode>4934569501806</ReleaseBarCode>
+			<ReleaseDate>02/24/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tanjou Debut for WonderSwan (JP)-39378_front.jpg</Image>
+				<Image>Tanjou Debut for WonderSwan (JP)-39378_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Tarepanda no Gunpey" URL="/wonderswan/576560-tarepanda-no-gunpey">
+		<Description>Tarepanda no Gunpey is a Puzzle game, published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Bandai</Developer>
+		<Franchise>Gunpey</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Tarepanda no Gunpey" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN01F</ReleaseProductID>
+			<ReleaseBarCode>4902425744247</ReleaseBarCode>
+			<ReleaseDate>12/09/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tarepanda no Gunpey (JP)-38864_front.jpg</Image>
+				<Image>Tarepanda no Gunpey (JP)-38864_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Tarepanda no Gunpey (Bundle)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>4902425746371</ReleaseBarCode>
+			<ReleaseDate>12/09/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tarepanda no Gunpey (Bundle) (JP)-38865_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Tekken Card Challenge" URL="/wonderswan/576628-tekken-card-challenge">
+		<Description>Tekken Card Challenge is a Strategy game, developed by Namco and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>4.30 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Namco</Developer>
+		<Franchise>Tekken</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; Card Battle</Genre>
+		<Release name="Tekken Card Challenge" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN00D</ReleaseProductID>
+			<ReleaseBarCode>4902425729336</ReleaseBarCode>
+			<ReleaseDate>06/17/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tekken Card Challenge (JP)-38952_front.jpg</Image>
+				<Image>Tekken Card Challenge (JP)-38952_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Terrors" URL="/wonderswan/576639-terrors">
+		<Description>Terrors is an Adventure game, developed by Megas and published by Bandai,  which was released in Japan in 1999.</Description>
+		<Developer>Megas</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Terrors" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN014</ReleaseProductID>
+			<ReleaseBarCode>4902425731315</ReleaseBarCode>
+			<ReleaseDate>08/05/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Terrors (JP)-38969_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Terrors (Limited Edition)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN018</ReleaseProductID>
+			<ReleaseBarCode>4902425740997</ReleaseBarCode>
+			<ReleaseDate>08/05/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Terrors (Limited Edition) (JP)-38968_front.jpg</Image>
+				<Image>Terrors (Limited Edition) (JP)-38968_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Tetsujin 28-gou" URL="/wonderswan/576655-tetsujin-28-gou">
+		<Description>Tetsujin 28-gou is an Adventure game, published by MegaHouse,  which was released in Japan in 1999.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>MegaHouse</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Tetsujin 28-gou" region="JP">
+			<ReleasePublisher>MegaHouse</ReleasePublisher>
+			<ReleaseProductID>SWJ-MGH001</ReleaseProductID>
+			<ReleaseBarCode>4535123900013</ReleaseBarCode>
+			<ReleaseDate>12/22/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tetsujin 28-gou (JP)-38988_front.jpg</Image>
+				<Image>Tetsujin 28-gou (JP)-38988_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Tetsuman" URL="/wonderswan/576630-tetsuman">
+		<Description>Tetsuman is a Miscellaneous game, developed by Chat Noir and published by Kaga Tech,  which was released in Japan in 1999.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>40 hours</Length>
+		<AKA>Nippon Pro Mahjong Renmei Kounin: Tetsuman (JP)</AKA>
+		<Developer>Chat Noir</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Nippon Pro Mahjong Renmei Kounin: Tetsuman" region="JP">
+			<ReleasePublisher>Kaga Tech</ReleasePublisher>
+			<ReleaseProductID>SWJ-KGT001</ReleaseProductID>
+			<ReleaseBarCode>4988658991115</ReleaseBarCode>
+			<ReleaseDate>07/15/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nippon Pro Mahjong Renmei Kounin Tetsuman (JP)-38954_front.jpg</Image>
+				<Image>Nippon Pro Mahjong Renmei Kounin Tetsuman (JP)-38954_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Time Bokan Series: Bokan Densetsu - Buta mo Odaterya Doronboo" URL="/wonderswan/577512-time-bokan-series-bokan-densetsu-buta-mo-odaterya-doronboo">
+		<Description>Time Bokan Series: Bokan Densetsu - Buta mo Odaterya Doronboo is a Role-Playing game, developed by Alpha Unit and published by Banpresto,  which was released in Japan in 2000.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Alpha Unit</Developer>
+		<Franchise>Time Bokan</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Time Bokan Series: Bokan Densetsu - Buta mo Odaterya Doronboo" region="JP">
+			<ReleasePublisher>Banpresto</ReleasePublisher>
+			<ReleaseProductID>SWJ-BPR005</ReleaseProductID>
+			<ReleaseBarCode>4983164739053</ReleaseBarCode>
+			<ReleaseDate>04/27/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Time Bokan Series Bokan Densetsu - Buta mo Odaterya Doronboo (JP)-39939_front.jpg</Image>
+				<Image>Time Bokan Series Bokan Densetsu - Buta mo Odaterya Doronboo (JP)-39939_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Tokyo Majin Gakuen" URL="/wonderswan/578833-tokyo-majin-gakuen">
+		<Description>Tokyo Majin Gakuen is a Role-Playing game, developed by Shout! Designworks and published by Asmik Ace Entertainment, Inc,  which was released in Japan in 2000.</Description>
+		<UserRating>4.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>30 hours</Length>
+		<AKA>Tokyo Majin Gakuen: Fuju Houroku (JP)</AKA>
+		<Developer>Shout! Designworks</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Tokyo Majin Gakuen: Fuju Houroku" region="JP">
+			<ReleasePublisher>Asmik Ace Entertainment, Inc</ReleasePublisher>
+			<ReleaseProductID>SWJ-AAE001</ReleaseProductID>
+			<ReleaseBarCode>4988126720018</ReleaseBarCode>
+			<ReleaseDate>10/12/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tokyo Majin Gakuen Fuju Houroku (JP)-41144_front.jpg</Image>
+				<Image>Tokyo Majin Gakuen Fuju Houroku (JP)-41144_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Tokyo Majin Gakuen: Fuju Houroku" URL="/wonderswan/578833-tokyo-majin-gakuen">
+		<Description>Tokyo Majin Gakuen is a Role-Playing game, developed by Shout! Designworks and published by Asmik Ace Entertainment, Inc,  which was released in Japan in 2000.</Description>
+		<UserRating>4.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>30 hours</Length>
+		<AKA>Tokyo Majin Gakuen: Fuju Houroku (JP)</AKA>
+		<Developer>Shout! Designworks</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Tokyo Majin Gakuen: Fuju Houroku" region="JP">
+			<ReleasePublisher>Asmik Ace Entertainment, Inc</ReleasePublisher>
+			<ReleaseProductID>SWJ-AAE001</ReleaseProductID>
+			<ReleaseBarCode>4988126720018</ReleaseBarCode>
+			<ReleaseDate>10/12/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tokyo Majin Gakuen Fuju Houroku (JP)-41144_front.jpg</Image>
+				<Image>Tokyo Majin Gakuen Fuju Houroku (JP)-41144_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Trump Collection: Bottom Up Teki Trump Seikatsu" URL="/wonderswan/576634-trump-collection-bottom-up-teki-trump-seikatsu">
+		<Description>Trump Collection: Bottom Up Teki Trump Seikatsu is a Miscellaneous game, developed and published by Bottom Up,  which was released in Japan in 1999.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Bottom Up</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Trump Collection: Bottom Up Teki Trump Seikatsu" region="JP">
+			<ReleasePublisher>Bottom Up</ReleasePublisher>
+			<ReleaseProductID>SWJ-BTM001</ReleaseProductID>
+			<ReleaseBarCode>4948681000413</ReleaseBarCode>
+			<ReleaseDate>07/01/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Trump Collection Bottom Up Teki Trump Seikatsu (JP)-38961_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Turntablist: DJ Battle" URL="/wonderswan/576414-turntablist-dj-battle">
+		<Description>Turntablist: DJ Battle is an Action game, developed and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Developer>Bandai</Developer>
+		<Genre>Action &gt; Rhythm &gt; Music</Genre>
+		<Release name="Turntablist: DJ Battle" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN017</ReleaseProductID>
+			<ReleaseBarCode>4902425740980</ReleaseBarCode>
+			<ReleaseDate>11/25/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Turntablist DJ Battle (JP)-38707_front.jpg</Image>
+				<Image>Turntablist DJ Battle (JP)-38707_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Umizuri ni Ikou!" URL="/wonderswan/576616-umizuri-ni-ikou">
+		<Description>Umizuri ni Ikou! is a Sports game, published by Coconuts Japan,  which was released in Japan in 1999.</Description>
+		<Developer>Coconuts Japan</Developer>
+		<Genre>Sports &gt; Individual &gt; Nature &gt; Fishing</Genre>
+		<Release name="Umizuri ni Ikou!" region="JP">
+			<ReleasePublisher>Coconuts Japan</ReleasePublisher>
+			<ReleaseProductID>SWJ-CCJ001</ReleaseProductID>
+			<ReleaseBarCode>4953507990489</ReleaseBarCode>
+			<ReleaseDate>04/01/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Umizuri ni Ikou! (JP)-38937_front.jpg</Image>
+				<Image>Umizuri ni Ikou! (JP)-38937_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Uzumaki: Denshi Kaiki-hen" URL="/wonderswan/576879-uzumaki-denshi-kaiki-hen">
+		<Description>Uzumaki: Denshi Kaiki-hen is an Action game, published by Omega Micott,  which was released in Japan in 2000.</Description>
+		<Developer>Omega Micott</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Uzumaki: Denshi Kaiki-hen" region="JP">
+			<ReleasePublisher>Omega Micott</ReleasePublisher>
+			<ReleaseProductID>SWJ-OMM001</ReleaseProductID>
+			<ReleaseBarCode>4995198231977</ReleaseBarCode>
+			<ReleaseDate>02/03/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Uzumaki Denshi Kaiki-hen (JP)-39224_front.jpg</Image>
+				<Image>Uzumaki Denshi Kaiki-hen (JP)-39224_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Uzumaki: Noroi Simulation" URL="/wonderswan/577051-uzumaki-noroi-simulation">
+		<Description>Uzumaki: Noroi Simulation is a Strategy game, published by Omega Micott,  which was released in Japan in 2000.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Omega Micott</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Uzumaki: Noroi Simulation" region="JP">
+			<ReleasePublisher>Omega Micott</ReleasePublisher>
+			<ReleaseProductID>SWJ-OMM002</ReleaseProductID>
+			<ReleaseBarCode>4529228900016</ReleaseBarCode>
+			<ReleaseDate>03/04/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Uzumaki Noroi Simulation (JP)-39434_front.jpg</Image>
+				<Image>Uzumaki Noroi Simulation (JP)-39434_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Vaitz Blade" URL="/wonderswan/576629-vaitz-blade">
+		<Description>Vaitz Blade is a Role-Playing game, developed by Tom Create and published by Bandai,  which was released in Japan in 1999.</Description>
+		<Developer>Tom Create</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Vaitz Blade" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN00C</ReleaseProductID>
+			<ReleaseBarCode>4902425725918</ReleaseBarCode>
+			<ReleaseDate>06/24/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Vaitz Blade (JP)-38955_front.jpg</Image>
+				<Image>Vaitz Blade (JP)-38955_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Wonder Stadium" URL="/wonderswan/576612-wonder-stadium">
+		<Description>Wonder Stadium is a Sports game, developed by TOSE and published by Bandai,  which was released in Japan in 1999.</Description>
+		<Developer>TOSE</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Wonder Stadium" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN003</ReleaseProductID>
+			<ReleaseBarCode>4902425720500</ReleaseBarCode>
+			<ReleaseDate>03/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wonder Stadium (JP)-38935_front.jpg</Image>
+				<Image>Wonder Stadium (JP)-38935_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Wonder Stadium '99" URL="/wonderswan/576642-wonder-stadium-99">
+		<Description>Wonder Stadium '99 is a Sports game, developed by Namco and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Namco</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="Wonder Stadium '99" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN019</ReleaseProductID>
+			<ReleaseBarCode>4902425741000</ReleaseBarCode>
+			<ReleaseDate>09/30/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wonder Stadium '99 (JP)-38970_front.jpg</Image>
+				<Image>Wonder Stadium '99 (JP)-38970_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Wonder Stadium '99 (w/WonderSwan)" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>4902425748412</ReleaseBarCode>
+			<ReleaseDate>11/11/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wonder Stadium '99 (wWonderSwan) (JP)-38971_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="WonderSwan" URL="/wonderswan/918386-wonderswan">
+		<Description>WonderSwan is a Hardware game, developed and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<AKA>WonderSwan Hardware (JP)</AKA>
+		<Developer>Bandai</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="WonderSwan Hardware" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77701G</ReleaseProductID>
+			<ReleaseBarCode>4902425717012</ReleaseBarCode>
+			<ReleaseDate>03/04/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>WonderSwan Hardware (JP)-307979_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="WonderSwan Handy Sonar" URL="/wonderswan/576626-wonderswan-handy-sonar">
+		<Description>WonderSwan Handy Sonar is a Sports game, developed and published by Bandai,  which was released in Japan in 1999.</Description>
+		<Developer>Bandai</Developer>
+		<Genre>Sports &gt; Individual &gt; Nature &gt; Fishing</Genre>
+		<Release name="WonderSwan Handy Sonar" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN00F</ReleaseProductID>
+			<ReleaseBarCode>4902425725963</ReleaseBarCode>
+			<ReleaseDate>05/13/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>WonderSwan Handy Sonar (JP)-38950_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="WonderSwan Hardware" URL="/wonderswan/918386-wonderswan">
+		<Description>WonderSwan is a Hardware game, developed and published by Bandai,  which was released in Japan in 1999.</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<AKA>WonderSwan Hardware (JP)</AKA>
+		<Developer>Bandai</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="WonderSwan Hardware" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-77701G</ReleaseProductID>
+			<ReleaseBarCode>4902425717012</ReleaseBarCode>
+			<ReleaseDate>03/04/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>WonderSwan Hardware (JP)-307979_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Wuz up b? Produce: Street Dancer" URL="/wonderswan/577513-wuz-up-b-produce-street-dancer">
+		<Description>Wuz up b? Produce: Street Dancer is an Action game, developed by Fortyfive and published by Bandai,  which was released in Japan in 2000.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Fortyfive</Developer>
+		<Genre>Action &gt; Rhythm &gt; Dancing</Genre>
+		<Release name="Wuz up b? Produce: Street Dancer" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID>SWJ-BAN028</ReleaseProductID>
+			<ReleaseBarCode>4902425758282</ReleaseBarCode>
+			<ReleaseDate>04/27/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wuz up b Produce Street Dancer (JP)-39942_front.jpg</Image>
+				<Image>Wuz up b Produce Street Dancer (JP)-39942_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="WonderSwan" name="Yosou Shin Karon" URL="/wonderswan/576641-yosou-shin-karon">
+		<Description>Yosou Shin Karon is a Sports game, published by Media Entertainment,  which was released in Japan in 1999.</Description>
+		<AKA>Keiba Yousou Shien Soft: Yosou Shin Karon (JP)</AKA>
+		<Developer>Media Entertainment</Developer>
+		<Genre>Sports &gt; Individual &gt; Horse Racing</Genre>
+		<Release name="Keiba Yousou Shien Soft: Yosou Shin Karon" region="JP">
+			<ReleasePublisher>Media Entertainment</ReleasePublisher>
+			<ReleaseProductID>SWJ-MDE001</ReleaseProductID>
+			<ReleaseBarCode>4997232600015</ReleaseBarCode>
+			<ReleaseDate>09/14/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Keiba Yousou Shien Soft Yosou Shin Karon (JP)-38972_front.jpg</Image>
+				<Image>Keiba Yousou Shien Soft Yosou Shin Karon (JP)-38972_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

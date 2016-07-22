@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Jaguar" name="Aircars" URL="/jaguar/917837-aircars">
+		<Description>Aircars is a Simulation game, developed by Midnite Entertainment Group, Inc. and published by ICD, Inc.,  which was released in 1997.</Description>
+		<UserRating>3.43 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Midnite Entertainment Group, Inc.</Developer>
+		<Genre>Simulation &gt; Vehicle &gt; Combat</Genre>
+		<Release name="Aircars" region="US">
+			<ReleasePublisher>ICD, Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>June 1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Alien vs. Predator" URL="/jaguar/586871-alien-vs-predator">
+		<Description>Choose your weapon and brawl with the notorious warriors of the big screen! Commission the Colonial Marine and use your weapons and your wits to destroy the base--and survive. Be an Alien and use your voracious instincts to defend the hive and rescure your Queen. Or play a Predator and use your grisly arsenal to acquire the ultimate trophy...the skull of the Alien Queen.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>14.9 hours</Length>
+		<Developer>Rebellion</Developer>
+		<Franchise>Aliens Vs. Predator</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Alien vs. Predator" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9008E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/20/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien vs. Predator (US)-22489_front.jpg</Image>
+				<Image>Alien vs. Predator (US)-22489_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Alien vs. Predator" region="JP">
+			<ReleasePublisher>Mumin Corp.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/21/94</ReleaseDate>
+		</Release>
+		<Release name="Alien vs. Predator" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien vs. Predator (EU)-22490_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Another World" URL="/jaguar/763272-another-world">
+		<Description>Prepare to leap past traditional computer entertainment, as Out Of This World brings the world of cinema to the action/adventure game. More than two years in development, Out Of This World's cinematic zooms, pans, close-ups and scaling create motion picture-style effects on your living room screen. Its amazing polygonal graphics system brings each character to life in fluid rotoscoped animation. And its digitized hand-painted backgrounds, new sound effects, and phenomenal music score created specifically for the 3DO system create the ultimate interactive, real-time experience. As a brilliant professor hurtled through space and time by a nuclear experiment gone wrong, you must overcome the monsters and deadly earthquakes that plague the alien landscape that surrounds you. It will take a keen blend of skill and wit to overcome the deadly enemies and obstacles that are ready to put an end to your adventure... and your life. So strap yourself into an easy chair and prepare to blast into a real-time odyssey of human vs. not-so-human nature!</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Delphine Software International</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Another World" region="EU">
+			<ReleasePublisher>Retro Gaming Connexion</ReleasePublisher>
+			<ReleaseProductID>RGC010</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>December 2013</ReleaseDate>
+			<ReleaseImages>
+				<Image>Another World (EU)-356961_front.jpg</Image>
+				<Image>Another World (EU)-356961_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Atari Karts" URL="/jaguar/586872-atari-karts">
+		<Description>A go-cart free for all! In Atari Karts you'll race around the track with some of the craziest creatures around. Watch out for the objects lying on the road. Some are bonuses that will help you get ahead, but those hazards can be nasty. They'll cause you to slow down or mess with your driving controls. Try to outdistance your competition and finish fourth or better to move on to the next course. Kids of all ages will love this game!</Description>
+		<UserRating>2.65 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>5.3 hours</Length>
+		<Developer>Miracle Designs</Developer>
+		<Genre>Simulation &gt; Vehicle &gt; Combat</Genre>
+		<Release name="Atari Karts" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/20/95</ReleaseDate>
+		</Release>
+		<Release name="Atari Karts" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9091E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Atari Karts (US)-48667_front.jpg</Image>
+				<Image>Atari Karts (US)-48667_back.jpg</Image>
+				<Image>Atari Karts (US)-48667_side.jpg</Image>
+				<Image>Atari Karts (US)-48667_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Attack of the Mutant Penguins" URL="/jaguar/586873-attack-of-the-mutant-penguins">
+		<Description>In the distant galaxy of Bleurggh, an evil (but reasonably stupid) band of aliens picked up some of Earth's television signals. Unfortunately for them, they could only tune in a wildlife program. They figured the Earth would be a pushover to invade, so they disguised themselves as its inhabitants -- penguins! Word of the invasion has reached those champions of intergalactic do-goodery, Bernard and Rodney. Now, with their help, you must prevent the alien mutant penguins from triggering the Doomscale and destroying the Earth. Are you up to the challenge?</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>8.3 hours</Length>
+		<Developer>Sunrise Games Ltd.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Attack of the Mutant Penguins" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/20/95</ReleaseDate>
+		</Release>
+		<Release name="Attack of the Mutant Penguins" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9072E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/01/96</ReleaseDate>
+			<ReleaseImages>
+				<Image>Attack of the Mutant Penguins (US)-48669_front.jpg</Image>
+				<Image>Attack of the Mutant Penguins (US)-48669_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Battlesphere" URL="/jaguar/586874-battlesphere">
+		<Description>Battlesphere is a Simulation game, developed by 4Play and published by ScatoLogic,  which was released in 2000.</Description>
+		<UserRating>3.45 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7.4 hours</Length>
+		<Developer>4Play</Developer>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="Battlesphere" region="US">
+			<ReleasePublisher>ScatoLogic</ReleasePublisher>
+			<ReleaseProductID>J9807E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2000</ReleaseDate>
+			<ReleaseImages>
+				<Image>Battlesphere (US)-48671_front.jpg</Image>
+				<Image>Battlesphere (US)-48671_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Breakout 2000" URL="/jaguar/586875-breakout-2000">
+		<Description>SMASH! POW! CRUNCH! Is your hand/eye coordination up to demolishing field after field of bricks? Breakout 2000 brings back the nostalgia of early gaming days but adds 90's challenges, such as a three-dimensional field and bricks that resist breaking, as well as many powerups and hazards. You can also test your skill against a buddy. Break through your own wall and start working on his. You'll gain bonus points, and he'll go nuts! Who ever said life was fair never played Breakout 2000.</Description>
+		<UserRating>3.07 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>L4 Software</Developer>
+		<Franchise>Breakout</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Breakout 2000" region="US">
+			<ReleasePublisher>Telegames</ReleasePublisher>
+			<ReleaseProductID>J9093E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/01/96</ReleaseDate>
+			<ReleaseImages>
+				<Image>Breakout 2000 (US)-48672_front.jpg</Image>
+				<Image>Breakout 2000 (US)-48672_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Brutal Sports Football" URL="/jaguar/586876-brutal-sports-football">
+		<Description>Do you like action but reckon that chainsaw massacres are for grannies' tea parties? If you do then brutal sports football is for you, league, knockout or unfriendly tournaments.
+This is an all action, crunch 'em, stamp 'em, no holds barred game of mutant football where heads roll and where injury time means just that.</Description>
+		<UserRating>3.39 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.6 hours</Length>
+		<Developer>Millennium</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="Brutal Sports Football" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>JA100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Brutal Sports Football (US)-48673_front.jpg</Image>
+				<Image>Brutal Sports Football (US)-48673_back.jpg</Image>
+				<Image>Brutal Sports Football (US)-48673_side.jpg</Image>
+				<Image>Brutal Sports Football (US)-48673_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Bubsy in Fractured Furry Tales" URL="/jaguar/586877-bubsy-in-fractured-furry-tales">
+		<Description>Only Bubsy can protect the world's kids from these silly stories and tangled-up tales as he leaps and bounds his way through 15 frantic chapters of fabulous furry fun. In Fairytaleland, Bubsy attends a twisted tea party, climbs a giant beanstalk, voyages under the sea (without getting his paws wet), head to Ali Baba's desert and even meets Hansel and Gretel, who should be up on kidnapping charges.</Description>
+		<UserRating>1.81 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.2 hours</Length>
+		<Developer>Imagitec Design, Inc.</Developer>
+		<Franchise>Bubsy</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Bubsy in Fractured Furry Tales" region="US">
+			<ReleasePublisher>Accolade</ReleasePublisher>
+			<ReleaseProductID>J9020E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bubsy in Fractured Furry Tales (US)-48674_front.jpg</Image>
+				<Image>Bubsy in Fractured Furry Tales (US)-48674_back.jpg</Image>
+				<Image>Bubsy in Fractured Furry Tales (US)-48674_side.jpg</Image>
+				<Image>Bubsy in Fractured Furry Tales (US)-48674_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Cannon Fodder" URL="/jaguar/586878-cannon-fodder">
+		<Description>"Don't wait 'til you see the whites of their eyes...
+Don't kid yourself it will be over by Christmas...
+Don't try to shut out the screams...
+And don't forget to wash your hands afterwards..."</Description>
+		<UserRating>3.69 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>21 hours</Length>
+		<Developer>Sensible Software</Developer>
+		<Franchise>Cannon Fodder</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cannon Fodder" region="US">
+			<ReleasePublisher>Virgin Interactive</ReleasePublisher>
+			<ReleaseProductID>02763-00162</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cannon Fodder (US)-23890_front.jpg</Image>
+				<Image>Cannon Fodder (US)-23890_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Checkered Flag" URL="/jaguar/586879-checkered-flag">
+		<Description>Get ready to burn rubber! Race for the Checkered Flag behind the wheel of a turbo-powered speedway racer in real-time, 3D-rendered action. Choose from 10 high-performance tracks and see the speedway from 6 distinct views. Alter features and attributes on your racer to improve your times or even change the weather conditions. Action is so intense and realistic you'll swear you feel the wind in your hair as your tires screech around the curves. Keep your sweaty palms on the controller!</Description>
+		<UserRating>2.40 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>22.3 hours</Length>
+		<Developer>Rebellion</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Checkered Flag" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9007E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Checkered Flag (US)-48675_front.jpg</Image>
+				<Image>Checkered Flag (US)-48675_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Club Drive" URL="/jaguar/586880-club-drive">
+		<Description>Sure, you've always wanted to blaze down the streets of San Francisco in a souped-up hot rod, just like in those action movies. But have you ever wanted to scramble across the living room floor playing tag in a minature racing car with a buddy? Or plow through an Old West town in a futuristic speed machine picking up randomly placed energy Powerballs? Strap in and join the 64-bit club!</Description>
+		<UserRating>2.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>Atari</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Club Drive" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>J9003E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Club Drive (US)-48676_front.jpg</Image>
+				<Image>Club Drive (US)-48676_back.jpg</Image>
+				<Image>Club Drive (US)-48676_side.jpg</Image>
+				<Image>Club Drive (US)-48676_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Cybermorph" URL="/jaguar/586881-cybermorph">
+		<Description>Cybermorph is a Simulation game, developed by Attention To Detail and published by Atari,  which was released in 1993.</Description>
+		<UserRating>2.28 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.6 hours</Length>
+		<Developer>Attention To Detail</Developer>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="Cybermorph" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>J9000</ReleaseProductID>
+			<ReleaseBarCode>077000400086</ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cybermorph (US)-48677_front.jpg</Image>
+				<Image>Cybermorph (US)-48677_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Defender 2000" URL="/jaguar/586882-defender-2000">
+		<Description>You whomped the aliens from the Alpha Proximian Empire in classic Defender and sent them home to cry. Now they want the planets that Earth is mining for desperately needed, life-sustaining minerals. Your job is to protect the space miners as they perform their vital work. The aliens will try to capture them and use their life-energy to turn their ships into hyper-fast mutants. Rescure the captives and destroy the aliens or Earth is history!</Description>
+		<UserRating>3.68 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>11 hours</Length>
+		<Developer>Atari</Developer>
+		<Franchise>Defender</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Defender 2000" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9041E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Defender 2000 (US)-48678_front.jpg</Image>
+				<Image>Defender 2000 (US)-48678_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Doom" URL="/jaguar/563365-doom">
+		<Description>From outside the base you hear the carnage: guns firing, men screaming, bones cracking...then silence. Suddenly you're the last surviving marine thrust into a bloody, gore-ridden underworld 50 million miles into the future. It's Doom to the 64th power with 16-bit true color, advanced lighting effects...and some new parts of Hell you'll wish we didn't include in this version.</Description>
+		<UserRating>3.97 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>16.9 hours</Length>
+		<Developer>id Software</Developer>
+		<Franchise>Doom</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Doom" region="JP">
+			<ReleasePublisher>Mumin Corp.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/21/94</ReleaseDate>
+		</Release>
+		<Release name="Doom" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9029E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/28/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Doom (US)-3050_front.jpg</Image>
+				<Image>Doom (US)-3050_back.jpg</Image>
+				<Image>Doom (US)-3050_side.jpg</Image>
+				<Image>Doom (US)-3050_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Double Dragon V: The Shadow Falls" URL="/jaguar/586883-double-dragon-v-the-shadow-falls">
+		<Description>Double Dragon V: The Shadow Falls! Featuring 12 big lightning-fast characters! Four to six special moves for each fighter! Set your own strength, defense and more. Three different fighting modes. Secret moves and codes! Customizable controls. Unique final moves. Hot rock music tracks and 130+ sound effects!</Description>
+		<UserRating>1.96 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.5 hours</Length>
+		<Developer>Leland Interactive Media</Developer>
+		<Franchise>Double Dragon</Franchise>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Double Dragon V: The Shadow Falls" region="US">
+			<ReleasePublisher>Tradewest</ReleasePublisher>
+			<ReleaseProductID>21941</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Double Dragon V The Shadow Falls (US)-48679_front.jpg</Image>
+				<Image>Double Dragon V The Shadow Falls (US)-48679_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Dragon: The Bruce Lee Story" URL="/jaguar/586884-dragon-the-bruce-lee-story">
+		<Description>The spirit of martial arts Master Bruce Lee lives on in DRAGON: a dangerously life-like combat simulation based on his biographical film. Apply discipline and a devastating array of age-old fighting techniques to subdue opponents more cunning than the real Bruce Lee ever faced. Unite your spiritual and physical strength to confront The Phantom, the mythical samurai which has plagued your thoughts and dreams, in a jeet kune do duel to the death!</Description>
+		<UserRating>1.79 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Virgin Interactive</Developer>
+		<Franchise>Bruce Lee</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Dragon: The Bruce Lee Story" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9036E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/01/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dragon The Bruce Lee Story (US)-31003_front.jpg</Image>
+				<Image>Dragon The Bruce Lee Story (US)-31003_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Elansar" URL="/jaguar/727733-elansar">
+		<Description>Elansar is an Adventure game, developed by onorisoft and published by RGCD,  which was released in Europe in 2013.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>onorisoft</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Elansar" region="EU">
+			<ReleasePublisher>RGCD</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 2013</ReleaseDate>
+			<ReleaseImages>
+				<Image>Elansar (EU)-288317_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Evolution: Dino Dudes" URL="/jaguar/586886-evolution-dino-dudes">
+		<Description>"Just what the heck are HUMANS?... and what are they doing in a video game anyhow?" We know... we've heard it before, they're strange... they're ugly... they're stupid. But there's more to these HUMANS than meets the eye, for inside each and every one of them is a small but usable brain. Working as a team and discovering new tools is the key to survival in this cruel world of chaos and carnivores. It's an action-filled race against time, where you score points by finishing levels with as many of your tribesmen intact as HUMAN-ly possible (which isn't that easy when it comes down to survival of the fittest). With Gametek's Sega Genesis version of HUMANS, the only missing link is you!</Description>
+		<UserRating>1.73 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Imagitec Design, Inc.</Developer>
+		<Franchise>The Humans</Franchise>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Evolution: Dino Dudes" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>J9006</ReleaseProductID>
+			<ReleaseBarCode>077000400109</ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Evolution Dino Dudes (US)-48680_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Fever Pitch Soccer" URL="/jaguar/586887-fever-pitch-soccer">
+		<Description>Create a killer game plan and take on over 50 of the world's top soccer teams. Dribble, pass and kick your way down the field and take your best shot on goal. Wathc out for the star players - they're extra tough! Block, steal, even slide tackle and rough up the other team, but try to avoid the foul. Check the instant replay and devise your next attack. The clock's ticking!</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.6 hours</Length>
+		<Developer>Distinctive Developments Ltd</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Fever Pitch Soccer" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9106E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>December 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fever Pitch Soccer (US)-48681_front.jpg</Image>
+				<Image>Fever Pitch Soccer (US)-48681_back.jpg</Image>
+				<Image>Fever Pitch Soccer (US)-48681_side.jpg</Image>
+				<Image>Fever Pitch Soccer (US)-48681_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Fight For Life" URL="/jaguar/586888-fight-for-life">
+		<Description>Life in the afterlife can be a nightmare for anybody -- especially if real life was a mess. In the Spectre Zone, eight people compete in the annual Hell Fighting Tournament for the amusement of the Gatekeeper. The prize is a second chance at life! Defeat each opponent and steal two of their special fighting moves to prepare for the final challenge -- a battle against the son of the devil himself. Show no mercy. There will be only one victor, only one new life... it must be yours!</Description>
+		<UserRating>1.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.2 hours</Length>
+		<Developer>Atari</Developer>
+		<Genre>Action &gt; Fighting &gt; 3D</Genre>
+		<Release name="Fight For Life" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/15/96</ReleaseDate>
+		</Release>
+		<Release name="Fight For Life" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9037E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Fight For Life (US)-48682_front.jpg</Image>
+				<Image>Fight For Life (US)-48682_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Flashback" URL="/jaguar/586889-flashback-the-quest-for-identity">
+		<Description>You're Conrad B. Hart, Galaxis Bureau of Investigation Agent and right now you're stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans.</Description>
+		<UserRating>4.08 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>34 hours</Length>
+		<AKA>Flashback (US)</AKA>
+		<Developer>Delphine Software International</Developer>
+		<Franchise>Flashback</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Flashback" region="US">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID>43175-79126</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flashback (US)-25911_front.jpg</Image>
+				<Image>Flashback (US)-25911_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Flashback: The Quest for Identity" URL="/jaguar/586889-flashback-the-quest-for-identity">
+		<Description>You're Conrad B. Hart, Galaxis Bureau of Investigation Agent and right now you're stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans.</Description>
+		<UserRating>4.08 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>34 hours</Length>
+		<AKA>Flashback (US)</AKA>
+		<Developer>Delphine Software International</Developer>
+		<Franchise>Flashback</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Flashback" region="US">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID>43175-79126</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flashback (US)-25911_front.jpg</Image>
+				<Image>Flashback (US)-25911_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Flip Out!" URL="/jaguar/586890-flip-out">
+		<Description>Congratulations Earthling! The Citizens of Planet Phrohmaj have invited you to join their Great Tile Flipping Festival, an honor of the highest sort. Tile flipping influences their customs, their eating habits, and even their vacations. Solve maddening puzzles while watching for the mishievous aliens who think confusing you is part of the fun. If they weren't so cute you'd wring their necks...if they had them.</Description>
+		<UserRating>3.28 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Gorilla Systems</Developer>
+		<Genre>Puzzle &gt; Matching</Genre>
+		<Release name="Flip Out!" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>J9040E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Flip Out! (US)-48684_front.jpg</Image>
+				<Image>Flip Out! (US)-48684_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Hover Strike" URL="/jaguar/586891-hover-strike">
+		<Description>You fear the worst for the missing colonists. Terrakian Pirates have taken over the distant planet, with their deadly machines patrolling every section of the surface.
+The Federation has chosen you to launch a preemptive strike. Your vehicle is a state-of-the-art armored hovercraft, equipped with rapid fire cannon and powerful missiles. Anti-grav units enable it to float over any terrain. Battle through 30 fully texture-mapped 3D levels, including Night Vision missions. Knock out k ey targets and make way for the Federation armada. Save the colony before it's too late!</Description>
+		<UserRating>2.82 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.4 hours</Length>
+		<Developer>Atari</Developer>
+		<Genre>Simulation &gt; Vehicle &gt; Combat</Genre>
+		<Release name="Hover Strike" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>J9009E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hover Strike (US)-48685_front.jpg</Image>
+				<Image>Hover Strike (US)-48685_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Hyper Force" URL="/jaguar/917838-hyper-force">
+		<Description>Trans Con is decimating world after world in search of enough resources and wealth to launch an attack against the Terran High Command. The politicians don't want a direct confrontation that might hurt their corporate sponsors. So, the Interstellar Special Forces has been called in to send a lone warrior to eliminate the Trans Con threat.</Description>
+		<UserRating>2.13 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.7 hours</Length>
+		<Developer>Visual Impact</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Hyper Force" region="US">
+			<ReleasePublisher>Songbird Productions</ReleasePublisher>
+			<ReleaseProductID>CF3003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/10/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hyper Force (US)-56220_front.jpg</Image>
+				<Image>Hyper Force (US)-56220_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="I-War" URL="/jaguar/586894-i-war">
+		<Description>Everyone's worst fears have come true. The supercomputer that handles the world's information is filled with mutated databases and lethal viruses. You must enter the I-Way, clear the clogged channels and restore the system. Choose an anti-virus craft to get you through the vicious attacks, challenging puzzles and tormenting mazes. And good luck. You are mankind's only hope.</Description>
+		<UserRating>3.35 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.4 hours</Length>
+		<Developer>Imagitec Design, Inc.</Developer>
+		<Genre>Simulation &gt; Vehicle &gt; Combat</Genre>
+		<Release name="I-War" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/15/95</ReleaseDate>
+		</Release>
+		<Release name="I-War" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9043E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>I-War (US)-48687_front.jpg</Image>
+				<Image>I-War (US)-48687_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="International Sensible Soccer" URL="/jaguar/918759-international-sensible-soccer">
+		<Description>All the magic of the most addictive and playable soccer simulation ever, plus the excitement of the 1994 World Cup Competition! Features same gameplay as highly successful original game with fully accurate team and player information (including first and second strip) and all relevant competition group data. Play out your own scenarios with fully editable teams, or give a second chance to the ones who failed to qualify for the real thing.</Description>
+		<UserRating>1.56 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>3.5 hours</Length>
+		<Developer>Williams</Developer>
+		<Franchise>Sensible Soccer</Franchise>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="International Sensible Soccer" region="US">
+			<ReleasePublisher>Telegames</ReleasePublisher>
+			<ReleaseProductID>JA250</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>International Sensible Soccer (US)-57061_front.jpg</Image>
+				<Image>International Sensible Soccer (US)-57061_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Iron Soldier" URL="/jaguar/586893-iron-soldier">
+		<Description>The Iron Soldier, or I.S., is a 42 foot tall piloted robot that has been stolen from the Iron Fist Corporation by a bunch of rebels. They want you to pilot it. Arm yourself with a giant Assault Rifle, Oil-drop sized Hand Grenades, or other massive weapons. Use them to stop the evil Machinations of the Iron Fist Corporation. Sixteen different missions -- each with a new city to tromp through and a new objective to complete. Capture new weapons. Destroy enemy I.S. units in melee combat. Blast helicopters and step on tanks.</Description>
+		<UserRating>3.43 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Eclipse Software</Developer>
+		<Franchise>Iron Soldier</Franchise>
+		<Genre>Simulation &gt; Vehicle &gt; Combat</Genre>
+		<Release name="Iron Soldier" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9026E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Iron Soldier (US)-48686_front.jpg</Image>
+				<Image>Iron Soldier (US)-48686_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Iron Soldier 2" URL="/jaguar/917839-iron-soldier-2">
+		<Description>Pilot your 42 foot mech robot through 20 new missions against the evil Penta Forces.
+Dramatically enhanced 3-D graphics create a virtual battlefield with was waged in all 360 degrees. Outfit your Iron Soldier with combinations of 12 weapons systems and begin your fight.
+With full motion video, driving soundtracks, and realistic SFX in stereo or surround sound, this product will set new standards for your gaming experience.</Description>
+		<UserRating>3.72 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>9 hours</Length>
+		<Developer>Eclipse Software</Developer>
+		<Franchise>Iron Soldier</Franchise>
+		<Genre>Simulation &gt; Vehicle &gt; Combat</Genre>
+		<Release name="Iron Soldier 2" region="US">
+			<ReleasePublisher>Telegames</ReleasePublisher>
+			<ReleaseProductID>JA910</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>December 1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Iron Soldier 2 (US)-55414_front.jpg</Image>
+				<Image>Iron Soldier 2 (US)-55414_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Jaguar" URL="/jaguar/915842-jaguar">
+		<Description>Jaguar is a Hardware game, developed and published by Atari,  which was released in 1993.</Description>
+		<UserRating>3.15 / 5</UserRating>
+		<AKA>Jaguar Hardware (US, JP, EU)</AKA>
+		<Developer>Atari</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Jaguar Hardware" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/15/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jaguar Hardware (US)-307549_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Jaguar Hardware" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/27/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jaguar Hardware (EU)-307552_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Jaguar Hardware" region="JP">
+			<ReleasePublisher>Mumin Corp.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/21/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jaguar Hardware (JP)-307551_front.jpg</Image>
+				<Image>Jaguar Hardware (JP)-307551_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Jaguar Hardware" URL="/jaguar/915842-jaguar">
+		<Description>Jaguar is a Hardware game, developed and published by Atari,  which was released in 1993.</Description>
+		<UserRating>3.15 / 5</UserRating>
+		<AKA>Jaguar Hardware (US, JP, EU)</AKA>
+		<Developer>Atari</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Jaguar Hardware" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/15/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jaguar Hardware (US)-307549_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Jaguar Hardware" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/27/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jaguar Hardware (EU)-307552_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Jaguar Hardware" region="JP">
+			<ReleasePublisher>Mumin Corp.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/21/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jaguar Hardware (JP)-307551_front.jpg</Image>
+				<Image>Jaguar Hardware (JP)-307551_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Kasumi Ninja" URL="/jaguar/586895-kasumi-ninja">
+		<Description>Stop the Evil Ninja Lord Gyaku from opening the Dragon Cloud temple's portal to Hell and unleashing his demon minions upon Kasumi Island and the world. Battle it out in this bloody brawler in 1 Player Story mode or Two Player versus mode as one of the 8 all-time greatest warrior-fighters. Gain fighting skill and master special moves from bout to bout as you journey through the Underground Labyrinth to the Dragon Cloud temple where you'll face your ultimate opponent: the Evil Ninja Lord Gyaku himself!</Description>
+		<UserRating>1.83 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>5.3 hours</Length>
+		<Developer>Atari Games (Midway)</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Kasumi Ninja" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9012E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kasumi Ninja (US)-48691_front.jpg</Image>
+				<Image>Kasumi Ninja (US)-48691_back.jpg</Image>
+				<Image>Kasumi Ninja (US)-48691_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Missile Command 3D" URL="/jaguar/586896-missile-command-3d">
+		<Description>Missile Command 3D is an Action game, developed by Atari Games (Midway) and published by Atari,  which was released in Europe in 1995.</Description>
+		<UserRating>3.71 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>5.2 hours</Length>
+		<Developer>Atari Games (Midway)</Developer>
+		<Franchise>Missile Command</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Missile Command 3D" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/15/95</ReleaseDate>
+		</Release>
+		<Release name="Missile Command 3D" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9097E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Missile Command 3D (US)-48689_front.jpg</Image>
+				<Image>Missile Command 3D (US)-48689_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="NBA Jam Tournament Edition" URL="/jaguar/586898-nba-jam-tournament-edition">
+		<Description>Your state-of-the-art system demands a state-of-the-art NBA® JAM TE -- and this is it! Arcade-quality player scaling! Updated player rosters! Want more? We've got all-new secret characters! Monster-jamming stereo music and authentic arcade sound F/X -- including voice calls for individual players!</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10.8 hours</Length>
+		<Developer>High Voltage Software</Developer>
+		<Franchise>NBA Jam</Franchise>
+		<Genre>Sports &gt; Team &gt; Basketball &gt; Arcade</Genre>
+		<Release name="NBA Jam Tournament Edition" region="EU">
+			<ReleasePublisher>Acclaim</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/15/95</ReleaseDate>
+		</Release>
+		<Release name="NBA Jam Tournament Edition" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9089E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>NBA Jam Tournament Edition (US)-11162_front.jpg</Image>
+				<Image>NBA Jam Tournament Edition (US)-11162_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Phase Zero" URL="/jaguar/605335-phase-zero">
+		<Description>Phase Zero is an Action game, developed by Hyper Image and published by Atari,  which was cancelled before it was released.</Description>
+		<Developer>Hyper Image</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Phase Zero" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+			<ReleaseImages>
+				<Image>Phase Zero (US)-162780_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Pinball Fantasies" URL="/jaguar/586899-pinball-fantasies">
+		<Description>Turn your Jaguar into the ultimate amusement arcade with Pinball Fantasies - the greatest pinball simulator ever. This classic game offers four scorchingly addictive tables with the most realistic ball movement you'll ever seen in a video game. If you're looking for instant playability, speed and excitement, Pinball Fantasies is the game for you.</Description>
+		<UserRating>3.68 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>21st Century Entertainment</Developer>
+		<Franchise>Pinball Dreams</Franchise>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pinball Fantasies" region="US">
+			<ReleasePublisher>21st Century Entertainment</ReleasePublisher>
+			<ReleaseProductID>J0144E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pinball Fantasies (US)-39490_front.jpg</Image>
+				<Image>Pinball Fantasies (US)-39490_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Pitfall: The Mayan Adventure" URL="/jaguar/586900-pitfall-the-mayan-adventure">
+		<Description>Pitfall Harry has been captured by the dreaded warrior spirit, Zakelua: Lord of Evil. You, young Harry Jr., must venture into the unknown, armed with only your trusty sling and your father's journal, to attempt his rescue. Keep your eyes peeled for objects that might help you as you sneak through the Mayan jungle.</Description>
+		<UserRating>3.46 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.3 hours</Length>
+		<Developer>Activision</Developer>
+		<Franchise>Pitfall</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Pitfall: The Mayan Adventure" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9101E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pitfall The Mayan Adventure (US)-11074_front.jpg</Image>
+				<Image>Pitfall The Mayan Adventure (US)-11074_back.jpg</Image>
+				<Image>Pitfall The Mayan Adventure (US)-11074_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Power Drive Rally" URL="/jaguar/586901-power-drive-rally">
+		<Description>Fueled by a nitro-burning, 64-bit graphics engine, PowerDrive Rally delivers the sights, sounds and the chaotic intensity of pure Rally racing. You'll actually see the skid marks and icicles fly as you tear across the Italian countryside. Hear the gears grind and your navigator sneer as you rip through the Arizona desert. Feel the heart palpitations and adrenaline overload as you bury the needle along the dust-choked African plains.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>11 hours</Length>
+		<Developer>Time Warner Interactive</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Power Drive Rally" region="US">
+			<ReleasePublisher>Time Warner Interactive</ReleasePublisher>
+			<ReleaseProductID>31763-11153</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Power Drive Rally (US)-48692_front.jpg</Image>
+				<Image>Power Drive Rally (US)-48692_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Power Drive Rally" region="EU">
+			<ReleasePublisher>Time Warner Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Power Drive Rally (EU)-48693_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Protector" URL="/jaguar/581108-protector">
+		<Description>A swarm of ravenous alien ships has arrived in our solar system, and all-out war has resulted. Fortunately, we were not unprepared, but it will be a long and sordid fight.
+Meanwhile, the poor inhabitants of the orbiting planetoid known as Haven-7 are left on their own, with only one ship spared for their defense. You must repel the invaders and protect the inhabitants of Haven-7!</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.9 hours</Length>
+		<Developer>Bethesda Softworks</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Protector" region="US">
+			<ReleasePublisher>Songbird Productions</ReleasePublisher>
+			<ReleaseProductID>CF3004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/20/99</ReleaseDate>
+			<ReleaseImages>
+				<Image>Protector (US)-42844_front.jpg</Image>
+				<Image>Protector (US)-42844_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Protector (SE)" region="US">
+			<ReleasePublisher>Songbird Productions</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2000</ReleaseDate>
+			<ReleaseImages>
+				<Image>Protector (SE) (US)-42845_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Protector Special Edition" URL="/jaguar/926382-protector-special-edition">
+		<Description>You are the sole protector of Haven-7! A swarm of ravenous alien ships has arrived in our solar system, and all-out war has resulted. Fortunately, we were not unprepared, but it will be a long and sordid fight. Meanwhile, the poor inhabitants of the orbiting planetoid known as Haven-7 are left on their own, with only one ship spared for their defense. You must repel the invaders and protect the inhabitants of Haven-7!</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>46 hours</Length>
+		<Developer>Songbird Productions</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Protector Special Edition" region="US">
+			<ReleasePublisher>Songbird Productions</ReleasePublisher>
+			<ReleaseProductID>CF3004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/10/02</ReleaseDate>
+			<ReleaseImages>
+				<Image>Protector Special Edition (US)-320114_front.jpg</Image>
+				<Image>Protector Special Edition (US)-320114_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Raiden" URL="/jaguar/586902-raiden">
+		<Description>Mother Earth has fallen to deranged aliens. Now, as pilot of the Raiden Supersonic Attack Fighter, you must rip through enemy lines and mount a daring counterattack...in Raiden, the ultimate arcade game conversion. Showcasing the Atari Jaguar's 64-bit capabilities, Raiden enhances the vertical-shooter excitement of an all-time arcade favorite with brilliant sounds and exceptional speed and motion.</Description>
+		<UserRating>3.65 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.8 hours</Length>
+		<Developer>Imagitec Design, Inc.</Developer>
+		<Franchise>Raiden</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Raiden" region="US">
+			<ReleasePublisher>Fabtek</ReleasePublisher>
+			<ReleaseProductID>J9005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Raiden (US)-44811_front.jpg</Image>
+				<Image>Raiden (US)-44811_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Rayman" URL="/jaguar/586903-rayman">
+		<Description>This classic, award-winning platformer is the first game in the Rayman series. The original Rayman, a critically -acclaimed platforming adventure, is now available on Nintendo 3DS Known for its groundbreaking animation and music, Rayman is a game that stands the test of time. One fateful day in the Glade of Dreams, the evil Mr. Dark threatens the world and traps the Electoons. It is up to Rayman to free them and defeat the evil forces. Explore six unique worlds and play through more than 70 levels of platforming madness. Face menacing enemies and epic boss battles. The game is fun for all but difficult to defeat.</Description>
+		<UserRating>4.08 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>13.3 hours</Length>
+		<Developer>Ubisoft</Developer>
+		<Franchise>Rayman</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Rayman" region="US">
+			<ReleasePublisher>Ubisoft</ReleasePublisher>
+			<ReleaseProductID>C3669T</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rayman (US)-6519_front.jpg</Image>
+				<Image>Rayman (US)-6519_back.jpg</Image>
+				<Image>Rayman (US)-6519_side.jpg</Image>
+				<Image>Rayman (US)-6519_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Ruiner Pinball" URL="/jaguar/586904-ruiner-pinball">
+		<Description>Ruiner Pinball is two fantastic games in one! In Ruiner, a double-wide table provides challenging gameplay and real classic arcade feel as you strive to defend your country from a foreign attack and prepare a strike of your own. In Tower, the triple-length table is so eerie you'll think you've descended into Hell. The Sorceress and her wicked minions are after you. Casting three spells will bring the tower crashing down, but can you figure them out before it's too late!</Description>
+		<UserRating>3.40 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.7 hours</Length>
+		<Developer>High Voltage Software</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Ruiner Pinball" region="EU">
+			<ReleasePublisher>High Voltage Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/15/95</ReleaseDate>
+		</Release>
+		<Release name="Ruiner Pinball" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9061E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ruiner Pinball (US)-48694_front.jpg</Image>
+				<Image>Ruiner Pinball (US)-48694_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="SkyHammer" URL="/jaguar/565763-skyhammer">
+		<Description>Early in the 21st century, cyberspace was declared the legal equivalent of hardspace. In 2012, anarchist hackers injected a virus into the computerized world, and chaos erupted on a global scale. Soon citizens were forced to choose the slavery of corporate contract, or the risks of living beyong the law.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>80+ hours</Length>
+		<Developer>Rebellion</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="SkyHammer" region="US">
+			<ReleasePublisher>Songbird Productions</ReleasePublisher>
+			<ReleaseProductID>CF3001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2000</ReleaseDate>
+			<ReleaseImages>
+				<Image>SkyHammer (US)-27060_front.jpg</Image>
+				<Image>SkyHammer (US)-27060_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Soccer Kid" URL="/jaguar/917840-soccer-kid">
+		<Description>Double Disaster!! In a collision with an asteroid the trophy is smashed into five pieces and scattered around the globe. Join Soccer Kid in his quest to recover and reassemble the World Cup. His un-ballievable ball skills are put to the test like never before. It's awesome arcade action all the way with a blistering soundtrack to match.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Soccer Kid" region="US">
+			<ReleasePublisher>Songbird Productions</ReleasePublisher>
+			<ReleaseProductID>CF3002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>02/07/00</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer Kid (US)-19133_front.jpg</Image>
+				<Image>Soccer Kid (US)-19133_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="SpaceWar 2000" URL="/jaguar/565991-spacewar-2000">
+		<Description>SpaceWar 2000 is a Simulation game, published by Atari,  which was released in 2001.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Atari</Developer>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="SpaceWar 2000" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2001</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Super Burnout" URL="/jaguar/586905-super-burnout">
+		<Description>This game will get your adrenaline pumping and pin you to your seat with its 'G' force. As you lean into the first bend you'll feel like you're really there.</Description>
+		<UserRating>3.57 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>22.3 hours</Length>
+		<Developer>Shen</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Super Burnout" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9052E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Burnout (US)-48698_front.jpg</Image>
+				<Image>Super Burnout (US)-48698_back.jpg</Image>
+				<Image>Super Burnout (US)-48698_side.jpg</Image>
+				<Image>Super Burnout (US)-48698_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Supercross 3D" URL="/jaguar/586906-supercross-3d">
+		<Description>Five...four...three...two...one... Go for it! Jump off the start and go freight training into the first corner with seven other riders. Try to do nac nacs and one handers off the jumps to grab the crowd's attention. If you're up for shooting the curves and hitting the whoops full speed ahead, you could be championship material. Practice hard enough, and you could find yourself leading the pack on the Supercross tournament circuit.</Description>
+		<UserRating>1.65 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.5 hours</Length>
+		<Developer>Tiertex Design Studios</Developer>
+		<Franchise>Supercross</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Other</Genre>
+		<Release name="Supercross 3D" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/20/95</ReleaseDate>
+		</Release>
+		<Release name="Supercross 3D" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9044E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>December 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Supercross 3D (US)-48696_front.jpg</Image>
+				<Image>Supercross 3D (US)-48696_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Syndicate" URL="/jaguar/586907-syndicate">
+		<Description>A rival Syndicate has gained full control of the population via a mind-altering techno-drug known as the CHIP.
+You are an ambitious executive in the Syndicate, hand picked to lead a team of CHIP-induced Cyborg mercenaries on a quest to infiltrate and seize opposing Syndicate territories. Your mission: Assassinate, pillage, destroy, do whatever it takes to bring down competing Agents... before they unleash their bloody assault on you!</Description>
+		<UserRating>3.55 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>24 hours</Length>
+		<Developer>Bullfrog Productions</Developer>
+		<Franchise>Syndicate</Franchise>
+		<Genre>Strategy &gt; Real-Time &gt; General</Genre>
+		<Release name="Syndicate" region="US">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID>8002-SYNJAG</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Syndicate (US)-23946_front.jpg</Image>
+				<Image>Syndicate (US)-23946_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Tempest 2000" URL="/jaguar/586908-tempest-2000">
+		<Description>It's been 15 years since you first took the controls of your blaster ship and fried the aliens attacking your end of the web in the original Tempest™. Now you're back--this time with more firepower. Tricks up your sleeve, a trusty A.I. droid, and a slew of new enemies who want nothing more than to convert you into space dust. Dazzling special effects set to a techno-rave soundtrack keep this 3D-style galactic battlefield fast-paced and quite deadly.</Description>
+		<UserRating>4.24 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>18.3 hours</Length>
+		<Developer>Llamasoft</Developer>
+		<Franchise>Space Giraffe</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Tempest 2000" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>J9010E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/01/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tempest 2000 (US)-48701_front.jpg</Image>
+				<Image>Tempest 2000 (US)-48701_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Theme Park" URL="/jaguar/586909-theme-park">
+		<Description>Now you're ready to design and operate your own amusement park. You choose the location, hire the staff, build and repair the rides, manage the cash flow, even decide how much salt to put on the french fries. But make your decisions wisely...there's nothing like a broken Ferris Wheel to turn your customers into an army of marciless vandals.</Description>
+		<UserRating>3.71 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>9.2 hours</Length>
+		<Developer>Bullfrog Productions</Developer>
+		<Franchise>Theme Park</Franchise>
+		<Genre>Strategy &gt; Management &gt; Business / Tycoon</Genre>
+		<Release name="Theme Park" region="US">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID>8001-TPKJAG</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Theme Park (US)-21659_front.jpg</Image>
+				<Image>Theme Park (US)-21659_back.jpg</Image>
+				<Image>Theme Park (US)-21659_side.jpg</Image>
+				<Image>Theme Park (US)-21659_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Total Carnage" URL="/jaguar/931103-total-carnage">
+		<Description>Total Carnage is an Action game, developed and published by Songbird Productions,  which was released in 2005.</Description>
+		<UserRating>2.42 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Songbird Productions</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Total Carnage" region="US">
+			<ReleasePublisher>Songbird Productions</ReleasePublisher>
+			<ReleaseProductID>CF3006</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2005</ReleaseDate>
+			<ReleaseImages>
+				<Image>Total Carnage (US)-320907_front.jpg</Image>
+				<Image>Total Carnage (US)-320907_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Towers II" URL="/jaguar/586910-towers-ii">
+		<Description>Become one of four different characters as you are immersed within the strange happenings in the mystical land of Lamini.  You must uncover the secrets as you explore Daggan's tower.  Many before you have tried, but none have returned.  First person perspective, full screen smooth scrolling, talk to others, refer to maps, collect 100's of items, encounter 100's of creatures, experience challenges in combat and spell casting.  Hours and hours of entertainment with appropriate save features.</Description>
+		<UserRating>3.30 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.7 hours</Length>
+		<AKA>Towers II: Plight of the Stargazer (US)</AKA>
+		<Developer>JV Games Inc.</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="Towers II: Plight of the Stargazer" region="US">
+			<ReleasePublisher>Telegames</ReleasePublisher>
+			<ReleaseProductID>JA256</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/01/96</ReleaseDate>
+			<ReleaseImages>
+				<Image>Towers II Plight of the Stargazer (US)-48699_front.jpg</Image>
+				<Image>Towers II Plight of the Stargazer (US)-48699_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Towers II: Plight of the Stargazer" URL="/jaguar/586910-towers-ii">
+		<Description>Become one of four different characters as you are immersed within the strange happenings in the mystical land of Lamini.  You must uncover the secrets as you explore Daggan's tower.  Many before you have tried, but none have returned.  First person perspective, full screen smooth scrolling, talk to others, refer to maps, collect 100's of items, encounter 100's of creatures, experience challenges in combat and spell casting.  Hours and hours of entertainment with appropriate save features.</Description>
+		<UserRating>3.30 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.7 hours</Length>
+		<AKA>Towers II: Plight of the Stargazer (US)</AKA>
+		<Developer>JV Games Inc.</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="Towers II: Plight of the Stargazer" region="US">
+			<ReleasePublisher>Telegames</ReleasePublisher>
+			<ReleaseProductID>JA256</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/01/96</ReleaseDate>
+			<ReleaseImages>
+				<Image>Towers II Plight of the Stargazer (US)-48699_front.jpg</Image>
+				<Image>Towers II Plight of the Stargazer (US)-48699_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Trevor McFur in the Crescent Galaxy" URL="/jaguar/586911-trevor-mcfur-in-the-crescent-galaxy">
+		<Description>"Attention all Circle Reserve units. The Crescent Galaxy has fallen..." Now it's up to you and your comrade Cutter to return the planet Cosmolite to its citizens. You'll face killer Starbots, deadly Gundinos and savage Cyber Cherubs--the most formidable opponents this side of the universe. Rapid 3D rendering will make your interplanetary struggle as memorable as any Hollywood space adventure.</Description>
+		<UserRating>2.45 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.7 hours</Length>
+		<Developer>Atari Games (Midway)</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Trevor McFur in the Crescent Galaxy" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/01/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Trevor McFur in the Crescent Galaxy (US)-48702_front.jpg</Image>
+				<Image>Trevor McFur in the Crescent Galaxy (US)-48702_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Troy Aikman NFL Football" URL="/jaguar/586912-troy-aikman-nfl-football">
+		<Description>How would you like to have the best arm in football? You can... all 28 NFL teams. Over 100 real offensive plays and over 50 defensive plays. Battery back-up to save your stats. Design your own plays, team and your own season! Go head-to-head or be the coach. Super smooth animation and life-like stadium sound. Real weather conditions that affect your game play. Troy's a back-to-back Super Bowl champion quarterback. Can you be one?</Description>
+		<UserRating>3.08 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Telegames</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Sim</Genre>
+		<Release name="Troy Aikman NFL Football" region="US">
+			<ReleasePublisher>Williams</ReleasePublisher>
+			<ReleaseProductID>21942</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>02/01/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Troy Aikman NFL Football (US)-48321_front.jpg</Image>
+				<Image>Troy Aikman NFL Football (US)-48321_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Ultra Vortek" URL="/jaguar/586913-ultra-vortek">
+		<Description>Mankind must prove that it is worthy of the powers of the Ultra Vortek -- the eternal energy source for all life on Earth. Failure to meet this challenge will result in the Earth's destruction. Seven of the planet's mightiest warriors have been chosen to pit strength and cunning against the Guardian for complete control of the Ultra Vortek.</Description>
+		<UserRating>2.13 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Beyond Games</Developer>
+		<Genre>Action &gt; Fighting &gt; 2D</Genre>
+		<Release name="Ultra Vortek" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9082E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ultra Vortek (US)-48703_front.jpg</Image>
+				<Image>Ultra Vortek (US)-48703_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Val D'Isere Skiing and Snowboarding" URL="/jaguar/586914-val-disere-skiing-and-snowboarding">
+		<Description>Cut the slopes on some of the steepest mountainsides in SKIING AND SNOWBOARDING, a wild winter challenge where speed in guaranteed! Train and compete on the breathtaking slopes of France's world-famous Vald-Isère Ski Resort. Race against time and friends in slalom, giant slalom and downhill events.
+Watch out for trees, snowmobiles and sno-cats as you barrel down windswept mountainsides, black ice, and moguls.</Description>
+		<UserRating>2.45 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9 hours</Length>
+		<Developer>Atari Games (Midway)</Developer>
+		<Genre>Sports &gt; Individual &gt; Ski / Snowboard</Genre>
+		<Release name="Val D'Isere Skiing and Snowboarding" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9060E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Val D'Isere Skiing and Snowboarding (US)-48704_front.jpg</Image>
+				<Image>Val D'Isere Skiing and Snowboarding (US)-48704_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="White Men Can't Jump" URL="/jaguar/586915-white-men-cant-jump">
+		<Description>Are you ready for the most hyped up, monster jammin', bruisin' elbows, rebound snatchin', rim stuffin', skying over suckers, down your throat, money making game of street ball you never thought possible? Well, here it is, in your face, and it's time to get it on! Hit the courts with White Men Can't Jump!</Description>
+		<UserRating>1.27 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>High Voltage Software</Developer>
+		<Genre>Sports &gt; Team &gt; Basketball &gt; Arcade</Genre>
+		<Release name="White Men Can't Jump" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9070E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1995</ReleaseDate>
+			<ReleaseImages>
+				<Image>White Men Can't Jump (US)-48705_front.jpg</Image>
+				<Image>White Men Can't Jump (US)-48705_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Wolfenstein 3D" URL="/jaguar/586916-wolfenstein-3d">
+		<Description>Bring Down The Third Reich! 
+
+As the legendary William "B.J." Blazkowicz, you've been commissioned to rewrite history in a bloody 64-bit war zone filled with enough Nazi scum to keep you trigger-happy for weeks. Annihilate Der Fuerher's elite commando team, assasinate the diabolical Dr. Shabbs, capture the secret war plans, infiltrate Der Fuerher's bunker... and waste anyone and anything that gets in your way!</Description>
+		<UserRating>3.78 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12.7 hours</Length>
+		<Developer>id Software</Developer>
+		<Franchise>Wolfenstein</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Wolfenstein 3D" region="JP">
+			<ReleasePublisher>Mumin Corp.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/21/94</ReleaseDate>
+		</Release>
+		<Release name="Wolfenstein 3D" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9028</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wolfenstein 3D (US)-17011_front.jpg</Image>
+				<Image>Wolfenstein 3D (US)-17011_back.jpg</Image>
+				<Image>Wolfenstein 3D (US)-17011_side.jpg</Image>
+				<Image>Wolfenstein 3D (US)-17011_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Worms" URL="/jaguar/586917-worms">
+		<Description>Worms is an ultra-fast-paced game of team strategy for up to 16 players. It's a little bit "Lemmings™" and a lotta bit "Terminator™"... only more pink and squishy, with bazookas, homing missiles and cluster bombs blasting the screen in an unrelenting fury, only the moist can survive!</Description>
+		<UserRating>3.45 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7.2 hours</Length>
+		<Developer>Team 17</Developer>
+		<Franchise>Worms</Franchise>
+		<Genre>Strategy &gt; Turn-Based &gt; Artillery</Genre>
+		<Release name="Worms" region="US">
+			<ReleasePublisher>Telegames</ReleasePublisher>
+			<ReleaseProductID>JA103</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1998</ReleaseDate>
+			<ReleaseImages>
+				<Image>Worms (US)-48706_front.jpg</Image>
+				<Image>Worms (US)-48706_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Zero 5" URL="/jaguar/586918-zero-5">
+		<Description>Zero 5 is a futuristic space shooter set in a 3-D, 360 degree playfield. The year is 2044 and the battle for Earth has begun. On the far reaches of the galaxy, a massive invasion force is assembling. Scanners at DEFCON have alerted you to the alien threat. The Earth's best pilots are dispatched in their BAMBAM cruisers to engage the enemy.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Telegames</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Zero 5" region="US">
+			<ReleasePublisher>Telegames</ReleasePublisher>
+			<ReleaseProductID>J4011</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1997</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zero 5 (US)-48707_front.jpg</Image>
+				<Image>Zero 5 (US)-48707_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Zool 2" URL="/jaguar/586919-zool-2">
+		<Description>Zool 2 is an Action game, developed by Gremlin Interactive and published by Atari Games (Midway),  which was released in 1994.</Description>
+		<UserRating>3.35 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.6 hours</Length>
+		<Developer>Gremlin Interactive</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Zool 2" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9042E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zool 2 (US)-48708_front.jpg</Image>
+				<Image>Zool 2 (US)-48708_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Jaguar" name="Zoop" URL="/jaguar/586920-zoop">
+		<Description>Right here inside this cardboard box is the excitement you crave, the challenge you need. Level after level of brain-burning action coming at you from all sides, faster and faster until your thumbs are numb, your eyes are aching, and your mind is molten. Scorching four-way action! 99 levels of action! Demands strategic thinking.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Hookstone Productions</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Zoop" region="EU">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/20/95</ReleaseDate>
+		</Release>
+		<Release name="Zoop" region="US">
+			<ReleasePublisher>Atari Games (Midway)</ReleasePublisher>
+			<ReleaseProductID>J9109E</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>January 1996</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zoop (US)-9156_front.jpg</Image>
+				<Image>Zoop (US)-9156_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

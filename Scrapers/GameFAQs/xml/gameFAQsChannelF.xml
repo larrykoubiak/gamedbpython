@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Channel F" name="Channel F" URL="/channelf/916426-channel-f">
+		<Description>Channel F is a Hardware game, developed and published by Fairchild,  which was released in 1976.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<Developer>Fairchild</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Channel F Hardware" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID>FVE100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Channel F Hardware (US)-307864_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Video Entertainment System" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Video Entertainment System (US)-307866_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Channel F System II" region="US">
+			<ReleasePublisher>Zircon</ReleasePublisher>
+			<ReleaseProductID>FVE300</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Channel F System II (US)-307867_front.jpg</Image>
+				<Image>Channel F System II (US)-307867_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Channel F Hardware" URL="/channelf/916426-channel-f">
+		<Description>Channel F is a Hardware game, developed and published by Fairchild,  which was released in 1976.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<AKA>Channel F Hardware (US), Video Entertainment System (US), Channel F System II (US)</AKA>
+		<Developer>Fairchild</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Channel F Hardware" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID>FVE100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Channel F Hardware (US)-307864_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Video Entertainment System" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Video Entertainment System (US)-307866_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Channel F System II" region="US">
+			<ReleasePublisher>Zircon</ReleasePublisher>
+			<ReleaseProductID>FVE300</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Channel F System II (US)-307867_front.jpg</Image>
+				<Image>Channel F System II (US)-307867_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Channel F System II" URL="/channelf/916426-channel-f">
+		<Description>Channel F is a Hardware game, developed and published by Fairchild,  which was released in 1976.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<AKA>Channel F Hardware (US), Video Entertainment System (US), Channel F System II (US)</AKA>
+		<Developer>Fairchild</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Channel F Hardware" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID>FVE100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Channel F Hardware (US)-307864_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Video Entertainment System" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Video Entertainment System (US)-307866_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Channel F System II" region="US">
+			<ReleasePublisher>Zircon</ReleasePublisher>
+			<ReleaseProductID>FVE300</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Channel F System II (US)-307867_front.jpg</Image>
+				<Image>Channel F System II (US)-307867_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Democart 01" URL="/channelf/938736-democart-01">
+		<Description>Democart 01 is a Sports game, developed and published by Fairchild,  which was released in 1977.</Description>
+		<UserRating>1.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Democart 01" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Democart 01 (US)-84562_front.jpg</Image>
+				<Image>Democart 01 (US)-84562_back.jpg</Image>
+				<Image>Democart 01 (US)-84562_side.jpg</Image>
+				<Image>Democart 01 (US)-84562_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Hockey" URL="/channelf/950852-hockey">
+		<Description>Hockey is an Action game, developed and published by Fairchild,  which was released in 1976.</Description>
+		<UserRating>2.64 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hockey" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Tennis" URL="/channelf/951175-tennis">
+		<Description>Tennis is an Action game, developed and published by Fairchild,  which was released in 1976.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.6 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tennis" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Video Entertainment System" URL="/channelf/916426-channel-f">
+		<Description>Channel F is a Hardware game, developed and published by Fairchild,  which was released in 1976.</Description>
+		<UserRating>2.58 / 5</UserRating>
+		<AKA>Channel F Hardware (US), Video Entertainment System (US), Channel F System II (US)</AKA>
+		<Developer>Fairchild</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Channel F Hardware" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID>FVE100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Channel F Hardware (US)-307864_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Video Entertainment System" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Video Entertainment System (US)-307866_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Channel F System II" region="US">
+			<ReleasePublisher>Zircon</ReleasePublisher>
+			<ReleaseProductID>FVE300</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Channel F System II (US)-307867_front.jpg</Image>
+				<Image>Channel F System II (US)-307867_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 10: Maze" URL="/channelf/927671-videocart-10-maze">
+		<Description>Enjoy 52 variations of TV maze games including: Regular Maze - Every mouse for himself! Cat &amp; Mouse - Mice vs. hungry cat! Paranoia - Nobody out till the cat has his lunch! Double Paranoia - Nobody out. Ever! Also features various 2-player game modes: Jailbreak - Escapist entertainment for the con artist. Find the weak bars and you're out! Blind-man's-bluff - Love is blind, and so are the mice! Trailblazer - Can't see the forest for the trees. Lose your opponent by leaving a flase trail!</Description>
+		<UserRating>2.30 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Videocart 10: Maze" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 10 Maze (US)-67500_front.jpg</Image>
+				<Image>Videocart 10 Maze (US)-67500_back.jpg</Image>
+				<Image>Videocart 10 Maze (US)-67500_side.jpg</Image>
+				<Image>Videocart 10 Maze (US)-67500_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Videocart 10: Maze (newer)" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 10 Maze (newer) (US)-67501_front.jpg</Image>
+				<Image>Videocart 10 Maze (newer) (US)-67501_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 11: Backgammon / Acey-Deucey" URL="/channelf/567651-videocart-11-backgammon-acey-deucey">
+		<Description>Play the world's newest and most modern game of backgammon. The pieces are on the tube, rather than a board. Like the regular game, but better... You've got nothing to lose! BACKGAMMON: Advance your runners to the comfort station. Send your buddy to the bar. Then get ready for a not-so-dangerous double. Get the point? ACEY-DEUCEY: Ahoy, buoys and gulls! Start with all stones unturned in this Navy version of backgammon. Then with a "one" and a "two", you're three moves ahead.</Description>
+		<UserRating>3.30 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Videocart 11: Backgammon / Acey-Deucey" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 11 Backgammon  Acey-Deucey (US)-28902_front.jpg</Image>
+				<Image>Videocart 11 Backgammon  Acey-Deucey (US)-28902_back.jpg</Image>
+				<Image>Videocart 11 Backgammon  Acey-Deucey (US)-28902_side.jpg</Image>
+				<Image>Videocart 11 Backgammon  Acey-Deucey (US)-28902_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 12: Baseball" URL="/channelf/567652-videocart-12-baseball">
+		<Description>Our Baseball game gives you nine (or more) innings to practice your timing, mix-up your pitches, shift your outfield... major league thrills with the comfort of home! It's Dizzy Dean, master of the fast ball, versus you! Common sandlot slugger. He winds up, throws... and WHACK! Straight over the center field fence! He should have tried a spit ball.</Description>
+		<UserRating>1.75 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="Videocart 12: Baseball" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 12 Baseball (US)-28903_front.jpg</Image>
+				<Image>Videocart 12 Baseball (US)-28903_back.jpg</Image>
+				<Image>Videocart 12 Baseball (US)-28903_side.jpg</Image>
+				<Image>Videocart 12 Baseball (US)-28903_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 13: Robot War / Torpedo Alley" URL="/channelf/927608-videocart-13-robot-war-torpedo-alley">
+		<Description>The hunter or the hunted. Take your pick in these action-packed 1 and 2 player games. ROBOT WAR: The space station's computer has run amok. Four robots are on the hunt and you're the game! Lead them into one of the electrified force fields and short-circuit their calculated plans! TORPEDO ALLEY: Play against time or compete with another gunner. Blast away with your shore battery and "deep six" the invading fleet!</Description>
+		<UserRating>2.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Videocart 13: Robot War / Torpedo Alley" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 13 Robot War  Torpedo Alley (US)-67429_front.jpg</Image>
+				<Image>Videocart 13 Robot War  Torpedo Alley (US)-67429_back.jpg</Image>
+				<Image>Videocart 13 Robot War  Torpedo Alley (US)-67429_side.jpg</Image>
+				<Image>Videocart 13 Robot War  Torpedo Alley (US)-67429_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 14: Sonar Search" URL="/channelf/927609-videocart-14-sonar-search">
+		<Description>This battle on the high seas is sure to score a direct hit with exciting 1 and 2 player games! Sonar's got a fix... Computer's enemy Destroyer dead ahead. Fire one. Fire two. Got him! One down, four to blow up! In the 2-player game, uncover the locations of your opponent's 5-ship fleet, before he finds yours. Pay attention to the sonar's "ping", then close in for the kill!</Description>
+		<UserRating>2.60 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Videocart 14: Sonar Search" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 14 Sonar Search (US)-67430_front.jpg</Image>
+				<Image>Videocart 14 Sonar Search (US)-67430_back.jpg</Image>
+				<Image>Videocart 14 Sonar Search (US)-67430_side.jpg</Image>
+				<Image>Videocart 14 Sonar Search (US)-67430_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 15: Memory Match" URL="/channelf/927674-videocart-15-memory-match">
+		<Description>No time for a case of amnesia with these unforgettable 1 or 2 player games. Memory Match 1: Test your power of concentration. See who can match-up the most pairs of numbers or symbols hidden beneath the squares. But don't forget... when it comes to matchmaking, the computer "rote" the book! Memory Match 2: Like regular Memory Match, with even more strain on the brain. There's nearly twice as much to keep track of, so get ready for a really memorable experience!</Description>
+		<UserRating>2.20 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Videocart 15: Memory Match" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 15 Memory Match (US)-67504_front.jpg</Image>
+				<Image>Videocart 15 Memory Match (US)-67504_back.jpg</Image>
+				<Image>Videocart 15 Memory Match (US)-67504_side.jpg</Image>
+				<Image>Videocart 15 Memory Match (US)-67504_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 16: Dodge-It" URL="/channelf/927676-videocart-16-dodge-it">
+		<Description>It's like the old playground favorite dodge ball, only this time the computer's throwing the balls, not your classmates. 1-Player Dodge It: You're caught in the middle and the computer's giving you the old runaround. Stay on your toes. Up to 9 balls can be coming at you, ricocheting off all sides! 2-Player Dodge It: You and a friend get ready for more rapid-fire action! Duck, sidestep, weave... Whatever you do, don't take it standing still. You'll find this a real moving experience.</Description>
+		<UserRating>2.40 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Videocart 16: Dodge-It" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 16 Dodge-It (US)-67510_front.jpg</Image>
+				<Image>Videocart 16 Dodge-It (US)-67510_back.jpg</Image>
+				<Image>Videocart 16 Dodge-It (US)-67510_side.jpg</Image>
+				<Image>Videocart 16 Dodge-It (US)-67510_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 17: Pinball Challenge" URL="/channelf/927677-videocart-17-pinball-challenge">
+		<Description>Pinball wizards, get ready for a real titl! You'll flip over these 132 game variations for 1 and 2 players. You've thumped and bumped your way through the green and blue skill lanes. Last ball in play. It's off your flipper. Rebound siderail. Bingo! You made the winners zone! Need more challenge? Try auto ball speed-up. Auto flipper shrink. Or chip away at invisible skill lanes. All options can be combined for a super test of skill!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Videocart 17: Pinball Challenge" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 17 Pinball Challenge (US)-67511_front.jpg</Image>
+				<Image>Videocart 17 Pinball Challenge (US)-67511_back.jpg</Image>
+				<Image>Videocart 17 Pinball Challenge (US)-67511_side.jpg</Image>
+				<Image>Videocart 17 Pinball Challenge (US)-67511_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 18: Hangman" URL="/channelf/927678-videocart-18-hangman">
+		<Description>The classic word game with 64 computerized twists. Challenge a friend or take on the computer. But be careful, the computer will give you plenty of rope to hang up your score, and there's "knot" much room for error! Hangman (computer): Like regular Hangman, but you guess the computer's words. Hangman (own words): You and your opponent make up words for each other to guess. Free Letter: The computer gives you a feebie letter to get started. Where: The computer will take one of your correct letter guesses, let you know it's right, but not where it belongs.</Description>
+		<UserRating>3.70 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>7 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Videocart 18: Hangman" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 18 Hangman (US)-67512_front.jpg</Image>
+				<Image>Videocart 18 Hangman (US)-67512_back.jpg</Image>
+				<Image>Videocart 18 Hangman (US)-67512_side.jpg</Image>
+				<Image>Videocart 18 Hangman (US)-67512_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 19: Checkers" URL="/channelf/567656-videocart-19-checkers">
+		<Description>The classic game of checkers is played against the computer. Here is your chance to sharpen your skills without your opponent dumping the checkerboard on your head. Check it out: This is the old-time checker game using international rules. Sit back, relax and play your strategy against the computer. Put the cursor over the desired checker you want to move, lock onto it, move it and release it. See what move the computer makes as it tries to win.</Description>
+		<UserRating>2.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Videocart 19: Checkers" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 19 Checkers (US)-28907_front.jpg</Image>
+				<Image>Videocart 19 Checkers (US)-28907_back.jpg</Image>
+				<Image>Videocart 19 Checkers (US)-28907_side.jpg</Image>
+				<Image>Videocart 19 Checkers (US)-28907_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 1: Tic-Tac-Toe / Shooting Gallery / Doodle / Quadra-Doodle" URL="/channelf/567657-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra">
+		<Description>TIC-TAC-TOE: "X" out our "O's" and beat the system. Every game is different! SHOOTING GALLERY: Electronic rifle versus dead ducks. Rifle repositions after every shot. DOODLE: Turn your TV screen into a drawing board. Ordinary doodles become electronic masterpieces. Three colors and four line thicknesses to use. QUADRA-DOODLE: The TV doodles for you automatically. Colorful kaleidoscope patterns. Great for parties!</Description>
+		<UserRating>4.23 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>22.8 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Videocart 1: Tic-Tac-Toe / Shooting Gallery / Doodle / Quadra-Doodle" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 1 Tic-Tac-Toe  Shooting Gallery  Doodle  Quadra-Doodle (US)-28908_front.jpg</Image>
+				<Image>Videocart 1 Tic-Tac-Toe  Shooting Gallery  Doodle  Quadra-Doodle (US)-28908_back.jpg</Image>
+				<Image>Videocart 1 Tic-Tac-Toe  Shooting Gallery  Doodle  Quadra-Doodle (US)-28908_side.jpg</Image>
+				<Image>Videocart 1 Tic-Tac-Toe  Shooting Gallery  Doodle  Quadra-Doodle (US)-28908_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 20: Video Whizball" URL="/channelf/927610-videocart-20-video-whizball">
+		<Description>Imagine shooting pool with both players going for the balls at the same time. That's just a hint of the slam-bang action you'll find as you try to knock the whizballs into your opponent's goal. Play solo, compete with a friend or sit back and take notes as you watch computer-controlled players battle it out. Video Whizball is like no game you've ever seen! 72 game variations for one and two players.</Description>
+		<UserRating>2.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Videocart 20: Video Whizball" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 20 Video Whizball (US)-67431_front.jpg</Image>
+				<Image>Videocart 20 Video Whizball (US)-67431_back.jpg</Image>
+				<Image>Videocart 20 Video Whizball (US)-67431_side.jpg</Image>
+				<Image>Videocart 20 Video Whizball (US)-67431_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 21: Bowling" URL="/channelf/567654-videocart-21-bowling">
+		<Description>Enjoy strikes, spares, splits and gutterballs with 18 game variations. All the action you can handle and no waiting for a lane. BOWLING: It's the 10th frame. First bowler up. Here's the approach, the release. Might be thin, but the hook's working... BINGO! Right in the pocket. Concentrate and go for a strike! SPLITS: A great way to practice converting those tough spares. The computer has set up the dreaded Seven-Ten Split. You go for the Seven, trying to kick it cross-alley to nail the Ten. Nice pick up. But no time to relax now, the computer's setting up a baby split for the next frame.</Description>
+		<UserRating>2.40 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="Videocart 21: Bowling" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1978</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 21 Bowling (US)-28905_front.jpg</Image>
+				<Image>Videocart 21 Bowling (US)-28905_back.jpg</Image>
+				<Image>Videocart 21 Bowling (US)-28905_side.jpg</Image>
+				<Image>Videocart 21 Bowling (US)-28905_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 22: Slot Machine" URL="/channelf/927679-videocart-22-slot-machine">
+		<Description>Now you are able to play "Slots" without ever leaving your own living room and without carrying around all those nickels. Bet you can't play just once! Just step right up there, select the purse, select cost (bet) and start the wheels a-spinnin'! You can either let the wheels stop randomly or stop each wheel as you choose. The bank will add or subtract to your account as you win or lose.</Description>
+		<UserRating>1.38 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Videocart 22: Slot Machine" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 22 Slot Machine (US)-67513_front.jpg</Image>
+				<Image>Videocart 22 Slot Machine (US)-67513_back.jpg</Image>
+				<Image>Videocart 22 Slot Machine (US)-67513_side.jpg</Image>
+				<Image>Videocart 22 Slot Machine (US)-67513_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 23: Galactic Space Wars / Lunar Landing" URL="/channelf/927680-videocart-23-galactic-space-wars-lunar-landing">
+		<Description>GALACTIC SPACE WARS: You have been given full control of a fighter spacecraft. Your mission is to seek out, pursue, and fire upon enemy vessels. But space is a vast area to cover and there are many types of ships out there either trying to evade you or fire upon you as their opportunities arise. Do you have the skill and patience to maneuver your craft and successfully use your lasers to cripple the enemy space force as they also try to score hits against your craft? Use your instruments to search for these elusive ships. LUNAR LANDER: In your lunar lander you have a limited supply of fuel to enable you to land on the designated platform on the rocky surface of the planet. To come down too fast or to miss the platform would be disastrous for your lander. Your performance is being timed. Under all this pressure and with the delayed response inherent in the lunar lander, can you pilot the small craft to a safe landing?</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Videocart 23: Galactic Space Wars / Lunar Landing" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 23 Galactic Space Wars  Lunar Landing (US)-67514_front.jpg</Image>
+				<Image>Videocart 23 Galactic Space Wars  Lunar Landing (US)-67514_back.jpg</Image>
+				<Image>Videocart 23 Galactic Space Wars  Lunar Landing (US)-67514_side.jpg</Image>
+				<Image>Videocart 23 Galactic Space Wars  Lunar Landing (US)-67514_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 24: Pro Football" URL="/channelf/927681-videocart-24-pro-football">
+		<Description>This is a 2-player game where the offense has 8 different plays to choose from, and the defense also has a choice of 8 plays. Your quarterback can run the ball or pass to one of his receivers that are out on their patterns. But watch out for that blitzing linebacker or that defensive back that could intercept the pass. Your teams will huddle, break and line up to get their play off in 30-seconds. You can score by a field goal as well as a touchdown. And if you can defensively push your opponent into their own goal, you are awarded a safety. So, after the fight song ends, let's get out there and play ball!</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Arcade</Genre>
+		<Release name="Videocart 24: Pro Football" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 24 Pro Football (US)-67515_front.jpg</Image>
+				<Image>Videocart 24 Pro Football (US)-67515_back.jpg</Image>
+				<Image>Videocart 24 Pro Football (US)-67515_side.jpg</Image>
+				<Image>Videocart 24 Pro Football (US)-67515_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 25: Casino Poker" URL="/channelf/567655-videocart-25-casino-poker">
+		<Description>Videocart 25: Casino Poker is a Miscellaneous game, developed by Fairchild and published by Zircon,  which was released in 1980.</Description>
+		<UserRating>2.88 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Videocart 25: Casino Poker" region="US">
+			<ReleasePublisher>Zircon</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 25 Casino Poker (US)-28906_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 26: Alien Invasion" URL="/channelf/567650-videocart-26-alien-invasion">
+		<Description>Videocart 26: Alien Invasion is an Action game, developed by Fairchild and published by Zircon,  which was released in 1981.</Description>
+		<UserRating>3.21 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Videocart 26: Alien Invasion" region="US">
+			<ReleasePublisher>Zircon</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 26 Alien Invasion (US)-28901_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 2: Desert Fox / Shooting Gallery" URL="/channelf/927662-videocart-2-desert-fox-shooting-gallery">
+		<Description>Let out your hunter instincts with these two exciting games. DESERT FOX: You sneak up on the enemy, but ram a mine instead. Your tank is immobilized. The enemy fires. Hits. And outfoxes you, the Fox. SHOOTING GALLERY: Electronic rifle versus dead ducks. Rifle repositions after every shot.</Description>
+		<UserRating>2.92 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.2 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Videocart 2: Desert Fox / Shooting Gallery" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 2 Desert Fox  Shooting Gallery (US)-67491_front.jpg</Image>
+				<Image>Videocart 2 Desert Fox  Shooting Gallery (US)-67491_back.jpg</Image>
+				<Image>Videocart 2 Desert Fox  Shooting Gallery (US)-67491_side.jpg</Image>
+				<Image>Videocart 2 Desert Fox  Shooting Gallery (US)-67491_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 3: Video Blackjack" URL="/channelf/567653-videocart-3-video-blackjack">
+		<Description>Deal yourself into Video Blackjack for some fast action in these 1 and 2 player games. 1-Player Blackjack: Dealer hits soft 17, stays on hard 17. You're bankrolled with $500... and feeling hot! So, double down. Next stop - Vegas! 2-Player Blackjack: Bring on the sharpies! You and another player take on the dealer. You may not break the bank, but you can still show 'em who the "Man" is.</Description>
+		<UserRating>2.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Videocart 3: Video Blackjack" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 3 Video Blackjack (US)-28904_front.jpg</Image>
+				<Image>Videocart 3 Video Blackjack (US)-28904_back.jpg</Image>
+				<Image>Videocart 3 Video Blackjack (US)-28904_side.jpg</Image>
+				<Image>Videocart 3 Video Blackjack (US)-28904_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 4: Spitfire" URL="/channelf/927665-videocart-4-spitfire">
+		<Description>Join up and get ready for the toughest dogfights since the Great Air War in 1 and 2 player versions of Spitfire! 1-Player Spitfire: The heartless Red Baron is scanning the skies for you, the Blue Max. Will you be able to elude him once again? Or, will you be sent spiraling to earth from a burst of his machine gun? 2-Player Spitfire: You, the daring Blue Max, versus another player, the curse of the Allies. You escape into a cloud bank only to emerge on his tail. Then... "Blast you, Red Baron! Take that!"... Kaboom!</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Videocart 4: Spitfire" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 4 Spitfire (US)-67494_front.jpg</Image>
+				<Image>Videocart 4 Spitfire (US)-67494_back.jpg</Image>
+				<Image>Videocart 4 Spitfire (US)-67494_side.jpg</Image>
+				<Image>Videocart 4 Spitfire (US)-67494_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 5: Space War" URL="/channelf/927666-videocart-5-space-war">
+		<Description>Teleport yourself and a friend to an interstellar battleground with this faster-than-the-speed-of-light game. Subspace distress call: Alien laser attack has drained your protective electro-magnetic force field. Can you get back to the starbase to recharge... before he blasts you out of the galaxy?</Description>
+		<UserRating>2.10 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Videocart 5: Space War" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 5 Space War (US)-67495_front.jpg</Image>
+				<Image>Videocart 5 Space War (US)-67495_back.jpg</Image>
+				<Image>Videocart 5 Space War (US)-67495_side.jpg</Image>
+				<Image>Videocart 5 Space War (US)-67495_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 6: Math Quiz" URL="/channelf/927667-videocart-6-math-quiz">
+		<Description>Get one problem right and a new one appears. Take turns with a buddy for added competition. Plus or minus some fast-paced fun! Math Quiz - Addition: Count on your television instead of your fingers. Right answer scores. You get two chances before the screen shows you how. Arithmetic was never like this! Math Quiz - Subtraction: Your number's up! Brush up on the basics, teach the kids to balance their allowance, or just have fun. It won't take away from the thrill of the game!</Description>
+		<UserRating>2.90 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Videocart 6: Math Quiz" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 6 Math Quiz (US)-67496_front.jpg</Image>
+				<Image>Videocart 6 Math Quiz (US)-67496_back.jpg</Image>
+				<Image>Videocart 6 Math Quiz (US)-67496_side.jpg</Image>
+				<Image>Videocart 6 Math Quiz (US)-67496_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 7: Math Quiz II" URL="/channelf/927668-videocart-7-math-quiz-ii">
+		<Description>Get one problem right and a new one appears. Take turns with a buddy to double the competition... And quadruple the fun! Math Quiz - Multiplication: Teach the kids to multiply while you practice your time tables. Do it in your head or sneak a look at your calculator. Any way you figure it, the product is fun! Math Quiz - Division: Think you're equal to our problem? If you've got our number, you score. If not, you get another try before the screen works it out for you. Makes long division half the work and twice the fun!</Description>
+		<UserRating>2.60 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Videocart 7: Math Quiz II" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 7 Math Quiz II (US)-67497_front.jpg</Image>
+				<Image>Videocart 7 Math Quiz II (US)-67497_back.jpg</Image>
+				<Image>Videocart 7 Math Quiz II (US)-67497_side.jpg</Image>
+				<Image>Videocart 7 Math Quiz II (US)-67497_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 8: Magic Numbers" URL="/channelf/927669-videocart-8-magic-numbers">
+		<Description>Take our magic numbers, your own secret strategy... And you just might trick the computer! Can you "digit"? MINDREADER: Think you've got our number? "H" or "T" tell you whether you've guessed the right digit in the right place or the wrong place. Race the clock or play for points. NIM: Trap the computer in a binary bind, and you win every time! You and the computer take turns removing one or more units from each square. Last move wins.</Description>
+		<UserRating>2.90 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>3.3 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Videocart 8: Magic Numbers" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1977</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 8 Magic Numbers (US)-67498_front.jpg</Image>
+				<Image>Videocart 8 Magic Numbers (US)-67498_back.jpg</Image>
+				<Image>Videocart 8 Magic Numbers (US)-67498_side.jpg</Image>
+				<Image>Videocart 8 Magic Numbers (US)-67498_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Channel F" name="Videocart 9: Drag Strip" URL="/channelf/926884-videocart-9-drag-strip">
+		<Description>Know when to shift and you'll go the distance with these two racy games. But be careful... Redline your engine, and you wind up shiftless! (You've blown it!) 1-Player Drag Strip: VROOOM! Tach it up for a dynamite breakout. Then race the clock as you burn up the strip. (Beat our 7.70 ET and you're ready for Pomona!) 2-Player Drag Strip: He who laps last, laps best. Max your rpm's without redlining and you'll have the speed to lap your opponent at the top end. 99 wins puts you in the Winner's Circle!</Description>
+		<UserRating>1.90 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Fairchild</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Videocart 9: Drag Strip" region="US">
+			<ReleasePublisher>Fairchild</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1976</ReleaseDate>
+			<ReleaseImages>
+				<Image>Videocart 9 Drag Strip (US)-66355_front.jpg</Image>
+				<Image>Videocart 9 Drag Strip (US)-66355_back.jpg</Image>
+				<Image>Videocart 9 Drag Strip (US)-66355_side.jpg</Image>
+				<Image>Videocart 9 Drag Strip (US)-66355_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

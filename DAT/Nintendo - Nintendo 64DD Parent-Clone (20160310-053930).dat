@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - Nintendo 64DD Parent-Clone</name>
+		<description>Nintendo - Nintendo 64DD Parent-Clone</description>
+		<version>20160310-053930</version>
+		<date>20160310-053930</date>
+		<author>kazumi213</author>
+		<url>www.no-intro.org</url>
+	</header>
+	<game name="Kyojin no Doshin 1 (Japan)">
+		<description>Kyojin no Doshin 1 (Japan)</description>
+		<release name="Kyojin no Doshin 1 (Japan)" region="JPN"/>
+		<rom name="Kyojin no Doshin 1 (Japan).ndd" size="64931840" crc="B30F6E64" md5="1424518E956A23D189B12574F6F67247" sha1="92F714B52A27B280A47C346BAE4C753F3B65701F"/>
+	</game>
+	<game name="Kyojin no Doshin (Japan) (Demo) (Kiosk)" cloneof="Kyojin no Doshin 1 (Japan)">
+		<description>Kyojin no Doshin (Japan) (Demo) (Kiosk)</description>
+		<rom name="Kyojin no Doshin (Japan) (Demo) (Kiosk).ndd" size="64931840" crc="B530DAAB" md5="AFE059AE1210751B6C849CFB482C99DD" sha1="2A73ACED8FDED7A6422FA322D8FF76F6045C687F"/>
+	</game>
+</datafile>

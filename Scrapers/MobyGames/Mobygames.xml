@@ -1,0 +1,1569 @@
+<WebScraper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>MobyGames</Name>
+  <URL>http://www.mobygames.com/</URL>
+  <Regions>
+    <Region Name="Japan" Acronym="Japan"/>
+    <Region Name="USA" Acronym="United States"/>
+    <Region Name="Canada" Acronym="Canada"/>
+    <Region Name="Europe" Acronym="Germany"/>
+    <Region Name="France" Acronym="France"/>
+    <Region Name="Germany" Acronym="Germany"/>
+    <Region Name="Italy" Acronym="Italy"/>
+    <Region Name="Netherlands" Acronym="The Netherlands"/>
+    <Region Name="Spain" Acronym="Spain"/>
+    <Region Name="Sweden" Acronym="Sweden"/>
+    <Region Name="Brazil" Acronym="Brazil"/>
+    <Region Name="Australia" Acronym="Australia"/>
+    <Region Name="World" Acronym="Japan"/>
+  </Regions>  
+  <Systems>
+    <WebScraperSystem>
+      <ID>-1</ID>
+      <Name>All platforms</Name>
+      <Acronym>ALL</Acronym>
+      <URL>all</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>35</ID>
+      <Name>3DO</Name>
+      <Acronym>3DO</Acronym>
+      <URL>3do</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>117</ID>
+      <Name>Acorn 32-bit</Name>
+      <Acronym>ARCH</Acronym>
+      <URL>acorn-32-bit</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>19</ID>
+      <Name>Amiga</Name>
+      <Acronym>AMI</Acronym>
+      <URL>amiga</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>56</ID>
+      <Name>Amiga CD32</Name>
+      <Acronym>CD32</Acronym>
+      <URL>amiga-cd32</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>60</ID>
+      <Name>Amstrad CPC</Name>
+      <Acronym>CPC</Acronym>
+      <URL>cpc</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>136</ID>
+      <Name>Amstrad PCW</Name>
+      <Acronym>PCW</Acronym>
+      <URL>amstrad-pcw</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>91</ID>
+      <Name>Android</Name>
+      <Acronym>AND</Acronym>
+      <URL>android</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>31</ID>
+      <Name>Apple II</Name>
+      <Acronym>APL2</Acronym>
+      <URL>apple2</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>51</ID>
+      <Name>Apple IIgs</Name>
+      <Acronym>A2GS</Acronym>
+      <URL>apple2gs</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>143</ID>
+      <Name>Arcade</Name>
+      <Acronym>ARC</Acronym>
+      <URL>arcade</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>162</ID>
+      <Name>Arcadia 2001</Name>
+      <Acronym>A2K1</Acronym>
+      <URL>arcadia-2001</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>28</ID>
+      <Name>Atari 2600</Name>
+      <Acronym>2600</Acronym>
+      <URL>atari-2600</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>33</ID>
+      <Name>Atari 5200</Name>
+      <Acronym>5200</Acronym>
+      <URL>atari-5200</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>34</ID>
+      <Name>Atari 7800</Name>
+      <Acronym>7800</Acronym>
+      <URL>atari-7800</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>39</ID>
+      <Name>Atari 8-bit</Name>
+      <Acronym>A800</Acronym>
+      <URL>atari-8-bit</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>24</ID>
+      <Name>Atari ST</Name>
+      <Acronym>ST</Acronym>
+      <URL>atari-st</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>129</ID>
+      <Name>Atom</Name>
+      <Acronym>ATOM</Acronym>
+      <URL>atom</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>99</ID>
+      <Name>bada</Name>
+      <Acronym>BADA</Acronym>
+      <URL>bada</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>160</ID>
+      <Name>Bally Astrocade</Name>
+      <Acronym>AST</Acronym>
+      <URL>bally-astrocade</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>92</ID>
+      <Name>BBC Micro</Name>
+      <Acronym>BBC</Acronym>
+      <URL>bbc-micro_</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>165</ID>
+      <Name>BeOS</Name>
+      <Acronym>BEOS</Acronym>
+      <URL>beos</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>90</ID>
+      <Name>BlackBerry</Name>
+      <Acronym>BB</Acronym>
+      <URL>blackberry</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>63</ID>
+      <Name>BREW</Name>
+      <Acronym>BREW</Acronym>
+      <URL>brew</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>84</ID>
+      <Name>Browser</Name>
+      <Acronym>WEB</Acronym>
+      <URL>browser</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>154</ID>
+      <Name>Camputers Lynx</Name>
+      <Acronym>CLYX</Acronym>
+      <URL>camputers-lynx</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>124</ID>
+      <Name>Casio Loopy</Name>
+      <Acronym>CL</Acronym>
+      <URL>casio-loopy</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>125</ID>
+      <Name>Casio PV-1000</Name>
+      <Acronym>PV1K</Acronym>
+      <URL>casio-pv-1000</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>73</ID>
+      <Name>CD-i</Name>
+      <Acronym>CDI</Acronym>
+      <URL>cd-i</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>83</ID>
+      <Name>CDTV</Name>
+      <Acronym>CDTV</Acronym>
+      <URL>cdtv</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>76</ID>
+      <Name>Channel F</Name>
+      <Acronym>FAIR</Acronym>
+      <URL>channel-f</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>156</ID>
+      <Name>Coleco Adam</Name>
+      <Acronym>ADAM</Acronym>
+      <URL>colecoadam</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>29</ID>
+      <Name>ColecoVision</Name>
+      <Acronym>CVIS</Acronym>
+      <URL>colecovision</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>61</ID>
+      <Name>Commodore 128</Name>
+      <Acronym>C128</Acronym>
+      <URL>c128</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>115</ID>
+      <Name>Commodore 16, Plus/4</Name>
+      <Acronym>C16</Acronym>
+      <URL>commodore-16-plus4</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>27</ID>
+      <Name>Commodore 64</Name>
+      <Acronym>C64</Acronym>
+      <URL>c64</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>77</ID>
+      <Name>Commodore PET/CBM</Name>
+      <Acronym>PET</Acronym>
+      <URL>pet</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>72</ID>
+      <Name>DoJa</Name>
+      <Acronym>DOJA</Acronym>
+      <URL>doja</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>2</ID>
+      <Name>DOS</Name>
+      <Acronym>DOS</Acronym>
+      <URL>dos</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>79</ID>
+      <Name>Dragon 32/64</Name>
+      <Acronym>DR32</Acronym>
+      <URL>dragon-3264</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>8</ID>
+      <Name>Dreamcast</Name>
+      <Acronym>DC</Acronym>
+      <URL>dreamcast</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>93</ID>
+      <Name>Electron</Name>
+      <Acronym>ELEC</Acronym>
+      <URL>electron</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>161</ID>
+      <Name>Enterprise</Name>
+      <Acronym>ENTR</Acronym>
+      <URL>enterprise</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>137</ID>
+      <Name>Epoch Cassette Vision</Name>
+      <Acronym>ECV</Acronym>
+      <URL>epoch-cassette-vision</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>139</ID>
+      <Name>Epoch Game Pocket Computer</Name>
+      <Acronym>EGPC</Acronym>
+      <URL>epoch-game-pocket-computer</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>138</ID>
+      <Name>Epoch Super Cassette Vision</Name>
+      <Acronym>SCV</Acronym>
+      <URL>epoch-super-cassette-vision</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>70</ID>
+      <Name>ExEn</Name>
+      <Acronym>EXEN</Acronym>
+      <URL>exen</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>159</ID>
+      <Name>Fire OS</Name>
+      <Acronym>FIRE</Acronym>
+      <URL>fire-os</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>102</ID>
+      <Name>FM Towns</Name>
+      <Acronym>FMT</Acronym>
+      <URL>fmtowns</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>126</ID>
+      <Name>FM-7</Name>
+      <Acronym>FM7</Acronym>
+      <URL>fm-7</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>10</ID>
+      <Name>Game Boy</Name>
+      <Acronym>GB</Acronym>
+      <URL>gameboy</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>12</ID>
+      <Name>Game Boy Advance</Name>
+      <Acronym>GBA</Acronym>
+      <URL>gameboy-advance</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>11</ID>
+      <Name>Game Boy Color</Name>
+      <Acronym>GBC</Acronym>
+      <URL>gameboy-color</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>25</ID>
+      <Name>Game Gear</Name>
+      <Acronym>GG</Acronym>
+      <URL>game-gear</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>104</ID>
+      <Name>Game Wave</Name>
+      <Acronym>GW</Acronym>
+      <URL>game-wave</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>50</ID>
+      <Name>Game.Com</Name>
+      <Acronym>GCOM</Acronym>
+      <URL>game-com</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>14</ID>
+      <Name>GameCube</Name>
+      <Acronym>GC</Acronym>
+      <URL>gamecube</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>155</ID>
+      <Name>GameStick</Name>
+      <Acronym>GSTI</Acronym>
+      <URL>gamestick</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>16</ID>
+      <Name>Genesis</Name>
+      <Acronym>GEN</Acronym>
+      <URL>genesis</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>55</ID>
+      <Name>Gizmondo</Name>
+      <Acronym>GIZ</Acronym>
+      <URL>gizmondo</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>122</ID>
+      <Name>GP2X</Name>
+      <Acronym>GP2X</Acronym>
+      <URL>gp2x</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>123</ID>
+      <Name>GP2X Wiz</Name>
+      <Acronym>G2XW</Acronym>
+      <URL>gp2x-wiz</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>108</ID>
+      <Name>GP32</Name>
+      <Acronym>GP32</Acronym>
+      <URL>gp32</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>30</ID>
+      <Name>Intellivision</Name>
+      <Acronym>INTV</Acronym>
+      <URL>intellivision</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>96</ID>
+      <Name>iPad</Name>
+      <Acronym>IPAD</Acronym>
+      <URL>ipad</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>86</ID>
+      <Name>iPhone</Name>
+      <Acronym>IOS</Acronym>
+      <URL>iphone</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>80</ID>
+      <Name>iPod Classic</Name>
+      <Acronym>IPOD</Acronym>
+      <URL>ipod-classic</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>64</ID>
+      <Name>J2ME</Name>
+      <Acronym>J2ME</Acronym>
+      <URL>j2me</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>17</ID>
+      <Name>Jaguar</Name>
+      <Acronym>JAG</Acronym>
+      <URL>jaguar</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>153</ID>
+      <Name>Jupiter Ace</Name>
+      <Acronym>ACE</Acronym>
+      <URL>jupiter-ace</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>145</ID>
+      <Name>Kindle Classic</Name>
+      <Acronym>KIND</Acronym>
+      <URL>kindle</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>163</ID>
+      <Name>LaserActive</Name>
+      <Acronym>LA</Acronym>
+      <URL>laseractive</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>1</ID>
+      <Name>Linux</Name>
+      <Acronym>LNX</Acronym>
+      <URL>linux</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>18</ID>
+      <Name>Lynx</Name>
+      <Acronym>LYNX</Acronym>
+      <URL>lynx</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>74</ID>
+      <Name>Macintosh</Name>
+      <Acronym>MAC</Acronym>
+      <URL>macintosh</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>157</ID>
+      <Name>Maemo</Name>
+      <Acronym>MAEM</Acronym>
+      <URL>maemo</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>135</ID>
+      <Name>Mattel Aquarius</Name>
+      <Acronym>AQU</Acronym>
+      <URL>mattel-aquarius</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>158</ID>
+      <Name>MeeGo</Name>
+      <Acronym>MEGO</Acronym>
+      <URL>meego</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>148</ID>
+      <Name>Memotech MTX</Name>
+      <Acronym>MTX</Acronym>
+      <URL>memotech-mtx</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>97</ID>
+      <Name>Microvision</Name>
+      <Acronym>MVIS</Acronym>
+      <URL>microvision</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>71</ID>
+      <Name>Mophun</Name>
+      <Acronym>MOPH</Acronym>
+      <URL>mophun</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>57</ID>
+      <Name>MSX</Name>
+      <Acronym>MSX</Acronym>
+      <URL>msx</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>36</ID>
+      <Name>Neo Geo</Name>
+      <Acronym>NEO</Acronym>
+      <URL>neo-geo</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>54</ID>
+      <Name>Neo Geo CD</Name>
+      <Acronym>NGCD</Acronym>
+      <URL>neo-geo-cd</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>52</ID>
+      <Name>Neo Geo Pocket</Name>
+      <Acronym>NGP</Acronym>
+      <URL>neo-geo-pocket</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>53</ID>
+      <Name>Neo Geo Pocket Color</Name>
+      <Acronym>NGPC</Acronym>
+      <URL>neo-geo-pocket-color</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>22</ID>
+      <Name>NES</Name>
+      <Acronym>NES</Acronym>
+      <URL>nes</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>32</ID>
+      <Name>N-Gage</Name>
+      <Acronym>N-Gage</Acronym>
+      <URL>ngage</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>89</ID>
+      <Name>N-Gage (service)</Name>
+      <Acronym>NGAGE2</Acronym>
+      <URL>ngage2</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>101</ID>
+      <Name>Nintendo 3DS</Name>
+      <Acronym>3DS</Acronym>
+      <URL>3ds</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>9</ID>
+      <Name>Nintendo 64</Name>
+      <Acronym>N64</Acronym>
+      <URL>n64</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>44</ID>
+      <Name>Nintendo DS</Name>
+      <Acronym>DS</Acronym>
+      <URL>nintendo-ds</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>87</ID>
+      <Name>Nintendo DSi</Name>
+      <Acronym>DSI</Acronym>
+      <URL>nintendo-dsi</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>116</ID>
+      <Name>Nuon</Name>
+      <Acronym>NUON</Acronym>
+      <URL>nuon</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>75</ID>
+      <Name>Odyssey</Name>
+      <Acronym>ODY</Acronym>
+      <URL>odyssey</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>78</ID>
+      <Name>Odyssey 2</Name>
+      <Acronym>O2</Acronym>
+      <URL>odyssey-2</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>111</ID>
+      <Name>Oric</Name>
+      <Acronym>ORIC</Acronym>
+      <URL>oric</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>146</ID>
+      <Name>OS/2</Name>
+      <Acronym>OS2</Acronym>
+      <URL>os2</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>144</ID>
+      <Name>Ouya</Name>
+      <Acronym>OUYA</Acronym>
+      <URL>ouya</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>65</ID>
+      <Name>Palm OS</Name>
+      <Acronym>POS</Acronym>
+      <URL>palmos</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>4</ID>
+      <Name>PC Booter</Name>
+      <Acronym>PC</Acronym>
+      <URL>pc-booter</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>149</ID>
+      <Name>PC-6001</Name>
+      <Acronym>PC6K1</Acronym>
+      <URL>pc-6001</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>94</ID>
+      <Name>PC-88</Name>
+      <Acronym>PC88</Acronym>
+      <URL>pc88</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>95</ID>
+      <Name>PC-98</Name>
+      <Acronym>PC98</Acronym>
+      <URL>pc98</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>59</ID>
+      <Name>PC-FX</Name>
+      <Acronym>PCFX</Acronym>
+      <URL>pc-fx</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>133</ID>
+      <Name>Philips VG 5000</Name>
+      <Acronym>VG500</Acronym>
+      <URL>philips-vg-5000</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>112</ID>
+      <Name>Pippin</Name>
+      <Acronym>PIP</Acronym>
+      <URL>pippin</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>107</ID>
+      <Name>Playdia</Name>
+      <Acronym>PLD</Acronym>
+      <URL>playdia</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>6</ID>
+      <Name>PlayStation</Name>
+      <Acronym>PS</Acronym>
+      <URL>playstation</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>7</ID>
+      <Name>PlayStation 2</Name>
+      <Acronym>PS2</Acronym>
+      <URL>ps2</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>81</ID>
+      <Name>PlayStation 3</Name>
+      <Acronym>PS3</Acronym>
+      <URL>ps3</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>141</ID>
+      <Name>PlayStation 4</Name>
+      <Acronym>PS4</Acronym>
+      <URL>playstation-4</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>152</ID>
+      <Name>Pokémon Mini</Name>
+      <Acronym>PMIN</Acronym>
+      <URL>pokemon-mini</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>105</ID>
+      <Name>PS Vita</Name>
+      <Acronym>VITA</Acronym>
+      <URL>ps-vita</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>46</ID>
+      <Name>PSP</Name>
+      <Acronym>PSP</Acronym>
+      <URL>psp</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>113</ID>
+      <Name>RCA Studio II</Name>
+      <Acronym>S2</Acronym>
+      <URL>rca-studio-ii</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>120</ID>
+      <Name>SAM Coupé</Name>
+      <Acronym>SAM</Acronym>
+      <URL>sam-coup</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>21</ID>
+      <Name>SEGA 32X</Name>
+      <Acronym>32X</Acronym>
+      <URL>sega-32x</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>20</ID>
+      <Name>SEGA CD</Name>
+      <Acronym>SCD</Acronym>
+      <URL>sega-cd</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>26</ID>
+      <Name>SEGA Master System</Name>
+      <Acronym>SMS</Acronym>
+      <URL>sega-master-system</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>103</ID>
+      <Name>SEGA Pico</Name>
+      <Acronym>PICO</Acronym>
+      <URL>sega-pico</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>23</ID>
+      <Name>SEGA Saturn</Name>
+      <Acronym>SAT</Acronym>
+      <URL>sega-saturn</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>114</ID>
+      <Name>SG-1000</Name>
+      <Acronym>SG1</Acronym>
+      <URL>sg-1000</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>121</ID>
+      <Name>Sharp X1</Name>
+      <Acronym>X1</Acronym>
+      <URL>sharp-x1</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>106</ID>
+      <Name>Sharp X68000</Name>
+      <Acronym>X68</Acronym>
+      <URL>sharp-x68000</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>131</ID>
+      <Name>Sinclair QL</Name>
+      <Acronym>QL</Acronym>
+      <URL>sinclair-ql</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>15</ID>
+      <Name>SNES</Name>
+      <Acronym>SNES</Acronym>
+      <URL>snes</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>134</ID>
+      <Name>Sord M5</Name>
+      <Acronym>M5</Acronym>
+      <URL>sord-m5</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>85</ID>
+      <Name>Spectravideo</Name>
+      <Acronym>SPEC</Acronym>
+      <URL>spectravideo</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>110</ID>
+      <Name>Super A'can</Name>
+      <Acronym>ACAN</Acronym>
+      <URL>super-acan</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>127</ID>
+      <Name>SuperGrafx</Name>
+      <Acronym>SGFX</Acronym>
+      <URL>supergrafx</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>109</ID>
+      <Name>Supervision</Name>
+      <Acronym>SV</Acronym>
+      <URL>supervision</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>67</ID>
+      <Name>Symbian</Name>
+      <Acronym>SYMB</Acronym>
+      <URL>symbian</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>150</ID>
+      <Name>Tatung Einstein</Name>
+      <Acronym>EINS</Acronym>
+      <URL>tatung-einstein</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>147</ID>
+      <Name>Thomson MO</Name>
+      <Acronym>TMO</Acronym>
+      <URL>thomson-mo</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>130</ID>
+      <Name>Thomson TO</Name>
+      <Acronym>TTO</Acronym>
+      <URL>thomson-to</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>47</ID>
+      <Name>TI-99/4A</Name>
+      <Acronym>TI</Acronym>
+      <URL>ti-994a</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>151</ID>
+      <Name>Tomy Tutor</Name>
+      <Acronym>TUTO</Acronym>
+      <URL>tomy-tutor</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>58</ID>
+      <Name>TRS-80</Name>
+      <Acronym>T80</Acronym>
+      <URL>trs-80</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>62</ID>
+      <Name>TRS-80 CoCo</Name>
+      <Acronym>COCO</Acronym>
+      <URL>trs-80-coco</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>45</ID>
+      <Name>TurboGrafx CD</Name>
+      <Acronym>TCD</Acronym>
+      <URL>turbografx-cd</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>40</ID>
+      <Name>TurboGrafx-16</Name>
+      <Acronym>TG16</Acronym>
+      <URL>turbo-grafx</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>42</ID>
+      <Name>V.Smile</Name>
+      <Acronym>VSMI</Acronym>
+      <URL>vsmile</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>37</ID>
+      <Name>Vectrex</Name>
+      <Acronym>VECX</Acronym>
+      <URL>vectrex</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>43</ID>
+      <Name>VIC-20</Name>
+      <Acronym>VC20</Acronym>
+      <URL>vic-20</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>128</ID>
+      <Name>Videopac+ G7400</Name>
+      <Acronym>VPAC</Acronym>
+      <URL>videopac-g7400</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>38</ID>
+      <Name>Virtual Boy</Name>
+      <Acronym>VBOY</Acronym>
+      <URL>virtual-boy</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>164</ID>
+      <Name>VIS</Name>
+      <Acronym>VIS</Acronym>
+      <URL>vis</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>100</ID>
+      <Name>webOS</Name>
+      <Acronym>WOS</Acronym>
+      <URL>webos</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>82</ID>
+      <Name>Wii</Name>
+      <Acronym>WII</Acronym>
+      <URL>wii</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>132</ID>
+      <Name>Wii U</Name>
+      <Acronym>WIIU</Acronym>
+      <URL>wii-u</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>3</ID>
+      <Name>Windows</Name>
+      <Acronym>WIN</Acronym>
+      <URL>windows</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>5</ID>
+      <Name>Windows 3.x</Name>
+      <Acronym>WIN3</Acronym>
+      <URL>win3x</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>140</ID>
+      <Name>Windows Apps</Name>
+      <Acronym>WINA</Acronym>
+      <URL>windows-apps</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>66</ID>
+      <Name>Windows Mobile</Name>
+      <Acronym>WINM</Acronym>
+      <URL>windowsmobile</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>98</ID>
+      <Name>Windows Phone</Name>
+      <Acronym>WINP</Acronym>
+      <URL>windows-phone</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>48</ID>
+      <Name>WonderSwan</Name>
+      <Acronym>WS</Acronym>
+      <URL>wonderswan</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>49</ID>
+      <Name>WonderSwan Color</Name>
+      <Acronym>WSC</Acronym>
+      <URL>wonderswan-color</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>13</ID>
+      <Name>Xbox</Name>
+      <Acronym>XBOX</Acronym>
+      <URL>xbox</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>69</ID>
+      <Name>Xbox 360</Name>
+      <Acronym>X360</Acronym>
+      <URL>xbox360</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>142</ID>
+      <Name>Xbox One</Name>
+      <Acronym>XONE</Acronym>
+      <URL>xbox-one</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>88</ID>
+      <Name>Zeebo</Name>
+      <Acronym>ZB</Acronym>
+      <URL>zeebo</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>68</ID>
+      <Name>Zodiac</Name>
+      <Acronym>ZOD</Acronym>
+      <URL>zodiac</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>41</ID>
+      <Name>ZX Spectrum</Name>
+      <Acronym>ZX</Acronym>
+      <URL>zx-spectrum</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>118</ID>
+      <Name>ZX80</Name>
+      <Acronym>ZX80</Acronym>
+      <URL>zx80</URL>
+    </WebScraperSystem>
+    <WebScraperSystem>
+      <ID>119</ID>
+      <Name>ZX81</Name>
+      <Acronym>ZX81</Acronym>
+      <URL>zx81</URL>
+    </WebScraperSystem>
+  </Systems>
+  <Flags>
+    <WebScraperGenreFlag Name="Genre"/>
+    <WebScraperGenreFlag Name="Gameplay"/>
+    <WebScraperGenreFlag Name="Perspective"/>
+    <WebScraperGenreFlag Name="Sport"/>
+    <WebScraperGenreFlag Name="Theme"/>
+    <WebScraperGenreFlag Name="Vehicle"/>
+  </Flags>  
+  <Genres>
+    <WebScraperGenre Name="Adventure">
+      <Flag Name="Genre"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Action">
+      <Flag Name="Genre"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Educational">
+      <Flag Name="Genre"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Racing / Driving">
+      <Flag Name="Genre"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Role-Playing (RPG)">
+      <Flag Name="Genre"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Simulation">
+      <Flag Name="Genre"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Sports">
+      <Flag Name="Genre"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Strategy">
+      <Flag Name="Genre"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Arcade">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="BattleMech">
+      <Flag Name="Vehicle"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Board / Party Game">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Cards / Tiles">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Casino">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Chess">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Fighting">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Flight">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Game Show">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Interactive Fiction">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Interactive Fiction with Graphics">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Interactive Movie">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Managerial">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Mental training">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Paddle / Pong">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Pinball">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Puzzle-Solving">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Real-Time">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Rhythm / Music">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Shooter">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Stealth">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Survival Horror">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Turn-based">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Visual Novel">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Platform">
+      <Flag Name="Gameplay"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Top-Down">
+      <Flag Name="Perspective"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="3rd-Person Perspective">
+      <Flag Name="Perspective"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Side-Scrolling">
+      <Flag Name="Perspective"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="1st-Person Perspective">
+      <Flag Name="Perspective"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Isometric">
+      <Flag Name="Perspective"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Baseball">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Basketball">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Bike/Bicycling">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Bowling">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Boxing">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Cricket">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Fishing">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Football (American)">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Golf">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Hockey">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Horse / Derby">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Hunting">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Off-Road / Monster Truck">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Olympiad">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Paintball">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Ping Pong/Table Tennis">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Pool / Snooker">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Rugby">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Sailing / Boating">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Skateboarding">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Snowboarding / Skiing">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Soccer / Football (European)">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Surfing">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Tennis">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Tricks / Stunts">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Volleyball">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Wakeboarding">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Wrestling">
+      <Flag Name="Sport"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Adult">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Anime / Manga">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Comics">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Cyberpunk / Dark Sci-Fi">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Detective / Mystery">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Fantasy">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Historical Battle (specific/exact)">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Horror">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Martial Arts">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Meditative / Zen">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Naval">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Persistent Universe">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Post-Apocalyptic">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Sci-Fi / Futuristic">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Spy / Espionage">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Video Backdrop">
+      <Flag Name="Theme"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Helicopter">
+      <Flag Name="Vehicle"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Motorcycle">
+      <Flag Name="Vehicle"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Tank">
+      <Flag Name="Vehicle"/>
+    </WebScraperGenre>
+    <WebScraperGenre Name="Train">
+      <Flag Name="Vehicle"/>
+    </WebScraperGenre>
+  </Genres>
+  <Parameters>
+    <Parameter Name="PLATFORMID" Type="Page"/>
+    <Parameter Name="PLATFORMURL" Type="Page"/>
+    <Parameter Name="OFFSET" Type="Page"/>
+    <Parameter Name="PLATFORMID" Type="Page"/>
+    <Parameter Name="GAMENAME" Type="Page"/>
+    <Parameter Name="RELEASENAME" Type="Path"/>
+    <Parameter Name="RELEASEREGION" Type="Path"/>
+    <Parameter Name="GAMEURL" Type="Page"/>
+    <Parameter Name="IMAGEURL" Type="Page"/>
+  </Parameters>
+  <Parsers>
+    <WebPageParser>
+      <Name>Search Results</Name>
+      <URL>http://www.mobygames.com/search/quick?q=GAMENAME&amp;p=PLATFORMID&amp;search=Go&amp;sFilter=1&amp;sG=on</URL>
+      <Parser>
+        <StartNode>searchResults</StartNode>
+        <Table>
+          <Name>Search Results</Name>
+          <Columns>
+            <Column>MatchRating</Column>
+            <Column>Platform</Column>
+            <Column>Title</Column>
+            <Column>URL</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>./div//div[@class='searchResult']</Path>
+              <EndOfParsing>false</EndOfParsing>
+              <Patterns>
+                <Pattern>
+                  <Path>./div[@class='searchNumber']</Path>
+                  <Regex>&lt;div class=&quot;searchNumber&quot;&gt;(?&lt;MatchRating&gt;.+)\.&lt;\/div&gt;</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>./div[@class='searchData']</Path>
+                  <EndOfParsing>false</EndOfParsing>
+                  <Patterns>
+                      <Pattern>
+                        <Path>./div[@class='searchTitle']/a</Path>
+                        <Regex>&lt;a href=&quot;(?&lt;URL&gt;.+?)&quot;&gt;(?&lt;Title&gt;.+?)&lt;\/a&gt;</Regex>
+                        <EndOfParsing>false</EndOfParsing>
+                      </Pattern>
+                      <Pattern>
+                        <Path>./div[@class='searchDetails']/span</Path>
+                        <Regex>&lt;span .+?&gt;(?&lt;Platform&gt;.+?)\s\(&lt;em&gt;.*&lt;\/em&gt;\)&lt;\/span&gt;</Regex>
+                        <EndOfParsing>true</EndOfParsing>
+                      </Pattern>
+                  </Patterns>
+                </Pattern>
+              </Patterns>
+            </Pattern>
+          </Patterns>
+        </Table>
+      </Parser>
+    </WebPageParser>
+    <WebPageParser>
+      <Name>Game Data</Name>
+      <URL>http://www.mobygames.comGAMEURL</URL>
+      <Parser>
+        <StartNode>main</StartNode>
+        <Table>
+          <Name>Genres</Name>
+          <Columns>
+            <Column>Genre</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>//div[@id="coreGameGenre"]/div/div/a</Path>
+              <Regex>&lt;a href=.+?&gt;(?&lt;Genre&gt;.+?)&lt;\/a&gt;</Regex>
+              <EndOfParsing>true</EndOfParsing>
+            </Pattern>
+          </Patterns>
+        </Table>
+        <Table>
+          <Name>Plot</Name>
+          <Columns>
+            <Column>Plot</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>//div[@class="col-md-8 col-lg-8"]/div[@id="ctrq"]/following-sibling::h2[text()="Description"]/following-sibling::node()[not(self::div) and not(preceding-sibling::div[@class="sideBarLinks"])]/descendant-or-self::text()</Path>
+              <Regex>(?ms)^(?:&lt;.+?&gt;)?(?&lt;Plot&gt;.+?)(?:&lt;\/.+?&gt;|$)</Regex>
+              <EndOfParsing>true</EndOfParsing>
+            </Pattern>
+          </Patterns>
+        </Table>
+        <Table>
+          <Name>Developers</Name>
+          <Columns>
+            <Column>Developer</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>//div[@id="coreGameRelease"]/div[text()="Developed by"]/following-sibling::div[1]/a</Path>
+              <Regex>&lt;a href=.+?&gt;(?&lt;Developer&gt;.+?)&lt;\/a&gt;</Regex>
+              <EndOfParsing>true</EndOfParsing>
+            </Pattern>
+          </Patterns>
+        </Table>
+        <Table>
+          <Name>Ratings</Name>
+          <Columns>
+            <Column>Rating</Column>
+            <Column>Max</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>//div[@id="coreGameScore"]/div[1]/text()</Path>
+              <Regex>^(?&lt;Rating&gt;[\d|\.]+?)$</Regex>
+              <EndOfParsing>true</EndOfParsing>
+            </Pattern>
+          </Patterns>
+        </Table>
+      </Parser>
+    </WebPageParser>
+    <WebPageParser>
+      <Name>Release Data</Name>
+      <URL>http://www.mobygames.comGAMEURL/release-info</URL>
+      <Parser>
+        <StartNode>main</StartNode>
+        <Table>
+          <Name>Releases</Name>
+          <Columns>
+            <Column>Publisher</Column>
+            <Column>Developer</Column>
+            <Column>Distributor</Column>
+            <Column>Name</Column>
+            <Column>Region</Column>
+            <Column>ProductId</Column>
+            <Column>Barcode</Column>
+            <Column>ReleaseDate</Column>
+            <Column>Rating</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>//div[@class="floatholder relInfo"][div[@class="relInfoTitle"][text()="Country" or text()="Countries"]]/div[@class="relInfoDetails"]/span/img</Path>
+              <EndOfParsing>false</EndOfParsing>
+              <Patterns>
+                <Pattern>
+                  <Path>parent::span/parent::div/parent::div/following-sibling::div[div[@class="relInfoTitle"][text()="Nintendo Media PN"]]/div[@class="relInfoDetails"]/text()</Path>
+                  <Regex>(?&lt;ProductId&gt;.*)</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>parent::span/parent::div/parent::div/following-sibling::div[div[@class="relInfoTitle"][text()="EAN-13" or text()="UPC/A"]]/div[@class="relInfoDetails"]/text()</Path>
+                  <Regex>(?&lt;Barcode&gt;.*)</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>parent::span/parent::div/parent::div/following-sibling::div[div[@class="relInfoTitle"][text()="Release Date"]]/div[@class="relInfoDetails"]/text()</Path>
+                  <Regex>(?&lt;ReleaseDate&gt;.*)</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>parent::span/parent::div/parent::div/parent::div/preceding-sibling::div[div[text()="Distributed by"]][1]/a/text()</Path>
+                  <Regex>(?&lt;Distributor&gt;.*)</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>parent::span/parent::div/parent::div/parent::div/preceding-sibling::div[div[text()="Developed by"]][1]/a/text()</Path>
+                  <Regex>(?&lt;Developer&gt;.*)</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>                
+                <Pattern>
+                  <Path>parent::span/parent::div/parent::div/parent::div/preceding-sibling::div[div[text()="Published by"]][1]/a/text()</Path>
+                  <Regex>(?&lt;Publisher&gt;.*)</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>parent::span/text()</Path>
+                  <Regex>^\s*(?&lt;Region&gt;.+?),?$</Regex>
+                  <EndOfParsing>true</EndOfParsing>
+                </Pattern>
+              </Patterns>
+            </Pattern>
+          </Patterns>
+        </Table>
+      </Parser>
+    </WebPageParser>
+    <WebPageParser>
+      <Name>Release Images</Name>
+      <URL>http://www.mobygames.comGAMEURL/cover-art</URL>
+      <Parser>
+        <StartNode>main</StartNode>
+        <Table>
+          <Name>Images</Name>
+          <Columns>
+            <Column>Type</Column>
+            <Column>URL</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>//div[@class="row"][preceding-sibling::div[@class="coverHeading"]//td[text()="Country" or text()="Countries"]/following-sibling::td[2]/span[text() = "RELEASEREGION "]][1]//a[@class="thumbnail-cover"]</Path>
+              <Regex>style=&quot;background-image:url\((?&lt;URL&gt;.+?)\);&quot;</Regex>
+              <EndOfParsing>false</EndOfParsing>
+              <Patterns>
+                <Pattern>
+                  <Path>parent::div/following-sibling::div[@class="thumbnail-cover-caption"][1]/p/text()</Path>
+                  <Regex>(?:^|(?:[.!?]\s))(?&lt;Type&gt;\w+)</Regex>
+                  <EndOfParsing>true</EndOfParsing>
+                </Pattern>                
+              </Patterns>
+            </Pattern>
+          </Patterns>
+        </Table>
+      </Parser>
+    </WebPageParser>
+    <WebPageParser>
+      <Name>Game List Pages</Name>
+      <URL>http://www.mobygames.com/browse/games/PLATFORMURL/list-games/</URL>
+      <Parser>
+        <StartNode>main</StartNode>
+        <Table>
+          <Name>Game List Pages</Name>
+          <Columns>
+            <Column>Current</Column>
+            <Column>Pages</Column>
+            <Column>Start</Column>
+            <Column>End</Column>
+            <Column>Total</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>//td[@class="mobHeaderItems"]/text()</Path>
+              <Regex>\(items (?&lt;Start&gt;\d+?)-(?&lt;End&gt;\d+?) of (?&lt;Total&gt;\d+?)\)</Regex>
+              <EndOfParsing>false</EndOfParsing>
+            </Pattern>
+            <Pattern>
+              <Path>//td[@class="mobHeaderPage"]/text()</Path>
+              <Regex>Viewing (?:Page (?&lt;Current&gt;\d+?) of (?&lt;Pages&gt;\d+?)|all (?&lt;Total&gt;\d+?) items)$</Regex>
+              <EndOfParsing>true</EndOfParsing>
+            </Pattern>
+          </Patterns>          
+        </Table>
+      </Parser>
+    </WebPageParser>
+    <WebPageParser>
+      <Name>Game List</Name>
+      <URL>http://www.mobygames.com/browse/games/PLATFORMURL/offset,OFFSET/so,0a/list-games/</URL>
+      <Parser>
+        <StartNode>mof_object_list</StartNode>
+        <Table>
+          <Name>Game List</Name>
+          <Columns>
+            <Column>Title</Column>
+            <Column>Year</Column>
+            <Column>Publisher</Column>
+            <Column>Genre</Column>
+            <Column>URL</Column>
+          </Columns>
+          <Patterns>
+            <Pattern>
+              <Path>//tr</Path>
+              <EndOfParsing>false</EndOfParsing>
+              <Patterns>
+                <Pattern>
+                  <Path>td[1]/a[1]</Path>
+                  <Regex>&lt;a href=&quot;(?&lt;URL&gt;.+?)&quot;&gt;(?&lt;Title&gt;.+?)&lt;\/a&gt;</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>td[2]/a[1]/text()</Path>
+                  <Regex>(?&lt;Year&gt;.*)</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>td[3]/a[1]/text()</Path>
+                  <Regex>(?&lt;Publisher&gt;.*)</Regex>
+                  <EndOfParsing>false</EndOfParsing>
+                </Pattern>
+                <Pattern>
+                  <Path>td[4]/a[1]/text()</Path>
+                  <Regex>(?&lt;Genre&gt;.*)</Regex>
+                  <EndOfParsing>true</EndOfParsing>
+                </Pattern>          
+              </Patterns>
+            </Pattern>
+          </Patterns>
+        </Table>
+      </Parser>
+    </WebPageParser>
+  </Parsers>
+</WebScraper>

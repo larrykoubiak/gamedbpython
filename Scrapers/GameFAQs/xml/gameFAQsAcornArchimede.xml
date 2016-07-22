@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="3D Construction Kit" URL="/arch/959689-3d-construction-kit">
+		<Description>You can design a car, house, aeroplane (or whatever you want!) and then walk around it. See what it looks like from any angle. Change it. Add color, detail, animation. The possibilities are endless. And it's ideal for creating games. If you're not artistic, don't worry - there are lots of objects already included in the kit for you to use in your plans, but it's simple to create your own if you want. So, if you enjoy playing games, but want to use your computer's real capabilities for a change, this is a perfect opportunity.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Domark</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="3D Construction Kit" region="EU">
+			<ReleasePublisher>Domark</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/01/91</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Acorn Archimedes" URL="/arch/951939-acorn-archimedes">
+		<Description>Acorn Archimedes is a Hardware game, developed and published by Acorn Computers Ltd,  which was released in Europe in 1987.</Description>
+		<UserRating>4.71 / 5</UserRating>
+		<AKA>Acorn Archimedes A310 (EU), Acorn Archimedes 410 (EU), Acorn Archimedes A3000 (EU), Acorn Archimedes A3010 (EU), Acorn Archimedes 540/1 (EU), Acorn Archimedes A5000 (EU), Acorn Archimedes A4000 (EU)</AKA>
+		<Developer>Acorn Computers Ltd</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Acorn Archimedes A310" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 410" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1989</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 540/1" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3010" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A5000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1991</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A4000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Acorn Archimedes 410" URL="/arch/951939-acorn-archimedes">
+		<Description>Acorn Archimedes is a Hardware game, developed and published by Acorn Computers Ltd,  which was released in Europe in 1987.</Description>
+		<UserRating>4.71 / 5</UserRating>
+		<AKA>Acorn Archimedes A310 (EU), Acorn Archimedes 410 (EU), Acorn Archimedes A3000 (EU), Acorn Archimedes A3010 (EU), Acorn Archimedes 540/1 (EU), Acorn Archimedes A5000 (EU), Acorn Archimedes A4000 (EU)</AKA>
+		<Developer>Acorn Computers Ltd</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Acorn Archimedes A310" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 410" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1989</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 540/1" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3010" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A5000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1991</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A4000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Acorn Archimedes 540/1" URL="/arch/951939-acorn-archimedes">
+		<Description>Acorn Archimedes is a Hardware game, developed and published by Acorn Computers Ltd,  which was released in Europe in 1987.</Description>
+		<UserRating>4.71 / 5</UserRating>
+		<AKA>Acorn Archimedes A310 (EU), Acorn Archimedes 410 (EU), Acorn Archimedes A3000 (EU), Acorn Archimedes A3010 (EU), Acorn Archimedes 540/1 (EU), Acorn Archimedes A5000 (EU), Acorn Archimedes A4000 (EU)</AKA>
+		<Developer>Acorn Computers Ltd</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Acorn Archimedes A310" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 410" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1989</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 540/1" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3010" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A5000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1991</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A4000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Acorn Archimedes A3000" URL="/arch/951939-acorn-archimedes">
+		<Description>Acorn Archimedes is a Hardware game, developed and published by Acorn Computers Ltd,  which was released in Europe in 1987.</Description>
+		<UserRating>4.71 / 5</UserRating>
+		<AKA>Acorn Archimedes A310 (EU), Acorn Archimedes 410 (EU), Acorn Archimedes A3000 (EU), Acorn Archimedes A3010 (EU), Acorn Archimedes 540/1 (EU), Acorn Archimedes A5000 (EU), Acorn Archimedes A4000 (EU)</AKA>
+		<Developer>Acorn Computers Ltd</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Acorn Archimedes A310" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 410" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1989</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 540/1" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3010" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A5000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1991</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A4000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Acorn Archimedes A3010" URL="/arch/951939-acorn-archimedes">
+		<Description>Acorn Archimedes is a Hardware game, developed and published by Acorn Computers Ltd,  which was released in Europe in 1987.</Description>
+		<UserRating>4.71 / 5</UserRating>
+		<AKA>Acorn Archimedes A310 (EU), Acorn Archimedes 410 (EU), Acorn Archimedes A3000 (EU), Acorn Archimedes A3010 (EU), Acorn Archimedes 540/1 (EU), Acorn Archimedes A5000 (EU), Acorn Archimedes A4000 (EU)</AKA>
+		<Developer>Acorn Computers Ltd</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Acorn Archimedes A310" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 410" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1989</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 540/1" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3010" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A5000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1991</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A4000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Acorn Archimedes A310" URL="/arch/951939-acorn-archimedes">
+		<Description>Acorn Archimedes is a Hardware game, developed and published by Acorn Computers Ltd,  which was released in Europe in 1987.</Description>
+		<UserRating>4.71 / 5</UserRating>
+		<AKA>Acorn Archimedes A310 (EU), Acorn Archimedes 410 (EU), Acorn Archimedes A3000 (EU), Acorn Archimedes A3010 (EU), Acorn Archimedes 540/1 (EU), Acorn Archimedes A5000 (EU), Acorn Archimedes A4000 (EU)</AKA>
+		<Developer>Acorn Computers Ltd</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Acorn Archimedes A310" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 410" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1989</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 540/1" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3010" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A5000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1991</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A4000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Acorn Archimedes A4000" URL="/arch/951939-acorn-archimedes">
+		<Description>Acorn Archimedes is a Hardware game, developed and published by Acorn Computers Ltd,  which was released in Europe in 1987.</Description>
+		<UserRating>4.71 / 5</UserRating>
+		<AKA>Acorn Archimedes A310 (EU), Acorn Archimedes 410 (EU), Acorn Archimedes A3000 (EU), Acorn Archimedes A3010 (EU), Acorn Archimedes 540/1 (EU), Acorn Archimedes A5000 (EU), Acorn Archimedes A4000 (EU)</AKA>
+		<Developer>Acorn Computers Ltd</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Acorn Archimedes A310" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 410" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1989</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 540/1" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3010" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A5000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1991</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A4000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Acorn Archimedes A5000" URL="/arch/951939-acorn-archimedes">
+		<Description>Acorn Archimedes is a Hardware game, developed and published by Acorn Computers Ltd,  which was released in Europe in 1987.</Description>
+		<UserRating>4.71 / 5</UserRating>
+		<Developer>Acorn Computers Ltd</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Acorn Archimedes A310" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 410" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>July 1987</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>May 1989</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes 540/1" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>June 1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A3010" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A5000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1991</ReleaseDate>
+		</Release>
+		<Release name="Acorn Archimedes A4000" region="EU">
+			<ReleasePublisher>Acorn Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Agressor" URL="/arch/961471-agressor">
+		<Description>Agressor is an Action game, developed and published by Atomic Software,  which was released in Europe in 1992.</Description>
+		<Developer>Atomic Software</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Agressor" region="EU">
+			<ReleasePublisher>Atomic Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Alerion" URL="/arch/961472-alerion">
+		<Description>Alerion is an Action game, developed and published by Archimedes World,  which was released in Europe in 1994.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Archimedes World</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Alerion" region="EU">
+			<ReleasePublisher>Archimedes World</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Alien Invasion" URL="/arch/961473-alien-invasion">
+		<Description>Alien Invasion is an Action game, developed and published by Alien Images,  which was released in Europe in 1990.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Alien Images</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Alien Invasion" region="EU">
+			<ReleasePublisher>Alien Images</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Aliped" URL="/arch/961474-aliped">
+		<Description>Aliped is an Adventure game, developed and published by Archimedes World,  which was released in Europe in 1990.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Archimedes World</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Aliped" region="EU">
+			<ReleasePublisher>Archimedes World</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="All-In Boxing" URL="/arch/952134-all-in-boxing">
+		<Description>All-In Boxing is a Sports game, developed by Alien Images and published by Archimedes World,  which was released in Europe in 1994.</Description>
+		<UserRating>3.40 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Alien Images</Developer>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Boxing / Martial Arts</Genre>
+		<Release name="All-In Boxing" region="EU">
+			<ReleasePublisher>Archimedes World</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Alone in the Dark" URL="/arch/961619-alone-in-the-dark">
+		<Description>A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. This is Derceto, legendary Louisiana mansion - where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. But, you didn't know that by entering Derceto, you'd be plunged into the daily nightmare that was Jeremy Hartwood's life. You weren't prepared for the torturous howls that resound from deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, the heavy sense of evil that fills the atmosphere and teh very house itself. Had you known, you might have refused your task. But alas, you accepted, and now you must make your way through this spine-tingling adventure alone... and in the dark.</Description>
+		<UserRating>0.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>I*Motion</Developer>
+		<Franchise>Alone in the Dark</Franchise>
+		<Genre>Action Adventure &gt; Survival</Genre>
+		<Release name="Alone in the Dark" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alone in the Dark (EU)-24707_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Ankh: The Tales of Mystery" URL="/arch/961402-ankh-the-tales-of-mystery">
+		<Description>Ankh: The Tales of Mystery is an Action game, developed by Artex Software and published by R-Comp,  which was released in Europe in 1998.</Description>
+		<Developer>Artex Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 3D</Genre>
+		<Release name="Ankh: The Tales of Mystery" region="EU">
+			<ReleasePublisher>R-Comp</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1998</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Apocalypse" URL="/arch/961403-apocalypse">
+		<Description>Apocalypse is an Action game, developed and published by 4th Dimension,  which was released in Europe in 1990.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>4th Dimension</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Apocalypse" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Asylum" URL="/arch/971485-asylum">
+		<Description>Asylum is an Action game, developed and published by Digital Psychosis,  which was released in Europe in 1993.</Description>
+		<Developer>Digital Psychosis</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Asylum" region="EU">
+			<ReleasePublisher>Digital Psychosis</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/22/93</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Battle Chess" URL="/arch/971710-battle-chess">
+		<Description>An entire medieval world at war on the checkered field! Only Battle Chess combines a magnificent chess logic system with colorful and dramatic 3D animations. Featuring 10 levels of play and an opening library of 30,000 moves challenging the most sophisticated players. Play against the computer or your friend or let the computer play against itself.</Description>
+		<UserRating>4.14 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>70.5 hours</Length>
+		<Developer>Interplay</Developer>
+		<Franchise>Battle Chess</Franchise>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Battle Chess" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Battle Chess (EU)-125719_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Birds of War" URL="/arch/961620-birds-of-war">
+		<Description>Birds of War is a Simulation game, developed and published by 4th Dimension,  which was released in Europe in 1993.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>4th Dimension</Developer>
+		<Genre>Simulation &gt; General</Genre>
+		<Release name="Birds of War" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Blitz" URL="/arch/961711-blitz">
+		<Description>Blitz is an Action game, developed and published by Arxe Systems,  which was released in Europe in 1991.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Arxe Systems</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Blitz" region="EU">
+			<ReleasePublisher>Arxe Systems</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Bobby Blockhead vs. The Dark Planet" URL="/arch/961712-bobby-blockhead-vs-the-dark-planet">
+		<Description>Bobby Blockhead vs. The Dark Planet is an Action game, developed and published by Atomic Software,  which was released in Europe in 1991.</Description>
+		<UserRating>0.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Atomic Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Bobby Blockhead vs. The Dark Planet" region="EU">
+			<ReleasePublisher>Atomic Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Break 147" URL="/arch/961621-break-147">
+		<Description>Break 147 is a Sports game, developed and published by 4th Dimension,  which was released in Europe in 1991.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Break 147" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Bug Hunter / Moondash" URL="/arch/952808-bug-hunter-moondash">
+		<Description>Bug Hunter: Bug hunter 'Hysteron Proteron' not the eight foot killing machine designed but a six inch biped with a large mouth and an irrational dislike for insects. Can this mutant reject show its value as an insect exterminator? Work your way through the house dropping objects on the bugs to kill them. Don't forget that with your suckered feet walls are no object!
+Moon Dash: Out testing a new planet ranger ship you run into hundreds of alien Judhs on their way to destroy the earth colon Kamkol 4. You are attacked but manage to escape. Your radio is out of action but can you get safely back through 16 zones before the aliens to warn the city of the impending attack.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Minerva</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Bug Hunter / Moondash" region="EU">
+			<ReleasePublisher>Minerva</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bug Hunter  Moondash (EU)-103709_front.jpg</Image>
+				<Image>Bug Hunter  Moondash (EU)-103709_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Bug Hunter In Space" URL="/arch/957597-bug-hunter-in-space">
+		<Description>Bug Hunter In Space is a Puzzle game, developed and published by Minerva,  which was released in Europe in 1990.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Minerva</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Bug Hunter In Space" region="EU">
+			<ReleasePublisher>Minerva</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Burn Out" URL="/arch/975328-burn-out">
+		<Description>Burn Out is a Racing game, developed and published by Oregan Software Developments,  which was released in Europe in 1995.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7 hours</Length>
+		<Developer>Oregan Software Developments</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Burn Out" region="EU">
+			<ReleasePublisher>Oregan Software Developments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Cadaver" URL="/arch/961475-cadaver">
+		<Description>Cadaver is an Action Adventure game, developed and published by The Bitmap Brothers,  which was released in Europe in 1990.</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Cadaver" region="EU">
+			<ReleasePublisher>The Bitmap Brothers</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Cadaver: The Payoff" URL="/arch/961476-cadaver-the-payoff">
+		<Description>Cadaver: The Payoff is an Action Adventure game, developed and published by The Bitmap Brothers,  which was released in Europe in 1991.</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Cadaver: The Payoff" region="EU">
+			<ReleasePublisher>The Bitmap Brothers</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Cannon Fodder" URL="/arch/961531-cannon-fodder">
+		<Description>Cannon Fodder is a Strategy game, developed by Sensible Software and published by Krisalis Software,  which was released in Europe in 1994.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Sensible Software</Developer>
+		<Genre>Strategy &gt; Real-Time &gt; General</Genre>
+		<Release name="Cannon Fodder" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Cataclysm" URL="/arch/961622-cataclysm">
+		<Description>Cataclysm is a Puzzle game, developed and published by 4th Dimension,  which was released in Europe in 1991.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Cataclysm" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Chaos Engine, The" URL="/arch/961193-the-chaos-engine">
+		<Description>Sometime during the last century, an experimenter with time, space and early computers created a bizarre machine. The inventor's name was Baron Fortesque. The machine was... The Chaos Engine. Although primitive, the machine became incredibly powerful and went crazy, turning ordinary humans and household pets into razor-toothed, armor-plated killing machines. Enter 6 hard-nailed mercenaries for hire. These ball-breakers are armed to the teeth with over 25 weapons and a host of special destructive devices specific to their class. Select 2 characters to form your party and enter the World of Chaos. The sprawling adventure covers 4 graphic worlds and 16 levels loaded with fiendish traps, puzzles and secret passages. Get your hands on sawn-off shotguns, molotov cocktails and a huge amount of armament, and buy, blag or blast your way through hordes of different monsters to do battle with the ultimate killing machine, THE CHAOS ENGINE!</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>The Bitmap Brothers</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="The Chaos Engine" region="EU">
+			<ReleasePublisher>R-Comp</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2000</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Chess 3D" URL="/arch/971486-chess-3d">
+		<Description>Chess 3D is a Miscellaneous game, developed and published by Micro Power,  which was released in Europe in 1991.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Micro Power</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Chess 3D" region="EU">
+			<ReleasePublisher>Micro Power</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/04/91</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Chocks Away" URL="/arch/961532-chocks-away">
+		<Description>Chocks Away is a Simulation game, developed and published by 4th Dimension,  which was released in Europe in 1990.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Simulation &gt; Flight &gt; Combat</Genre>
+		<Release name="Chocks Away" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Chuck Rock" URL="/arch/971487-chuck-rock">
+		<Description>Chuck Rock hasn't been the same since his long-time rival in love, the evil Gary Gritter, kidnapped his wife, the beautiful Ophelia. Help Chuck in his quest to rescure Ophelia from the clutches of the evil Gary. Kick, throw rocks and belly-butt your way through a multitude of comical zones featuring 500 screens of exciting and addictive gameplay.</Description>
+		<Developer>Krisalis Software</Developer>
+		<Franchise>Chuck Rock</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Chuck Rock" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Corruption" URL="/arch/961623-corruption">
+		<Description>Power. Profit. Double-dealing and deceit. The name of the game is Corruption. It's a fast-paced thriller, a battle of wits and wills like nothing you've ever played. With extraordinary graphics and an amazing vocabulary, it's illustrated interactive fiction at its best! Compelling adventure tests your skill at manipulating characters and extracting information to solve the puzzle. Expansive vocabulary lets you interact with over 15 characters in everyday language. Powerful graphics reflecting the financial world and underworld of London.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Magnetic Scrolls Ltd.</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Corruption" region="EU">
+			<ReleasePublisher>Superior Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Crystal Maze, The" URL="/arch/961500-the-crystal-maze">
+		<Description>The Crystal Maze is a Puzzle game, developed and published by Sherston Software,  which was released in Europe in 1993.</Description>
+		<Developer>Sherston Software</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="The Crystal Maze" region="EU">
+			<ReleasePublisher>Sherston Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Crystal Maze (EU)-115212_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Cycloids" URL="/arch/961477-cycloids">
+		<Description>Cycloids is an Action game, developed by Software 42 and published by Eclipse,  which was released in Europe in 1993.</Description>
+		<Developer>Software 42</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Cycloids" region="EU">
+			<ReleasePublisher>Eclipse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="DarkWood" URL="/arch/961479-darkwood">
+		<Description>DarkWood is an Action game, developed and published by Eclipse,  which was released in Europe in 1995.</Description>
+		<Developer>Eclipse</Developer>
+		<Genre>Action &gt; Platformer &gt; 3D</Genre>
+		<Release name="DarkWood" region="EU">
+			<ReleasePublisher>Eclipse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Deeva" URL="/arch/961713-deeva">
+		<Description>Deeva is an Action game, developed and published by Calderglen Computers Ltd,  which was released in Europe in 1990.</Description>
+		<Developer>Calderglen Computers Ltd</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Deeva" region="EU">
+			<ReleasePublisher>Calderglen Computers Ltd</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Descent" URL="/arch/961405-descent">
+		<Description>Welcome to Descent™ - 30 levels of the most mind-bending, stomach-churning action game ever. Featuring true 3-Dimensional worlds with light source shading, texture mapping, 3-D morphing, directional sound effects and sizzling music, this is technology taken to the limit.
+You begin deep below the surface of Lunar Base I where on unknown alien race has taken over the chasm of the Post-Terran Mining Corporation. Lunge straight down mine shafts, twist around never-ending tunnels and fight your way past robotic menaces in an environment that's truly 360° 3-D... move up, move down shoot everything everywhere. Hang onto your senses (and your lunch) as you drop straight down mine shafts on a ride that'll leave you spinning.
+And what's the good of losing your mind if you can't share the experience with your friends? Descent invites you and your buddies to dive into the action together with head-to-head combat and cooperative two-player modem and eight-player network support.</Description>
+		<Developer>Parallax Software</Developer>
+		<Franchise>Descent</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Descent" region="EU">
+			<ReleasePublisher>Interplay</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/17/95</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Descent II" URL="/arch/961404-descent-ii">
+		<Description>Descent II is an Action game, developed by Parallax Software and published by Interplay,  which was released in Europe in 1996.</Description>
+		<Developer>Parallax Software</Developer>
+		<Franchise>Descent</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Descent II" region="EU">
+			<ReleasePublisher>Interplay</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/13/96</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Diggers" URL="/arch/961406-diggers">
+		<Description>Diggers is a Puzzle game, developed and published by Millenium Interactive,  which was released in Europe in 1993.</Description>
+		<Developer>Millenium Interactive</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Diggers" region="EU">
+			<ReleasePublisher>Millenium Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Doom" URL="/arch/974834-doom">
+		<Description>All Hell has run amok! Monstrous demons from another dimension use their gruesome talents to turn your space station into a blood-splattered slaughterhouse.</Description>
+		<UserRating>1.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>id Software</Developer>
+		<Franchise>Doom</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Doom" region="EU">
+			<ReleasePublisher>R-Comp</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1998</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Doom +" URL="/arch/974835-doom-">
+		<Description>Doom + is an Action game, developed by id Software and published by R-Comp,  which was released in Europe in 1998.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>id Software</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Doom +" region="EU">
+			<ReleasePublisher>R-Comp</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1998</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Drifer" URL="/arch/961624-drifer">
+		<Description>Drifer is a Racing game, developed and published by 4th Dimension,  which was released in Europe in 1997.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Racing &gt; Arcade &gt; Futuristic</Genre>
+		<Release name="Drifer" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Drop Ship" URL="/arch/961625-drop-ship">
+		<Description>Drop Ship is an Action game, developed and published by 4th Dimension,  which was released in Europe in 1990.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Drop Ship" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Dune II: The Battle for Arrakis" URL="/arch/975329-dune-ii-the-battle-for-arrakis">
+		<Description>Dune II: The Battle for Arrakis is a Strategy game, developed by 7th ARM Systems and published by Eclipse,  which was released in Europe in 1995.</Description>
+		<Developer>7th ARM Systems</Developer>
+		<Franchise>Dune</Franchise>
+		<Genre>Strategy &gt; Real-Time &gt; Command</Genre>
+		<Release name="Dune II: The Battle for Arrakis" region="EU">
+			<ReleasePublisher>Eclipse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Dungeon, The" URL="/arch/961634-the-dungeon">
+		<Description>The Dungeon is a Role-Playing game, developed and published by 4th Dimension,  which was released in Europe in 1993.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>4th Dimension</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="The Dungeon" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="E-Type" URL="/arch/961134-e-type">
+		<Description>E-Type is a Racing game, developed and published by 4th Dimension,  which was released in Europe in 1989.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="E-Type" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="E-Type 2" URL="/arch/961626-e-type-2">
+		<Description>E-Type 2 is a Racing game, developed and published by 4th Dimension,  which was released in Europe in 1994.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="E-Type 2" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Elite" URL="/arch/961407-elite">
+		<Description>Command your Cobra spaceship in a fantastic voyage of discovery and adventure, a supreme test of your combat , navigational and entrepreneurial skills. Trade between countless planets, using the proceeds to equip your ship with heat-seeking missiles, beam lasers and other weapons - corporate states can be approached without risk, but unruly anarchies may be swarming with space pirates. Black market trading can be lucrative but could result in skirmishes with local police and a price on your head! However you make your money, by fair means or foul, you must blast onwards through space annihilating pirate ships and hostile aliens as you strive to earn your reputation as one of the Elite!</Description>
+		<Developer>Acornsoft</Developer>
+		<Franchise>Elite</Franchise>
+		<Genre>Simulation &gt; Space &gt; Civilian</Genre>
+		<Release name="Elite" region="EU">
+			<ReleasePublisher>Acornsoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Enigma" URL="/arch/971499-enigma">
+		<Description>Enigma is a Puzzle game, developed by Trax Software and published by Archimedes World,  which was released in Europe in 1992.</Description>
+		<Developer>Trax Software</Developer>
+		<Genre>Puzzle &gt; Matching</Genre>
+		<Release name="Enigma" region="EU">
+			<ReleasePublisher>Archimedes World</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Enter The Realm" URL="/arch/961533-enter-the-realm">
+		<Description>Enter The Realm is an Action game, developed and published by 4th Dimension,  which was released in Europe in 1991.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Enter The Realm" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Fireball II" URL="/arch/961714-fireball-ii">
+		<Description>Fireball II is an Action game, developed and published by Cambridge International Software,  which was released in Europe in 1990.</Description>
+		<Developer>Cambridge International Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Fireball II" region="EU">
+			<ReleasePublisher>Cambridge International Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Fish!" URL="/arch/958748-fish">
+		<Description>Fish! is an Adventure game, developed and published by Magnetic Scrolls Ltd.,  which was released in Europe in 1990.</Description>
+		<Developer>Magnetic Scrolls Ltd.</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Fish!" region="EU">
+			<ReleasePublisher>Magnetic Scrolls Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Flashback" URL="/arch/961408-flashback-the-quest-for-identity">
+		<Description>Planet Titan: Brave mutants, robots, anti-matter fields and the primitive inhabitants as you find your way through the jungle. New Washington: First recover your memory, then go undercover to earn money. Finally, buy a false ID if you want to sneak back on Earth. Death Tower: Climb the 8 floors of the Death Tower labyrinth. Avoid the deadly Replicants and win a free ticket to Earth. Earth: Big trouble! The authorities have discovered your false ID and send robot cops to capture you. Paradise Club: You discovered the aliens' plans, but somehow end up being captured and mysteriously transported through space. Planet Morphs: You materialized on their home planet. Now all you have to do is destroy the Morphs and live to tell about it!</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>14 hours</Length>
+		<AKA>Flashback (EU)</AKA>
+		<Developer>Delphine Software International</Developer>
+		<Franchise>Flashback</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Flashback" region="EU">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Flashback: The Quest for Identity" URL="/arch/961408-flashback-the-quest-for-identity">
+		<Description>Planet Titan: Brave mutants, robots, anti-matter fields and the primitive inhabitants as you find your way through the jungle. New Washington: First recover your memory, then go undercover to earn money. Finally, buy a false ID if you want to sneak back on Earth. Death Tower: Climb the 8 floors of the Death Tower labyrinth. Avoid the deadly Replicants and win a free ticket to Earth. Earth: Big trouble! The authorities have discovered your false ID and send robot cops to capture you. Paradise Club: You discovered the aliens' plans, but somehow end up being captured and mysteriously transported through space. Planet Morphs: You materialized on their home planet. Now all you have to do is destroy the Morphs and live to tell about it!</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>14 hours</Length>
+		<AKA>Flashback (EU)</AKA>
+		<Developer>Delphine Software International</Developer>
+		<Franchise>Flashback</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Flashback" region="EU">
+			<ReleasePublisher>U.S. Gold</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Gods" URL="/arch/961478-gods">
+		<Description>A city lost in legend. An unconquered warrior seeking reward. A challenge laid down by the Gods. Taking the role of Hercules in the ultimate arcade adventure, you must scour the depths of an ancient city in your search for the great prize of immortality. Featuring 15 different weapon systems, 20 different potions and power-ups, and a host of intelligent monsters. Have you got what it takes to be a GOD?</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Gods" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>March 1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Gorm" URL="/arch/971500-gorm">
+		<Description>Gorm is an Adventure game, developed and published by Arcimedes World,  which was released in Europe in 1994.</Description>
+		<Developer>Arcimedes World</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Gorm" region="EU">
+			<ReleasePublisher>Arcimedes World</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/24/94</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Grevious Bodily 'Arm" URL="/arch/961627-grevious-bodily-arm">
+		<Description>Grevious Bodily 'Arm is an Action game, published by 4th Dimension,  which was released in Europe in 1992.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Action &gt; Beat-'Em-Up &gt; 2D</Genre>
+		<Release name="Grevious Bodily 'Arm" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Guile" URL="/arch/961715-guile">
+		<Description>Guile is an Action game, developed and published by Dream,  which was released in Europe in 1992.</Description>
+		<Developer>Dream</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Guile" region="EU">
+			<ReleasePublisher>Dream</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Hamsters" URL="/arch/961637-hamsters">
+		<Description>Hamsters is an Action game, developed by GamesWare and published by Eclipse,  which was released in Europe in 1994.</Description>
+		<Developer>GamesWare</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Hamsters" region="EU">
+			<ReleasePublisher>Eclipse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/08/94</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Haunted House" URL="/arch/961638-haunted-house">
+		<Description>Haunted House is an Adventure game, developed and published by 4th Dimension,  which was released in Europe in 2005.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Haunted House" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>2005</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="HeroQuest" URL="/arch/971488-heroquest">
+		<Description>HeroQuest, the best-selling role playing game has now been developed into an absorbing fantasy adventure game for your computer. Take up the challenge to become a Hero and enter the underground realm of the evil wizard Morcar. But beware, the unlit tunnels hold many dangers - terrible monsters, deadly traps and mysterious rooms.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Krisalis Software</Developer>
+		<Franchise>HeroQuest</Franchise>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="HeroQuest" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Hostages" URL="/arch/961409-hostages">
+		<Description>Hostages is an Action game, developed by Infogrames and published by Superior Software,  which was released in Europe in 1988.</Description>
+		<Developer>Infogrames</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hostages" region="EU">
+			<ReleasePublisher>Superior Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Ibix the Viking" URL="/arch/958749-ibix-the-viking">
+		<Description>Ibix the Viking is an Action Adventure game, developed and published by Minerva,  which was released in Europe in 1990.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Minerva</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Ibix the Viking" region="EU">
+			<ReleasePublisher>Minerva</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Inertia" URL="/arch/961189-inertia">
+		<Description>Inertia is an Action game, developed and published by 4th Dimension,  which was released in Europe in 1990.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Inertia" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Interdictor" URL="/arch/961536-interdictor">
+		<Description>Interdictor is a Simulation game, developed by Simis Ltd. and published by Clares Micro Supplies,  which was released in Europe in 1989.</Description>
+		<Developer>Simis Ltd.</Developer>
+		<Genre>Simulation &gt; Flight &gt; Combat</Genre>
+		<Release name="Interdictor" region="EU">
+			<ReleasePublisher>Clares Micro Supplies</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Iron Lord" URL="/arch/961190-iron-lord">
+		<Description>Iron Lord is a Strategy game, developed by Ubisoft and published by Cygnus,  which was released in Europe in 1990.</Description>
+		<Developer>Ubisoft</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Iron Lord" region="EU">
+			<ReleasePublisher>Cygnus</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Ixion" URL="/arch/961480-ixion">
+		<Description>Ixion is an Action game, developed by Software 42 and published by Eclipse,  which was released in Europe in 1992.</Description>
+		<Developer>Software 42</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Ixion" region="EU">
+			<ReleasePublisher>Eclipse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/13/92</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="James Pond" URL="/arch/961410-james-pond">
+		<Description>When oceans are threatened, only Pond has the guts to save the day! From plugging oil tankers to rescuing mermaids, no mission is too dangerous. He's fearless, he's daring, he's ozone friendly!</Description>
+		<Developer>Millennium</Developer>
+		<Franchise>James Pond</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="James Pond" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Jet Fighter" URL="/arch/971489-jet-fighter">
+		<Description>Jet Fighter is an Action game, developed and published by Minerva,  which was released in Europe in 1988.</Description>
+		<Developer>Minerva</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Jet Fighter" region="EU">
+			<ReleasePublisher>Minerva</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Jinxter" URL="/arch/961411-jinxter">
+		<Description>Just when a man thinks his luck is running out, things start getting even worse. He gets run over by a bus. Sprayed with cheese sandwich by a supernatural being. Smashed against a tunnel by a speeding train. He gets incinerated, widdled on, folded, bent, spindled, mutilated and generally mucked about with. And in return? He gets the leading role in a perplexing, hilarious race against time and chance, set in a jinxed land menaced by the impending death of good fortune. Look on the bright side - it could be your luckiest move yet. Don't expect tiresome trolls, obvious orcs, silly spells and wet, wimpish witches in JINXTER. Infuriating, enchanting, absurd and hilarious by turns, JINXTER will surprise you with every move you make. But don't forget: every silver lining has a cloud.</Description>
+		<Developer>Magnetic Scrolls Ltd.</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Jinxter" region="EU">
+			<ReleasePublisher>Rainbird</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Last Ninja, The" URL="/arch/961498-the-last-ninja">
+		<Description>The Last Ninja is an Action game, developed by System 3 and published by Superior Software,  which was released in Europe in 1989.</Description>
+		<Developer>System 3</Developer>
+		<Franchise>The Last Ninja</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The Last Ninja" region="EU">
+			<ReleasePublisher>Superior Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Lemmings 2" URL="/arch/961639-lemmings-2">
+		<Description>Lemmings 2 is a Puzzle game, developed by DMA Design and published by Krisalis Software,  which was released in Europe in 1991.</Description>
+		<Developer>DMA Design</Developer>
+		<Franchise>Lemmings</Franchise>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Lemmings 2" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Lotus Turbo Challenge 2" URL="/arch/961640-lotus-turbo-challenge-2">
+		<Description>Lotus Turbo Challenge 2 is a Racing game, developed by Magnetic Fields and published by Krisalis Software,  which was released in Europe in 1992.</Description>
+		<Developer>Magnetic Fields</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Lotus Turbo Challenge 2" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Mad Professor Mariarti" URL="/arch/961628-mad-professor-mariarti">
+		<Description>Mad Professor Mariarti is an Action game, developed and published by Krisalis Software,  which was released in Europe in 1990.</Description>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Mad Professor Mariarti" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Magic Pockets" URL="/arch/961483-magic-pockets">
+		<Description>Magic Pockets is arcade-style action at its best. Featuring stacks of levels to play through, heaps of weapons to attack with, swarms of intelligent nasties to battle, bonus games, secret rooms, and loads and loads of power-ups! Can you handle the fast and furious action of Magic Pockets?</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Magic Pockets" region="EU">
+			<ReleasePublisher>Renegade</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>October 1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Manchester United Europe" URL="/arch/971490-manchester-united-europe">
+		<Description>Manchester United Europe takes this world famous club into the European arena of club knockout competitions. Featuring a 4-player option, full goalkeeper control, new control method incorporating one touch football and aftertouch, substitutions, yellow and red cards, sending off, action replays, player statistics in competition, saved game options, penalty shoot-outs in cup competition, arcade-only option and  management-only option or full simulation option.</Description>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Manchester United Europe" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Marsquake" URL="/arch/961537-marsquake">
+		<Description>Marsquake is a Puzzle game, developed and published by Acorn User,  which was released in Europe in 1997.</Description>
+		<Developer>Acorn User</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Marsquake" region="EU">
+			<ReleasePublisher>Acorn User</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>September 1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="MiG-29 Fulcrum" URL="/arch/971491-mig-29-fulcrum">
+		<Description>So you want to be a combat pilot... Well, here's your chance to fly the Soviet Union's MiG-29 Fulcrum - probably the best fighter aircraft in the world. After years of research and development, Simis have produced a simulation which combines the thrills of combat with an unprecedentedly high level of unique and accurate detail. You will have to prove your skills in a series of gruelling missions based on real-life scenarios. MiG-29 is the ultimate military aviation experience which will test and stretch your skills like nothing before.</Description>
+		<Developer>Domark</Developer>
+		<Genre>Simulation &gt; Flight &gt; Combat</Genre>
+		<Release name="MiG-29 Fulcrum" region="EU">
+			<ReleasePublisher>Domark</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Moonquake" URL="/arch/961534-moonquake">
+		<Description>Moonquake is a Puzzle game, developed and published by Archimedes World,  which was released in Europe in 1992.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Archimedes World</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Moonquake" region="EU">
+			<ReleasePublisher>Archimedes World</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>December 1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Mr Doo" URL="/arch/971492-mr-doo">
+		<Description>Mr Doo is a Puzzle game, developed and published by Archimedes World,  which was released in Europe in 1994.</Description>
+		<Developer>Archimedes World</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Mr Doo" region="EU">
+			<ReleasePublisher>Archimedes World</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Nebulus" URL="/arch/961482-nebulus">
+		<Description>Nebulus is an Action game, developed by Hewson and published by Krisalis Software,  which was released in Europe in 1987.</Description>
+		<Developer>Hewson</Developer>
+		<Franchise>Nebulus</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Nebulus" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Nevryon" URL="/arch/961191-nevryon">
+		<Description>Nevryon is an Action game, developed and published by 4th Dimension,  which was released in Europe in 1990.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Nevryon" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Oddball" URL="/arch/961538-oddball">
+		<Description>Oddball is an Action game, developed and published by Digital Psychosis,  which was released in Europe in 1995.</Description>
+		<Developer>Digital Psychosis</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Oddball" region="EU">
+			<ReleasePublisher>Digital Psychosis</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/12/95</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Oh, No! More Lemmings!" URL="/arch/961481-oh-no-more-lemmings">
+		<Description>Oh, No! More Lemmings! is a Puzzle game, developed by DMA Design and published by Krisalis Software,  which was released in Europe in 1992.</Description>
+		<Developer>DMA Design</Developer>
+		<Franchise>Lemmings</Franchise>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Oh, No! More Lemmings!" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Pac-Mania" URL="/arch/961486-pac-mania">
+		<Description>You know Pac-Man, that world-famous, dot-munchin', maze-runnin' yella fella who's full of fun and frenzy. Now you can play Pac-Man like you've never played before - in spectacular 3-D! In Pac-Mania, everything on the screen comes alive! The lovable ghosts glide through the air. Dots and energizer pellets hang in midair. Pac-Man gets a new power: He can jump up and over ghosts! There's also a Pac Booster feature that lets you move Pac-Man at superspeed. You'll love the new challenging mazes - they come in so many mind-boggling shapes, they'll turn you into a certified Pac-Maniac!</Description>
+		<Developer>Namco</Developer>
+		<Franchise>Pac-Man</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Pac-Mania" region="EU">
+			<ReleasePublisher>Domark</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Pandora's Box" URL="/arch/961629-pandoras-box">
+		<Description>Pandora's Box is an Action game, developed and published by 4th Dimension,  which was released in Europe in 1991.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Action &gt; Platformer &gt; 3D</Genre>
+		<Release name="Pandora's Box" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Paradroid 2000" URL="/arch/961484-paradroid-2000">
+		<Description>Paradroid 2000 is an Action game, developed by Hewson and published by Coin-Age,  which was released in Europe in 1985.</Description>
+		<Developer>Hewson</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Paradroid 2000" region="EU">
+			<ReleasePublisher>Coin-Age</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Pawn, The" URL="/arch/961501-the-pawn">
+		<Description>Set in the mythical world of Kerovnia, this amusing and complex tale is subtle enough to appeal to the beginner and hardened adventurer alike. A revolutionary text-handling system allows input of complicated sentences and complete interaction with characters (including some very intelligent animals!). The Pawn represents all its characters and objects as if they existed in a real world, storing complex information about their attributes and properties linked to their particular position or context in the game. Your objectives are manyfold: The simplest is to escape from Kerovnia, but you will find others as you wander about the land and communicate with the characters you meet. The Pawn combines a rich text adventure with stunning color graphics and a language parser that will set the standards for years to come!</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Developer>Magnetic Scrolls Ltd.</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="The Pawn" region="EU">
+			<ReleasePublisher>Rainbird</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1986</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Phaethon" URL="/arch/971321-phaethon">
+		<Description>Phaethon is a Racing game, developed and published by System Interrupt,  which was released in Europe in 1993.</Description>
+		<Developer>System Interrupt</Developer>
+		<Genre>Racing &gt; General</Genre>
+		<Release name="Phaethon" region="EU">
+			<ReleasePublisher>System Interrupt</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Pipemania" URL="/arch/961485-pipemania">
+		<Description>Pipemania is a Puzzle game, developed by The Assembly Line and published by Empire Interactive,  which was released in Europe in 1990.</Description>
+		<Developer>The Assembly Line</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Pipemania" region="EU">
+			<ReleasePublisher>Empire Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Play it again Sam 2" URL="/arch/961488-play-it-again-sam-2">
+		<Description>Play it again Sam 2 is a Miscellaneous game, developed and published by Superior Software,  which was released in Europe in 1993.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Superior Software</Developer>
+		<Genre>Miscellaneous &gt; Compilation</Genre>
+		<Release name="Play it again Sam 2" region="EU">
+			<ReleasePublisher>Superior Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Poizone" URL="/arch/971501-poizone">
+		<Description>Poizone is an Action game, developed by ArcAngels and published by Eterna,  which was released in Europe in 1991.</Description>
+		<Developer>ArcAngels</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Poizone" region="EU">
+			<ReleasePublisher>Eterna</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Populous" URL="/arch/961487-populous">
+		<Description>The power of light or the force of darkness? You decide! The Ice World - One of the four totally different landscapes. Use Nature's Creations - Swamps, earthquakes or volcanoes... at your fingertips. The desert is a hostile territory - can you populate it? Your skill gives you the power.</Description>
+		<Developer>Bullfrog Productions</Developer>
+		<Franchise>Populous</Franchise>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Populous" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/05/89</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Powerband" URL="/arch/961631-powerband">
+		<Description>Powerband is a Racing game, developed and published by 4th Dimension,  which was released in Europe in 1990.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Racing &gt; Simulation &gt; Automobile</Genre>
+		<Release name="Powerband" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Quark" URL="/arch/971668-quark">
+		<Description>Quark is an Action game, developed and published by Oregan Software Developments,  which was released in Europe in 1993.</Description>
+		<Developer>Oregan Software Developments</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Quark" region="EU">
+			<ReleasePublisher>Oregan Software Developments</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Ravenskull" URL="/arch/961489-ravenskull">
+		<Description>Ravenskull is an Adventure game, developed and published by Superior Software,  which was released in Europe in 1997.</Description>
+		<Developer>Superior Software</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Ravenskull" region="EU">
+			<ReleasePublisher>Superior Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Repton 3" URL="/arch/961491-repton-3">
+		<Description>Repton 3 is a Puzzle game, developed by Superior Software and published by ProAction,  which was released in Europe in 1988.</Description>
+		<Developer>Superior Software</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Repton 3" region="EU">
+			<ReleasePublisher>ProAction</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Repton 4: Ego" URL="/arch/961490-repton-4-ego">
+		<Description>Repton 4: Ego is a Puzzle game, developed and published by Superior Software,  which was released in Europe in 1992.</Description>
+		<Developer>Superior Software</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Repton 4: Ego" region="EU">
+			<ReleasePublisher>Superior Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Rick Dangerous" URL="/arch/961492-rick-dangerous">
+		<Description>Rick Dangerous is an Action game, developed and published by Hitmen Software,  which was released in Europe in 1995.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Hitmen Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Rick Dangerous" region="EU">
+			<ReleasePublisher>Hitmen Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1995</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Saloon Cars Deluxe" URL="/arch/961192-saloon-cars-deluxe">
+		<Description>Saloon Cars Deluxe is a Racing game, developed and published by 4th Dimension,  which was released in Europe in 1992.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Saloon Cars Deluxe" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Sensible Soccer" URL="/arch/961494-sensible-soccer">
+		<Description>Sensible Soccer is a Sports game, developed by Sensible Software and published by Renegade,  which was released in Europe in 1992.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Sensible Software</Developer>
+		<Franchise>Sensible Soccer</Franchise>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="Sensible Soccer" region="EU">
+			<ReleasePublisher>Renegade</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="SimCity" URL="/arch/961493-simcity-1990">
+		<Description>With SIMCITY, take the destiny of the world's greatest cities in hand. Build houses, streets, factories, airports, and a stadium. You will have to fight crime and pollution, collect taxes and balance your budget. Everything is managed and animated in real time. Every decision influences instantly the life of your town. You will face crises, natural disasters (tornadoes, earthquakes, etc.), but - who knows - maybe one day you will finally get the city of your dreams. SIMCITY is an all-absorbing and unique game. It contains 8 pre-defined scenarios: e.g. San Francisco, Tokyo, Rio de Janeiro... But of course, you're free to plan your own city!</Description>
+		<AKA>SimCity (EU)</AKA>
+		<Developer>Superior Software</Developer>
+		<Franchise>SimCity</Franchise>
+		<Genre>Strategy &gt; Management &gt; Government</Genre>
+		<Release name="SimCity" region="EU">
+			<ReleasePublisher>Acornsoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="SimCity 2000" URL="/arch/961630-simcity-2000">
+		<Description>SimCity 2000 puts an entire city in the palm of your hand.  SimCity 2000 lets you create, build, and run a city of your own.  Take on the role as a mayor and call the shots for the entire city.  You'll have to keep up on the housing, industries, mass transportation, and commerce to attract potential citizens.  And just when you think you have it under control, a natural disaster or alien invasion may occur to set you back.  However, if you can conquer all of these problems, you just might be able to turn a small town into a thriving metropolis.</Description>
+		<Developer>Maxis</Developer>
+		<Franchise>SimCity</Franchise>
+		<Genre>Strategy &gt; Management &gt; Government</Genre>
+		<Release name="SimCity 2000" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Simon the Sorcerer" URL="/arch/971493-simon-the-sorcerer">
+		<Description>Simon the Sorcerer is an Adventure game, developed by Eclipse and published by GamesWare,  which was released in Europe in 1994.</Description>
+		<Developer>Eclipse</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Simon the Sorcerer" region="EU">
+			<ReleasePublisher>GamesWare</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/11/94</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Small" URL="/arch/961716-small">
+		<Description>Small is a Puzzle game, developed and published by Virgo Software,  which was released in Europe in 1993.</Description>
+		<Developer>Virgo Software</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Small" region="EU">
+			<ReleasePublisher>Virgo Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Speedball" URL="/arch/961496-speedball">
+		<Description>Speedball is a Sports game, developed by The Bitmap Brothers and published by Krisalis Software,  which was released in Europe in 1988.</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Franchise>Speedball</Franchise>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Speedball" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>November 1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Speedball 2: Brutal Deluxe" URL="/arch/961495-speedball-2-brutal-deluxe">
+		<Description>It's two years since the last ball was thrown on a Speedball pitch. There are new teams, new stadia and new rules. The arena is bigger, the players are tougher and the action is faster than ever before. The challenge is this: Take control of Brutal Deluxe, the worst team in Speedball history, and turn them into champions!</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Franchise>Speedball</Franchise>
+		<Genre>Sports &gt; Team &gt; Futuristic</Genre>
+		<Release name="Speedball 2: Brutal Deluxe" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>November 1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Star Fighter 3000" URL="/arch/961497-star-fighter-3000">
+		<Description>Star Fighter 3000 is an Action game, developed and published by Fednet Software,  which was released in Europe in 1994.</Description>
+		<Developer>Fednet Software</Developer>
+		<Genre>Action &gt; Shooter &gt; Third-Person &gt; Arcade</Genre>
+		<Release name="Star Fighter 3000" region="EU">
+			<ReleasePublisher>Fednet Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Starch" URL="/arch/961632-starch">
+		<Description>Starch is an Action game, developed by Alien Images and published by Archimedes World,  which was released in Europe in 1990.</Description>
+		<Developer>Alien Images</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Starch" region="EU">
+			<ReleasePublisher>Archimedes World</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Super Pool" URL="/arch/971502-super-pool">
+		<Description>Super Pool is a Sports game, developed and published by 4th Dimension,  which was released in Europe in 1991.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Super Pool" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="SWIV" URL="/arch/961633-swiv">
+		<Description>SWIV is an Action game, developed and published by Krisalis Software,  which was released in Europe in 1992.</Description>
+		<Developer>Krisalis Software</Developer>
+		<Franchise>Silkworm / SWIV</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="SWIV" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Sylvia Lane" URL="/arch/971320-sylvia-lane">
+		<Description>Sylvia Lane is an Adventure game, developed and published by 4th Dimension,  which was released in Europe in 1993.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Sylvia Lane" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Talisman" URL="/arch/971494-talisman">
+		<Description>Talisman is an Action Adventure game, developed and published by Minerva,  which was released in Europe in 1989.</Description>
+		<Developer>Minerva</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Talisman" region="EU">
+			<ReleasePublisher>Minerva</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Tanks" URL="/arch/961769-tanks">
+		<Description>Tanks is a Strategy game, developed and published by Werewolf Software,  which was released in Europe in 1996.</Description>
+		<Developer>Werewolf Software</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Tanks" region="EU">
+			<ReleasePublisher>Werewolf Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Terramex" URL="/arch/961499-terramex">
+		<Description>Become one of the world's five most reputable explorers and experience the hazards of a dangerous journey to find Professor Eyestrain and deflect the meteor to which only he has the solution. Addictive, compelling and spiced with endless hours of zany humor and brilliant graphics and animation.</Description>
+		<Developer>Krisalis Software</Developer>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Terramex" region="EU">
+			<ReleasePublisher>Krisalis Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Top Bananna" URL="/arch/961502-top-bananna">
+		<Description>Top Bananna is an Action game, developed by Hex and published by Psycore,  which was released in Europe in 1991.</Description>
+		<Developer>Hex</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Top Bananna" region="EU">
+			<ReleasePublisher>Psycore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Tower of Babel" URL="/arch/961503-tower-of-babel">
+		<Description>Tower of Babel is an intricate 3D strategy game involving an interconnecting network of towers, platforms and lifts all rendered in solid 3D with innovative light and shading techniques. Take control of robot spiders and program them to solve problems and puzzles and interact with other creatures such as Pushers, Zappers and Grabbers. Alternatively, real-time control is available to you at any time for instantaneous reaction to the game's developments. For the more adventurous among you, there is a complete game designer, allowing the construction of your own series of towers, platforms and lifts. Attempt to fox your friends with your own fiendishly difficult creations. More than just a game, more than just a puzzle - Tower of Babel is a whole new concept in strategy gaming!</Description>
+		<Developer>MicroProse</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tower of Babel" region="EU">
+			<ReleasePublisher>Rainbird</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Twinworld" URL="/arch/961504-twinworld">
+		<Description>Twinworld is an Action game, developed by Blue Byte and published by Cygnus,  which was released in Europe in 1989.</Description>
+		<Developer>Blue Byte</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Twinworld" region="EU">
+			<ReleasePublisher>Cygnus</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="UIM" URL="/arch/961636-uim">
+		<Description>UIM is a Simulation game, developed and published by 4th Dimension,  which was released in Europe in 1990.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Simulation &gt; Marine &gt; Combat</Genre>
+		<Release name="UIM" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="WIMP Game, The" URL="/arch/961635-the-wimp-game">
+		<Description>The WIMP Game is an Action game, developed and published by 4th Dimension,  which was released in Europe in 1990.</Description>
+		<Developer>4th Dimension</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The WIMP Game" region="EU">
+			<ReleasePublisher>4th Dimension</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Wolfenstein 3D" URL="/arch/961717-wolfenstein-3d">
+		<Description>Achtung! You are OSA super agent B.J. Blazkowicz. Your goal is to escape from Castle Wolfenstein and defeat the twisted Nazi regime in Wolfenstein 3D. Fight all of the memorable enemies from Hans Grosse to Mecha-Hitler in the legendary game that launched the first-person shooter genre. Search classic levels for hidden secrets revealing stolen Nazi treasure, health packs, ammo and weapons, or even short cuts.</Description>
+		<UserRating>5.00 / 5</UserRating>
+		<Developer>id Software</Developer>
+		<Franchise>Wolfenstein</Franchise>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="Wolfenstein 3D" region="EU">
+			<ReleasePublisher>Powerslave Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>Wolfenstein 3D (EU)-17021_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Xenon 2: Megablast" URL="/arch/961506-xenon-2-megablast">
+		<Description>The Xenites are back and the very fabric of time is in danger. Five time bombs have been planted at various points throughout history. Only you can save the day, not to mention the universe! Featuring ground-breaking graphics, digitized Bomb the Bass soundtrack, 1 or 2 competitive player option, and 5 vertically-scrolling parallax levels.</Description>
+		<Developer>The Bitmap Brothers</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Xenon 2: Megablast" region="EU">
+			<ReleasePublisher>Eclipse</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>August 1989</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="XOR" URL="/arch/961505-xor">
+		<Description>XOR is a Puzzle game, developed by Astral and published by Acorn User,  which was released in Europe in 1996.</Description>
+		<Developer>Astral</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="XOR" region="EU">
+			<ReleasePublisher>Acorn User</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1996</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Zarch" URL="/arch/961507-zarch">
+		<Description>Zarch is an Action game, developed by Elite and published by Superior Software,  which was released in Europe in 1987.</Description>
+		<Developer>Elite</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Zarch" region="EU">
+			<ReleasePublisher>Superior Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zarch (EU)-115218_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Acorn Archimedes" name="Zool: Ninja of the ''Nth'' Dimension" URL="/arch/961535-zool-ninja-of-the-nth-dimension">
+		<Description>Once every year, the games world is rocked by a game so stunning, so fast, so colorful, so big, so demanding, so mega, so awesome, so varied , so incredible, and so full of fabulous features and unexpected treats, that everybody just looks at it and says "THAT'S IT!" This year, ZOOL, THE NINJA FROM THE Nth DIMENSION, is definitely "IT!"</Description>
+		<UserRating>4.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>30 hours</Length>
+		<Developer>Gremlin Graphics</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Zool: Ninja of the ''Nth'' Dimension" region="EU">
+			<ReleasePublisher>Cygnus</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

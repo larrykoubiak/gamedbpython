@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="VIC-20" name="Abductor" URL="/vic20/800388-abductor">
+		<Description>Abductor is an Action game, developed by Llamasoft and published by Jeff Minter,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Llamasoft</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Abductor" region="US">
+			<ReleasePublisher>Jeff Minter</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Adventure Land" URL="/vic20/927376-adventure-land">
+		<Description>Adventure Land is an Adventure game, developed by Adventure Soft and published by Commodore,  which was released in 1981.</Description>
+		<UserRating>3.19 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.2 hours</Length>
+		<Developer>Adventure Soft</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Adventure Land" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC-1914</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Adventure Land (US)-67119_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="AE" URL="/vic20/933530-ae">
+		<Description>AE is an Action game, developed and published by Broderbund,  which was released in 1982.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Broderbund</Developer>
+		<Genre>Action &gt; Shooter &gt; First-Person &gt; Arcade</Genre>
+		<Release name="AE" region="US">
+			<ReleasePublisher>Broderbund</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Alien Blitz" URL="/vic20/800400-alien-blitz">
+		<Description>Alien Blitz is an Action game, developed by Tensor Technology, Inc. and published by UMI,  which was released in 1981.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Tensor Technology, Inc.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Alien Blitz" region="US">
+			<ReleasePublisher>UMI</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Blitz (US)-396692_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Another Vic In The Wall" URL="/vic20/800372-another-vic-in-the-wall">
+		<Description>Another Vic In The Wall is a Miscellaneous game, developed and published by Bug-Byte,  which was released in Europe in 1982.</Description>
+		<Developer>Bug-Byte</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Another Vic In The Wall" region="EU">
+			<ReleasePublisher>Bug-Byte</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Antimatter Splatter" URL="/vic20/800373-antimatter-splatter">
+		<Description>Antimatter Splatter is an Action game, developed by Rabbit Software and published by Nufekop,  which was released in Europe in 1983.</Description>
+		<Developer>Rabbit Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Antimatter Splatter" region="EU">
+			<ReleasePublisher>Nufekop</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Apple Panic" URL="/vic20/933583-apple-panic">
+		<Description>Apple Panic is an Action game, developed by Broderbund and published by Creative Software,  which was released in 1982.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Broderbund</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Apple Panic" region="US">
+			<ReleasePublisher>Creative Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Apple Panic (US)-77176_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Artillery Duel" URL="/vic20/933531-artillery-duel">
+		<Description>A two player game of skill and strategy as you try to knock out your enemy's gun emplacement. New random terrains in each battle!</Description>
+		<UserRating>3.92 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Xonox</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Artillery Duel" region="US">
+			<ReleasePublisher>Xonox</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Artillery Duel (US)-25491_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Astroblitz" URL="/vic20/997337-astroblitz">
+		<Description>Astroblitz is an Action game, developed and published by Creative Software,  which was released in 1982.</Description>
+		<UserRating>4.28 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Creative Software</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Astroblitz" region="US">
+			<ReleasePublisher>Creative Software</ReleasePublisher>
+			<ReleaseProductID>VI AB C</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astroblitz (US)-155398_front.jpg</Image>
+				<Image>Astroblitz (US)-155398_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Atlantis" URL="/vic20/931727-atlantis">
+		<Description>Only you can save the lost city of Atlantis, one of the greatest civilizations man has ever known. You command the three defense posts that guard the skies. As the dreaded Gorgon Fleet descends on Atlantis, you must destroy them, or perish! One or two players can help defend the submerged city of Atlantis. The longer you last, the faster they come. Some enemy ships fly slowly but steadily over Atlantis. Others streak across the sky. Knock out a Bandit Bomber and annihilate its entire Gorgon squad! Blitz them!</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Atlantis" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Atlantis (US)-38687_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Aztec Challenge" URL="/vic20/933532-aztec-challenge">
+		<Description>Aztec Challenge is an Action game, developed and published by Cosmi,  which was released in 1982.</Description>
+		<UserRating>4.38 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>Cosmi</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Aztec Challenge" region="US">
+			<ReleasePublisher>Cosmi</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Aztec Challenge (US)-77127_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="B-1 Nuclear Bomber" URL="/vic20/933592-b-1-nuclear-bomber">
+		<Description>B-1 Nuclear Bomber is a Simulation game, developed by Microcomputer Games Inc. and published by Avalon Hill,  which was released in 1983.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Microcomputer Games Inc.</Developer>
+		<Genre>Simulation &gt; Flight &gt; Combat</Genre>
+		<Release name="B-1 Nuclear Bomber" region="US">
+			<ReleasePublisher>Avalon Hill</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>B-1 Nuclear Bomber (US)-77185_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Baldor's Castle" URL="/vic20/935105-baldors-castle">
+		<Description>Baldor's Castle is an Action game, developed and published by Daedalus,  which was released in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Daedalus</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Baldor's Castle" region="US">
+			<ReleasePublisher>Daedalus</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Battlezone" URL="/vic20/933577-battlezone">
+		<Description>From the control panel of the last combat tank on Earth, it's up to you to stop the fleet of automated weapons that is ravaging the countryside. Armed with a radar screen and turret gun, you must search out and destroy these relentless automatons before they destroy your tank.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Atari</Developer>
+		<Franchise>Battlezone</Franchise>
+		<Genre>Simulation &gt; Vehicle &gt; Combat</Genre>
+		<Release name="Battlezone" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Battlezone (US)-33905_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Bonzo" URL="/vic20/800401-bonzo">
+		<Description>Bonzo is an Action game, developed by Kavan and published by Audiogenic Ltd.,  which was released in Europe in 1982.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Kavan</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Bonzo" region="EU">
+			<ReleasePublisher>Audiogenic Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bonzo (EU)-396693_front.jpg</Image>
+				<Image>Bonzo (EU)-396693_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Buck Rogers: Planet of Zoom" URL="/vic20/933533-buck-rogers-planet-of-zoom">
+		<Description>It's the 25th Century. You are Buck Rogers fighting the battle of Planet Zoom. Skillfully slip through zapping electron posts. Dodge and destroy deadly space hoppers and alien saucers. Your race against death has just begun! Prepare for battle with your most powerful enemy... the Mother Ship! It's never easy when it's do or die. You must hit the Mother Ship dead center. Anything less will only waste precious fuel. Aim steady, but hurry... your fuel is dangerously low!</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.1 hours</Length>
+		<Developer>Sega</Developer>
+		<Franchise>Buck Rogers</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Buck Rogers: Planet of Zoom" region="US">
+			<ReleasePublisher>Sega</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Buck Rogers Planet of Zoom (US)-27649_front.jpg</Image>
+				<Image>Buck Rogers Planet of Zoom (US)-27649_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Cannonball Blitz" URL="/vic20/933584-cannonball-blitz">
+		<Description>Cannonball Blitz is an Action game, developed by Sierra Entertainment and published by Sierra Online,  which was released in 1982.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Sierra Entertainment</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cannonball Blitz" region="US">
+			<ReleasePublisher>Sierra Online</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cannonball Blitz (US)-77177_front.jpg</Image>
+				<Image>Cannonball Blitz (US)-77177_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Cavern Fighter" URL="/vic20/933534-cavern-fighter">
+		<Description>Cavern Fighter is an Action game, developed and published by Anirog Software,  which was released in 1982.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Anirog Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cavern Fighter" region="US">
+			<ReleasePublisher>Anirog Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Cavern Raider" URL="/vic20/800402-cavern-raider">
+		<Description>Cavern Raider is an Action game, developed and published by Solar,  which was released in Europe in 1983.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Solar</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Cavern Raider" region="EU">
+			<ReleasePublisher>Solar</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Centipede" URL="/vic20/933578-centipede">
+		<Description>An insidious invasion of multiplying insects (centipedes, jumping spiders, poisonous spiders, and frenzied fleas) pose different perils to the mushroom patch. You must repeatedly blast enraged creepers and stubborn obstacles or lose your enchanted fungus. Remember to listen for the distinctive sounds of the attacking bugs; and watch out for blasted centipede segments, each one grows a new head!</Description>
+		<UserRating>3.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Syndein Systems</Developer>
+		<Franchise>Centipede</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Centipede" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Choplifter" URL="/vic20/997259-choplifter">
+		<Description>Man a chopper in the nation's top action adventure. Pockets of international hostages are trapped. All across the world. In the Middle East. In the South Seas. And in a secret base somewhere in a cavern. You man a helicopter rescue team. And your job is to take your helicopter down, rescue the hostages and fly them back to safety. All the while dodging and destroying dangerous enemy fire. An action-packed helicopter game at its best!</Description>
+		<UserRating>3.86 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>14 hours</Length>
+		<Developer>Broderbund</Developer>
+		<Franchise>Choplifter</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Choplifter" region="US">
+			<ReleasePublisher>Creative Software</ReleasePublisher>
+			<ReleaseProductID>VI CL C</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Choplifter (US)-40667_front.jpg</Image>
+				<Image>Choplifter (US)-40667_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Cloudburst" URL="/vic20/935106-cloudburst">
+		<Description>Cloudburst is an Action game, developed and published by UMI,  which was released in 1982.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>UMI</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cloudburst" region="US">
+			<ReleasePublisher>UMI</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cloudburst (US)-79334_front.jpg</Image>
+				<Image>Cloudburst (US)-79334_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Computer War" URL="/vic20/996887-computer-war">
+		<Description>Computer War is an Action game, developed and published by Thorn EMI,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Thorn EMI</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Computer War" region="US">
+			<ReleasePublisher>Thorn EMI</ReleasePublisher>
+			<ReleaseProductID>THC 22006</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Computer War (US)-154574_front.jpg</Image>
+				<Image>Computer War (US)-154574_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Congo Bongo" URL="/vic20/666506-congo-bongo">
+		<Description>You're on a jungle safari packed full of wild and zany adventures. Climb the cliffs to the top of Monkey Mountain as you try to reach the jungle's most mischievous gorilla. Don't get clobbered by the coconuts he'll throw your way. Watch out for menacing monkeys. Beyond Monkey Mountain you'll come to Lazy Lake where you'll see raging rhinos and hollering hippos. Leap from lily pad to lily pad across the treacherous lake filled with ferocious man-eating fish and other jungle dangers, but be careful... one slip and it's safari heaven!</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.1 hours</Length>
+		<Developer>Sega</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Congo Bongo" region="US">
+			<ReleasePublisher>Sega</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Congo Bongo (US)-30203_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Cosmic Jailbreak" URL="/vic20/997338-cosmic-jailbreak">
+		<Description>Cosmic Jailbreak is an Action game, developed and published by Commodore,  which was released in 1982.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.4 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Cosmic Jailbreak" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC-1927</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cosmic Jailbreak (US)-155399_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Count, The" URL="/vic20/927382-the-count">
+		<Description>You wake up in a large brass bed in a castle somewhere in Transylvania. Who are you, what are you doing here, and why did the postman deliver a bottle of blood? It's LOVE AT FIRST BYTE!</Description>
+		<UserRating>2.81 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>13.4 hours</Length>
+		<Developer>Adventure Soft</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="The Count" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Count (US)-67122_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Creepy Corridors" URL="/vic20/997352-creepy-corridors">
+		<Description>Creepy Corridors is an Action Adventure game, developed and published by Sierra Entertainment,  which was released in 1982.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Sierra Entertainment</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Creepy Corridors" region="US">
+			<ReleasePublisher>Sierra Entertainment</ReleasePublisher>
+			<ReleaseProductID>CCL-401</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Creepy Corridors (US)-155430_front.jpg</Image>
+				<Image>Creepy Corridors (US)-155430_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Crossfire" URL="/vic20/800374-crossfire">
+		<Description>Crossfire is an Action game, developed by ICG and published by Sierra Online,  which was released in 1981.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>ICG</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Crossfire" region="US">
+			<ReleasePublisher>Sierra Online</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Crush, Crumble &amp; Chomp!" URL="/vic20/996500-crush-crumble-and-chomp">
+		<Description>Crush, Crumble &amp; Chomp! is an Action game, developed by Automated Simulations and published by Epyx,  which was released in 1982.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Automated Simulations</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Crush, Crumble &amp; Chomp!" region="US">
+			<ReleasePublisher>Epyx</ReleasePublisher>
+			<ReleaseProductID>436C</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Crush, Crumble &amp; Chomp! (US)-79360_front.jpg</Image>
+				<Image>Crush, Crumble &amp; Chomp! (US)-79360_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Dig Dug" URL="/vic20/997353-dig-dug">
+		<Description>Create your own maze as you tunnel fearlessly through the earth. Your goal: Reap tasty vegetables worth healthy points. Your enemies: ghosts who want to bury you alive, fierce fire-breathing dragons, and mean balloon-like bullies! Can you dig it? Here's the exciting home version of the celebrated coin-op original!</Description>
+		<UserRating>3.88 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Syndein Systems</Developer>
+		<Franchise>Dig Dug</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Dig Dug" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8510</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dig Dug (US)-20438_front.jpg</Image>
+				<Image>Dig Dug (US)-20438_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Donkey Kong" URL="/vic20/997354-donkey-kong">
+		<Description>You can feel an exciting tingle up and down your spine when you play DONKEY KONG at home, just like at an arcade. Your joystick guides Mario,* the fearless carpenter, up the girders and elevators as he attempts to rescue his sweetheart from the clutches of Donkey Kong. All the thrills of the arcade game in a home computer version for one or two players.</Description>
+		<UserRating>4.15 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.6 hours</Length>
+		<Developer>Syndein Systems</Developer>
+		<Franchise>Donkey Kong</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Donkey Kong" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8513</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donkey Kong (US)-3025_front.jpg</Image>
+				<Image>Donkey Kong (US)-3025_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Garden Wars" URL="/vic20/997260-garden-wars">
+		<Description>Garden Wars is an Action game, developed and published by Commodore,  which was released in 1982.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Garden Wars" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC-1932</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Garden Wars (US)-155236_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Gorf" URL="/vic20/933579-gorf">
+		<Description>The smash hit Bally Midway arcade game comes to your home video computer system! Featuring four completely different space games: Astro Battles, Laser Attack, Space Warp, and Flagship. This arcade classic will give you hours of space action fun!</Description>
+		<UserRating>4.05 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>10.8 hours</Length>
+		<Developer>Bally/Midway</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Gorf" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC-1923</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gorf (US)-34005_front.jpg</Image>
+				<Image>Gorf (US)-34005_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Gridrunner" URL="/vic20/669284-gridrunner">
+		<Description>Here's another slick shooter from the developer who is rapidly gaining a reputation as the king of retro on iOS.Gridrunner was a much-loved and popular game on the Commodore Vic-20 and Commodore 64 back in 1982.  Here the game is reimagined by its original author in the style of an early 1980s coin-op arcade machine.  Of course this is a Minotaur Project game, so we ignore the limitations of such old hardware, borrowing just the style but presenting a slick, modern shooter that is a joy to play on iOS.As can be relied on in a Llamasoft game the controls are excellent and the gameplay fun, satisfying and rewarding.Gridrunner is OpenFeint enabled and supports leaderboards and achievements on both OpenFeint and GameCenter.Get your blasting trousers on and get ready to enjoy some classic shooting fun re-energised for the modern era.Another great Minotaur Project release.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Llamasoft</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Gridrunner" region="US">
+			<ReleasePublisher>HES Interactive</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Gridrunner (US)-34298_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Home Babysitter" URL="/vic20/931899-home-babysitter">
+		<Description>Home Babysitter is a Miscellaneous game, developed and published by Commodore,  which was released in 1982.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Home Babysitter" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Hunchback" URL="/vic20/934959-hunchback">
+		<Description>As the Hunchback, you have been given the mighty task of rescuing Esmerelda from her castle stronghold! Featuring Ramparts, Knights, Arrows, Fireballs, the Pit and of course the Bells! 100% machine code, just like in the arcade!</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Ocean</Developer>
+		<Franchise>Hunchback</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hunchback" region="US">
+			<ReleasePublisher>Ocean</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Jungle Hunt" URL="/vic20/800375-jungle-hunt">
+		<Description>JUNGLE HUNT! Now you can play the arcade hit in your own home. The graphics and gameplay are so realistic, you'll think you're on your own video safari! You'll find yourself hanging by your fingertips from slippery ropes, fighting off tooth crocodiles, and dodging huge bouncing boulders. Hurry up and rescure your sweetie from the hungry cannibals - it's almost dinnertime!</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Atari</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Jungle Hunt" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Jungle Hunt (US)-396667_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Lode Runner" URL="/vic20/935097-lode-runner">
+		<Description>You're a highly trained Galactic Commando, deep in enemy territory. Your mission: to recover a fortune in gold, stolen from the Bungeling people by their power-hungry leaders. You'll be running, jumping, and climbing heroically, solving perplexing puzzles. With your laser pistol, you'll drill passageways through stone floors and barriers. To get through this mission alive, you'll need more than fleet feet and good looks. You'll need your quick wits and brains. And more than just a little luck.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Broderbund</Developer>
+		<Franchise>Lode Runner</Franchise>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Lode Runner" region="US">
+			<ReleasePublisher>Broderbund</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lode Runner (US)-34171_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Mission: Impossible" URL="/vic20/927379-mission-impossible">
+		<Description>Mission: Impossible is an Adventure game, developed by Adventure Soft and published by Commodore,  which was released in 1981.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>Adventure Soft</Developer>
+		<Franchise>Mission Impossible</Franchise>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Mission: Impossible" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Money Wars" URL="/vic20/647862-money-wars">
+		<Description>Money Wars is an Action game, developed and published by Commodore,  which was released in 1981.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Money Wars" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Monster Maze" URL="/vic20/935098-monster-maze">
+		<Description>Monster Maze is an Action game, developed and published by Epyx,  which was released in 1983.</Description>
+		<UserRating>4.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Epyx</Developer>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Monster Maze" region="US">
+			<ReleasePublisher>Epyx</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Ms. Pac-Man" URL="/vic20/927378-ms-pac-man">
+		<Description>Meet the queen of video games - Ms. Pac-Man! She's all dressed up - and hungry as ever! Score points as Ms. Pac-Man gobbles up dots, energy pills, fruit, pretzels, and of course, those grumpy ghosts.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Syndein Systems</Developer>
+		<Franchise>Pac-Man</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Ms. Pac-Man" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Omega Race" URL="/vic20/997261-omega-race">
+		<Description>The Omegans, the most feared and respected star warriors throughout the galaxy, have come to Earth to challenge you to their legendary OMEGA RACE! Grab hold of your Booster-Grip and speed your Fighter around the perimeters of the mysterious cosmic arena. Ricochet off walls to outmaneuver and vaporize Omegan Droid Ships and Command Ships and avoid the deadly Photon Mines. Endurance, skill and luck are what you'll need to clear the arena and destroy the madly-spinning Death Ship! But don't get too confident, hotshot. The Omegans waste no time in sending new challenges your way. This is one race that never ends!</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Bally/Midway</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Omega Race" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC-1924</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Omega Race (US)-40070_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Pac-Man" URL="/vic20/927380-pac-man">
+		<Description>Gobble, gobble, gulp! Who's munching Power Pellets? Who's zipping around the maze at top speed, chomping up ghosts and scoring big points? It's Pac-Man, the world's hungriest character! Devour a fruit treat and get a big bonus score. But if you're caught by the little haunters, you're ghostflakes! Use the warp tunnel for a quick escape. Hours of ghost-chomping action!</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Designer Software</Developer>
+		<Franchise>Pac-Man</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Pac-Man" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pac-Man (US)-5948_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Perils of Willy, The" URL="/vic20/186633-the-perils-of-willy">
+		<Description>The Perils of Willy is an Action game, developed and published by Software Projects Ltd.,  which was released in 1984.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Developer>Software Projects Ltd.</Developer>
+		<Franchise>Miner Willy</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="The Perils of Willy" region="US">
+			<ReleasePublisher>Software Projects Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Pharaoh's Curse" URL="/vic20/926461-pharaohs-curse">
+		<Description>Pharaoh's Curse is an Action game, developed by Human Engineered Software and published by HesWare,  which was released in 1983.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Human Engineered Software</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Pharaoh's Curse" region="US">
+			<ReleasePublisher>HesWare</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Pinball Spectacular" URL="/vic20/647864-pinball-spectacular">
+		<Description>Pinball Spectacular is an Action game, developed and published by Commodore,  which was released in 1981.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pinball Spectacular" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Pirate Cove" URL="/vic20/918748-pirate-cove">
+		<Description>Yo ho ho and a bottle of rum... You'll meet a tough old pirate and his daffy bird, and encounter many strange sights as you attempt to go from your London flat to Treasure Island. Can you find and recover Long John Silver's lost treasures?</Description>
+		<UserRating>3.58 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>15.7 hours</Length>
+		<Developer>Adventure Soft</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Pirate Cove" region="US">
+			<ReleasePublisher>Adventure Soft</ReleasePublisher>
+			<ReleaseProductID>VIC-1915</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pirate Cove (US)-57053_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Pole Position" URL="/vic20/931268-pole-position">
+		<Description>Qualify for the Grand Prix and win the Pole Position, the number one starting spot. Then go flat out to beat the track record and finish a winner. Pass cars like they're standing still, but watch those curves! One mistake and you could go up in flames.</Description>
+		<UserRating>4.20 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Syndein Systems</Developer>
+		<Franchise>Pole Position</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Pole Position" region="US">
+			<ReleasePublisher>Datasoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pole Position (US)-41051_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Protector" URL="/vic20/997262-protector">
+		<Description>Protector is an Action game, developed by Human Engineered Software and published by HesWare,  which was released in 1982.</Description>
+		<UserRating>2.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Human Engineered Software</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Protector" region="US">
+			<ReleasePublisher>HesWare</ReleasePublisher>
+			<ReleaseProductID>C308</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Protector (US)-155237_front.jpg</Image>
+				<Image>Protector (US)-155237_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Q*bert" URL="/vic20/961735-qbert">
+		<Description>Hop Q*bert up and down the steps of a "three-dimensional" pyramid, changing each step's color as he lands. Complete the entire pyramid, and Q*bert moves to a more challenging pyramid. But look out! The crafty arcade creatures are here, too, and they're after Q*bert. Hop out of danger fast - or soar to safety on a flying disc. But watch where you move Q*bert. One hop off the pyramid and he'll be lost in space!</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Roklan</Developer>
+		<Franchise>Q*bert</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Q*bert" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Qbert (US)-6401_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Radar Rat Race" URL="/vic20/997177-radar-rat-race">
+		<Description>Radar Rat Race is a Racing game, developed and published by Commodore,  which was released in 1981.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Radar Rat Race" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC-1910</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Radar Rat Race (US)-41813_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Raid on Fort Knox" URL="/vic20/935099-raid-on-fort-knox">
+		<Description>Make your way through the treacherous corridors of Fort Knox... patrolled by deadly panthers! How much gold can you sneak back to your hideout before time runs out? Fast action, increasing levels of difficulty, and colorful, suspenseful, exciting gameplay!</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Raid on Fort Knox" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Raid on Fort Knox (US)-79329_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Rescue at Rigel" URL="/vic20/996508-rescue-at-rigel">
+		<Description>Rescue at Rigel is an Action Adventure game, developed by Automated Simulations and published by Epyx,  which was released in 1980.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Automated Simulations</Developer>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Rescue at Rigel" region="US">
+			<ReleasePublisher>Epyx</ReleasePublisher>
+			<ReleaseProductID>416C</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rescue at Rigel (US)-153989_front.jpg</Image>
+				<Image>Rescue at Rigel (US)-153989_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="River Rescue" URL="/vic20/666251-river-rescue">
+		<Description>River Rescue is an Action game, developed and published by Thorn EMI,  which was released in 1982.</Description>
+		<UserRating>4.19 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.1 hours</Length>
+		<Developer>Thorn EMI</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="River Rescue" region="US">
+			<ReleasePublisher>Thorn EMI</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Robotron: 2084" URL="/vic20/935100-robotron-2084">
+		<Description>In 2084, man creates a species of super-advanced cyborgs known as Robotrons. Recognizing the imperfect nature of their creators, the Robotrons conclude that the inefficient human race must be exterminated. Only you and a single family of clones remain. If mankind is to survive, you must destroy the Grunts, Brains, Enforcers, and Tanks - but avoid the indestructible Hulks at all cost. Can you withstand wave after wave of android invasion... before it's too late?</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Williams</Developer>
+		<Franchise>Robotron </Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Robotron: 2084" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>RX8520</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Robotron 2084 (US)-44795_front.jpg</Image>
+				<Image>Robotron 2084 (US)-44795_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Sargon II Chess" URL="/vic20/927377-sargon-ii-chess">
+		<Description>Introducing one of the most sophisticated computer chess programs ever written! Turns your VIC-20 into a challenging chess partner with seven play levels, board set-up and color options. Includes a "Teach Yourself Chess" instruction manual.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>24 hours</Length>
+		<Developer>Commodore</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Sargon II Chess" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sargon II Chess (US)-67120_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Scorpion" URL="/vic20/927481-scorpion">
+		<Description>Scorpion is a Puzzle game, developed by Commodore and published by Tronix,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Developer>Commodore</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Scorpion" region="US">
+			<ReleasePublisher>Tronix</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Sea Wolf" URL="/vic20/647863-sea-wolf">
+		<Description>Sea Wolf is an Action game, developed by Midway and published by Commodore,  which was released in 1981.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>7.7 hours</Length>
+		<Developer>Midway</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Sea Wolf" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sea Wolf (US)-211252_front.jpg</Image>
+				<Image>Sea Wolf (US)-211252_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Serpentine" URL="/vic20/945379-serpentine">
+		<Description>Serpentine is an Action game, developed by Antirom Software and published by Creative Software,  which was released in 1982.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Antirom Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Serpentine" region="US">
+			<ReleasePublisher>Creative Software</ReleasePublisher>
+			<ReleaseProductID>VI SE C</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Serpentine (US)-95311_front.jpg</Image>
+				<Image>Serpentine (US)-95311_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Skyblazer" URL="/vic20/935101-skyblazer">
+		<Description>Skyblazer is an Action game, developed and published by Broderbund,  which was released in 1983.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Broderbund</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Skyblazer" region="US">
+			<ReleasePublisher>Broderbund</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Spiders of Mars" URL="/vic20/996969-spiders-of-mars">
+		<Description>Spiders of Mars is an Action game, developed by Tensor Technology, Inc. and published by UMI,  which was released in 1982.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Tensor Technology, Inc.</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Spiders of Mars" region="US">
+			<ReleasePublisher>UMI</ReleasePublisher>
+			<ReleaseProductID>1604</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Spiders of Mars (US)-154806_front.jpg</Image>
+				<Image>Spiders of Mars (US)-154806_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Story Machine" URL="/vic20/971510-story-machine">
+		<Description>Story Machine is a Miscellaneous game, developed by Human Engineered Software and published by HesWare,  which was released in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Human Engineered Software</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Story Machine" region="US">
+			<ReleasePublisher>HesWare</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Sword of Fargoal, The" URL="/vic20/927381-the-sword-of-fargoal">
+		<Description>The Sword of Fargoal is a Role-Playing game, developed by Automated Simulations and published by Epyx,  which was released in 1982.</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Automated Simulations</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="The Sword of Fargoal" region="US">
+			<ReleasePublisher>Epyx</ReleasePublisher>
+			<ReleaseProductID>366C</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Sword of Fargoal (US)-32833_front.jpg</Image>
+				<Image>The Sword of Fargoal (US)-32833_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Threshold" URL="/vic20/996885-threshold">
+		<Description>You're in command of an exploring space attack ship. Be prepared to fire on invading space enemies - you can progress through the galaxy and encounter up to 10 different enemy forces! Be alert for the narrow tunnels that you must fly your ship through. Blast off for a super space adventure from Tigervision!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Syndein Systems</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Threshold" region="US">
+			<ReleasePublisher>Sierra Entertainment</ReleasePublisher>
+			<ReleaseProductID>THL-401</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Threshold (US)-45747_front.jpg</Image>
+				<Image>Threshold (US)-45747_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Turmoil" URL="/vic20/934569-turmoil">
+		<Description>Imagine yourself being attacked from both sides by the most evil creatures ever to fly the unfriendly skies. You are piloting an intergalactic fighter with the ability to blast 7 enemies into cosmic dust at once. Now, picture a battle raging at a pace so frantic that even blinking your eyes could lead to a fatal collision. If you are faster than a speeding bullet, if you can turn off the lights and be in bed before the room gets dark, then you are ready for Turmoil.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Sirius Software</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Turmoil" region="US">
+			<ReleasePublisher>Sirius Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Turmoil (US)-54804_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Ultima: Escape from Mt. Drash" URL="/vic20/918747-ultima-escape-from-mt-drash">
+		<Description>Ultima: Escape from Mt. Drash is a Role-Playing game, developed and published by Sierra Online,  which was released in 1983.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Sierra Online</Developer>
+		<Franchise>Ultima</Franchise>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="Ultima: Escape from Mt. Drash" region="US">
+			<ReleasePublisher>Sierra Online</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ultima Escape from Mt. Drash (US)-57052_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="VIC-1001 Hardware" URL="/vic20/918746-vic-20">
+		<Description>VIC-20 is a Hardware game, developed and published by Commodore,  which was released in Japan in 1980.</Description>
+		<UserRating>4.09 / 5</UserRating>
+		<AKA>VIC-1001 Hardware (JP), VIC-20 Hardware (US, EU)</AKA>
+		<Developer>Commodore</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="VIC-1001 Hardware" region="JP">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+		<Release name="VIC-20 Hardware" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC20</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>VIC-20 Hardware (US)-307992_front.jpg</Image>
+				<Image>VIC-20 Hardware (US)-307992_back.jpg</Image>
+				<Image>VIC-20 Hardware (US)-307992_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="VIC-20 Hardware" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="VIC-20" URL="/vic20/918746-vic-20">
+		<Description>VIC-20 is a Hardware game, developed and published by Commodore,  which was released in Japan in 1980.</Description>
+		<UserRating>4.09 / 5</UserRating>
+		<AKA>VIC-1001 Hardware (JP), VIC-20 Hardware (US, EU)</AKA>
+		<Developer>Commodore</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="VIC-1001 Hardware" region="JP">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+		<Release name="VIC-20 Hardware" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC20</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>VIC-20 Hardware (US)-307992_front.jpg</Image>
+				<Image>VIC-20 Hardware (US)-307992_back.jpg</Image>
+				<Image>VIC-20 Hardware (US)-307992_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="VIC-20 Hardware" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="VIC-20 Hardware" URL="/vic20/918746-vic-20">
+		<Description>VIC-20 is a Hardware game, developed and published by Commodore,  which was released in Japan in 1980.</Description>
+		<UserRating>4.09 / 5</UserRating>
+		<AKA>VIC-1001 Hardware (JP), VIC-20 Hardware (US, EU)</AKA>
+		<Developer>Commodore</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="VIC-1001 Hardware" region="JP">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+		<Release name="VIC-20 Hardware" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID>VIC20</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>VIC-20 Hardware (US)-307992_front.jpg</Image>
+				<Image>VIC-20 Hardware (US)-307992_back.jpg</Image>
+				<Image>VIC-20 Hardware (US)-307992_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="VIC-20 Hardware" region="EU">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="VIC-20" name="Voodoo Castle" URL="/vic20/927383-voodoo-castle">
+		<Description>Count Cristo has had a fiendish curse put on him by his enemies. There he lies, and you're his only hope. Can you rescue him, or is he forever doomed? Beware the Voodoo Man!</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>Adventure Soft</Developer>
+		<Genre>Adventure &gt; Text</Genre>
+		<Release name="Voodoo Castle" region="US">
+			<ReleasePublisher>Commodore</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Voodoo Castle (US)-67124_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

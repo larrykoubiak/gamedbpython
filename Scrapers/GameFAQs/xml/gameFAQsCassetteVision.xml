@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Astro Command" URL="/ecv/951945-astro-command">
+		<Description>Astro Command is an Action game, developed and published by Epoch,  which was released in Japan in 1983.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.5 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Astro Command" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID>07990</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/03/83</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astro Command (JP)-102603_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Baseball" URL="/ecv/951946-baseball">
+		<Description>Baseball is a Sports game, developed and published by Epoch,  which was released in Japan in 1981.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="Baseball" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>07/30/81</ReleaseDate>
+			<ReleaseImages>
+				<Image>Baseball (JP)-102604_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Battle Vader" URL="/ecv/951947-battle-vader">
+		<Description>Battle Vader is an Action game, developed and published by Epoch,  which was released in Japan in 1982.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>7.7 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Battle Vader" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/03/82</ReleaseDate>
+			<ReleaseImages>
+				<Image>Battle Vader (JP)-102605_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Big Sports 12" URL="/ecv/951948-big-sports-12">
+		<Description>Big Sports 12 is a Sports game, developed and published by Epoch,  which was released in Japan in 1981.</Description>
+		<UserRating>4.38 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6.8 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Big Sports 12" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/20/81</ReleaseDate>
+			<ReleaseImages>
+				<Image>Big Sports 12 (JP)-102606_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Cassette Vision" URL="/ecv/951937-cassette-vision">
+		<Description>Cassette Vision is a Hardware game, developed and published by Epoch,  which was released in Japan in 1981.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Developer>Epoch</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Cassette Vision" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>07/30/81</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Elevator Panic" URL="/ecv/951949-elevator-panic">
+		<Description>Elevator Panic is an Action game, developed and published by Epoch,  which was released in Japan in 1984.</Description>
+		<UserRating>3.93 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Elevator Panic" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/01/84</ReleaseDate>
+			<ReleaseImages>
+				<Image>Elevator Panic (JP)-102608_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Galaxian" URL="/ecv/951950-galaxian">
+		<Description>The Galaxian Fleet has invaded and it's up to you to stop them. There's two-way action in this game; as you fire at them, they're firing back at you! All that is required of you is quick reflexes and an accurate aim. Can you destroy the Galaxian Fleet before they destroy you?</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>Epoch</Developer>
+		<Franchise>Galaxian / Galaga</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Galaxian" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/10/81</ReleaseDate>
+			<ReleaseImages>
+				<Image>Galaxian (JP)-102607_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Kikori no Yosaku" URL="/ecv/951951-kikori-no-yosaku">
+		<Description>Kikori no Yosaku is an Action game, developed and published by Epoch,  which was released in Japan in 1981.</Description>
+		<UserRating>3.30 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.8 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Kikori no Yosaku" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID>07940</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>07/30/81</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kikori no Yosaku (JP)-102609_front.jpg</Image>
+				<Image>Kikori no Yosaku (JP)-102609_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Monster Block" URL="/ecv/951952-monster-block">
+		<Description>Monster Block is an Action game, developed and published by Epoch,  which was released in Japan in 1984.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>7.5 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Monster Block" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID>07890</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>03/16/84</ReleaseDate>
+			<ReleaseImages>
+				<Image>Monster Block (JP)-102610_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="Monster Mansion" URL="/ecv/951953-monster-mansion">
+		<Description>Monster Mansion is an Action game, developed and published by Epoch,  which was released in Japan in 1982.</Description>
+		<UserRating>4.31 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Monster Mansion" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID>07970</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/07/82</ReleaseDate>
+			<ReleaseImages>
+				<Image>Monster Mansion (JP)-102611_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="New Baseball" URL="/ecv/951954-new-baseball">
+		<Description>New Baseball is a Sports game, developed and published by Epoch,  which was released in Japan in 1982.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.7 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="New Baseball" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>06/15/82</ReleaseDate>
+			<ReleaseImages>
+				<Image>New Baseball (JP)-102612_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Cassette Vision" name="PakPak Monster" URL="/ecv/951955-pakpak-monster">
+		<Description>PakPak Monster is an Action game, developed and published by Epoch,  which was released in Japan in 1982.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Epoch</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="PakPak Monster" region="JP">
+			<ReleasePublisher>Epoch</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>07/13/82</ReleaseDate>
+			<ReleaseImages>
+				<Image>PakPak Monster (JP)-102613_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Redemption" name="3-On-3" URL="/redemption/918767-3-on-3">
+		<Description>3-On-3 is an Action game, published by Atari,  which was released in 1993.</Description>
+		<UserRating>3.78 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Atari</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="3-On-3" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Alien Command" URL="/redemption/918372-alien-command">
+		<Description>Alien Command is an Action game, published by Jaleco Entertainment,  which was released in 1990.</Description>
+		<UserRating>3.21 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Jaleco Entertainment</Developer>
+		<Genre>Action &gt; Shooter &gt; Light Gun</Genre>
+		<Release name="Alien Command" region="US">
+			<ReleasePublisher>Jaleco Entertainment</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Belly Bomber" URL="/redemption/926465-belly-bomber">
+		<Description>Belly Bomber is a Miscellaneous game, developed and published by Namco,  which was released in Europe in 1994.</Description>
+		<UserRating>3.43 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>3.4 hours</Length>
+		<Developer>Namco</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Belly Bomber" region="EU">
+			<ReleasePublisher>Namco</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Captain Flag" URL="/redemption/918373-captain-flag">
+		<Description>Captain Flag is an Action game, published by Jaleco Entertainment,  which was released in 1993.</Description>
+		<UserRating>3.58 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>7.4 hours</Length>
+		<Developer>Jaleco Entertainment</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Captain Flag" region="US">
+			<ReleasePublisher>Jaleco Entertainment</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Demolition Zone" URL="/redemption/918374-demolition-zone">
+		<Description>Demolition Zone is an Action game, published by Skee-Ball,  which was released in 1998.</Description>
+		<Developer>Skee-Ball</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Demolition Zone" region="US">
+			<ReleasePublisher>Skee-Ball</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1998</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Donkey Kong: Banana Kingdom" URL="/redemption/739819-donkey-kong-banana-kingdom">
+		<Description>Donkey Kong: Banana Kingdom is a Miscellaneous game, developed by Capcom and published by Nintendo,  which was released in Japan in 2006.</Description>
+		<UserRating>4.70 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Capcom</Developer>
+		<Franchise>Donkey Kong</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Donkey Kong: Banana Kingdom" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>11/16/06</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Flamin' Finger" URL="/redemption/959955-flamin-finger">
+		<Description>Flamin' Finger is a Miscellaneous game, developed and published by Namco,  which was released in 2003.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Namco</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Flamin' Finger" region="US">
+			<ReleasePublisher>Namco</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>2003</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Fred Flintstone's Memory Match" URL="/redemption/924262-fred-flintstones-memory-match">
+		<Description>Fred Flintstone's Memory Match is a Puzzle game, developed and published by Konami,  which was released in Europe in 1993.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.1 hours</Length>
+		<Developer>Konami</Developer>
+		<Franchise>The Flintstones</Franchise>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Fred Flintstone's Memory Match" region="EU">
+			<ReleasePublisher>Konami</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Mario Party: Fushigi no Korokoro Catcher" URL="/redemption/730863-mario-party-fushigi-no-korokoro-catcher">
+		<Description>Mario Party: Fushigi no Korokoro Catcher is a Miscellaneous game, developed by Capcom and published by Nintendo,  which was released in Japan in 2009.</Description>
+		<UserRating>4.29 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Capcom</Developer>
+		<Franchise>Mario Party</Franchise>
+		<Genre>Miscellaneous &gt; Party / Minigame</Genre>
+		<Release name="Mario Party: Fushigi no Korokoro Catcher" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>2009</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Mario Roulette" URL="/redemption/750276-mario-roulette">
+		<Description>Mario Roulette is a Miscellaneous game, developed and published by Konami,  which was released in Japan in 1991.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Konami</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Mario Roulette" region="JP">
+			<ReleasePublisher>Konami</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Mario Undoukai" URL="/redemption/746398-mario-undoukai">
+		<Description>Mario Undoukai is a Miscellaneous game, developed and published by Banpresto,  which was released in Japan in 1993.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Banpresto</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Mario Undoukai" region="JP">
+			<ReleasePublisher>Banpresto</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Medal de Fantasy Zone" URL="/redemption/190335-medal-de-fantasy-zone">
+		<Description>Medal de Fantasy Zone is a Miscellaneous game, developed and published by Sega,  which was released in Japan in 2012.</Description>
+		<Developer>Sega</Developer>
+		<Franchise>Fantasy Zone</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Medal de Fantasy Zone" region="JP">
+			<ReleasePublisher>Sega</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>2012</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Merlin's Mirror" URL="/redemption/918375-merlins-mirror">
+		<Description>Merlin's Mirror is an Action game,  with no announced release date.</Description>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Merlin's Mirror" region="US">
+			<ReleasePublisher></ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>Unknown</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="New Super Mario Bros. Wii Coin World" URL="/redemption/746397-new-super-mario-bros-wii-coin-world">
+		<Description>New Super Mario Bros. Wii Coin World is a Miscellaneous game, developed and published by Capcom,  which was released in Japan in 2011.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.1 hours</Length>
+		<Developer>Capcom</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="New Super Mario Bros. Wii Coin World" region="JP">
+			<ReleasePublisher>Capcom</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>2011</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Pokemon Medal World" URL="/redemption/736594-pokemon-medal-world">
+		<Description>Pokemon Medal World is a Miscellaneous game, developed and published by Bandai Namco Games,  which was released in Japan in 2012.</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>38.2 hours</Length>
+		<Developer>Bandai Namco Games</Developer>
+		<Franchise>Pokemon</Franchise>
+		<Genre>Miscellaneous &gt; Party / Minigame</Genre>
+		<Release name="Pokemon Medal World" region="JP">
+			<ReleasePublisher>Bandai Namco Games</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>01/17/12</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Pop-A-Ball" URL="/redemption/918376-pop-a-ball">
+		<Description>Pop-A-Ball is an Action game, published by Pacific Novelty,  which was released in 1988.</Description>
+		<UserRating>3.28 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Pacific Novelty</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Pop-A-Ball" region="US">
+			<ReleasePublisher>Pacific Novelty</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Redemption" URL="/redemption/918377-redemption">
+		<Description>Redemption is a Hardware game.</Description>
+		<UserRating>2.63 / 5</UserRating>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Redemption Hardware" region="US">
+			<ReleasePublisher></ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1920</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Redemption Hardware" URL="/redemption/918377-redemption">
+		<Description>Redemption is a Hardware game.</Description>
+		<UserRating>2.63 / 5</UserRating>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Redemption Hardware" region="US">
+			<ReleasePublisher></ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1920</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Scat Cats" URL="/redemption/918378-scat-cats">
+		<Description>Scat Cats is an Action game, published by Skee-Ball,  which was released in 1997.</Description>
+		<Developer>Skee-Ball</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Scat Cats" region="US">
+			<ReleasePublisher>Skee-Ball</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="SegaSonic Popcorn Shop" URL="/redemption/188367-segasonic-popcorn-shop">
+		<Description>SegaSonic Popcorn Shop is a Miscellaneous game, developed and published by Sega,  which was released in Japan in 1993.</Description>
+		<Developer>Sega</Developer>
+		<Franchise>Sonic the Hedgehog</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="SegaSonic Popcorn Shop" region="JP">
+			<ReleasePublisher>Sega</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Skee-Ball" URL="/redemption/918379-skee-ball">
+		<Description>Skee-Ball is an Action game, published by Skee-Ball.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Skee-Ball</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Skee-Ball" region="US">
+			<ReleasePublisher>Skee-Ball</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1909</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Storm Stopper" URL="/redemption/918380-storm-stopper">
+		<Description>Storm Stopper is an Action game,  with no announced release date.</Description>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Storm Stopper" region="US">
+			<ReleasePublisher></ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>Unknown</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Super Mario Fushigi no Janjan Land" URL="/redemption/739820-super-mario-fushigi-no-janjan-land">
+		<Description>Super Mario Fushigi no Janjan Land is a Miscellaneous game, developed by Capcom and published by Nintendo,  which was released in Japan in 2003.</Description>
+		<UserRating>4.21 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>Capcom</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Super Mario Fushigi no Janjan Land" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>2003</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Super Mario Fushigi no Korokoro Party 2" URL="/redemption/730864-super-mario-fushigi-no-korokoro-party-2">
+		<Description>Super Mario Fushigi no Korokoro Party 2 is a Miscellaneous game, developed by Capcom and published by Nintendo,  which was released in Japan in 2005.</Description>
+		<UserRating>4.70 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Capcom</Developer>
+		<Genre>Miscellaneous &gt; Party / Minigame</Genre>
+		<Release name="Super Mario Fushigi no Korokoro Party 2" region="JP">
+			<ReleasePublisher>Nintendo</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>October 2005</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Super Mario World" URL="/redemption/741766-super-mario-world-redemption">
+		<Description>Super Mario World (Redemption) is a Miscellaneous game, developed and published by Fabtek,  which was released in 1993.</Description>
+		<UserRating>4.56 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Fabtek</Developer>
+		<Franchise>Mario</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Super Mario World (Redemption)" region="US">
+			<ReleasePublisher>Fabtek</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Triple Jam" URL="/redemption/918381-triple-jam">
+		<Description>Triple Jam is an Action game, published by Coastal Amusements,  which was released in 1996.</Description>
+		<Developer>Coastal Amusements</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Triple Jam" region="US">
+			<ReleasePublisher>Coastal Amusements</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>08/09/96</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Redemption" name="Wheel 'em In" URL="/redemption/918382-wheel-em-in">
+		<Description>Wheel 'em In is an Action game, published by Bromley,  which was released in 1990.</Description>
+		<UserRating>3.13 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Bromley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Wheel 'em In" region="US">
+			<ReleasePublisher>Bromley</ReleasePublisher>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

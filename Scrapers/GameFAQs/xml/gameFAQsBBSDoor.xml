@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="BBS Door" name="Arcadian Legends, The" URL="/bbs/939648-the-arcadian-legends">
+		<Description>The Arcadian Legends is a Strategy game, developed and published by SRGames,  which was released in 1996.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>SRGames</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="The Arcadian Legends" region="US">
+			<ReleasePublisher>SRGames</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>09/10/96</ReleaseDate>
+		</Release>
+		<Release name="The Arcadian Legends" region="US">
+			<ReleasePublisher>John Dailey Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>11/13/99</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Arrowbridge I - Quest for the Orb" URL="/bbs/939649-arrowbridge-i-quest-for-the-orb">
+		<Description>Arrowbridge I - Quest for the Orb is a Role-Playing game, developed and published by Gargoyle Productions,  which was released in 1993.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Gargoyle Productions</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Arrowbridge I - Quest for the Orb" region="US">
+			<ReleasePublisher>Gargoyle Productions</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>01/01/93</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Arrowbridge II - The Guardians of Darkness" URL="/bbs/939650-arrowbridge-ii-the-guardians-of-darkness">
+		<Description>Arrowbridge II - The Guardians of Darkness is a Role-Playing game, developed and published by Gargoyle Productions,  which was released in 1997.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>Gargoyle Productions</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Arrowbridge II - The Guardians of Darkness" region="US">
+			<ReleasePublisher>Gargoyle Productions</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>01/10/97</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Barren Realms Elite" URL="/bbs/574618-barren-realms-elite">
+		<Description>Barren Realms Elite is a Strategy game, developed and published by SRGames,  which was released in 1994.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>46 hours</Length>
+		<Developer>SRGames</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Barren Realms Elite" region="US">
+			<ReleasePublisher>SRGames</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>01/01/94</ReleaseDate>
+		</Release>
+		<Release name="Barren Realms Elite" region="US">
+			<ReleasePublisher>John Dailey Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>06/29/99</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="BBS Door" URL="/bbs/916369-bbs-door">
+		<Description>BBS Door is a Hardware game,  with no announced release date.</Description>
+		<AKA>BBS Door General (US)</AKA>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="BBS Door General" region="US">
+			<ReleasePublisher></ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>Unknown</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="BBS Door General" URL="/bbs/916369-bbs-door">
+		<Description>BBS Door is a Hardware game,  with no announced release date.</Description>
+		<AKA>BBS Door General (US)</AKA>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="BBS Door General" region="US">
+			<ReleasePublisher></ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>Unknown</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Blademaster" URL="/bbs/627151-blademaster">
+		<Description>Blademaster is an Action game, developed and published by Soft Arts Ltd.,  which was released in 1990.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.7 hours</Length>
+		<Developer>Soft Arts Ltd.</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Blademaster" region="US">
+			<ReleasePublisher>Soft Arts Ltd.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Clans" URL="/bbs/575660-clans">
+		<Description>Clans is a Strategy game, developed and published by Strategy First,  with no announced release date.</Description>
+		<Developer>Strategy First</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Clans" region="US">
+			<ReleasePublisher>Strategy First</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>Unknown</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Death Masters" URL="/bbs/939651-death-masters">
+		<Description>Death Masters is a Role-Playing game, developed and published by RPG2100 DoorWare,  which was released in 1995.</Description>
+		<UserRating>2.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>20 hours</Length>
+		<Developer>RPG2100 DoorWare</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Death Masters" region="US">
+			<ReleasePublisher>RPG2100 DoorWare</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>08/10/95</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Exitilus" URL="/bbs/574620-exitilus">
+		<Description>Exitilus is a Role-Playing game, developed and published by Tao Ge,  which was released in 1996.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.2 hours</Length>
+		<Developer>Tao Ge</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Exitilus" region="US">
+			<ReleasePublisher>Tao Ge</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>01/01/96</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Falcon's Eye" URL="/bbs/574621-falcons-eye">
+		<Description>Falcon's Eye is a Strategy game, developed and published by SRGames,  which was released in 1995.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>SRGames</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Falcon's Eye" region="US">
+			<ReleasePublisher>SRGames</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>07/14/95</ReleaseDate>
+		</Release>
+		<Release name="Falcon's Eye" region="US">
+			<ReleasePublisher>John Dailey Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>01/13/99</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Falcon's Honor" URL="/bbs/939652-falcons-honor">
+		<Description>Falcon's Honor is a Role-Playing game, developed and published by SRGames,  which was released in 1996.</Description>
+		<Developer>SRGames</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Falcon's Honor" region="US">
+			<ReleasePublisher>SRGames</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>05/18/96</ReleaseDate>
+		</Release>
+		<Release name="Falcon's Honor" region="US">
+			<ReleasePublisher>John Dailey Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>12/10/99</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Land of Devastation" URL="/bbs/183287-land-of-devastation-lod">
+		<Description>Land of Devastation (LOD) is a Role-Playing game, developed and published by SB-Software,  which was released in 1990.</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>40 hours</Length>
+		<AKA>Land of Devastation (US)</AKA>
+		<Developer>SB-Software</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Land of Devastation (LOD)" region="US">
+			<ReleasePublisher>SB-Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Other</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Legend of the Red Dragon" URL="/bbs/574622-legend-of-the-red-dragon">
+		<Description>Legend of the Red Dragon is a Role-Playing game, developed and published by Robinson Technologies,  which was released in 1989.</Description>
+		<UserRating>4.35 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>11.2 hours</Length>
+		<Developer>Robinson Technologies</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Legend of the Red Dragon" region="US">
+			<ReleasePublisher>Robinson Technologies</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>01/01/89</ReleaseDate>
+		</Release>
+		<Release name="Legend of the Red Dragon" region="US">
+			<ReleasePublisher>Metropolis Gameport</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Legend of the Red Dragon II" URL="/bbs/582437-legend-of-the-red-dragon-ii">
+		<Description>Legend of the Red Dragon II is a Role-Playing game, published by Metropolis Inc.,  which was released in 1991.</Description>
+		<UserRating>3.10 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>30 hours</Length>
+		<AKA>Legend of the Red Dragon II: New World (US)</AKA>
+		<Developer>Metropolis Inc.</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="Legend of the Red Dragon II: New World" region="US">
+			<ReleasePublisher>Metropolis Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Legend of the Red Dragon II: New World" URL="/bbs/582437-legend-of-the-red-dragon-ii">
+		<Description>Legend of the Red Dragon II is a Role-Playing game, published by Metropolis Inc.,  which was released in 1991.</Description>
+		<UserRating>3.10 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>30 hours</Length>
+		<AKA>Legend of the Red Dragon II: New World (US)</AKA>
+		<Developer>Metropolis Inc.</Developer>
+		<Genre>Role-Playing &gt; Western-Style</Genre>
+		<Release name="Legend of the Red Dragon II: New World" region="US">
+			<ReleasePublisher>Metropolis Inc.</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>1991</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Pit, The" URL="/bbs/924352-the-pit">
+		<Description>The Pit is a Role-Playing game, developed and published by Midas Touch Software,  which was released in 1990.</Description>
+		<UserRating>3.21 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>11 hours</Length>
+		<Developer>Midas Touch Software</Developer>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="The Pit" region="US">
+			<ReleasePublisher>Midas Touch Software</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Planets: The Exploration of Space" URL="/bbs/575575-planets-the-exploration-of-space">
+		<Description>Planets: The Exploration of Space is a Strategy game, published by RTSoft,  which was released in 1992.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.3 hours</Length>
+		<Developer>RTSoft</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Planets: The Exploration of Space" region="US">
+			<ReleasePublisher>RTSoft</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>1992</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Solar Realms Elite" URL="/bbs/939653-solar-realms-elite">
+		<Description>Solar Realms Elite is a Strategy game, developed and published by SRGames,  which was released in 1991.</Description>
+		<UserRating>3.13 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>16 hours</Length>
+		<Developer>SRGames</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Solar Realms Elite" region="US">
+			<ReleasePublisher>SRGames</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>01/01/91</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Swords of Chaos" URL="/bbs/934724-swords-of-chaos">
+		<Description>Swords of Chaos is a Role-Playing game, developed and published by GamePort,  which was released in 1990.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.5 hours</Length>
+		<Developer>GamePort</Developer>
+		<Genre>Role-Playing &gt; Japanese-Style</Genre>
+		<Release name="Swords of Chaos" region="US">
+			<ReleasePublisher>GamePort</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>1990</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Trade Wars 2002" URL="/bbs/565531-trade-wars-2002">
+		<Description>Trade Wars 2002 is a Strategy game, published by Martech,  which was released in 1997.</Description>
+		<UserRating>4.30 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Martech</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Trade Wars 2002" region="US">
+			<ReleasePublisher>Martech</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>1997</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="BBS Door" name="Usurper" URL="/bbs/575549-usurper">
+		<Description>Usurper is a Role-Playing game,  which was released in 1985.</Description>
+		<UserRating>3.79 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>10.7 hours</Length>
+		<Genre>Role-Playing &gt; General</Genre>
+		<Release name="Usurper" region="US">
+			<ReleasePublisher></ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode>Online</ReleaseBarCode>
+			<ReleaseDate>03/02/85</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

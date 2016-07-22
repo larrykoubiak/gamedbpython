@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Microvision" name="Alien Raiders" URL="/microvision/587016-alien-raiders">
+		<Description>Alien Raiders is an Action game, published by Milton Bradley,  which was released in 1981.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Alien Raiders" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4176</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Alien Raiders (US)-48775_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Baseball" URL="/microvision/587017-baseball">
+		<Description>Baseball is an Action game, published by Milton Bradley,  which was released in 1980.</Description>
+		<UserRating>3.56 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Baseball" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4063</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Baseball (US)-48776_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Block Buster" URL="/microvision/587018-block-buster">
+		<Description>Block Buster is an Action game, published by Milton Bradley,  which was released in 1979.</Description>
+		<UserRating>4.19 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Block Buster" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4952</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Block Buster (US)-48777_front.jpg</Image>
+				<Image>Block Buster (US)-48777_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Block Buster" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4971</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Block Buster (EU)-48778_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Bowling" URL="/microvision/587019-bowling">
+		<Description>Bowling is an Action game, published by Milton Bradley,  which was released in 1979.</Description>
+		<UserRating>3.07 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Bowling" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4972</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bowling (US)-48779_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Connect Four" URL="/microvision/587020-connect-four">
+		<Description>Choose a column to play, then drop a checker. Try to build a way to get four of your checkers in a row across, up and down or diagonally, while blocking your opponent. Get four in a row first and you win!</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Franchise>Connect Four</Franchise>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Connect Four" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4971</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Connect Four (US)-48781_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Cosmic Hunter" URL="/microvision/587021-cosmic-hunter">
+		<Description>Cosmic Hunter is an Action game, published by Milton Bradley,  which was released in 1981.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Cosmic Hunter" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4177</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Cosmic Hunter (US)-48780_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Microvision" URL="/microvision/916383-microvision">
+		<Description>MICROVISION, the programmable electronic game system! A new concept in electronic game systems - a hand-held console with interchangeable cartridges. Easy-to-insert interchangeable game cartridges snap into the console. To change games, simply remove one cartridge and drop in another! A wide variety of game cartridges available! Includes the fast action game, Block Buster!</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<AKA>Microvision Hardware (US, EU)</AKA>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Microvision Hardware" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4952-16 1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+		<Release name="Microvision Hardware" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Microvision Hardware (EU)-307728_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Microvision Hardware" URL="/microvision/916383-microvision">
+		<Description>MICROVISION, the programmable electronic game system! A new concept in electronic game systems - a hand-held console with interchangeable cartridges. Easy-to-insert interchangeable game cartridges snap into the console. To change games, simply remove one cartridge and drop in another! A wide variety of game cartridges available! Includes the fast action game, Block Buster!</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<AKA>Microvision Hardware (US, EU)</AKA>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Microvision Hardware" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4952-16 1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+		<Release name="Microvision Hardware" region="EU">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Microvision Hardware (EU)-307728_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Mindbuster" URL="/microvision/587022-mindbuster">
+		<Description>Mindbuster is an Action game, published by Milton Bradley,  which was released in 1979.</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Mindbuster" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4976</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mindbuster (US)-48783_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Pinball" URL="/microvision/587023-pinball">
+		<Description>Pinball is an Action game, published by Milton Bradley,  which was released in 1979.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pinball" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4974</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pinball (US)-48785_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Sea Duel" URL="/microvision/587024-sea-duel">
+		<Description>Sea Duel is an Action game, published by Milton Bradley,  which was released in 1980.</Description>
+		<UserRating>2.86 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Sea Duel" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4064</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sea Duel (US)-48784_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Star Trek Phaser Strike" URL="/microvision/587025-star-trek-phaser-strike">
+		<Description>Star Trek Phaser Strike is an Action game, developed and published by Milton Bradley,  which was released in 1979.</Description>
+		<UserRating>3.71 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Franchise>Star Trek</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Star Trek Phaser Strike" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4973</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Trek Phaser Strike (US)-48786_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Microvision" name="Vegas Slots" URL="/microvision/587026-vegas-slots">
+		<Description>Vegas Slots is an Action game, published by Milton Bradley,  which was released in 1979.</Description>
+		<UserRating>2.92 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Milton Bradley</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Vegas Slots" region="US">
+			<ReleasePublisher>Milton Bradley</ReleasePublisher>
+			<ReleaseProductID>4975</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Vegas Slots (US)-48787_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>

@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="Intellivision" name="ABPA Backgammon" URL="/intellivision/576365-abpa-backgammon">
+		<Description>Beating Intellivision at backgammon is a lot of fun. But it's definitely not child's play. The computer knows all the tricks -- and it calculates all the odds before it moves. Can you find a flaw in its strategy? Can you give it pieces to gobble up freely, then trap it in the back game? Or will you just cross your fingers, press the button and roll the dice? Perfect your own backgammon skills with this modem version of one of the world's oldest games.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<AKA>Backgammon (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="ABPA Backgammon" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1119</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>ABPA Backgammon (US)-38656_front.jpg</Image>
+				<Image>ABPA Backgammon (US)-38656_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Backgammon (Sears)" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Advanced Dungeons &amp; Dragons" URL="/intellivision/576720-advanced-dungeons-and-dragons">
+		<Description>Journey into a land of treasure, adventure and dark, dark danger.  Lead a 3-man expedition through winding mountain caverns, in search of tools and arrows.  Within the caverns, deadly monsters lie in wait.  Slay the monsters, overcome the obstacles of a hostile land, and enter the legendary Cloudy Mountain.  Here you'll find the Crown of Kings...and the deadliest terror of all, the Winged Dragons.</Description>
+		<UserRating>3.72 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>7.3 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>Dungeons &amp; Dragons</Franchise>
+		<Genre>Role-Playing &gt; Action RPG</Genre>
+		<Release name="Advanced Dungeons &amp; Dragons" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3410</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Advanced Dungeons &amp; Dragons (US)-39055_front.jpg</Image>
+				<Image>Advanced Dungeons &amp; Dragons (US)-39055_back.jpg</Image>
+				<Image>Advanced Dungeons &amp; Dragons (US)-39055_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Advanced Dungeons &amp; Dragons: Treasure of Tarmin" URL="/intellivision/576718-advanced-dungeons-and-dragons-treasure-of-tarmin">
+		<Description>You've found the secret map to the underground lair of the dreaded Minotaur. You can go in, but you'll never come out unless you slay the Minotaur and claim his Tarmin treasure. As you make your way through the hallways and chambers, monsters wield their conventional or spiritual weapons. You must gather the proper defenses along the way. But use them sparingly, the Minotaur looms closer!</Description>
+		<UserRating>3.38 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>19.5 hours</Length>
+		<AKA>Minotaur (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Franchise>Dungeons &amp; Dragons</Franchise>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Advanced Dungeons &amp; Dragons: Treasure of Tarmin" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5300</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39052_front.jpg</Image>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39052_back.jpg</Image>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39052_side.jpg</Image>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39052_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Minotaur" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Air Strike" URL="/intellivision/576372-air-strike">
+		<Description>Air Strike is an Action game, published by Mattel,  which was released in 1982.</Description>
+		<UserRating>2.79 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Air Strike" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="All-Star Major League Baseball" URL="/intellivision/576399-all-star-major-league-baseball">
+		<Description>All-Star Major League Baseball is a Sports game, published by Mattel,  which was released in 1986.</Description>
+		<UserRating>3.69 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.9 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="All-Star Major League Baseball" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1986</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Armor Battle" URL="/intellivision/562924-armor-battle">
+		<Description>Dust off your field glasses and scan the horizon for enemy tanks. There's one -- grinding its way out of the woods! Who will fire a split second sooner? And who will be reduced to a pile of rubble? When you've beaten your opponent, move on to a new battlefield. There are literally hundreds of new terrains to conquer! War may be nerve-wracking, but this is pure fun!</Description>
+		<UserRating>3.45 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10.1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Armor Battle" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1121</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Armor Battle (US)-20335_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Astrosmash" URL="/intellivision/576721-astrosmash">
+		<Description>You're all alone in a hostile universe of tumbling asteroids and homicidal aliens. You've got the wits and the speed, but you're awesomely outnumbered.
+With a little practice, you may survive...</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>22.1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Astrosmash" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3605</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Astrosmash (US)-39058_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Atlantis" URL="/intellivision/576401-atlantis">
+		<Description>Alien spacecraft bombard the underwater city of Atlantis. Centuries of progress seem doomed. You man the defense installations. Night falls. Blinded by rage, you scramble into Atlantis' last defensive spaceship and fly into enemy-filled skies. How long can one ship survive against so many?</Description>
+		<UserRating>3.41 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.5 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Atlantis" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>720006-1A</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Atlantis (US)-38684_front.jpg</Image>
+				<Image>Atlantis (US)-38684_back.jpg</Image>
+				<Image>Atlantis (US)-38684_side.jpg</Image>
+				<Image>Atlantis (US)-38684_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Auto Racing" URL="/intellivision/576722-auto-racing">
+		<Description>Snap on your crash helmet, fire up your Formula I, and slam it into first. Power through the first turn and you're off on a Grand Prix class racing circuit. The faster you push your race car the more alert you have to be. You may slide off the track and into a maze of grass and trees. You may find yourself skidding into a pond. Or you may find yourself halfway through a hairpin turn before you know it. Whether you race against an opponent or against the clock, there are thrills enough for anybody.</Description>
+		<UserRating>3.41 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8.7 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Racing &gt; General</Genre>
+		<Release name="Auto Racing" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1113</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>01/01/79</ReleaseDate>
+			<ReleaseImages>
+				<Image>Auto Racing (US)-39060_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="B-17 Bomber" URL="/intellivision/576723-b-17-bomber">
+		<Description>World War II action at 12 o'clock high as you fly a bombing mission deep inside Fortress Europe. You select your targets and switch from cockpit view to bomb bay view. The closer you get to your target the more flak and enemy planes you encounter. "Target in sight," you switch back to the bomb bay view "Bombs Away." Three voices, three different screens.</Description>
+		<UserRating>3.38 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>34.4 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="B-17 Bomber" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3884</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>B-17 Bomber (US)-39056_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Backgammon" URL="/intellivision/576365-abpa-backgammon">
+		<Description>Beating Intellivision at backgammon is a lot of fun. But it's definitely not child's play. The computer knows all the tricks -- and it calculates all the odds before it moves. Can you find a flaw in its strategy? Can you give it pieces to gobble up freely, then trap it in the back game? Or will you just cross your fingers, press the button and roll the dice? Perfect your own backgammon skills with this modem version of one of the world's oldest games.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.9 hours</Length>
+		<AKA>Backgammon (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="ABPA Backgammon" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1119</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>ABPA Backgammon (US)-38656_front.jpg</Image>
+				<Image>ABPA Backgammon (US)-38656_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Backgammon (Sears)" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Basketball" URL="/intellivision/576404-basketball">
+		<Description>The speed and excitement of real basketball court action! Life-like figures and authentic gameplay as two teams compete in 48 thrill-packed minutes. You and your opponent control the ball and mastermind the plays. Dribble down court, pass it off, go for a jump or set shot. You go for a rebound... try a fast break. You try to steal the ball... block the shot. Featuring simulated sound effects such as crowd cheers, buzzers, dribbling sounds, rim shot sounds, referee's whistle and much more!</Description>
+		<UserRating>2.93 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>23.4 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Basketball &gt; Sim</Genre>
+		<Release name="Basketball" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Basketball (US)-38694_front.jpg</Image>
+				<Image>Basketball (US)-38694_back.jpg</Image>
+				<Image>Basketball (US)-38694_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Basketball" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>2615</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Basketball (US)-38694_front.jpg</Image>
+				<Image>Basketball (US)-38694_back.jpg</Image>
+				<Image>Basketball (US)-38694_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Beamrider" URL="/intellivision/576717-beamrider">
+		<Description>An impenetrable shield of light, 99 sectors deep, is encompassing the planet. You, alone, must cruise from beam to beam, casting lariats of laser bolts into white saucers, red zig bombs, yellow chirpers and more! The quest: to penetrate the shield and restore space exploration to the planet. You have the skill! You have the daring! You are Beamrider!</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Cheshire</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Beamrider" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>M-005-04</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Beamrider (US)-26593_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Beauty &amp; the Beast" URL="/intellivision/576724-beauty-and-the-beast">
+		<Description>That big bully's got the girl. It's you to the rescue. Climb the building, floor by floor. But watch out! Our fearsome foe is angrily tossing boulders. The higher you go, the harder the going gets. Best time to the top wins the game.</Description>
+		<UserRating>3.03 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.8 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Beauty &amp; the Beast" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>IM 7401</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Beauty &amp; the Beast (US)-39057_front.jpg</Image>
+				<Image>Beauty &amp; the Beast (US)-39057_back.jpg</Image>
+				<Image>Beauty &amp; the Beast (US)-39057_side.jpg</Image>
+				<Image>Beauty &amp; the Beast (US)-39057_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Blackjack &amp; Poker" URL="/intellivision/576405-blackjack-and-poker">
+		<Description>Blackjack &amp; Poker is a Miscellaneous game, published by Mattel,  which was released in 1979.</Description>
+		<UserRating>3.27 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.6 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Blackjack &amp; Poker" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Blockade Runner" URL="/intellivision/576406-blockade-runner">
+		<Description>Blockade Runner is a great visual concept in video games - play by yourself or team with a friend to bring home to earth four ships loaded with vital supplies. Enemy aliens have blockaded your route, so you must flash through a mine-filled asteroid belt to avoid destruction. You steer and shoot from your ship's nose-cone command post as the universe rushes past your eyes!</Description>
+		<UserRating>3.07 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Interphase</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Blockade Runner" region="US">
+			<ReleasePublisher>Interphase</ReleasePublisher>
+			<ReleaseProductID>8010001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Blockade Runner (US)-38695_front.jpg</Image>
+				<Image>Blockade Runner (US)-38695_back.jpg</Image>
+				<Image>Blockade Runner (US)-38695_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Body Slam Super Pro Wrestling" URL="/intellivision/576725-body-slam-super-pro-wrestling">
+		<Description>Pin your opponent in a zany free-for-all match! Chase 'im through the blood-thirsty crowd! 12 tough, bizarre characters to become or to battle! 26 different moves to master, from the defensive Possum Roll to the devastating Power Kick! Play One-On-One or Tag Team! 6 skill levels for constant challenge! Battle a friend or a merciless computer controlled opponent!</Description>
+		<UserRating>3.08 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Wrestling</Genre>
+		<Release name="Body Slam Super Pro Wrestling" region="US">
+			<ReleasePublisher>Intellivision Productions</ReleasePublisher>
+			<ReleaseProductID>9009</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+			<ReleaseImages>
+				<Image>Body Slam Super Pro Wrestling (US)-39062_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Bomb Squad" URL="/intellivision/576407-bomb-squad">
+		<Description>It's a race against time as you attempt to disarm the terrorist bomb before it destroys the city! The screen shows the bomb circuitry as voices heighten the tension. "Wrong part...they'll never do it in time...one minute till blast." Hurry, other lives besides your own hang in the balance. Three voices, three screens.</Description>
+		<UserRating>3.11 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Bomb Squad" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3883</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bomb Squad (US)-38700_front.jpg</Image>
+				<Image>Bomb Squad (US)-38700_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Bowling" URL="/intellivision/576409-bowling">
+		<Description>First select one of ten conditions of alley slickness, then pick your own ball weight. Control your aim, curve and loft, and deliver the ball - go for the strike! 1 to 4 people can play - it's a great party game for individuals or teams. A completely different game on the same cartridge (Pick-up Spares) gives you extra practice with 32 pin setups! A slow motion view lets you see the pin action when the ball hits. The computer does all the scorekeeping - with a mighty fanfare for the 200 game!</Description>
+		<UserRating>3.19 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>12.4 hours</Length>
+		<AKA>PBA Bowling (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="PBA Bowling" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3333</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+		<Release name="Bowling" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bowling (US)-14620_front.jpg</Image>
+				<Image>Bowling (US)-14620_back.jpg</Image>
+				<Image>Bowling (US)-14620_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Boxing" URL="/intellivision/577199-boxing">
+		<Description>There's the bell! You're playing at championship speed, so the action is lightning fast. Feint, duck, block, then move in for a quick combination. Remember that your fighter is using up precious energy. And each punch he takes has its toll. So use your brains as well as your brawn -- and keep your warrior in shape to go 15 rounds.</Description>
+		<UserRating>2.61 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>13.6 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Combat &gt; Boxing / Martial Arts</Genre>
+		<Release name="Boxing" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1819</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Boxing (US)-39586_front.jpg</Image>
+				<Image>Boxing (US)-39586_back.jpg</Image>
+				<Image>Boxing (US)-39586_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Brickout" URL="/intellivision/576418-brickout">
+		<Description>Brickout is an Action game, published by Mattel,  which was cancelled before it was released.</Description>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Brickout" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Bump 'n' Jump" URL="/intellivision/576726-bump-n-jump">
+		<Description>You're cruising along with your baby, Bunny, in your Buggy, when from behind you hear this brain-boggling b-b-baroooooom! It's Dark Jackal and his beastly band of Blacktop Bullies! They buzz by and when the smoke clears, the passenger seat's bare. These dudes have kidnapped your baby, Bunny! Only you and the Buggy can bring her back. But not without a bone-bouncing chase that makes the Indy 500 look like bumper cars. Over jam-packed city streets and treacherous curves on mountain cliffs, past Dark Jackal's Bullies to catch his Buggy and Bunny. And the cops are bearing down on you from behind. Think you got what it takes to save Bunny?</Description>
+		<UserRating>4.21 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>14.7 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Bump 'n' Jump" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4688</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bump 'n' Jump (US)-39061_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="BurgerTime" URL="/intellivision/566288-burgertime">
+		<Description>As the burger chef, you're out to build delicious hamburgers. As you run through the colorful maze assembling the ingredients, nothing can stop you. Except menacing hot dogs and pickles that are out to ruin the meal! Bury them under beef patties, lettuce and buns. Or, knock them out with pepper. Build four burgers and you're on to the next level.</Description>
+		<UserRating>3.91 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10.3 hours</Length>
+		<Developer>Data East</Developer>
+		<Franchise>BurgerTime</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="BurgerTime" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4549</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>BurgerTime (US)-20954_front.jpg</Image>
+				<Image>BurgerTime (US)-20954_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Buzz Bombers" URL="/intellivision/576419-buzz-bombers">
+		<Description>You're out to extinguish an angry swarm of honey bees armed with only a spray can of bee repellent. As the bees buzz ever closer, you hit them with a blast of spray to turn them into pieces of honeycomb. The more honeycombs, the more points you score. Don't get stung.</Description>
+		<UserRating>3.38 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Buzz Bombers" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4436</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Buzz Bombers (US)-38711_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Carnival" URL="/intellivision/565581-carnival">
+		<Description>This game captures the fun, excitement, and sounds of an old-time shooting gallery. Blaze away at clay pipes, dancing bears and sitting ducks. But watch out, those aren't ordinary sitting ducks. They come to life when they reach the end of the gallery, and avenge themselves by eating from your limited supply of ammunition. How many can you shoot down?</Description>
+		<UserRating>3.35 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Coleco</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Carnival" region="US">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID>2488</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Carnival (US)-23026_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Carnival" region="EU">
+			<ReleasePublisher>CBS Electronics</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Centipede" URL="/intellivision/576420-centipede">
+		<Description>Based on the Atari arcade game. An insidious invasion of multiplying insects (Centipedes, Jumping Spiders, Poisonous Scorpions and Frenzied Fleas) pose different perils to the mushroom patch. Get out your Bug Blaster and save that Fungus!</Description>
+		<UserRating>3.02 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>13.5 hours</Length>
+		<Developer>Atari</Developer>
+		<Franchise>Centipede</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Centipede" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>70254</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Centipede (US)-28175_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Championship Tennis" URL="/intellivision/576423-championship-tennis">
+		<Description>You can play alone, against your Intellivision unit or with another player either in singles or in doubles. You can even let your Intellivision take both sides and just watch. Go ahead conquer Paris, New York, and Wimbledon if you can. You will need both great concentration and strong legs to win at Championship Tennis. Play locations such as Flushing Meadows, Roland Garros, Wimbledon. In Championship Tennis you are in charge. See if you have what it takes to win the "grand slam"!</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>80+ hours</Length>
+		<Developer>Nice Ideas</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Championship Tennis" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>8200</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1986</ReleaseDate>
+			<ReleaseImages>
+				<Image>Championship Tennis (US)-38712_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Checkers" URL="/intellivision/576426-checkers">
+		<Description>Pit your skill and imagination against an opponent who can assess the board opposition in a few seconds and think several moves ahead. The computer won't make a foolish mistake, but you can still beat it...if you concoct a strategy it can't handle. Hi and Lo skill levels. "Bail Out" button asks computer to recommend your next move.</Description>
+		<UserRating>3.15 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Checkers" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1120</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Checkers (US)-38731_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Chess" URL="/intellivision/576430-chess">
+		<Description>Chess is a Miscellaneous game, developed by Teletape and published by Mattel,  which was released in 1984.</Description>
+		<UserRating>2.94 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.1 hours</Length>
+		<Developer>Teletape</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Chess" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>2611</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Chess (US)-38736_front.jpg</Image>
+				<Image>Chess (US)-38736_back.jpg</Image>
+				<Image>Chess (US)-38736_side.jpg</Image>
+				<Image>Chess (US)-38736_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Chip Shot Super Pro Golf" URL="/intellivision/576727-chip-shot-super-pro-golf">
+		<Description>Select an easy or a hard course, or put together your own from a selection of 99 holes, many based on the most famous holes in the world! Choose from a full bag of clubs! The wind can affect your shot; watch the flag to see which way it's blowing! You determine how hard the ball is hit, you determine if the ball hooks or slices! Watch out for trees, sand traps and water hazards. Close-up view of each green for putting. All the challenges and rewards of golfing.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>16.1 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Chip Shot Super Pro Golf" region="US">
+			<ReleasePublisher>Intellivision Productions</ReleasePublisher>
+			<ReleaseProductID>8900</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Commando" URL="/intellivision/576492-commando">
+		<Description>You're on foot, alone, armed with a machine gun and hand-grenades. Your goal: advance across deserts and jungles through swarm after swarm of well-armed enemy soldiers! The odds are impossible!</Description>
+		<UserRating>2.79 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>2.2 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Franchise>Wolf of the Battlefield</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Commando" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>9000</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+			<ReleaseImages>
+				<Image>Commando (US)-21902_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Congo Bongo" URL="/intellivision/576506-congo-bongo">
+		<Description>You have to get to Congo, the mighty ape, before the jungle beasts get to you. Dodge falling coconuts as you scale Monkey Mountain. Shake the monkey from your back and chase Congo onto the lagoon screen. Then cross the water on the backs of hippos, lily pads and hunter-eating fish. And do it all before Congo makes a monkey out of you. But watch your step - one slip and it's off to hunter heaven.</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.1 hours</Length>
+		<Developer>Sega</Developer>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Congo Bongo" region="US">
+			<ReleasePublisher>Sega</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Congo Bongo (US)-30196_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Deep Pockets: Super Pro Pool and Billiards" URL="/intellivision/576547-deep-pockets-super-pro-pool-and-billiards">
+		<Description>Deep Pockets: Super Pro Pool and Billiards is a Sports game, published by INTV,  which was cancelled before it was released.</Description>
+		<Developer>INTV</Developer>
+		<Genre>Sports &gt; Individual &gt; Billiards</Genre>
+		<Release name="Deep Pockets: Super Pro Pool and Billiards" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Defender" URL="/intellivision/576565-defender">
+		<Description>Defend Planet Earth against the Aliens! Don't let Alien Landers kidnap the Humanoids and turn them into destructive Mutants! Features Hyperspace Timewarp, Alien Landers, Exploding Pods!</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6.3 hours</Length>
+		<Developer>Atari</Developer>
+		<Franchise>Defender</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Defender" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>70252</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Defender (US)-29250_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Demon Attack" URL="/intellivision/576578-demon-attack">
+		<Description>Devastating waves of cosmic creatures attack from above. Blast them with your laser cannon. Careful! These foes are tricky. When hit, some split in two. They keep coming. The challenge never lets up as you fight back for the ultimate victory.</Description>
+		<UserRating>3.03 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Demon Attack" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Demon Attack (US)-38896_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Dig Dug" URL="/intellivision/576728-dig-dug">
+		<Description>Create your own maze as you tunnel fearlessly through the earth. Your goal: Reap tasty vegetables worth healthy points. Your enemies: ghosts who want to bury you alive, fierce fire-breathing dragons, and mean balloon-like bullies! Can you dig it?</Description>
+		<UserRating>3.72 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Franchise>Dig Dug</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Dig Dug" region="US">
+			<ReleasePublisher>Intellivision Productions</ReleasePublisher>
+			<ReleaseProductID>9005</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dig Dug (US)-20422_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Diner" URL="/intellivision/576730-diner">
+		<Description>Diner is an Action game, developed by Realtime Associates and published by INTV,  which was released in 1987.</Description>
+		<UserRating>3.86 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Diner" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>8800</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Donkey Kong" URL="/intellivision/567311-donkey-kong">
+		<Description>Can you save Mario's girl from the clutches of Donkey Kong? Donkey Kong has kidnapped Mario's girlfriend Pauline and taken her to the top of a construction site. It's up to you to help Mario save Pauline before time runs out. But it won't be easy. Donkey Kong will do everything in his power to stop you. He'll throw barrel bombs, flaming fireballs and anything else he can get his hands on. So if you're looking for action, don't monkey around.</Description>
+		<UserRating>3.27 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Coleco</Developer>
+		<Franchise>Donkey Kong</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Donkey Kong" region="US">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID>2471</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donkey Kong (US)-3005_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Donkey Kong" region="EU">
+			<ReleasePublisher>CBS Electronics</ReleasePublisher>
+			<ReleaseProductID>7625-7A</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donkey Kong (EU)-3006_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Donkey Kong Junior" URL="/intellivision/576684-donkey-kong-junior">
+		<Description>Mario has gone mad! He's turned the tables on Donkey Kong and locked him in a cage. It's up to you, as Donkey Kong Jr., to rescue your father by stealing Mario's set of keys. But it won't be easy. You'll have to fight off ape-eating Snapjaws, jump onto moving islands and break through a jungle of vines to get to the keys that will free Donkey Kong. Can you handle the action? Because this off-the-wall monkey business will have you going bananas!</Description>
+		<UserRating>3.23 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Coleco</Developer>
+		<Franchise>Donkey Kong</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Donkey Kong Junior" region="US">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID>2671</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Donkey Kong Junior (US)-23066_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Dracula" URL="/intellivision/576704-dracula">
+		<Description>Dracula rises again! Taking the form of a vampire bat, the immortal desperado leaves the graveyard on the stroke of midnight and reaches the city to begin his bloodthirsty hunt! He can take vampire bat form any time to catch speedy victims but must take human form to sink his fangs into them.
+
+Vultures attack him when he's a vampire bat, vicious wolves chase him when he's on foot! Constables patrol the streets armed with wooden stakes that can freeze him in his tracks. But Dracula creates Zombies who are his unholy allies. The clock counts the night away and he must return to his coffin before the sun rises.</Description>
+		<UserRating>2.66 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Dracula" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700018</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dracula (US)-39026_front.jpg</Image>
+				<Image>Dracula (US)-39026_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Dragonfire" URL="/intellivision/576731-dragonfire">
+		<Description>Dreadful dragons control the King's castle! You, the young Prince, want them banished, but first you must reclaim the royal treasures. You have to cross castle bridges, dodging dragonfire as you go. Leap, duck and sprint to reach the other side!
+
+Once across, enter a splendid storeroom. Pocket every treasure you touch. But beware of deadly dragonfire! Each dragon is smarter than the last, and some are almost invisible! How many bridges can you cross? How many storerooms can you empty?</Description>
+		<UserRating>3.23 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Dragonfire" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700010</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dragonfire (US)-39065_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Dreadnaught Factor, The" URL="/intellivision/576705-the-dreadnaught-factor">
+		<Description>The Dreadnaught Factor is an Action game, developed by Cheshire and published by Activision,  which was released in 1983.</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Cheshire</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="The Dreadnaught Factor" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>M-004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Dreadnaught Factor (US)-39023_front.jpg</Image>
+				<Image>The Dreadnaught Factor (US)-39023_back.jpg</Image>
+				<Image>The Dreadnaught Factor (US)-39023_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Duncan's Thin Ice" URL="/intellivision/576753-duncans-thin-ice">
+		<Description>Duncan's Thin Ice is an Action game, published by Mattel,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Duncan's Thin Ice" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4433</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Duncan's Thin Ice (US)-39114_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Easter Eggs" URL="/intellivision/576755-easter-eggs">
+		<Description>Easter Eggs is an Action game, published by Mattel,  which was released in 1981.</Description>
+		<UserRating>1.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Easter Eggs" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Electric Company: Math Fun, The" URL="/intellivision/577020-the-electric-company-math-fun">
+		<Description>The Electric Company: Math Fun is a Miscellaneous game, developed and published by Mattel,  which was released in 1979.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="The Electric Company: Math Fun" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>2613</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Electric Company: Word Fun, The" URL="/intellivision/577307-the-electric-company-word-fun">
+		<Description>The Electric Company: Word Fun is a Miscellaneous game, developed and published by Mattel,  which was released in 1980.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>3.3 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="The Electric Company: Word Fun" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1122</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Electric Company Word Fun (US)-39732_front.jpg</Image>
+				<Image>The Electric Company Word Fun (US)-39732_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Fathom" URL="/intellivision/576790-fathom-1983">
+		<Description>Fathom (1983) is an Action game, developed and published by Imagic,  which was released in 1983.</Description>
+		<UserRating>3.38 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<AKA>Fathom (US)</AKA>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Fathom" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700026</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Football" URL="/intellivision/576830-nfl-football">
+		<Description>NFL Football is a Sports game, developed and published by Mattel,  which was released in 1979.</Description>
+		<UserRating>2.91 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>16.9 hours</Length>
+		<AKA>Football (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Sim</Genre>
+		<Release name="NFL Football" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>2610</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>NFL Football (US)-39175_front.jpg</Image>
+				<Image>NFL Football (US)-39175_back.jpg</Image>
+				<Image>NFL Football (US)-39175_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Football" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Frog Bog" URL="/intellivision/567616-frog-bog">
+		<Description>Frog Bog is an Action game, developed and published by Mattel,  which was released in 1982.</Description>
+		<UserRating>3.37 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Frog Bog" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5301</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Frog Bog (US)-28873_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Frogger" URL="/intellivision/576831-frogger">
+		<Description>It's tough to be a frog! Life isn't all lazy days and lily pads - it abounds with dangers. In fact, every leap Frogger takes could be his last! Can you help Frogger survive some perils, and hop Frogger home to safety?</Description>
+		<UserRating>3.45 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.9 hours</Length>
+		<Developer>Parker Brothers</Developer>
+		<Franchise>Frogger</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Frogger" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID>6300</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Frogger (US)-20894_front.jpg</Image>
+				<Image>Frogger (US)-20894_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Go for the Gold" URL="/intellivision/576849-go-for-the-gold">
+		<Description>Go for the Gold is a Sports game, published by Mattel,  which was released in 1981.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; General</Genre>
+		<Release name="Go for the Gold" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Golf" URL="/intellivision/576851-golf">
+		<Description>A demanding 9-hole course! You'll need all the concentration, control and strategy you can muster to come in under par. Sandtraps, rough, water-this course has them all! Play medal or match, single or best ball. Even figure your own handicap! You'll get all the fun, all the stimulation of a real game of golf, everything in fact, except the greens fee.</Description>
+		<UserRating>2.81 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>23.3 hours</Length>
+		<AKA>PGA Golf (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Golf" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golf (US)-39199_front.jpg</Image>
+				<Image>Golf (US)-39199_back.jpg</Image>
+				<Image>Golf (US)-39199_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="PGA Golf" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1816</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Grid Shock" URL="/intellivision/576859-grid-shock">
+		<Description>Grid Shock is an Action game, published by Mattel,  which was released in 1982.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Grid Shock" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Happy Trails" URL="/intellivision/576861-happy-trails">
+		<Description>Happy Trails is an Action game, developed and published by Activision,  which was released in 1983.</Description>
+		<UserRating>2.86 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Activision</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Happy Trails" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>M-003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Happy Trails (US)-39208_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Hard Hat" URL="/intellivision/576863-hard-hat">
+		<Description>Hard Hat is an Action game, published by Mattel,  which was released in 1979.</Description>
+		<UserRating>2.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hard Hat" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hard Hat (US)-310262_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Hockey" URL="/intellivision/576887-hockey">
+		<Description>Hockey is a Sports game, developed by Mattel and published by Sears,  which was released in 1979.</Description>
+		<UserRating>3.43 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20.2 hours</Length>
+		<AKA>NHL Hockey (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Ice Hockey &gt; Sim</Genre>
+		<Release name="Hockey" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID>49 75204</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hockey (US)-39234_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="NHL Hockey" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1114</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Horse Racing" URL="/intellivision/576891-horse-racing">
+		<Description>Have an exciting "Day at the Races" as you watch a stable of electronic thoroughbreds run 10 times! Two players become jockeys, trying to outsprint and outmaneuver each other and the computer's horses. Simulated betting action and racing thrills show you why this is the Sport of Kings!</Description>
+		<UserRating>2.80 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>19.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Horse Racing</Genre>
+		<Release name="Horse Racing" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1123</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Horse Racing (US)-39238_front.jpg</Image>
+				<Image>Horse Racing (US)-39238_back.jpg</Image>
+				<Image>Horse Racing (US)-39238_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Hover Force" URL="/intellivision/576732-hover-force">
+		<Description>Hover Force is an Action game, published by INTV,  which was released in 1986.</Description>
+		<UserRating>3.85 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.2 hours</Length>
+		<Developer>INTV</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hover Force" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>8500</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1986</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hover Force (US)-39070_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Hypnotic Lights" URL="/intellivision/576892-hypnotic-lights">
+		<Description>Hypnotic Lights is a Miscellaneous game, published by Mattel,  which was cancelled before it was released.</Description>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Hypnotic Lights" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Ice Trek" URL="/intellivision/576911-ice-trek">
+		<Description>Ice Trek is an Action game, developed and published by Imagic,  which was released in 1983.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Ice Trek" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>710012</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ice Trek (US)-39259_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Intellivision" URL="/intellivision/916427-intellivision">
+		<Description>Intellivision is a Hardware game, developed and published by Mattel,  which was released in 1979.</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<AKA>Intellivision Hardware (US, EU, JP), Intellivision 2 Hardware (US), Intellivision 3 Hardware (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Intellivision Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Intellivision Hardware (US)-307869_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Intellivision 2 Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5872</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision Hardware" region="EU">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision Hardware" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision 3 Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Intellivision 2 Hardware" URL="/intellivision/916427-intellivision">
+		<Description>Intellivision is a Hardware game, developed and published by Mattel,  which was released in 1979.</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<AKA>Intellivision Hardware (US, EU, JP), Intellivision 2 Hardware (US), Intellivision 3 Hardware (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Intellivision Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Intellivision Hardware (US)-307869_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Intellivision 2 Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5872</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision Hardware" region="EU">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision Hardware" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision 3 Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Intellivision 3 Hardware" URL="/intellivision/916427-intellivision">
+		<Description>Intellivision is a Hardware game, developed and published by Mattel,  which was released in 1979.</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<AKA>Intellivision Hardware (US, EU, JP), Intellivision 2 Hardware (US), Intellivision 3 Hardware (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Intellivision Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Intellivision Hardware (US)-307869_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Intellivision 2 Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5872</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision Hardware" region="EU">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision Hardware" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision 3 Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Intellivision Hardware" URL="/intellivision/916427-intellivision">
+		<Description>Intellivision is a Hardware game, developed and published by Mattel,  which was released in 1979.</Description>
+		<UserRating>4.06 / 5</UserRating>
+		<AKA>Intellivision Hardware (US, EU, JP), Intellivision 2 Hardware (US), Intellivision 3 Hardware (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Intellivision Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Intellivision Hardware (US)-307869_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Intellivision 2 Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5872</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision Hardware" region="EU">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision Hardware" region="JP">
+			<ReleasePublisher>Bandai</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+		<Release name="Intellivision 3 Hardware" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Jetsons' Ways With Words, The" URL="/intellivision/576912-the-jetsons-ways-with-words">
+		<Description>The Jetsons' Ways With Words is a Miscellaneous game, published by Mattel,  which was released in 1983.</Description>
+		<UserRating>4.20 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>The Jetsons</Franchise>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="The Jetsons' Ways With Words" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4543</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Jetsons' Ways With Words (US)-39260_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="King of the Mountain" URL="/intellivision/576913-king-of-the-mountain">
+		<Description>King of the Mountain is a Strategy game, published by Mattel,  which was released in 1982.</Description>
+		<UserRating>4.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="King of the Mountain" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Kool-Aid Man" URL="/intellivision/576917-kool-aid-man">
+		<Description>Kool-Aid Man is an Action game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>2.44 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Kool-Aid Man" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4675</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Kool-Aid Man (US)-39273_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Lady Bug" URL="/intellivision/576942-lady-bug">
+		<Description>You're in control of a hungry Lady Bug. Using the control, help her traverse a tricky maze, gobbling up small and large dots. But also in her path are poisonous skills. And just when she thinks she's in the clear, a "bug box" opens and out come ravenous insects! She can dodge them by passing through turnstile-like doors. But be quick about it or they'll sneak through and continue the chase! Will Lady Bug gobble up all the dots and thwart her pursuers. or became a tasty tidbit for them?</Description>
+		<UserRating>2.64 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.8 hours</Length>
+		<Developer>Universal</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Lady Bug" region="US">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID>2483</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lady Bug (US)-39282_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Land Battle" URL="/intellivision/576972-land-battle">
+		<Description>Land Battle is an Action game, published by Mattel,  which was released in 1982.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4.3 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Land Battle" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Las Vegas Poker &amp; Blackjack" URL="/intellivision/567617-las-vegas-poker-and-blackjack">
+		<Description>Blackjack! Five Card Stud Poker! Seven Card Stud Poker! Five Card Draw Poker! You play against a shifty-eyed, computer-smart dealer. Fast playing, pretend stakes. Action direct from Las Vegas - a casino in a cartridge! You place a simulated bet and actually see cards dealt from a 52 card deck. Call... raise... bluff... stand pat... drop out... discard, and much more! Simulated sound effects such as dealer shuffling cards, coins paid out, and more!</Description>
+		<UserRating>3.43 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.9 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Las Vegas Poker &amp; Blackjack" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>2611</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Las Vegas Poker &amp; Blackjack (US)-28874_front.jpg</Image>
+				<Image>Las Vegas Poker &amp; Blackjack (US)-28874_back.jpg</Image>
+				<Image>Las Vegas Poker &amp; Blackjack (US)-28874_side.jpg</Image>
+				<Image>Las Vegas Poker &amp; Blackjack (US)-28874_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Las Vegas Roulette" URL="/intellivision/577232-las-vegas-roulette">
+		<Description>Las Vegas Roulette is a Miscellaneous game, published by Mattel,  which was released in 1979.</Description>
+		<UserRating>2.14 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Gambling</Genre>
+		<Release name="Las Vegas Roulette" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1118</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Las Vegas Roulette (US)-39642_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Learning Fun I" URL="/intellivision/576975-learning-fun-i">
+		<Description>Learning Fun I is a Miscellaneous game, developed by Realtime Associates and published by INTV,  which was released in 1987.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>6.3 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Learning Fun I" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>9002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Learning Fun II" URL="/intellivision/576980-learning-fun-ii">
+		<Description>Learning Fun II is a Miscellaneous game, developed by Realtime Associates and published by INTV,  which was released in 1987.</Description>
+		<UserRating>2.88 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.7 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Learning Fun II" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>9006</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Lock 'n' Chase" URL="/intellivision/576733-lock-n-chase">
+		<Description>Each player has five thieves! One thief robs the bank vault at a time. Run into a cop and he's "caught." Keep picking up the gold. Get extra points for getting to the "treasures." Slam doors and get cops off the trail. Trap police between two doors for bonus points.</Description>
+		<UserRating>3.52 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Lock 'n' Chase" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5637</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Lock 'n' Chase (US)-39068_front.jpg</Image>
+				<Image>Lock 'n' Chase (US)-39068_back.jpg</Image>
+				<Image>Lock 'n' Chase (US)-39068_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Loco-Motion" URL="/intellivision/576983-loco-motion">
+		<Description>Loco-Motion is a Puzzle game, developed and published by Mattel,  which was released in 1982.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Puzzle &gt; Action</Genre>
+		<Release name="Loco-Motion" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4438</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Loco-Motion (US)-39333_front.jpg</Image>
+				<Image>Loco-Motion (US)-39333_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Magic Carousel" URL="/intellivision/937026-magic-carousel">
+		<Description>Magic Carousel is a Miscellaneous game, developed and published by Mattel,  which was cancelled before it was released.</Description>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Magic Carousel" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Major League Baseball" URL="/intellivision/926511-major-league-baseball">
+		<Description>This isn't just baseball... but baseball where you control all the action! Two 9-man teams play a full 9-inning game with the strategy of real Major League Baseball. It's all here from the crack of the bat to the simulated roar of the crowd... and YOU control it all! You control the pitch... fast balls, slow balls, curve balls, changes of pace! You control the runners and fielders... run around the bases, go for a steal, try a hit and run, throw the ball to the right base. You do the batting... bunt, hit to the opposite field, hit an out-of-the-park home run! Computerized scoring shows strikes, balls, outs, innings and game score.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>16.1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="Major League Baseball" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>2614</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Major League Baseball (US)-65786_front.jpg</Image>
+				<Image>Major League Baseball (US)-65786_back.jpg</Image>
+				<Image>Major League Baseball (US)-65786_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Masters of the Universe II" URL="/intellivision/577279-masters-of-the-universe-ii">
+		<Description>Masters of the Universe II is an Action game, published by Mattel,  which was cancelled before it was released.</Description>
+		<Developer>Mattel</Developer>
+		<Franchise>He-Man and the Masters of the Universe</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Masters of the Universe II" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Masters of the Universe: The Power of He-Man" URL="/intellivision/577004-masters-of-the-universe-the-power-of-he-man">
+		<Description>You control He-Man! Fly the Wind Raider from the workshop of Man-at-Arms to Castle Grayskull - 30 treacherous miles guarded by the evil warriors sent by Skeletor! Land on Castle Grayskull and battle Skeletor himself in a room with moving walls. Use your Ion Cannon and Mutron Bombs to destroy Warp Trakkers and Energy Bolts. Use your Power Sword to deafeat Skeletor!</Description>
+		<UserRating>3.11 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>14.9 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>He-Man and the Masters of the Universe</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Masters of the Universe: The Power of He-Man" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4689</ReleaseProductID>
+			<ReleaseBarCode>071200046891</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Masters of the Universe The Power of He-Man (US)-39366_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Melody Blaster" URL="/intellivision/932798-melody-blaster">
+		<Description>Melody Blaster is a Miscellaneous game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.3 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Application</Genre>
+		<Release name="Melody Blaster" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4540</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Microsurgeon" URL="/intellivision/577027-microsurgeon">
+		<Description>The patient is critically ill! You navigate the Robot Probe through the patient's blood stream, outmaneuvering white blood cells that attempt to slow you down. Remove a tumor from the brain, a blood clot from near the heart and much more! But hurry! To save the patient's life, you must act quickly!</Description>
+		<UserRating>4.05 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Microsurgeon" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700013</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Microsurgeon (US)-39386_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Mind Strike" URL="/intellivision/577030-mind-strike">
+		<Description>What a romp! A mind-jolter that can be played slow, using alternating turns, or fast, with both players simultaneously hooked to the ultimate goal of conquering each other's CASTLE! Playing it slow, it's called MIND STRIKE, and requires quite a bit of strategic thinking. Playing it fast it's called SPEED STRIKE, and it's a dazzler that blends action with strategy! Choose up to 50 playing boards or design your own. Program the computer opponent's skill level (to your or his advantage). Engage in tantalizing confrontations. Combine your pieces for greater strength or split them apart to move farther. Make it as wild or as absorbing as your mind allows it to be!</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Mind Strike" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4531</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mind Strike (US)-39396_front.jpg</Image>
+				<Image>Mind Strike (US)-39396_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Minotaur" URL="/intellivision/576718-advanced-dungeons-and-dragons-treasure-of-tarmin">
+		<Description>You've found the secret map to the underground lair of the dreaded Minotaur. You can go in, but you'll never come out unless you slay the Minotaur and claim his Tarmin treasure. As you make your way through the hallways and chambers, monsters wield their conventional or spiritual weapons. You must gather the proper defenses along the way. But use them sparingly, the Minotaur looms closer!</Description>
+		<UserRating>3.38 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>19.5 hours</Length>
+		<AKA>Minotaur (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Franchise>Dungeons &amp; Dragons</Franchise>
+		<Genre>Action Adventure &gt; General</Genre>
+		<Release name="Advanced Dungeons &amp; Dragons: Treasure of Tarmin" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5300</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39052_front.jpg</Image>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39052_back.jpg</Image>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39052_side.jpg</Image>
+				<Image>Advanced Dungeons &amp; Dragons Treasure of Tarmin (US)-39052_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Minotaur" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Mission X" URL="/intellivision/576734-mission-x">
+		<Description>You control a World War II plane, bombing enemy targets and shooting down enemy planes. Awesomely dangerous, your mission takes you over combat ships, aircraft carriers, bridges, roads, trains, tanks and the like, which you must immediately destroy. On the other hand, you're the MOST WANTED war enemy... and they'll do anything to get you! From the ground, from the air, from all directions-you're target-hot and never safe!</Description>
+		<UserRating>3.43 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>4 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Mission X" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4437</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mission X (US)-39071_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Moto-Cross" URL="/intellivision/577040-moto-cross">
+		<Description>Moto-Cross is a Racing game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>3.04 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20.4 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Moto-Cross" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3411</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Moto-Cross (US)-39424_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Mountain Madness Super Pro Skiing" URL="/intellivision/577061-mountain-madness-super-pro-skiing">
+		<Description>Mountain Madness Super Pro Skiing is a Sports game, developed by Realtime Associates and published by Intellivision Productions,  which was released in 1988.</Description>
+		<UserRating>4.33 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.6 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Sports &gt; Individual &gt; Ski / Snowboard</Genre>
+		<Release name="Mountain Madness Super Pro Skiing" region="US">
+			<ReleasePublisher>Intellivision Productions</ReleasePublisher>
+			<ReleaseProductID>9007</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mountain Madness Super Pro Skiing (US)-39443_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Mouse Trap" URL="/intellivision/577083-mouse-trap">
+		<Description>You control a crafty mouse, weaving his way through a tricky maze of doors and corridors, munching on cheese bits as he goes. Hungry cats pursue him every step of the way, making his journey very hazardous. By eating dog bones, he can temporarily turn himself into a dog and chase the cats to score extra points. The mouse can open and close doors to change the maze and confuse his pursuers. There are lots of strategic moves to make. Will your mouse make it through the maze... or be a snack for the cats?</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Coleco</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Mouse Trap" region="US">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID>2479</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Mouse Trap (US)-39460_front.jpg</Image>
+				<Image>Mouse Trap (US)-39460_back.jpg</Image>
+				<Image>Mouse Trap (US)-39460_side.jpg</Image>
+				<Image>Mouse Trap (US)-39460_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Mr. Basic Meets Bits 'N Bites" URL="/intellivision/577092-mr-basic-meets-bits-n-bites">
+		<Description>Mr. Basic Meets Bits 'N Bites is an Action game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Mr. Basic Meets Bits 'N Bites" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4536</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="NASL Soccer" URL="/intellivision/567618-nasl-soccer">
+		<Description>Kicking, passing scoring, stealing the ball-INTELLIVISION Soccer puts you on the playing field! Two teams compete for 90 thrill-packed minutes! (simulated time.) Goalkeepers defend. Kickoffs, throw-ins &amp; overtime, too!</Description>
+		<UserRating>2.69 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>23.4 hours</Length>
+		<AKA>Soccer (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="NASL Soccer" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1683</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>NASL Soccer (US)-28875_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Soccer" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer (US)-28876_front.jpg</Image>
+				<Image>Soccer (US)-28876_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="NFL Football" URL="/intellivision/576830-nfl-football">
+		<Description>NFL Football is a Sports game, developed and published by Mattel,  which was released in 1979.</Description>
+		<UserRating>2.91 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>16.9 hours</Length>
+		<AKA>Football (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Sim</Genre>
+		<Release name="NFL Football" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>2610</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>NFL Football (US)-39175_front.jpg</Image>
+				<Image>NFL Football (US)-39175_back.jpg</Image>
+				<Image>NFL Football (US)-39175_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Football" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="NHL Hockey" URL="/intellivision/576887-hockey">
+		<Description>Hockey is a Sports game, developed by Mattel and published by Sears,  which was released in 1979.</Description>
+		<UserRating>3.43 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20.2 hours</Length>
+		<AKA>NHL Hockey (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Ice Hockey &gt; Sim</Genre>
+		<Release name="Hockey" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID>49 75204</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hockey (US)-39234_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="NHL Hockey" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1114</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Night Stalker" URL="/intellivision/576735-night-stalker">
+		<Description>Your man is trapped in the maze! Spiders, bats and robots are tracking him down! The robots and creatures never stop. Shoot one... another appears! Fire off six shots, then pick up a reloaded weapon. The higher your score, the trickier the robots become. The only safe place is inside the bunker... and they are waiting outside! Survival is the name of the game!</Description>
+		<UserRating>4.03 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>5.7 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Night Stalker" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5305</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Night Stalker (US)-39075_front.jpg</Image>
+				<Image>Night Stalker (US)-39075_back.jpg</Image>
+				<Image>Night Stalker (US)-39075_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Nova Blast" URL="/intellivision/577095-nova-blast">
+		<Description>RED ALERT! The four capsuled cities of Water Planet Hydron are under fierce enemy attack! You must pilot Nova 1, the last of the Novon Fleet, over turbulent seas... Blast Orion Fighters, Gravitines and six other types of airborne aliens before they obliterate the cities or damage your ship!</Description>
+		<UserRating>3.94 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Nova Blast" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700022</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Nova Blast (US)-39471_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Number Jumble" URL="/intellivision/577113-number-jumble">
+		<Description>Number Jumble is a Miscellaneous game, published by Mattel,  which was cancelled before it was released.</Description>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Number Jumble" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Pac-Man" URL="/intellivision/577135-pac-man">
+		<Description>It's your job to keep PAC-MAN as happy as possible. You must guide him around the maze so that he can eat video wafers and power pills. Protect him from the ghosts unless he has the super strength of a power pill. If he does have the super strength, help him chase the ghosts and gobble them up before they gobble him.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>16.8 hours</Length>
+		<Developer>Atari</Developer>
+		<Franchise>Pac-Man</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Pac-Man" region="US">
+			<ReleasePublisher>Atari</ReleasePublisher>
+			<ReleaseProductID>70251</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pac-Man (US)-5902_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="PBA Bowling" URL="/intellivision/576409-bowling">
+		<Description>First select one of ten conditions of alley slickness, then pick your own ball weight. Control your aim, curve and loft, and deliver the ball - go for the strike! 1 to 4 people can play - it's a great party game for individuals or teams. A completely different game on the same cartridge (Pick-up Spares) gives you extra practice with 32 pin setups! A slow motion view lets you see the pin action when the ball hits. The computer does all the scorekeeping - with a mighty fanfare for the 200 game!</Description>
+		<UserRating>3.19 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>12.4 hours</Length>
+		<AKA>PBA Bowling (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Bowling</Genre>
+		<Release name="PBA Bowling" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3333</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+		<Release name="Bowling" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Bowling (US)-14620_front.jpg</Image>
+				<Image>Bowling (US)-14620_back.jpg</Image>
+				<Image>Bowling (US)-14620_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="PGA Golf" URL="/intellivision/576851-golf">
+		<Description>A demanding 9-hole course! You'll need all the concentration, control and strategy you can muster to come in under par. Sandtraps, rough, water-this course has them all! Play medal or match, single or best ball. Even figure your own handicap! You'll get all the fun, all the stimulation of a real game of golf, everything in fact, except the greens fee.</Description>
+		<UserRating>2.81 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>23.3 hours</Length>
+		<AKA>PGA Golf (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Golf &gt; Sim</Genre>
+		<Release name="Golf" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Golf (US)-39199_front.jpg</Image>
+				<Image>Golf (US)-39199_back.jpg</Image>
+				<Image>Golf (US)-39199_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="PGA Golf" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1816</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Pinball" URL="/intellivision/577136-pinball">
+		<Description>Pinball is an Action game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; Pinball</Genre>
+		<Release name="Pinball" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5356</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pinball (US)-39525_front.jpg</Image>
+				<Image>Pinball (US)-39525_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Pitfall!" URL="/intellivision/577189-pitfall">
+		<Description>Let me introduce myself. I'm Pitfall Harry, veteran jungle explorer. Fortune hunting's my game, and yours, too, if you're daring enough to take this trip with me. Don't be nervous; I'll be your guide through the jungle, and I'm one of the best. Untold riches are waiting for us in there, but so are dangers a dozen times over. We'll be swinging on vines over bottomless tarpits. We'll be hopping across swamps, using crocodile heads like stepping stones. We'll be searching underground through dark passageways crawling with killer scorpions. So pack up your backpack and meet me at the jungle at dawn - and we'll be off to seek a king's ransom in gold, diamonds and lost treasures - in Pitfall Harry's Jungle Adventure.</Description>
+		<UserRating>3.77 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3.1 hours</Length>
+		<Developer>Activision</Developer>
+		<Franchise>Pitfall</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Pitfall!" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>M-002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pitfall! (US)-39564_front.jpg</Image>
+				<Image>Pitfall! (US)-39564_back.jpg</Image>
+				<Image>Pitfall! (US)-39564_side.jpg</Image>
+				<Image>Pitfall! (US)-39564_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Pole Position" URL="/intellivision/577190-pole-position">
+		<Description>Qualify for the Grand Prix and win the Pole Position, the number one starting spot. Then go flat out to beat the track record and finish a winner. Pass cars like they're standing still, but watch those curves! One mistake and you could go up in flames.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>13.7 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Franchise>Pole Position</Franchise>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Pole Position" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>9004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pole Position (US)-39580_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Popeye" URL="/intellivision/577191-popeye">
+		<Description>Are you ready to climb ladders, jump landings, eat spinach and punch-out Brutus, Seahag and the flying Bernard? Because that's what it takes to win Olive Oyl's hand in marriage. You'll score points by defeating your enemies and collecting the "love tokens" Olive drops from her window. The more you collect, the more points you'll score and the faster you'll win her love. But watch out. Around every corner lurks another jealous suitor. You'll have to think with your head as well as your heart to win this fast action love affair!</Description>
+		<UserRating>2.28 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Parker Brothers</Developer>
+		<Franchise>Popeye</Franchise>
+		<Genre>Action &gt; Platformer &gt; 2D</Genre>
+		<Release name="Popeye" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID>6370</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Q*bert" URL="/intellivision/577214-qbert">
+		<Description>The Tazmaniac Kings of Chaos have trapped your ol' pal Q*bert in their treacherous time warp. And, with nearly 40 perilous pyramids to escape from, he's in trouble up to his "schnoz"! Now, you're his only hope. But to secure Q*bert's safety, you'll have to be a whiz-bang player, bouncing our pug-nosed hero around like a banshee, and matching the pyramid squares with escape code colors. All the while, you'll dodge untold zillions of Whammy Balls that'll fall onto the Q*bster's punky hairdo - SPLAT! Plus, you gotta outsmart Q*bert's archest enemies - Ugg, Wrong-Way, Slick, Sam and Coily (the slimiest purple headed snake you'll ever meet) - who'll be on your tail from square one. It's a regular Zany Zone in here, a loony bin of mischief and mayhem. And if you don't have the nerve - you may go nuts!</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>7.1 hours</Length>
+		<Developer>Gottlieb</Developer>
+		<Franchise>Q*bert</Franchise>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Q*bert" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID>6360</ReleaseProductID>
+			<ReleaseBarCode>073000063603</ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Qbert (US)-6389_front.jpg</Image>
+				<Image>Qbert (US)-6389_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Reversi" URL="/intellivision/577217-reversi">
+		<Description>Here's an old favorite to really stimulate your strategic thinking! Bracket your opponent's pieces in any row (straight or diagonal) to "capture" everything in between. Play against a friend or take on the computer at any of three skill levels. Pick one of 3 board sizes... play short or medium-length games, or go for the challenge of the big hundred-square board! It's an easy game to learn. And takes smart moves to win!</Description>
+		<UserRating>3.71 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Reversi" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5304</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Reversi (US)-39617_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="River Raid" URL="/intellivision/577223-river-raid">
+		<Description>Mission: Code Name River Raid. Jet down the river. Break the enemy blockade and blast the bridges to halt enemy troop advances. Terrain: Code Name River of No Return. An ever-changing, ever-challenging waterway. Expect huge islands, narrow channels and treacherous bays crawling with enemy choppers, tankers and jets. Weaponry: Code Name StratoStrafer. Your B1 StratoWing Assault Jet has been retrofitted with sophisticated, rapid-fire guided missiles. Your craft is super-sensitive to the stick. Accelerate, slow or bank radically with only a touch. Tactics: Jet low to the river to avoid radar. Stop periodically at depots to refuel. A warning claxxon will alert you. Top speed! Best of luck!</Description>
+		<UserRating>3.92 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>8.3 hours</Length>
+		<Developer>Activision</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="River Raid" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>MZ-007</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>River Raid (US)-39627_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Royal Dealer" URL="/intellivision/577233-royal-dealer">
+		<Description>Royal Dealer is a Miscellaneous game, developed and published by Mattel,  which was released in 1982.</Description>
+		<UserRating>3.07 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Royal Dealer" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3758</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Royal Dealer (US)-39643_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="SafeCracker" URL="/intellivision/577243-safecracker">
+		<Description>SafeCracker is an Action game, developed and published by Imagic,  which was released in 1983.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.5 hours</Length>
+		<Developer>Imagic</Developer>
+		<Franchise>Safecracker</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="SafeCracker" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700025</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>SafeCracker (US)-39653_front.jpg</Image>
+				<Image>SafeCracker (US)-39653_back.jpg</Image>
+				<Image>SafeCracker (US)-39653_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Santa's Helper" URL="/intellivision/577244-santas-helper">
+		<Description>Santa's Helper is an Action game, published by Mattel,  which was released in 1983.</Description>
+		<UserRating>3.75 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Santa's Helper" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Scooby Doo's Maze Chase" URL="/intellivision/577245-scooby-doos-maze-chase">
+		<Description>Scooby Doo's Maze Chase is an Action game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>7.2 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>Scooby-Doo!</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Scooby Doo's Maze Chase" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4533</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Scooby Doo's Maze Chase (US)-39654_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Sea Battle" URL="/intellivision/565864-sea-battle">
+		<Description>Battle action on the high seas. Deploy fleets of ships. Lay mines. Use diversion tactics. It's your strategy and skill on the line. Engage in sea combat and battle it out. Go full ahead to capture opponent's home base - Victory!</Description>
+		<UserRating>3.28 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Sea Battle" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1818</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sea Battle (US)-27185_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Sewer Sam" URL="/intellivision/576736-sewer-sam">
+		<Description>Sewer Sam is an Action game, developed and published by Interphase,  which was released in 1984.</Description>
+		<UserRating>2.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.8 hours</Length>
+		<Developer>Interphase</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Sewer Sam" region="US">
+			<ReleasePublisher>Interphase</ReleasePublisher>
+			<ReleaseProductID>8030002</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1984</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sewer Sam (US)-39073_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Shark! Shark!" URL="/intellivision/577246-shark-shark">
+		<Description>Shark! Shark! is an Action game, developed and published by Mattel,  which was released in 1982.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>3.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Shark! Shark!" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5787</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Shark! Shark! (US)-39655_front.jpg</Image>
+				<Image>Shark! Shark! (US)-39655_back.jpg</Image>
+				<Image>Shark! Shark! (US)-39655_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Sharp Shot" URL="/intellivision/577264-sharp-shot">
+		<Description>Sharp Shot is an Action game, developed and published by Mattel,  which was released in 1982.</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>0.6 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Sharp Shot" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5638</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sharp Shot (US)-39666_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Skiing" URL="/intellivision/581779-us-ski-team-skiing">
+		<Description>U.S. Ski Team Skiing is a Sports game, developed and published by Mattel,  which was released in 1980.</Description>
+		<UserRating>3.56 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>15.6 hours</Length>
+		<AKA>Skiing (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Ski / Snowboard</Genre>
+		<Release name="Skiing" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID>4975219</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+		<Release name="U.S. Ski Team Skiing" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1817</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>U.S. Ski Team Skiing (US)-43320_front.jpg</Image>
+				<Image>U.S. Ski Team Skiing (US)-43320_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Slam Dunk Super Pro Basketball" URL="/intellivision/576737-slam-dunk-super-pro-basketball">
+		<Description>Slam Dunk Super Pro Basketball is a Sports game, developed by Realtime Associates and published by Intellivision Productions,  which was released in 1987.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>32 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Sports &gt; Team &gt; Basketball &gt; Arcade</Genre>
+		<Release name="Slam Dunk Super Pro Basketball" region="US">
+			<ReleasePublisher>Intellivision Productions</ReleasePublisher>
+			<ReleaseProductID>9001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+			<ReleaseImages>
+				<Image>Slam Dunk Super Pro Basketball (US)-39072_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Slap Shot: Super Pro Hockey" URL="/intellivision/937027-slap-shot-super-pro-hockey">
+		<Description>Slap Shot: Super Pro Hockey is a Sports game, developed by Realtime Associates and published by INTV,  which was released in 1987.</Description>
+		<UserRating>2.63 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>25.3 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Sports &gt; Team &gt; Ice Hockey &gt; Arcade</Genre>
+		<Release name="Slap Shot: Super Pro Hockey" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>9003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+			<ReleaseImages>
+				<Image>Slap Shot Super Pro Hockey (US)-82078_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Snafu" URL="/intellivision/565759-snafu">
+		<Description>Pit your fast thinking and reflexes head-to-head against a friend... or take on the computer. Grab all the territory you can and get your opponents into a corner - trapped! Or, maneuver your twisting, turning serpent fast, to "bite off" part of your opponent's tail - before he gets you. There are 16 different varieties of gameplay to choose from. Four speeds, and you decide how many rounds to play. Make your serpent move vertically, horizontally or diagonally - but move it fast!</Description>
+		<UserRating>3.96 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.7 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Snafu" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3758</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Snafu (US)-27053_front.jpg</Image>
+				<Image>Snafu (US)-27053_back.jpg</Image>
+				<Image>Snafu (US)-27053_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Soccer" URL="/intellivision/567618-nasl-soccer">
+		<Description>Kicking, passing scoring, stealing the ball-INTELLIVISION Soccer puts you on the playing field! Two teams compete for 90 thrill-packed minutes! (simulated time.) Goalkeepers defend. Kickoffs, throw-ins &amp; overtime, too!</Description>
+		<UserRating>2.69 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>23.4 hours</Length>
+		<AKA>Soccer (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="NASL Soccer" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1683</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>NASL Soccer (US)-28875_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Soccer" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Soccer (US)-28876_front.jpg</Image>
+				<Image>Soccer (US)-28876_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Space Armada" URL="/intellivision/567331-space-armada">
+		<Description>An armada of 32 bomb-dropping, moving targets descend on your defenses. You have a supply of laser guns and bunkers that shield them from the air attack. Shoot your laser and clear the screen. Another armada appears, and it might surprise you with a new kind of attack! The higher your score, the more challenging the game becomes. Challenge a friend to see who can get the highest score... beat your own record. Keep moving, hit and run. It's a two-way electronic air war!</Description>
+		<UserRating>3.41 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>6.6 hours</Length>
+		<Developer>APh</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Top-Down</Genre>
+		<Release name="Space Armada" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3759</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Armada (US)-28620_front.jpg</Image>
+				<Image>Space Armada (US)-28620_back.jpg</Image>
+				<Image>Space Armada (US)-28620_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Space Battle" URL="/intellivision/566357-space-battle">
+		<Description>Outer-space action and science fiction thrills! Computer-controlled alien invaders attacking! You check the Mother Ship radar map, deploy the defense. Ready... aim... fire missiles! Win the battle and save the day! Plot your strategy, maneuver to engage attackers. Test your interplanetary marksmanship. Enjoy two views to work with - Mother Ship radar map and astro fighter cockpit close-up!</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Simulation &gt; Space &gt; Combat</Genre>
+		<Release name="Space Battle" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>2612</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1979</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Battle (US)-27698_front.jpg</Image>
+				<Image>Space Battle (US)-27698_back.jpg</Image>
+				<Image>Space Battle (US)-27698_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Space Cadet" URL="/intellivision/577269-space-cadet">
+		<Description>Space Cadet is an Action game, published by Mattel,  which was cancelled before it was released.</Description>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Cadet" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Space Hawk" URL="/intellivision/577271-space-hawk">
+		<Description>Space Hawk is an Action game, developed and published by Mattel,  which was released in 1981.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>11.6 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Hawk" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5161</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Hawk (US)-39674_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Space Spartans" URL="/intellivision/577272-space-spartans">
+		<Description>Space Spartans is an Action game, developed and published by Mattel,  which was released in 1982.</Description>
+		<UserRating>2.89 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8.3 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Space Spartans" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3416</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Spartans (US)-39673_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Spiker! Super Pro Volleyball" URL="/intellivision/930774-spiker-super-pro-volleyball">
+		<Description>Spiker! Super Pro Volleyball is a Sports game, developed by Realtime Associates and published by INTV,  which was released in 1989.</Description>
+		<UserRating>2.70 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>5.7 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Sports &gt; Team &gt; Volleyball</Genre>
+		<Release name="Spiker! Super Pro Volleyball" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>9102</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+			<ReleaseImages>
+				<Image>Spiker! Super Pro Volleyball (US)-72414_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Stadium Mud Buggies" URL="/intellivision/930773-stadium-mud-buggies">
+		<Description>Stadium Mud Buggies is a Racing game, developed by Realtime Associates and published by INTV,  which was released in 1989.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>6 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Racing &gt; General</Genre>
+		<Release name="Stadium Mud Buggies" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>9100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1989</ReleaseDate>
+			<ReleaseImages>
+				<Image>Stadium Mud Buggies (US)-316489_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Stampede" URL="/intellivision/577275-stampede">
+		<Description>Here's video game action as wild as the Wild West. Ride fast and rope as many stampeding calves as you can. They're all worth points. But keep your eyeballs peeled... you won't always be travelling on "happy trails". Since these critters don't all gallop at the same speed, it takes a real cowpuncher to keep 'em herded. And, it takes a lot of fancy ropin' to go with the ridin'. Saddle up - and hang on to your hat! Stampede is the fastest fun this side of the Pecos!</Description>
+		<UserRating>3.06 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Activision</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Stampede" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>M-001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Stampede (US)-39675_front.jpg</Image>
+				<Image>Stampede (US)-39675_back.jpg</Image>
+				<Image>Stampede (US)-39675_side.jpg</Image>
+				<Image>Stampede (US)-39675_top.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Star Strike" URL="/intellivision/576738-star-strike">
+		<Description>You must bomb all of the alien missile silos to save the Earth from destruction! Audible radar signals help you get ready to release your bomb, as you speed over targets. If your spaceship is hit by defending aliens, you'll have your hands full trying to keep control. You've got unlimited ammo, for air-to-air war and for bombing. But time is something else! Spectacular computer graphics let you know whether you win or lose.</Description>
+		<UserRating>3.21 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Star Strike" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5161</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Star Strike (US)-39090_front.jpg</Image>
+				<Image>Star Strike (US)-39090_back.jpg</Image>
+				<Image>Star Strike (US)-39090_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Star Wars: The Empire Strikes Back" URL="/intellivision/576770-star-wars-the-empire-strikes-back">
+		<Description>The Imperial Walkers are approaching the Rebels' power generator on the Ice Planet Hoth. Unless you can prevent them, they'll blow up the entire Rebel base! There's still time, so blast off in your Snowspeeder and try to destroy the Imperial Walkers with a barrage of missiles. It will take all of your skills as a pilot and all of your daring as a Rebel!</Description>
+		<UserRating>2.64 / 5</UserRating>
+		<Difficulty>Unforgiving</Difficulty>
+		<Length>31.3 hours</Length>
+		<Developer>Parker Brothers</Developer>
+		<Franchise>Star Wars</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Star Wars: The Empire Strikes Back" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID>6050</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Street" URL="/intellivision/577276-street">
+		<Description>Street is an Action game, published by Mattel,  which was released in 1981.</Description>
+		<UserRating>2.50 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Street" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Sub Hunt" URL="/intellivision/567619-sub-hunt">
+		<Description>You go to sea in 4 submarines, one at a time. Your mission is to intercept and destroy six convoys of enemy ships, even though each convoy has a destroyer escort that can quickly find you and fire depth charges with deadly accuracy. Look through the periscope... aim at the ships, fire your torpedoes, then DIVE - DIVE! The chase is on! Featuring 5 skill levels to offer lots of challenge, and realistic sounds of battle to add excitement as you try to sink every ship in sight!</Description>
+		<UserRating>3.53 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Sub Hunt" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3408</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Sub Hunt (US)-28877_front.jpg</Image>
+				<Image>Sub Hunt (US)-28877_back.jpg</Image>
+				<Image>Sub Hunt (US)-28877_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Super Cobra" URL="/intellivision/577277-super-cobra">
+		<Description>You're a helicopter gunship pilot on a daring and dangerous mission: air surveillance of enemy territory. Success depends on how far you can penetrate enemy airspace. Can you handle the pressure? Because the further you go, the more difficult the mission becomes. Show that you've got what it takes by maneuvering your chopper around craggy mountain peaks, through deep dark tunnels, and over tall city buildings. All while you face enemy tanks and missiles and weird sky-flying weapons. But you can fight back with high-flying, quick-thinking, fast-reaction moves. Good luck and good flying!</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Konami</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Horizontal</Genre>
+		<Release name="Super Cobra" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID>6320</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Cobra (US)-39686_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Super Pro Decathlon" URL="/intellivision/915751-super-pro-decathlon">
+		<Description>Super Pro Decathlon is a Sports game, developed by Realtime Associates and published by INTV,  which was released in 1988.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.4 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Sports &gt; Individual &gt; Athletics</Genre>
+		<Release name="Super Pro Decathlon" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>9008</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1988</ReleaseDate>
+			<ReleaseImages>
+				<Image>Super Pro Decathlon (US)-55896_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Super Pro Football" URL="/intellivision/576739-super-pro-football">
+		<Description>Super Pro Football is a Sports game, developed by Realtime Associates and published by INTV,  which was released in 1986.</Description>
+		<UserRating>3.10 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>32 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Sports &gt; Team &gt; Football &gt; Sim</Genre>
+		<Release name="Super Pro Football" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>8400</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1986</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Super Soccer" URL="/intellivision/577285-super-soccer">
+		<Description>Super Soccer is a Sports game, published by Mattel,  which was released in 1983.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>21.7 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Arcade</Genre>
+		<Release name="Super Soccer" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Swords &amp; Serpents" URL="/intellivision/576741-swords-and-serpents">
+		<Description>Swords &amp; Serpents is an Action game, developed and published by Imagic,  which was released in 1982.</Description>
+		<UserRating>3.31 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Swords &amp; Serpents" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>720009-1</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Swords &amp; Serpents (US)-39092_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Takeover" URL="/intellivision/577287-takeover">
+		<Description>Takeover is an Action game, published by Mattel,  which was cancelled before it was released.</Description>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Takeover" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>Canceled</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Tennis" URL="/intellivision/577289-tennis">
+		<Description>You're at center court! It's your coordination, judgement and reflexes in a fast-paced match competition! Lifelike, animated "tennis players" do the running for you on a regulation tennis court, designed to scale. You and your opponent put them through the paces-serve and rally, double fault and let service, too! Traditional scoring, plus tie-breakers. Game, set and match. Top-seeded singles action!</Description>
+		<UserRating>3.03 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>23.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Tennis</Genre>
+		<Release name="Tennis" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1814</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tennis (US)-39708_front.jpg</Image>
+				<Image>Tennis (US)-39708_back.jpg</Image>
+				<Image>Tennis (US)-39708_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Thunder Castle" URL="/intellivision/577296-thunder-castle">
+		<Description>Thunder Castle is an Action game, developed by Mattel and published by INTV,  which was released in 1986.</Description>
+		<UserRating>3.58 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Thunder Castle" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>4469</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1986</ReleaseDate>
+			<ReleaseImages>
+				<Image>Thunder Castle (US)-39717_front.jpg</Image>
+				<Image>Thunder Castle (US)-39717_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Tower of Doom" URL="/intellivision/576742-tower-of-doom">
+		<Description>Tower of Doom is an Action game, developed by Realtime Associates and published by Intellivision Productions,  which was released in 1987.</Description>
+		<UserRating>3.35 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.4 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tower of Doom" region="US">
+			<ReleasePublisher>Intellivision Productions</ReleasePublisher>
+			<ReleaseProductID>8600</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tower of Doom (US)-39093_front.jpg</Image>
+				<Image>Tower of Doom (US)-39093_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Triple Action" URL="/intellivision/567332-triple-action">
+		<Description>Triple fun-biplanes, battle tanks and rally racers. Take to the air for a dogfight, straight out of the glory days of the sky barons. Or be a tank commander in a one-on-one battle. Prefer the thrills of Sunday driving? Strap in for a "100-mile" trip. Reflexes and accuracy are your means to success in this big 3 game cartridge.</Description>
+		<UserRating>3.64 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>19.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Triple Action" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>3760</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Triple Action (US)-28621_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Triple Challenge" URL="/intellivision/577297-triple-challenge">
+		<Description>Triple Challenge is a Miscellaneous game, developed by Realtime Associates and published by INTV,  which was released in 1987.</Description>
+		<UserRating>4.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>40 hours</Length>
+		<Developer>Realtime Associates</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Triple Challenge" region="US">
+			<ReleasePublisher>INTV</ReleasePublisher>
+			<ReleaseProductID>8700</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1987</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Tron Deadly Discs" URL="/intellivision/576743-tron-deadly-discs">
+		<Description>Your task is to bring TRON safely through battle after battle against computer-controlled attackers. Lethal saucers are the weapons. It's a soaring, blocking, running fight! Warriors come at TRON three at a time. Wave after wave of disc-throwing attackers. Get them, or they'll get TRON! Knock out the giant Recognizer and win bonus points. Don't fire your disc till you see the white of its eye!</Description>
+		<UserRating>3.80 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>Tron</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tron Deadly Discs" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5391</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tron Deadly Discs (US)-39094_front.jpg</Image>
+				<Image>Tron Deadly Discs (US)-39094_back.jpg</Image>
+				<Image>Tron Deadly Discs (US)-39094_side.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Tron: Maze-a-Tron" URL="/intellivision/577024-tron-maze-a-tron">
+		<Description>Inspired by the motion picture TRON from Walt Disney productions. You are the daring, young programmer, FLYNN, zapped into the sprawling circuit maze of a computer system, by the evil Master Control Program. Use your super-intelligence to survive the maze and find the vital RAM chips. Clear them and you break through to the heart of the system. Now you confront the Master himself, eyeball to eyeball in a fast-firing, laser shoot-out. How long can you hold out before the MCP restores his system... or destroys you?</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>2.3 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>Tron</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Tron: Maze-a-Tron" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5392</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tron Maze-a-Tron (US)-39385_front.jpg</Image>
+				<Image>Tron Maze-a-Tron (US)-39385_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Tron: Solar Sailer" URL="/intellivision/577299-tron-solar-sailer">
+		<Description>Your opponent is the tireless Master Control Program! The Solar Sailer will be attacked relentlessly on its way to the MCP center and the decoding phase In both phases, you'll hear VOICES-instructing, even taunting you to give your all!</Description>
+		<UserRating>3.04 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>Tron</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tron: Solar Sailer" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5393</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tron Solar Sailer (US)-39722_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Tropical Trouble" URL="/intellivision/577300-tropical-trouble">
+		<Description>Clarence and Doris have been shipwrecked on a lonely South Sea island. All alone, completely isolated. A huge Beach Bruiser appears suddenly and whisks darlin' Doris away. Clarence must get her back!
+
+Bounding boulders, flying coconuts, man-eating clams, vicious ferns and bubbling fields of lava block his way. Doris leaves a trail of white hankies to give Clarence strength. Help Clarence rescue her while there's still time!</Description>
+		<UserRating>3.69 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.4 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tropical Trouble" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700017</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Truckin'" URL="/intellivision/577302-truckin">
+		<Description>Truckin' is a Racing game, developed and published by Imagic,  which was released in 1983.</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Truckin'" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700023</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Turbo" URL="/intellivision/577303-turbo">
+		<Description>Your in control of a high performance race car. Use the steering wheel, accelerator foot pedal and gear shift to drive to victory! The course includes city streets, tunnels, bridges, and country roads. Shift into high gear-accelerate-change lanes! Negotiate twisting turns, pass other cars, avoid spin outs, oil slicks and other hazards to make it into the winners circle!</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>20.3 hours</Length>
+		<Developer>Coleco</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Turbo" region="US">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID>2473</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/04/83</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Tutankham" URL="/intellivision/577304-tutankham">
+		<Description>An archeologist's dream come true... to explore the underground burial chambers inside King Tut's tomb and recover his fabulous treasure. But do you dare? Ancient and eerie creatures roam the maze-like passageways ready to defend the treasures you most desire. Can you stop them with your laser gun and snatch the loot before it's too late? For the really daring... find the keys that unlock the doors to four different burial chambers. Feel the tension mount as you descend deeper and deeper, facing new creatures in every chamber and ever-increasing odds. Suspense, surprise, and the supernatural await you at every turn when you enter... King Tut's tomb!</Description>
+		<UserRating>2.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Developer>Parker Brothers</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Tutankham" region="US">
+			<ReleasePublisher>Parker Brothers</ReleasePublisher>
+			<ReleaseProductID>6340</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Tutankham (US)-39726_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="U.S. Ski Team Skiing" URL="/intellivision/581779-us-ski-team-skiing">
+		<Description>U.S. Ski Team Skiing is a Sports game, developed and published by Mattel,  which was released in 1980.</Description>
+		<UserRating>3.56 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>15.6 hours</Length>
+		<AKA>Skiing (US)</AKA>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Individual &gt; Ski / Snowboard</Genre>
+		<Release name="Skiing" region="US">
+			<ReleasePublisher>Sears</ReleasePublisher>
+			<ReleaseProductID>4975219</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+		</Release>
+		<Release name="U.S. Ski Team Skiing" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>1817</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1980</ReleaseDate>
+			<ReleaseImages>
+				<Image>U.S. Ski Team Skiing (US)-43320_front.jpg</Image>
+				<Image>U.S. Ski Team Skiing (US)-43320_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Utopia" URL="/intellivision/563050-utopia">
+		<Description>If you were the ruler of your very own country, how good a ruler would you be? Find out with a strategy game that captures the realism-and problems-of governing. Your goal is the happiness and well-being of your people. You make sure there is sufficient food for all. You take care of housing, schools, hospitals, defense and the economy.</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>45.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Strategy &gt; General</Genre>
+		<Release name="Utopia" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5149</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1981</ReleaseDate>
+			<ReleaseImages>
+				<Image>Utopia (US)-20552_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Vectron" URL="/intellivision/565637-vectron">
+		<Description>Look out! The nasties are back and they're after your energy bases. Hungrees, Splitters, Diamondbacks and Prizums (to name just a few) gobble up your bases and attack your energy block. Build a base before they can tear it down and you advance to the next game level with more points and meaner nasties to confront. 00 game levels are possible. We dare you to get past level 10.</Description>
+		<UserRating>2.11 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.8 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Puzzle &gt; General</Genre>
+		<Release name="Vectron" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5788</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Venture" URL="/intellivision/577305-venture">
+		<Description>Winky - the heroic adventurer - is off to claim the treasures that lay hidden in the depths of the dungeon. In each chamber lies a valuable prize protected by dangerous monsters. Equipped with only a bow and arrow, Winky must ward off the monsters to obtain the treasure. Maneuver Winky through the halls and into each chamber, firing arrows at the monsters. If Winky is successful, he moves out and heads for another chamber... and other vicious creatures. In fact, on his treasure hunt, the more he ventures, the more he gains!</Description>
+		<UserRating>3.33 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1.1 hours</Length>
+		<Developer>Coleco</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Venture" region="US">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID>2477</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1982</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="White Water!" URL="/intellivision/577306-white-water">
+		<Description>White Water! is an Action game, developed and published by Imagic,  which was released in 1983.</Description>
+		<UserRating>3.60 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>3 hours</Length>
+		<Developer>Imagic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="White Water!" region="US">
+			<ReleasePublisher>Imagic</ReleasePublisher>
+			<ReleaseProductID>700024</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>White Water! (US)-39731_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="World Championship Baseball" URL="/intellivision/925809-world-championship-baseball">
+		<Description>World Championship Baseball is a Sports game, developed and published by Mattel,  which was released in 1986.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>15.7 hours</Length>
+		<Developer>Mattel</Developer>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Arcade</Genre>
+		<Release name="World Championship Baseball" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>5789</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1986</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="World Cup Football" URL="/intellivision/577309-world-cup-football">
+		<Description>World Cup Football is a Sports game, developed and published by Nice Ideas,  which was released in 1985.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>1 hours</Length>
+		<Developer>Nice Ideas</Developer>
+		<Genre>Sports &gt; Team &gt; Soccer &gt; Sim</Genre>
+		<Release name="World Cup Football" region="US">
+			<ReleasePublisher>Nice Ideas</ReleasePublisher>
+			<ReleaseProductID>8100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1985</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="World Series Major League Baseball" URL="/intellivision/577347-world-series-major-league-baseball">
+		<Description>World Series Major League Baseball is a Sports game, developed and published by Mattel,  which was released in 1983.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>31.5 hours</Length>
+		<Developer>Mattel</Developer>
+		<Franchise>World Baseball</Franchise>
+		<Genre>Sports &gt; Team &gt; Baseball &gt; Sim</Genre>
+		<Release name="World Series Major League Baseball" region="US">
+			<ReleasePublisher>Mattel</ReleasePublisher>
+			<ReleaseProductID>4537</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Worm Whomper" URL="/intellivision/577352-worm-whomper">
+		<Description>Worm Whomper is an Action game, developed by Cheshire and published by Activision,  which was released in 1983.</Description>
+		<UserRating>4.08 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>0.7 hours</Length>
+		<Developer>Cheshire</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Worm Whomper" region="US">
+			<ReleasePublisher>Activision</ReleasePublisher>
+			<ReleaseProductID>M-006</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Worm Whomper (US)-39781_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="Intellivision" name="Zaxxon" URL="/intellivision/577364-zaxxon">
+		<Description>ZAXXON thrusts you into the depths of outer space. Test your pilot skills as you strap into the command position. Prepare for an action-packed challenge of space survival. Score points as you dive, climb, and swoop down to destroy the enemy's floating fortress. Dodge deadly laser barriers, enemy missiles, and rapid gunfire! Destroy enemy fuel tanks and your own supply is replenished. Survive the enemy's fighter fleet attack and face the ultimate challenge... the powerful, armored ZAXXON ROBOT.</Description>
+		<UserRating>3.44 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.4 hours</Length>
+		<Developer>Coleco</Developer>
+		<Franchise>Zaxxon</Franchise>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Zaxxon" region="US">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID>2487</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zaxxon (US)-23470_front.jpg</Image>
+				<Image>Zaxxon (US)-23470_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Zaxxon" region="EU">
+			<ReleasePublisher>Coleco</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1983</ReleaseDate>
+		</Release>
+	</software>
+</softwarelist>

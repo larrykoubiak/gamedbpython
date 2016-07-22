@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<softwarelist>
+	<software scraper="GameFAQS" system="LaserActive" name="3D Museum" URL="/laser/941913-3d-museum">
+		<Description>3D Museum is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in Japan in 1994.</Description>
+		<UserRating>3.42 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>7 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="3D Museum (Mega LD)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ1012</ReleaseProductID>
+			<ReleaseBarCode>4977729241297</ReleaseBarCode>
+			<ReleaseDate>02/25/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>3D Museum (Mega LD) (JP)-88931_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="3D Museum (LD-ROM2)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ-1012</ReleaseProductID>
+			<ReleaseBarCode>4977729241310</ReleaseBarCode>
+			<ReleaseDate>06/25/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>3D Museum (LD-ROM2) (JP)-88932_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="3D Virtual Australia" URL="/laser/941914-3d-virtual-australia">
+		<Description>3D Virtual Australia is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in Japan in 1996.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="3D Virtual Australia" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ5042</ReleaseProductID>
+			<ReleaseBarCode>4948385050424</ReleaseBarCode>
+			<ReleaseDate>03/11/96</ReleaseDate>
+			<ReleaseImages>
+				<Image>3D Virtual Australia (JP)-88934_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Akuma no Shinban: Konseiki Saigo no Shinri Game" URL="/laser/941929-akuma-no-shinban-konseiki-saigo-no-shinri-game">
+		<Description>Akuma no Shinban: Konseiki Saigo no Shinri Game is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in Japan in 1993.</Description>
+		<UserRating>1.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.1 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; Trivia / Game Show</Genre>
+		<Release name="Akuma no Shinban: Konseiki Saigo no Shinri Game" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ5003</ReleaseProductID>
+			<ReleaseBarCode>4977729234824</ReleaseBarCode>
+			<ReleaseDate>08/20/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Akuma no Shinban Konseiki Saigo no Shinri Game (JP)-88961_front.jpg</Image>
+				<Image>Akuma no Shinban Konseiki Saigo no Shinri Game (JP)-88961_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Angel Mate" URL="/laser/941915-angel-mate">
+		<Description>Angel Mate is a Miscellaneous game, developed and published by Planet,  which was released in Japan in 1993.</Description>
+		<UserRating>4.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>4.7 hours</Length>
+		<Developer>Planet</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Angel Mate" region="JP">
+			<ReleasePublisher>Planet</ReleasePublisher>
+			<ReleaseProductID>PEANJ5002</ReleaseProductID>
+			<ReleaseBarCode>4977729234770</ReleaseBarCode>
+			<ReleaseDate>10/25/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Angel Mate (JP)-88933_front.jpg</Image>
+				<Image>Angel Mate (JP)-88933_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Back To The Edo" URL="/laser/941916-back-to-the-edo">
+		<Description>Back To The Edo is an Action game, developed by TBS and published by Pioneer LDC,  which was released in Japan in 1994.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10.7 hours</Length>
+		<Developer>TBS</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Back To The Edo" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ5021</ReleaseProductID>
+			<ReleaseBarCode>4900527411050</ReleaseBarCode>
+			<ReleaseDate>12/22/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Back To The Edo (JP)-88935_front.jpg</Image>
+				<Image>Back To The Edo (JP)-88935_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Bi-llusion Collection Vol. 2: Yoku Sakaki" URL="/laser/946332-bi-llusion-collection-vol-2-yoku-sakaki">
+		<Description>Bi-llusion Collection Vol. 2: Yoku Sakaki is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in Japan in 1994.</Description>
+		<UserRating>3.63 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>5.7 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Bi-llusion Collection Vol. 2: Yoku Sakaki (LD-ROM2)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ5028</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>11/25/94</ReleaseDate>
+		</Release>
+		<Release name="Bi-llusion Collection Vol. 2: Yoku Sakaki (MD-ROM)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/25/95</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Bi-llusion Collection: Minayo Watanabe" URL="/laser/946333-bi-llusion-collection-minayo-watanabe">
+		<Description>Bi-llusion Collection: Minayo Watanabe is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in Japan in 1994.</Description>
+		<UserRating>2.00 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>6.3 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Bi-llusion Collection: Minayo Watanabe (LD-ROM2)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ5025</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>10/25/94</ReleaseDate>
+		</Release>
+		<Release name="Bi-llusion Collection: Minayo Watanabe (MD-ROM)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>02/25/95</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Don Quixote" URL="/laser/941917-don-quixote">
+		<Description>Don Quixote is an Action game, developed and published by Pioneer LDC,  which was released in 1993.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>8.3 hours</Length>
+		<AKA>Don Quixote: A Dream in Seven Crystals (JP)</AKA>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Don Quixote" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASU5022</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+		<Release name="Don Quixote: A Dream in Seven Crystals" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ5022</ReleaseProductID>
+			<ReleaseBarCode>4977729284010</ReleaseBarCode>
+			<ReleaseDate>12/22/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Don Quixote A Dream in Seven Crystals (JP)-88937_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Don Quixote: A Dream in Seven Crystals" URL="/laser/941917-don-quixote">
+		<Description>Don Quixote is an Action game, developed and published by Pioneer LDC,  which was released in 1993.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>8.3 hours</Length>
+		<AKA>Don Quixote: A Dream in Seven Crystals (JP)</AKA>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Don Quixote" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASU5022</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+		<Release name="Don Quixote: A Dream in Seven Crystals" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ5022</ReleaseProductID>
+			<ReleaseBarCode>4977729284010</ReleaseBarCode>
+			<ReleaseDate>12/22/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Don Quixote A Dream in Seven Crystals (JP)-88937_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Dora Dora Paradise" URL="/laser/946334-dora-dora-paradise">
+		<Description>Dora Dora Paradise is a Miscellaneous game, developed and published by Planet,  which was released in Japan in 1994.</Description>
+		<UserRating>3.50 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>6.7 hours</Length>
+		<Developer>Planet</Developer>
+		<Genre>Miscellaneous &gt; Board / Card Game</Genre>
+		<Release name="Dora Dora Paradise" region="JP">
+			<ReleasePublisher>Planet</ReleasePublisher>
+			<ReleaseProductID>PEANJ5005</ReleaseProductID>
+			<ReleaseBarCode>4977729241556</ReleaseBarCode>
+			<ReleaseDate>03/25/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dora Dora Paradise (JP)-96993_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Dr. Paolo no Totteoki Video" URL="/laser/941918-dr-paolo-no-totteoki-video">
+		<Description>Dr. Paolo no Totteoki Video is an Action game, developed by Infini and published by Dry Ice,  which was released in Japan in 1994.</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>2.9 hours</Length>
+		<Developer>Infini</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Dr. Paolo no Totteoki Video" region="JP">
+			<ReleasePublisher>Dry Ice</ReleasePublisher>
+			<ReleaseProductID>PEASJ5030</ReleaseProductID>
+			<ReleaseBarCode>4948385050301</ReleaseBarCode>
+			<ReleaseDate>10/25/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Dr. Paolo no Totteoki Video (JP)-88938_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Ghost Rush!" URL="/laser/941919-ghost-rush">
+		<Description>Ghost Rush! is an Action game, developed and published by Pioneer LDC,  which was released in 1993.</Description>
+		<UserRating>3.92 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>7.3 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Ghost Rush!" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASU1018</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ghost Rush! (US)-88939_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Ghost Rush!" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ1018</ReleaseProductID>
+			<ReleaseBarCode>4977729283129</ReleaseBarCode>
+			<ReleaseDate>12/03/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Ghost Rush! (JP)-88940_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Goku" URL="/laser/946335-goku">
+		<Description>Goku is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in Japan in 1995.</Description>
+		<UserRating>3.20 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>7.5 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Goku (MD-ROM)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ1010</ReleaseProductID>
+			<ReleaseBarCode>4977729280388</ReleaseBarCode>
+			<ReleaseDate>06/15/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Goku (MD-ROM) (JP)-96994_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Goku (LD-ROM2)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ-1032</ReleaseProductID>
+			<ReleaseBarCode>4977729280371</ReleaseBarCode>
+			<ReleaseDate>10/20/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Goku (LD-ROM2) (JP)-96995_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Great Pyramid, The" URL="/laser/946329-the-great-pyramid">
+		<Description>The Great Pyramid is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in Japan in 1993.</Description>
+		<UserRating>4.63 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="The Great Pyramid" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ5002</ReleaseProductID>
+			<ReleaseBarCode>4977729234701</ReleaseBarCode>
+			<ReleaseDate>08/20/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>The Great Pyramid (JP)-96986_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Hi-Roller Battle" URL="/laser/931189-hi-roller-battle">
+		<Description>Hi-Roller Battle is an Action game, developed by CRC Research Institute and published by Pioneer Productions,  which was released in Japan in 1993.</Description>
+		<UserRating>3.90 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9 hours</Length>
+		<Developer>CRC Research Institute</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Hi-Roller Battle" region="JP">
+			<ReleasePublisher>Pioneer Productions</ReleasePublisher>
+			<ReleaseProductID>PEASJ1002</ReleaseProductID>
+			<ReleaseBarCode>4977729234688</ReleaseBarCode>
+			<ReleaseDate>12/20/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hi-Roller Battle (JP)-72825_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Hyperion" URL="/laser/941920-hyperion">
+		<Description>Hyperion is an Action game, developed by High-Tech Lab Japan and published by Taito Corporation,  which was released in 1993.</Description>
+		<UserRating>4.08 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>5.8 hours</Length>
+		<Developer>High-Tech Lab Japan</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Hyperion" region="US">
+			<ReleasePublisher>Taito Corporation</ReleasePublisher>
+			<ReleaseProductID>PEASU5019</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hyperion (US)-88941_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Hyperion" region="JP">
+			<ReleasePublisher>Taito Corporation</ReleasePublisher>
+			<ReleaseProductID>PEASJ5019</ReleaseProductID>
+			<ReleaseBarCode>4988611940068</ReleaseBarCode>
+			<ReleaseDate>05/27/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Hyperion (JP)-88942_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="I Will: The Story Of London" URL="/laser/941921-i-will-the-story-of-london">
+		<Description>I Will: The Story Of London is an Action game, developed by CRC Research Institute and published by Pioneer LDC,  which was released in Japan in 1993.</Description>
+		<UserRating>4.20 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5.1 hours</Length>
+		<Developer>CRC Research Institute</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="I Will: The Story Of London" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ1001</ReleaseProductID>
+			<ReleaseBarCode>4977729234664</ReleaseBarCode>
+			<ReleaseDate>08/20/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>I Will The Story Of London (JP)-88944_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="I Will: The Story Of London" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASU1001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="J.B. Harold: Blue Chicago Blues" URL="/laser/941922-jb-harold-blue-chicago-blues">
+		<Description>Another murder has occurred here in Chicago, where traces of the good old days still remain. The day after a girl in a red dress was found dead, a woman who is the presumed murderer is killed at the same spot; Catherine White, a Liberty Town Police Department detective. Learning of the death of Catherine, her co-worker and fiance, J.B. Harold, immediately flew to Chicago. The complex human relations around Angie Hart, the girl killed, were like a tangled web. The secrets and past lives of suspects hidden behind the case gradually rise to the surface as the investigation progresses... who killed Angie and Catherine? Your eyes will be glued to this large-scale interactive movie game, just like watching a well done Hollywood movie. Welcome to a sensational new mystery adventure, like you have never experienced before!</Description>
+		<UserRating>2.75 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Riverhillsoft</Developer>
+		<Franchise>J.B. Harold</Franchise>
+		<Genre>Adventure &gt; Visual Novel</Genre>
+		<Release name="J.B. Harold: Blue Chicago Blues (LD-ROM2)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ5017</ReleaseProductID>
+			<ReleaseBarCode>4977729284041</ReleaseBarCode>
+			<ReleaseDate>12/20/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>J.B. Harold Blue Chicago Blues (LD-ROM2) (JP)-88946_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="J.B. Harold: Blue Chicago Blues" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASU5036</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1994</ReleaseDate>
+			<ReleaseImages>
+				<Image>J.B. Harold Blue Chicago Blues (US)-88945_front.jpg</Image>
+				<Image>J.B. Harold Blue Chicago Blues (US)-88945_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="J.B. Harold: Blue Chicago Blues (MD-ROM)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ5036</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>04/15/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>J.B. Harold Blue Chicago Blues (MD-ROM) (JP)-88947_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="LaserActive" URL="/laser/934109-laseractive">
+		<Description>LaserActive is a Hardware game, developed and published by Pioneer LDC,  which was released in Japan in 1993.</Description>
+		<UserRating>2.80 / 5</UserRating>
+		<AKA>Pioneer LaserActive (JP), LaserActive Hardware (US)</AKA>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Pioneer LaserActive" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>CLD-A100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/20/93</ReleaseDate>
+		</Release>
+		<Release name="LaserActive Hardware" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/13/93</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="LaserActive Hardware" URL="/laser/934109-laseractive">
+		<Description>LaserActive is a Hardware game, developed and published by Pioneer LDC,  which was released in Japan in 1993.</Description>
+		<UserRating>2.80 / 5</UserRating>
+		<AKA>Pioneer LaserActive (JP), LaserActive Hardware (US)</AKA>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Pioneer LaserActive" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>CLD-A100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/20/93</ReleaseDate>
+		</Release>
+		<Release name="LaserActive Hardware" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/13/93</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Manhattan Requiem" URL="/laser/941923-manhattan-requiem">
+		<Description>Manhattan... A city of greed. The untimely demise of Sarah Shields, a bar pianist who jumped to her death from her apartment window, was nothing uncommon in the hustle and bustle of this never-slowing city. After all, what's one more suicide? Or was it? Now, as the unexpected emerges, truths and half-truths emerge one after another. J.B. Harold is back walking the streets, seeking the clues which have remained hidden... Now you are in command as the hero, conducting the investigation like the pro you are. Solve the riddle, as easy as unraveling tangled thread, as you search for the facts behind Sarah's death in "Manhattan Requiem."</Description>
+		<UserRating>4.40 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>12.8 hours</Length>
+		<Developer>Riverhillsoft</Developer>
+		<Franchise>J.B. Harold</Franchise>
+		<Genre>Adventure &gt; General</Genre>
+		<Release name="Manhattan Requiem" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ5004</ReleaseProductID>
+			<ReleaseBarCode>4977729234787</ReleaseBarCode>
+			<ReleaseDate>10/25/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Manhattan Requiem (JP)-88949_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Manhattan Requiem" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANU5004</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Manhattan Requiem (US)-88948_front.jpg</Image>
+				<Image>Manhattan Requiem (US)-88948_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Melon Brain" URL="/laser/941924-melon-brains">
+		<Description>Melon Brains is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in 1993.</Description>
+		<UserRating>3.58 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>2 hours</Length>
+		<AKA>Melon Brain (US)</AKA>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Melon Brain" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASU1011</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Melon Brain (US)-88951_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Melon Brains (MD-ROM)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ1011</ReleaseProductID>
+			<ReleaseBarCode>4977729243406</ReleaseBarCode>
+			<ReleaseDate>09/20/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Melon Brains (MD-ROM) (JP)-88953_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Melon Brains (LD-ROM2)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/15/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Melon Brains (LD-ROM2) (JP)-88952_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Melon Brains" URL="/laser/941924-melon-brains">
+		<Description>Melon Brains is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in 1993.</Description>
+		<UserRating>3.58 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>2 hours</Length>
+		<AKA>Melon Brain (US)</AKA>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Melon Brain" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASU1011</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Melon Brain (US)-88951_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Melon Brains (MD-ROM)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ1011</ReleaseProductID>
+			<ReleaseBarCode>4977729243406</ReleaseBarCode>
+			<ReleaseDate>09/20/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Melon Brains (MD-ROM) (JP)-88953_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Melon Brains (LD-ROM2)" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>12/15/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Melon Brains (LD-ROM2) (JP)-88952_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Pioneer LaserActive" URL="/laser/934109-laseractive">
+		<Description>LaserActive is a Hardware game, developed and published by Pioneer LDC,  which was released in Japan in 1993.</Description>
+		<UserRating>2.80 / 5</UserRating>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Hardware &gt; Console</Genre>
+		<Release name="Pioneer LaserActive" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>CLD-A100</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>08/20/93</ReleaseDate>
+		</Release>
+		<Release name="LaserActive Hardware" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID> </ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>09/13/93</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Pyramid Patrol" URL="/laser/941925-pyramid-patrol">
+		<Description>Pyramid Patrol is an Action game, developed by High-Tech Lab Japan and published by Taito Corporation,  which was released in Japan in 1993.</Description>
+		<UserRating>3.83 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>5 hours</Length>
+		<Developer>High-Tech Lab Japan</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Pyramid Patrol" region="JP">
+			<ReleasePublisher>Taito Corporation</ReleasePublisher>
+			<ReleaseProductID>PEASJ5001</ReleaseProductID>
+			<ReleaseBarCode>4977729234725</ReleaseBarCode>
+			<ReleaseDate>08/20/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pyramid Patrol (JP)-88955_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Pyramid Patrol" region="US">
+			<ReleasePublisher>Taito Corporation</ReleasePublisher>
+			<ReleaseProductID>PEASU5001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Pyramid Patrol (US)-88954_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Quiz Econosaurus" URL="/laser/941926-quiz-econosaurus">
+		<Description>Quiz Econosaurus is a Miscellaneous game, developed by Pioneer LDC and published by Hudson,  which was released in Japan in 1993.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Simple</Difficulty>
+		<Length>2.5 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; Edutainment</Genre>
+		<Release name="Quiz Econosaurus" region="JP">
+			<ReleasePublisher>Hudson</ReleasePublisher>
+			<ReleaseProductID>PEANJ5001</ReleaseProductID>
+			<ReleaseBarCode>4977729234756</ReleaseBarCode>
+			<ReleaseDate>08/20/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Quiz Econosaurus (JP)-88957_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Quiz Econosaurus" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANU5001</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Road Blaster" URL="/laser/941927-road-blaster">
+		<Description>Road Blaster is an Action game, developed by Data East and published by Pioneer LDC,  which was released in Japan in 1995.</Description>
+		<UserRating>4.13 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.7 hours</Length>
+		<Developer>Data East</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Road Blaster" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ1033</ReleaseProductID>
+			<ReleaseBarCode>4977729284034</ReleaseBarCode>
+			<ReleaseDate>01/25/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Road Blaster (JP)-88958_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Rocket Coaster" URL="/laser/946331-rocket-coaster">
+		<Description>Rocket Coaster is a Racing game, developed by High-Tech Lab Japan and published by Taito Corporation,  which was released in Japan in 1993.</Description>
+		<UserRating>4.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>12.8 hours</Length>
+		<Developer>High-Tech Lab Japan</Developer>
+		<Genre>Racing &gt; Arcade &gt; Automobile</Genre>
+		<Release name="Rocket Coaster" region="JP">
+			<ReleasePublisher>Taito Corporation</ReleasePublisher>
+			<ReleaseProductID>PEASJ5013</ReleaseProductID>
+			<ReleaseBarCode>4977729243376</ReleaseBarCode>
+			<ReleaseDate>12/20/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Rocket Coaster (JP)-96988_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Space Berserker" URL="/laser/941928-space-berserker">
+		<Description>Space Berserker is an Action game, developed and published by Pioneer LDC,  which was released in 1993.</Description>
+		<UserRating>4.08 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>4.4 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Action &gt; Shooter &gt; Shoot-'Em-Up &gt; Vertical</Genre>
+		<Release name="Space Berserker" region="US">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASU1003</ReleaseProductID>
+			<ReleaseBarCode> </ReleaseBarCode>
+			<ReleaseDate>1993</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Berserker (US)-88959_front.jpg</Image>
+				<Image>Space Berserker (US)-88959_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+		<Release name="Space Berserker" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEASJ1003</ReleaseProductID>
+			<ReleaseBarCode>4977729234640</ReleaseBarCode>
+			<ReleaseDate>02/25/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Space Berserker (JP)-88960_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Time Gal" URL="/laser/930599-time-gal">
+		<Description>The devious Luda is loose in time and out to change the history of mankind.  Help Time Gal stop him before the world as you know it is destroyed.  Hang on thight to your time machine as you travel from pre-historic times to the future.  Jump from plane to plane in a WWII dog fight, sail a Spanish Galleon on the high seas, ride a torpedo through the ocean, battle robots in a futuristic space station, and escape from hungry dinosaurs.  Are you brave and fast enough to face the challenges ahead before time runs out?</Description>
+		<UserRating>4.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>9.6 hours</Length>
+		<Developer>High-Tech Lab Japan</Developer>
+		<Genre>Action &gt; Arcade</Genre>
+		<Release name="Time Gal" region="JP">
+			<ReleasePublisher>Taito Corporation</ReleasePublisher>
+			<ReleaseProductID>PEASJ5039</ReleaseProductID>
+			<ReleaseBarCode>4988611940167</ReleaseBarCode>
+			<ReleaseDate>03/25/95</ReleaseDate>
+			<ReleaseImages>
+				<Image>Time Gal (JP)-316458_front.jpg</Image>
+				<Image>Time Gal (JP)-316458_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Triad Stone" URL="/laser/941930-triad-stone">
+		<Description>Triad Stone is an Action game, developed by Seraphic and published by Sega,  which was released in Japan in 1994.</Description>
+		<UserRating>4.20 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8.7 hours</Length>
+		<Developer>Seraphic</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Triad Stone" region="JP">
+			<ReleasePublisher>Sega</ReleasePublisher>
+			<ReleaseProductID>PEASJ5014</ReleaseProductID>
+			<ReleaseBarCode>4974365535018</ReleaseBarCode>
+			<ReleaseDate>03/25/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Triad Stone (JP)-88962_front.jpg</Image>
+				<Image>Triad Stone (JP)-88962_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Vajra" URL="/laser/946330-vajra">
+		<Description>Vajra is an Action game, developed by DataWest and published by Pioneer LDC,  which was released in Japan in 1993.</Description>
+		<UserRating>3.25 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>DataWest</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Vajra" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ1001</ReleaseProductID>
+			<ReleaseBarCode>4977729234800</ReleaseBarCode>
+			<ReleaseDate>10/25/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Vajra (JP)-96987_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Vajra 2" URL="/laser/931040-vajra-2">
+		<Description>Vajra 2 is an Action game, developed and published by Pioneer LDC,  which was released in Japan in 1994.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Tough</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Vajra 2" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ1016</ReleaseProductID>
+			<ReleaseBarCode>4977729283174</ReleaseBarCode>
+			<ReleaseDate>10/31/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Vajra 2 (JP)-306939_front.jpg</Image>
+				<Image>Vajra 2 (JP)-306939_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Virtual Cameraman" URL="/laser/941931-virtual-cameraman">
+		<Description>Virtual Cameraman is an Action game, developed by High-Tech Lab Japan and published by Transpegasus,  which was released in Japan in 1993.</Description>
+		<UserRating>3.17 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10 hours</Length>
+		<Developer>High-Tech Lab Japan</Developer>
+		<Franchise>Virtual Cameraman</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Virtual Cameraman" region="JP">
+			<ReleasePublisher>Transpegasus</ReleasePublisher>
+			<ReleaseProductID>PEASJ5015</ReleaseProductID>
+			<ReleaseBarCode>4937462104105</ReleaseBarCode>
+			<ReleaseDate>12/10/93</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Cameraman (JP)-88963_front.jpg</Image>
+				<Image>Virtual Cameraman (JP)-88963_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Virtual Cameraman 2" URL="/laser/941932-virtual-cameraman-2">
+		<Description>Virtual Cameraman 2 is an Action game, developed by High-Tech Lab Japan and published by Transpegasus,  which was released in Japan in 1994.</Description>
+		<UserRating>3.00 / 5</UserRating>
+		<Difficulty>Easy</Difficulty>
+		<Length>8 hours</Length>
+		<Developer>High-Tech Lab Japan</Developer>
+		<Franchise>Virtual Cameraman</Franchise>
+		<Genre>Action &gt; General</Genre>
+		<Release name="Virtual Cameraman 2" region="JP">
+			<ReleasePublisher>Transpegasus</ReleasePublisher>
+			<ReleaseProductID>PEASJ5020</ReleaseProductID>
+			<ReleaseBarCode>4937462104204</ReleaseBarCode>
+			<ReleaseDate>04/15/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Virtual Cameraman 2 (JP)-88964_front.jpg</Image>
+				<Image>Virtual Cameraman 2 (JP)-88964_back.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+	<software scraper="GameFAQS" system="LaserActive" name="Zapping TV Satsui" URL="/laser/946336-zapping-tv-satsui">
+		<Description>Zapping TV Satsui is a Miscellaneous game, developed and published by Pioneer LDC,  which was released in Japan in 1994.</Description>
+		<UserRating>3.67 / 5</UserRating>
+		<Difficulty>Just Right</Difficulty>
+		<Length>10.7 hours</Length>
+		<Developer>Pioneer LDC</Developer>
+		<Genre>Miscellaneous &gt; General</Genre>
+		<Release name="Zapping TV Satsui" region="JP">
+			<ReleasePublisher>Pioneer LDC</ReleasePublisher>
+			<ReleaseProductID>PEANJ5023</ReleaseProductID>
+			<ReleaseBarCode>4988102282912</ReleaseBarCode>
+			<ReleaseDate>06/10/94</ReleaseDate>
+			<ReleaseImages>
+				<Image>Zapping TV Satsui (JP)-96996_front.jpg</Image>
+			</ReleaseImages>
+		</Release>
+	</software>
+</softwarelist>
