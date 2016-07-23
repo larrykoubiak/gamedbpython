@@ -45,7 +45,7 @@ def match_releases():
     cursor = con.cursor()
     init_database(cursor)
     con.commit()
-    query = "SELECT * FROM datSystem WHERE datId IN (4,33) ORDER BY 1"
+    query = "SELECT * FROM datSystem ORDER BY 1"
     cursor.execute(query)
     systems = cursor.fetchall()
 
