@@ -62,12 +62,12 @@ def match_releases():
         for row in cursor:
             strGame = normalize(row[0])
             releases.append(strGame)
-        query = "SELECT softwareId,softwareName FROM tblSoftwares WHERE datId = " + str(sys[0]) + " AND softwareType='Game'"
+        query = "SELECT softwareId,softwareName FROM tblSoftwares WHERE datId = " + str(sys[0]) + " AND softwareType='Game' ORDER BY 2"
         cursor.execute(query)
         softwares = cursor.fetchall()
         for soft in softwares:
             strGame = normalize(soft[1])
-            match = process.extractOne(strGame,releases,scorer=fuzz.partial_ratio)
+            match = process.extractOne(strGame,releases,scorer=fuzz.QRatio)
             print '\t' + strGame
             cursor.execute("INSERT INTO tblFuzzy (datId,softwareId, scrapedReleaseName, matchScore) VALUES(?,?,?,?)",(sys[0],soft[0],match[0],match[1]))
         con.commit()
