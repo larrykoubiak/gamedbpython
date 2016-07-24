@@ -67,7 +67,7 @@ def match_releases():
         softwares = cursor.fetchall()
         for soft in softwares:
             strGame = normalize(soft[1])
-            match = process.extractOne(strGame,releases,scorer=fuzz.QRatio)
+            match = process.extractOne(strGame,releases,scorer=fuzz.partial_ratio)
             print '\t' + strGame
             cursor.execute("INSERT INTO tblFuzzy (datId,softwareId, scrapedReleaseName, matchScore) VALUES(?,?,?,?)",(sys[0],soft[0],match[0],match[1]))
         con.commit()

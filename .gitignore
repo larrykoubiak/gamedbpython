@@ -94,4 +94,5 @@ rdb/
 test/
 old/
 *.db
+*.db-journal
 cookies.txt

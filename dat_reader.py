@@ -1,4 +1,5 @@
 import regex as re
+from datetime import datetime
 from collections import namedtuple, OrderedDict
 import xml.etree.ElementTree as ET
 import sqlite3 as lite
@@ -11,7 +12,7 @@ flag = namedtuple('Flag',['name','value'])
 dat = namedtuple('DAT',['header','softwares'])
 
 def init_database(cursor):
-    cursor.execute("CREATE TABLE IF NOT EXISTS tblDATs (datId INTEGER PRIMARY KEY,datFileName TEXT, systemName TEXT, systemManufacturer TEXT, datType TEXT)")
+    cursor.execute("CREATE TABLE IF NOT EXISTS tblDATs (datId INTEGER PRIMARY KEY,datFileName TEXT, systemName TEXT, systemManufacturer TEXT, datType TEXT, datDate DATE)")
     cursor.execute("CREATE TABLE IF NOT EXISTS tblSoftwares (softwareId INTEGER PRIMARY KEY, softwareName TEXT, softwareType TEXT, datId INTEGER)")
     cursor.execute("CREATE TABLE IF NOT EXISTS tblReleases (releaseId INTEGER PRIMARY KEY, releaseName TEXT, releaseType TEXT, softwareId INTEGER)")
     cursor.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlags (releaseFlagId INTEGER PRIMARY KEY, releaseFlagName TEXT, releaseFlagValue TEXT, releaseId INTEGER)")
@@ -182,7 +183,12 @@ def read_dat(path,cur):
     else:
         dat = import_xml_dat(datfile)
     #import dat header
-    cur.execute("INSERT INTO tblDATs (datFileName,systemName,systemManufacturer,datType) VALUES (?,?,?,?)",(ntpath.basename(path),dat.header['Manufacturer'],dat.header['Name'],dat.header['DatType']))
+    datDate = None
+    if(dat.header['version'] is not None or dat.header['date'] is not None):
+        match = re.match('(\d{4})(\d{2})(\d{2})-(\d{2})(\d{2})(\d{2})',dat.header['version'] if dat.header['version'] is not None else dat.header['date'])
+        if(match is not None):
+            datDate = datetime(int(match[1]),int(match[2]),int(match[3]),int(match[4]),int(match[5]),int(match[6]))
+    cur.execute("INSERT INTO tblDATs (datFileName,systemName,systemManufacturer,datType,datDate) VALUES (?,?,?,?,?)",(ntpath.basename(path),dat.header['Name'],dat.header['Manufacturer'],dat.header['DatType'],datDate))
     datid = cur.lastrowid
     for softkey,softvalue in dat.softwares.iteritems():
         cur.execute("INSERT INTO tblSoftwares (softwareName,softwareType,datId) VALUES (?,?,?)",(softkey,softvalue['Type'],datid))
@@ -200,6 +206,7 @@ def import_folder(path):
     init_database(cur)
     for xmlfile in os.listdir(path):
         read_dat(os.path.join(path,xmlfile),cur)
+        con.commit()
     #fix software types for unpublished games
     sql = """UPDATE tblSoftwares SET softwareType = 'Unpublished' WHERE softwareId IN
             (SELECT s.softwareId FROM tblSoftwares s INNER JOIN tblDATs d On d.datId = s.datId
