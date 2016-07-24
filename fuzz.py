@@ -73,5 +73,22 @@ def match_releases():
         con.commit()
     con.close()
 
+def match_partials():
+    con = lite.connect('sqlite/GameFAQs.db')
+    cursor = con.cursor()
+    query = """SELECT s.softwareName, s.softwareId, f.scrapedReleaseName, f.matchScore
+            FROM tblSoftwares s INNER JOIN tblFuzzy f ON f.softwareId = s.softwareId INNER JOIN tblDATs d on d.datId = f.datId
+            WHERE s.softwareType = 'Game' AND f.matchScore <95"""
+    cursor.execute(query)
+    softs = cursor.fetchall()
+    for soft in softs:
+        strGame = normalize(soft[0])
+        match = fuzz.partial_ratio(strGame,soft[2])
+        if(match>soft[3]):
+            print soft[0]
+            cursor.execute("UPDATE tblFuzzy SET matchScore = ? WHERE softwareId = ?",(match,soft[1]))
+    con.commit()
+    con.close()
 if __name__ == '__main__':
     match_releases()
+    match_partials()
