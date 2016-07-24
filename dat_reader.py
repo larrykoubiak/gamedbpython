@@ -200,6 +200,13 @@ def import_folder(path):
     init_database(cur)
     for xmlfile in os.listdir(path):
         read_dat(os.path.join(path,xmlfile),cur)
+    #fix software types for unpublished games
+    sql = """UPDATE tblSoftwares SET softwareType = 'Unpublished' WHERE softwareId IN
+            (SELECT s.softwareId FROM tblSoftwares s INNER JOIN tblDATs d On d.datId = s.datId
+            INNER JOIN (SELECT s2.softwareId FROM tblSoftwares s2 INNER JOIN tblReleases r ON r.softwareId = s2.softwareId
+            GROUP BY s2.softwareId HAVING SUM(CASE WHEN r.releaseType = 'Commercial' THEN 1 ELSE 0 END) = 0
+            ) sub ON sub.softwareId = s.softwareId)"""
+    cur.execute(sql)
     con.commit()
     con.close()
 
