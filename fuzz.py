@@ -31,7 +31,7 @@ def normalize(s):
 
 def init_database(cursor):
     cursor.execute("CREATE TABLE IF NOT EXISTS datSystem (datId INTEGER, scrapedSoftwareSystem TEXT)")
-    cursor.execute("CREATE TABLE IF NOT EXISTS tblFuzzy (datId INTEGER, softwareId INTEGER, scrapedReleaseName TEXT, matchScore INTEGER, matchMethod TEXT)")
+    cursor.execute("CREATE TABLE IF NOT EXISTS tblFuzzy (datId INTEGER, softwareId INTEGER, normalizedSoftwareName TEXT, normalizedReleaseName TEXT, matchScore INTEGER, matchMethod TEXT)")
     f = open('datSystem.csv','r')
     line = f.readline()
     cursor.execute("DELETE FROM datSystem")
@@ -69,14 +69,14 @@ def match_releases():
             strGame = normalize(soft[1])
             match = process.extractOne(strGame,releases,scorer=fuzz.QRatio)
             print '\t' + strGame
-            cursor.execute("INSERT INTO tblFuzzy (datId,softwareId, scrapedReleaseName, matchScore, matchMethod) VALUES(?,?,?,?,?)",(sys[0],soft[0],match[0],match[1],'QRatio'))
+            cursor.execute("INSERT INTO tblFuzzy (datId,softwareId, normalizedSoftwareName, normalizedReleaseName, matchScore, matchMethod) VALUES(?,?,?,?,?,?)",(sys[0],soft[0],strGame,match[0],match[1],'QRatio'))
         con.commit()
     con.close()
 
 def match_partials():
     con = lite.connect('sqlite/GameFAQs.db')
     cursor = con.cursor()
-    query = """SELECT s.softwareName, s.softwareId, f.scrapedReleaseName, f.matchScore
+    query = """SELECT s.softwareName, s.softwareId, f.normalizedReleaseName, f.matchScore
             FROM tblSoftwares s INNER JOIN tblFuzzy f ON f.softwareId = s.softwareId INNER JOIN tblDATs d on d.datId = f.datId
             WHERE s.softwareType = 'Game' AND f.matchScore <95"""
     cursor.execute(query)
