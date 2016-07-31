@@ -31,7 +31,7 @@ def normalize(s):
 
 def init_database(cursor):
     cursor.execute("CREATE TABLE IF NOT EXISTS datSystem (datId INTEGER, scrapedSoftwareSystem TEXT)")
-    cursor.execute("CREATE TABLE IF NOT EXISTS tblFuzzy (datId INTEGER, softwareId INTEGER, normalizedSoftwareName TEXT, normalizedReleaseName TEXT, matchScore INTEGER)")
+    cursor.execute("CREATE TABLE IF NOT EXISTS tblFuzzy (datId INTEGER, softwareId INTEGER, normalizedSoftwareName TEXT, normalizedReleaseName TEXT, matchScore INTEGER, matchMethod TEXT)")
     f = open('datSystem.csv','r')
     line = f.readline()
     cursor.execute("DELETE FROM datSystem")
@@ -69,7 +69,7 @@ def match_releases():
             strGame = normalize(soft[1])
             match = process.extractOne(strGame,releases,scorer=fuzz.QRatio)
             print '\t' + strGame
-            cursor.execute("INSERT INTO tblFuzzy (datId,softwareId, normalizedSoftwareName, normalizedReleaseName, matchScore) VALUES(?,?,?,?,?)",(sys[0],soft[0],strGame, match[0],match[1]))
+            cursor.execute("INSERT INTO tblFuzzy (datId,softwareId, normalizedSoftwareName, normalizedReleaseName, matchScore, matchMethod) VALUES(?,?,?,?,?,?)",(sys[0],soft[0],strGame,match[0],match[1],'QRatio'))
         con.commit()
     con.close()
 
