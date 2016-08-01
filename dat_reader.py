@@ -16,7 +16,6 @@ def init_database(cursor):
     cursor.execute("CREATE TABLE IF NOT EXISTS tblSoftwares (softwareId INTEGER PRIMARY KEY, softwareName TEXT, softwareType TEXT, datId INTEGER)")
     cursor.execute("CREATE TABLE IF NOT EXISTS tblReleases (releaseId INTEGER PRIMARY KEY, releaseName TEXT, releaseType TEXT, softwareId INTEGER)")
     cursor.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlags (releaseFlagId INTEGER PRIMARY KEY, releaseFlagName TEXT, releaseFlagValue TEXT, releaseId INTEGER)")
-    cursor.execute("CREATE TABLE IF NOT EXISTS tblRomInfos (name TEXT, description TEXT, year TEXT, manufacturer TEXT)")
 def init_regexes():
     global regexes
     regexes["System"] = re.compile("^(?P<Manufacturer>.+?)\s-\s(?P<Name>.+?)(?:\s\((?P<Format>.+?)\))?(?:\s(?P<DatType>Parent-Clone)|$)")
@@ -217,27 +216,7 @@ def import_folder(path):
     con.commit()
     con.close()
 
-def import_FBA(path):
-    con = lite.connect('sqlite/GameFAQs.db')
-    cur = con.cursor()
-    init_database(cur)
-    datfile = open(path,"r")
-    datfile.seek(0)
-    tree = ET.parse(datfile)
-    root = tree.getroot()
-    headernode = root.find('header')
-    cur.execute("DELETE FROM tblRomInfos")
-    con.commit()
-    for gamenode in root.findall('game'):
-        softname = gamenode.get('name')
-        softdesc = gamenode.find('description').text
-        softyear = gamenode.find('year').text
-        softmanu = gamenode.find('manufacturer').text
-        cur.execute("INSERT INTO tblRomInfos (name,description,year,manufacturer) VALUES (?,?,?,?)",(softname,softdesc,softyear,softmanu))
-    con.commit()
-    con.close()
 
 if __name__ == '__main__':
     init_regexes()
-    import_FBA(r"FB Alpha v0.2.97.38 (ClrMame Pro XML).dat")
-    ##import_folder('./DAT')
+    import_folder('./DAT')

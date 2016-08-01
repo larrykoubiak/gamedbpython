@@ -4,10 +4,12 @@ import os
 import zipfile
 import binascii
 import sqlite3 as lite
+import xml.etree.ElementTree as ET
 
 def init_database(cursor):
     cursor.execute("CREATE TABLE IF NOT EXISTS tblRomFiles (filename TEXT, size INT, crc32 TEXT, md5 TEXT, sha1 TEXT)")
-
+    cursor.execute("CREATE TABLE IF NOT EXISTS tblRomInfos (name TEXT, description TEXT, year TEXT, manufacturer TEXT)")
+    
 def getsha1(filepath):
     sha1 = hashlib.sha1()
     ##f = zipfile.ZipFile(filepath, 'r')
@@ -54,13 +56,26 @@ def getChecksums(filepath):
     return size,crc32, md5.hexdigest(), sha1.hexdigest()
 
 def scan_folder(path,cursor):
-    cursor.execute("DELETE FROM tblRomFiles")
     for filename in os.listdir(path):
         if filename.endswith("zip"):
             size, crc32, md5, sha1 = getChecksums(os.path.join(path, filename))
             cursor.execute("INSERT INTO tblRomFiles (filename, size, crc32, md5, sha1) VALUES (?,?,?,?,?)",(filename,size,crc32,md5,sha1))
             print filename + " : " + crc32 + " " + md5 + " " + sha1
-    
+
+def import_FBA(path,cur):
+    datfile = open(path,"r")
+    datfile.seek(0)
+    tree = ET.parse(datfile)
+    root = tree.getroot()
+    headernode = root.find('header')
+    for gamenode in root.findall('game'):
+        softname = gamenode.get('name')
+        softdesc = gamenode.find('description').text
+        softyear = gamenode.find('year').text
+        softmanu = gamenode.find('manufacturer').text
+        print softname + " " + softdesc + " " + softyear + " " + softmanu
+        cur.execute("INSERT INTO tblRomInfos (name,description,year,manufacturer) VALUES (?,?,?,?)",(softname,softdesc,softyear,softmanu))
+  
 def export_dat(path, cur):
     f = open(path,"w")
     f.write("clrmamepro (\n")
@@ -85,8 +100,13 @@ starttime = datetime.now()
 con = lite.connect('sqlite/GameFAQs.db')
 cursor = con.cursor()
 init_database(cursor)
-#scan_folder(r"F:/ROMRoot/Arcade/FinalBurn Alpha/roms",cursor)
-#con.commit()
-export_dat(r"test.dat",cursor)
+con.commit()
+cursor.execute("DELETE FROM tblRomInfos")
+import_FBA(r'FB Alpha v0.2.97.38 (ClrMame Pro XML).dat',cursor)
+con.commit()
+cursor.execute("DELETE FROM tblRomFiles")
+scan_folder(r"D:/GameDB/Roms/fba",cursor)
+con.commit()
+export_dat(r"FB Alpha - Arcade Games.dat",cursor)
 con.close()
 print datetime.now()-starttime
