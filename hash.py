@@ -5,6 +5,7 @@ import zipfile
 import binascii
 import sqlite3 as lite
 import xml.etree.ElementTree as ET
+import regex as re
 
 def init_database(cursor):
     cursor.execute("CREATE TABLE IF NOT EXISTS tblRomFiles (filename TEXT, size INT, crc32 TEXT, md5 TEXT, sha1 TEXT)")
@@ -92,21 +93,23 @@ def export_dat(path, cur):
         f.write("\tname \"" + game[1] + "\"\n")
         f.write("\tyear " + game[2] + "\n")
         f.write("\tmanufacturer \"" + game[3] + "\"\n")
-        f.write("\trom ( name {0} size {1} crc32 {2} sha1 {3} )\n".format(game[4],game[5],game[6],game[8]))
+        f.write("\trom ( name {0} size {1} crc32 {2} sha1 {3} )\n".format(re.sub("[/\?<>\\:*\|]","_",game[4]),game[5],game[6],game[8]))
         f.write(")\n\n")
     f.close()
+
+
 
 starttime = datetime.now()
 con = lite.connect('sqlite/GameFAQs.db')
 cursor = con.cursor()
 init_database(cursor)
 con.commit()
-cursor.execute("DELETE FROM tblRomInfos")
-import_FBA(r'FB Alpha v0.2.97.38 (ClrMame Pro XML).dat',cursor)
-con.commit()
-cursor.execute("DELETE FROM tblRomFiles")
-scan_folder(r"D:/GameDB/Roms/fba",cursor)
-con.commit()
+## cursor.execute("DELETE FROM tblRomInfos")
+## import_FBA(r'FB Alpha v0.2.97.38 (ClrMame Pro XML).dat',cursor)
+## con.commit()
+## cursor.execute("DELETE FROM tblRomFiles")
+## scan_folder(r"F:/GameDB/Roms/fba",cursor)
+## con.commit()
 export_dat(r"FB Alpha - Arcade Games.dat",cursor)
 con.close()
 print datetime.now()-starttime
