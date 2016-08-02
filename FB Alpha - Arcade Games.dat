@@ -75,70 +75,70 @@ game (
 )
 
 game (
-	name "1943: The Battle of Midway (Euro)"
+	name "1943_ The Battle of Midway (Euro)"
 	year 1987
 	manufacturer "Capcom"
 	rom ( name 1943.zip size 305392 crc32 d0e80fef sha1 a5acd39d166a43450b8f01cafe1a6e98e7122b4e )
 )
 
 game (
-	name "1943: The Battle of Midway (bootleg set 1, hack of Japan set) [Bootleg]"
+	name "1943_ The Battle of Midway (bootleg set 1, hack of Japan set) [Bootleg]"
 	year 1987
 	manufacturer "bootleg"
 	rom ( name 1943b.zip size 151229 crc32 9a11d275 sha1 15f9eb2442a0f8e3ac6c898503e8cd37583867f3 )
 )
 
 game (
-	name "1943: The Battle of Midway (bootleg set 2, hack of Japan set) [Bootleg]"
+	name "1943_ The Battle of Midway (bootleg set 2, hack of Japan set) [Bootleg]"
 	year 1987
 	manufacturer "bootleg"
 	rom ( name 1943b2.zip size 296229 crc32 b0400122 sha1 a22aa3a0d0b715a4a9a070771100368fb28628e0 )
 )
 
 game (
-	name "1943: Midway Kaisen (bootleg) [Bootleg]"
+	name "1943_ Midway Kaisen (bootleg) [Bootleg]"
 	year 1987
 	manufacturer "bootleg"
 	rom ( name 1943bj.zip size 168186 crc32 09d5e385 sha1 90fd48aefcf0435140b4faa5044df0370b3cc16c )
 )
 
 game (
-	name "1943: Midway Kaisen (Japan, Rev B)"
+	name "1943_ Midway Kaisen (Japan, Rev B)"
 	year 1987
 	manufacturer "Capcom"
 	rom ( name 1943j.zip size 63124 crc32 34be354e sha1 4ca1f747d7a63ad97b14525867d5aed7c86be766 )
 )
 
 game (
-	name "1943: Midway Kaisen (Japan)"
+	name "1943_ Midway Kaisen (Japan)"
 	year 1987
 	manufacturer "Capcom"
 	rom ( name 1943ja.zip size 63098 crc32 8e3796cb sha1 51fbd6d6c922ef68b59a31b985317331a6011f80 )
 )
 
 game (
-	name "1943: The Battle of Midway (hack of Japan set)"
+	name "1943_ The Battle of Midway (hack of Japan set)"
 	year 1987
 	manufacturer "Capcom"
 	rom ( name 1943ja2.zip size 67515 crc32 161546d9 sha1 4a815a8e56773c54958bd074cf9d6074749149c4 )
 )
 
 game (
-	name "1943 Kai: Midway Kaisen (Japan)"
+	name "1943 Kai_ Midway Kaisen (Japan)"
 	year 1987
 	manufacturer "Capcom"
 	rom ( name 1943kai.zip size 313064 crc32 f39592a9 sha1 71fa7a8de701e41d00f65e93aa50d343a832e688 )
 )
 
 game (
-	name "1943: The Battle of Midway (US, Rev C)"
+	name "1943_ The Battle of Midway (US, Rev C)"
 	year 1987
 	manufacturer "Capcom"
 	rom ( name 1943u.zip size 62872 crc32 433c6a96 sha1 a0970a904a869def6a4354250b4021a67552e306 )
 )
 
 game (
-	name "1943: The Battle of Midway (US)"
+	name "1943_ The Battle of Midway (US)"
 	year 1987
 	manufacturer "Capcom"
 	rom ( name 1943ua.zip size 62831 crc32 583e94f4 sha1 a771caab414f45d9b0322b489618d970a3903a0c )
@@ -264,14 +264,14 @@ game (
 )
 
 game (
-	name "3 Count Bout / Fire Suplex (NGM-043)(NGH-043)"
+	name "3 Count Bout _ Fire Suplex (NGM-043)(NGH-043)"
 	year 1993
 	manufacturer "SNK"
 	rom ( name 3countb.zip size 7632895 crc32 e59385a9 sha1 c00add12ec5aaff60ccf85b2b81256fee157c3f6 )
 )
 
 game (
-	name "3 Count Bout / Fire Suplex (NGM-043)"
+	name "3 Count Bout _ Fire Suplex (NGM-043)"
 	year 1993
 	manufacturer "SNK"
 	rom ( name 3countba.zip size 326300 crc32 bc2e5625 sha1 634a0061f9d9646837a6ee8e1b6b9ca1fe4bfea4 )
@@ -432,21 +432,21 @@ game (
 )
 
 game (
-	name "'99: The Last War"
+	name "'99_ The Last War"
 	year 1985
 	manufacturer "Proma"
 	rom ( name 99lstwar.zip size 11579 crc32 94115687 sha1 9680e864884b5317b60d2b95ed8688f7b0cfeb18 )
 )
 
 game (
-	name "'99: The Last War (alternate)"
+	name "'99_ The Last War (alternate)"
 	year 1985
 	manufacturer "Proma"
 	rom ( name 99lstwara.zip size 77801 crc32 a77d6cf9 sha1 6c7609038cd97501a39e0afe50630487aa70c3e9 )
 )
 
 game (
-	name "'99: The Last War (Kyugo)"
+	name "'99_ The Last War (Kyugo)"
 	year 1985
 	manufacturer "Kyugo"
 	rom ( name 99lstwark.zip size 13347 crc32 eea1717d sha1 8282fbbb4eac875e27a4017375a7f358cfbd1c66 )
@@ -670,21 +670,21 @@ game (
 )
 
 game (
-	name "Air Buster: Trouble Specialty Raid Unit (World)"
+	name "Air Buster_ Trouble Specialty Raid Unit (World)"
 	year 1990
 	manufacturer "Kaneko (Namco license)"
 	rom ( name airbustr.zip size 693968 crc32 d9e397ed sha1 9f3d12511be5bc05d17c220d1a933a12698df5f1 )
 )
 
 game (
-	name "Air Buster: Trouble Specialty Raid Unit (bootleg) [Bootleg]"
+	name "Air Buster_ Trouble Specialty Raid Unit (bootleg) [Bootleg]"
 	year 1990
 	manufacturer "bootleg"
 	rom ( name airbustrb.zip size 729359 crc32 40b9c205 sha1 5685db462ef175fc317c81f58e3de5f291f21b35 )
 )
 
 game (
-	name "Air Buster: Trouble Specialty Raid Unit (Japan)"
+	name "Air Buster_ Trouble Specialty Raid Unit (Japan)"
 	year 1990
 	manufacturer "Kaneko (Namco license)"
 	rom ( name airbustrj.zip size 118196 crc32 35ba7c90 sha1 7dc27b2def38201b4a21b8c4a30a2294cb9acd45 )
@@ -754,14 +754,14 @@ game (
 )
 
 game (
-	name "Alex Kidd: The Lost Stars (set 2, unprotected)"
+	name "Alex Kidd_ The Lost Stars (set 2, unprotected)"
 	year 1986
 	manufacturer "Sega"
 	rom ( name alexkidd.zip size 304621 crc32 fc637b17 sha1 e6a43a2322a9096b77cf9c4d6e42310031769916 )
 )
 
 game (
-	name "Alex Kidd: The Lost Stars (set 1, FD1089A 317-unknown)"
+	name "Alex Kidd_ The Lost Stars (set 1, FD1089A 317-unknown)"
 	year 1986
 	manufacturer "Sega"
 	rom ( name alexkidd1.zip size 170861 crc32 d193ba16 sha1 46ff1d3297d17e27400fafbff405fb322b445929 )
@@ -922,14 +922,14 @@ game (
 )
 
 game (
-	name "Alpha Mission II / ASO II - Last Guardian (NGM-007)(NGH-007)"
+	name "Alpha Mission II _ ASO II - Last Guardian (NGM-007)(NGH-007)"
 	year 1991
 	manufacturer "SNK"
 	rom ( name alpham2.zip size 3223236 crc32 68435eae sha1 f0ad157a818c24012a08735718cc73b5c473a68f )
 )
 
 game (
-	name "Alpha Mission II / ASO II - Last Guardian (prototype) [Prototype]"
+	name "Alpha Mission II _ ASO II - Last Guardian (prototype) [Prototype]"
 	year 1991
 	manufacturer "SNK"
 	rom ( name alpham2p.zip size 3287482 crc32 4b713dba sha1 84f5592d8730f4a30c9dc0121fa8952525135d77 )
@@ -1048,7 +1048,7 @@ game (
 )
 
 game (
-	name "Ambush (hack?)"
+	name "Ambush (hack_)"
 	year 1983
 	manufacturer "Tecfri"
 	rom ( name ambushh.zip size 5009 crc32 45f0ccda sha1 9e92a7a02f85618dfbc0581927570d2dac9a6cbb )
@@ -1167,35 +1167,35 @@ game (
 )
 
 game (
-	name "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)"
+	name "Aggressors of Dark Kombat _ Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)"
 	year 1994
 	manufacturer "ADK / SNK"
 	rom ( name aodk.zip size 10054169 crc32 17303ce0 sha1 3e0c64f4ce186901f5f498e3e7064e2ff1b120f9 )
 )
 
 game (
-	name "Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044)"
+	name "Art of Fighting _ Ryuuko no Ken (NGM-044)(NGH-044)"
 	year 1992
 	manufacturer "SNK"
 	rom ( name aof.zip size 6610182 crc32 0ac09d00 sha1 21ef8e07d727afb25b3c25e27df596b63df610d1 )
 )
 
 game (
-	name "Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)"
+	name "Art of Fighting 2 _ Ryuuko no Ken 2 (NGM-056)"
 	year 1994
 	manufacturer "SNK"
 	rom ( name aof2.zip size 12319772 crc32 5be820b8 sha1 c75d01e415e37e50c68710d190cc3263a10ff527 )
 )
 
 game (
-	name "Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056)"
+	name "Art of Fighting 2 _ Ryuuko no Ken 2 (NGH-056)"
 	year 1994
 	manufacturer "SNK"
 	rom ( name aof2a.zip size 231479 crc32 4b374682 sha1 95e13200e169229dca61646a5c7a0184a44e9008 )
 )
 
 game (
-	name "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden"
+	name "Art of Fighting 3 - The Path of the Warrior _ Art of Fighting - Ryuuko no Ken Gaiden"
 	year 1996
 	manufacturer "SNK"
 	rom ( name aof3.zip size 17087158 crc32 0a015cac sha1 efc1c23a57ac00616a71709c2933c3c4133117ed )
@@ -1706,14 +1706,14 @@ game (
 )
 
 game (
-	name "Asuka & Asuka (World)"
+	name "Asuka _ Asuka (World)"
 	year 1988
 	manufacturer "Taito Corporation"
 	rom ( name asuka.zip size 664812 crc32 16723c9e sha1 e0d33d8f6e63b8b0da32c790e5d20a42b7e9ddd4 )
 )
 
 game (
-	name "Asuka & Asuka (Japan)"
+	name "Asuka _ Asuka (Japan)"
 	year 1988
 	manufacturer "Taito Corporation"
 	rom ( name asukaj.zip size 59400 crc32 7414693d sha1 b7eade6e928ac0f1a89bf1c9607ad714167aafe7 )
@@ -1741,7 +1741,7 @@ game (
 )
 
 game (
-	name "Athena no Hatena ?"
+	name "Athena no Hatena _"
 	year 1993
 	manufacturer "Athena"
 	rom ( name atehate.zip size 1967252 crc32 4902b75d sha1 c50a91eef2744cc01fd87097059657ea8b59c08e )
@@ -2035,7 +2035,7 @@ game (
 )
 
 game (
-	name "Bang Bead (Prototype?) [Prototype]"
+	name "Bang Bead (Prototype_) [Prototype]"
 	year 2000
 	manufacturer "Visco"
 	rom ( name bangbedp.zip size 6699496 crc32 db6901e1 sha1 6ffffd36b67e453b3be03cf5b3e950d7aa9e2609 )
@@ -2301,7 +2301,7 @@ game (
 )
 
 game (
-	name "Bomber Man World / New Dyna Blaster - Global Quest"
+	name "Bomber Man World _ New Dyna Blaster - Global Quest"
 	year 1992
 	manufacturer "Irem"
 	rom ( name bbmanw.zip size 539545 crc32 f4e5469d sha1 0c1e39242838238c87d6cef52f563ab66dfbe63d )
@@ -2427,14 +2427,14 @@ game (
 )
 
 game (
-	name "The Berlin Wall (bootleg ?) [Bootleg]"
+	name "The Berlin Wall (bootleg _) [Bootleg]"
 	year 1991
 	manufacturer "Kaneko"
 	rom ( name berlwallt.zip size 86702 crc32 2bc7966d sha1 0ddf3856f343fd46a8f06d5942130040cb8e112c )
 )
 
 game (
-	name "Bermuda Triangle (World?)"
+	name "Bermuda Triangle (World_)"
 	year 1987
 	manufacturer "SNK"
 	rom ( name bermudat.zip size 468902 crc32 675b478d sha1 4039e7d7a82709daabf6797cad26f274bef2fd59 )
@@ -2469,7 +2469,7 @@ game (
 )
 
 game (
-	name "Battle Garegga (Europe / USA / Japan / Asia) (Sat Feb 3 1996)"
+	name "Battle Garegga (Europe _ USA _ Japan _ Asia) (Sat Feb 3 1996)"
 	year 1996
 	manufacturer "Raizing / 8ing"
 	rom ( name bgaregga.zip size 4197974 crc32 21c4f3f4 sha1 4ea8960b76fdcd6136dfc70a7969bc1582e7826b )
@@ -2490,42 +2490,42 @@ game (
 )
 
 game (
-	name "Battle Garegga - Type 2 (Denmark / China) (Tue Apr 2 1996)"
+	name "Battle Garegga - Type 2 (Denmark _ China) (Tue Apr 2 1996)"
 	year 1996
 	manufacturer "Raizing / 8ing"
 	rom ( name bgareggacn.zip size 311474 crc32 9fea0de5 sha1 dd2a1b71b6f82fd8b01cae68159f38ed5f46360b )
 )
 
 game (
-	name "Battle Garegga (Austria / Hong Kong) (Sat Feb 3 1996)"
+	name "Battle Garegga (Austria _ Hong Kong) (Sat Feb 3 1996)"
 	year 1996
 	manufacturer "Raizing / 8ing"
 	rom ( name bgareggahk.zip size 310743 crc32 22695e00 sha1 cd0a50f8adfe4dbaff1ede8e890067194d6dfedb )
 )
 
 game (
-	name "Battle Garegga - New Version (Austria / Hong Kong) (Sat Mar 2 1996)"
+	name "Battle Garegga - New Version (Austria _ Hong Kong) (Sat Mar 2 1996)"
 	year 1996
 	manufacturer "Raizing / 8ing"
 	rom ( name bgaregganv.zip size 311459 crc32 b7ee9e13 sha1 41fd946828b3f14b37574e836ae9aa0c734fcf5c )
 )
 
 game (
-	name "Battle Garegga - Type 2 (Europe / USA / Japan / Asia) (Sat Mar 2 1996)"
+	name "Battle Garegga - Type 2 (Europe _ USA _ Japan _ Asia) (Sat Mar 2 1996)"
 	year 1996
 	manufacturer "Raizing / 8ing"
 	rom ( name bgareggat2.zip size 311510 crc32 cfc3f4a9 sha1 4877a38026825bc55281a2c5e356747d0277f79d )
 )
 
 game (
-	name "Battle Garegga (Taiwan / Germany) (Thu Feb 1 1996)"
+	name "Battle Garegga (Taiwan _ Germany) (Thu Feb 1 1996)"
 	year 1996
 	manufacturer "Raizing / 8ing"
 	rom ( name bgareggatw.zip size 310504 crc32 91c32038 sha1 703fc12c72972411d42e6fb39625d8e9494dac50 )
 )
 
 game (
-	name "Battle Garegga Zakk version (Europe / USA / Japan / Asia) (Sat Feb 3 1996)"
+	name "Battle Garegga Zakk version (Europe _ USA _ Japan _ Asia) (Sat Feb 3 1996)"
 	year 2008
 	manufacturer "Raizing / 8ing"
 	rom ( name bgareggaz.zip size 310770 crc32 324c958d sha1 42dc0b0224a3eb4da5d2bf4cd34e5e29b6703c3c )
@@ -2651,7 +2651,7 @@ game (
 )
 
 game (
-	name "Blue's Journey / Raguy (ALM-001)(ALH-001)"
+	name "Blue's Journey _ Raguy (ALM-001)(ALH-001)"
 	year 1990
 	manufacturer "Alpha Denshi Co."
 	rom ( name bjourney.zip size 2929965 crc32 7297071f sha1 5e093d7bcb7c7f9501aa3768310ed0d1caf4f8f6 )
@@ -2798,7 +2798,7 @@ game (
 )
 
 game (
-	name "Black Tiger / Black Dragon (mixed bootleg?)"
+	name "Black Tiger _ Black Dragon (mixed bootleg_)"
 	year 1987
 	manufacturer "Capcom"
 	rom ( name blktigerb3.zip size 342718 crc32 dd361242 sha1 4b1baf005329845d624f494c99c8f2aa9a23bcaf )
@@ -2833,7 +2833,7 @@ game (
 )
 
 game (
-	name "Block Carnival / Thunder & Lightning 2"
+	name "Block Carnival _ Thunder _ Lightning 2"
 	year 1992
 	manufacturer "Visco"
 	rom ( name blockcar.zip size 800288 crc32 6b777ff2 sha1 08ffab25c17e253aa0a9e3af20b329c60869412a )
@@ -2945,14 +2945,14 @@ game (
 )
 
 game (
-	name "Bells & Whistles (World, version L)"
+	name "Bells _ Whistles (World, version L)"
 	year 1991
 	manufacturer "Konami"
 	rom ( name blswhstl.zip size 1766393 crc32 6f062637 sha1 063cc7a2594f780afbb201c3d7a051e18fa416a3 )
 )
 
 game (
-	name "Bells & Whistles (Asia, version M)"
+	name "Bells _ Whistles (Asia, version M)"
 	year 1991
 	manufacturer "Konami"
 	rom ( name blswhstla.zip size 168947 crc32 e0aa3654 sha1 5cf10cb33824f0b0d8fe01efbc2a124d44486420 )
@@ -3001,7 +3001,7 @@ game (
 )
 
 game (
-	name "Bubble Bobble: Lost Cave V1.2 (for Bobble Bobble PCB) [Bootleg]"
+	name "Bubble Bobble_ Lost Cave V1.2 (for Bobble Bobble PCB) [Bootleg]"
 	year 2013
 	manufacturer "hack (Bisboch and Aladar)"
 	rom ( name boblcave.zip size 178670 crc32 34b0f6e6 sha1 13254a4644e6fa2b1babaf14a9b19c93a018cfda )
@@ -3078,7 +3078,7 @@ game (
 )
 
 game (
-	name "B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin"
+	name "B.C. Kid _ Bonk's Adventure _ Kyukyoku!! PC Genjin"
 	year 1994
 	manufacturer "Kaneko"
 	rom ( name bonkadv.zip size 5161677 crc32 3bc17c16 sha1 352761fa3c9b8b8fbecdf0c455f27a96aa0aca26 )
@@ -3113,7 +3113,7 @@ game (
 )
 
 game (
-	name "Booby Kids (Italian manufactured graphic hack / bootleg of Kid no Hore Hore Daisakusen (bootleg)) [Bootleg]"
+	name "Booby Kids (Italian manufactured graphic hack _ bootleg of Kid no Hore Hore Daisakusen (bootleg)) [Bootleg]"
 	year 1987
 	manufacturer "bootleg"
 	rom ( name boobhack.zip size 195553 crc32 d7638df6 sha1 ec0b31f3ec99fde5ae8a108e9ee3159c17750628 )
@@ -3155,14 +3155,14 @@ game (
 )
 
 game (
-	name "Boulder Dash / Boulder Dash Part 2 (World)"
+	name "Boulder Dash _ Boulder Dash Part 2 (World)"
 	year 1990
 	manufacturer "Data East Corporation (licensed from First Star)"
 	rom ( name bouldash.zip size 521993 crc32 545a3934 sha1 bdd1848f3ded931b64b0c6ff369b04ca995e529e )
 )
 
 game (
-	name "Boulder Dash / Boulder Dash Part 2 (Japan)"
+	name "Boulder Dash _ Boulder Dash Part 2 (Japan)"
 	year 1990
 	manufacturer "Data East Corporation (licensed from First Star)"
 	rom ( name bouldashj.zip size 101107 crc32 fbb838fb sha1 fd5bbd405f9001f79afe1d57915fc8bd744c43f0 )
@@ -3260,7 +3260,7 @@ game (
 )
 
 game (
-	name "Back Street Soccer [graphics issues?]"
+	name "Back Street Soccer [graphics issues_]"
 	year 1996
 	manufacturer "SunA"
 	rom ( name bssoccer.zip size 2052064 crc32 cc14754e sha1 1fdd46d27d88a733d28e23bb185679fab0365054 )
@@ -3358,21 +3358,21 @@ game (
 )
 
 game (
-	name "Bubble Bobble: Lost Cave V1.2 [Homebrew]"
+	name "Bubble Bobble_ Lost Cave V1.2 [Homebrew]"
 	year 2013
 	manufacturer "hack (Bisboch and Aladar)"
 	rom ( name bublcave.zip size 177805 crc32 ae5704d9 sha1 faf83d9cb5dc271e8f469b3f86576cec70b1438b )
 )
 
 game (
-	name "Bubble Bobble: Lost Cave V1.0 [Homebrew]"
+	name "Bubble Bobble_ Lost Cave V1.0 [Homebrew]"
 	year 2013
 	manufacturer "hack (Bisboch and Aladar)"
 	rom ( name bublcave10.zip size 178032 crc32 69ea7a8a sha1 001f627beeeaa6db5126064451ee57a51d367e49 )
 )
 
 game (
-	name "Bubble Bobble: Lost Cave V1.1 [Homebrew]"
+	name "Bubble Bobble_ Lost Cave V1.1 [Homebrew]"
 	year 2013
 	manufacturer "hack (Bisboch and Aladar)"
 	rom ( name bublcave11.zip size 178035 crc32 555a885a sha1 4eb7e435570cdf9fed13cb30e50e528aa787bb51 )
@@ -3519,7 +3519,7 @@ game (
 )
 
 game (
-	name "Cabal (korea?, Joystick)"
+	name "Cabal (korea_, Joystick)"
 	year 1988
 	manufacturer "TAD Corporation (Alpha Trading license)"
 	rom ( name cabala.zip size 505870 crc32 ec4c2379 sha1 a8b4acaa530bf1e8639da9059c7e51490fe630d2 )
@@ -4303,7 +4303,7 @@ game (
 )
 
 game (
-	name "Cobra-Command (Japan?, set 2)"
+	name "Cobra-Command (Japan_, set 2)"
 	year 1988
 	manufacturer "Data East Corporation"
 	rom ( name cobracomja.zip size 326042 crc32 bbe7a782 sha1 3e7ec8e8f06a4acac3e4be593b9c98919b17ca22 )
@@ -4422,14 +4422,14 @@ game (
 )
 
 game (
-	name "Contra (US / Asia, set 1)"
+	name "Contra (US _ Asia, set 1)"
 	year 1987
 	manufacturer "Konami"
 	rom ( name contra.zip size 388410 crc32 3d1478a8 sha1 20f9644b22773cc1e45f8bf18750faf54cd1884c )
 )
 
 game (
-	name "Contra (US / Asia, set 2)"
+	name "Contra (US _ Asia, set 2)"
 	year 1987
 	manufacturer "Konami"
 	rom ( name contra1.zip size 33839 crc32 420182e3 sha1 cf3c5c27d667d54a6caf08902f5217dc8cf11cba )
@@ -4457,7 +4457,7 @@ game (
 )
 
 game (
-	name "Contra (US / Asia, set 3)"
+	name "Contra (US _ Asia, set 3)"
 	year 1987
 	manufacturer "Konami"
 	rom ( name contrae.zip size 376327 crc32 48bbfe54 sha1 3ce93e9b265271a029e36991b8b7a6c49d282b28 )
@@ -4478,28 +4478,28 @@ game (
 )
 
 game (
-	name "Cookie & Bibi (set 1)"
+	name "Cookie _ Bibi (set 1)"
 	year 1995
 	manufacturer "SemiCom"
 	rom ( name cookbib.zip size 342327 crc32 97dea0ac sha1 cfd3d80bdf61705dfc7039ae92e922935d991b64 )
 )
 
 game (
-	name "Cookie & Bibi 2"
+	name "Cookie _ Bibi 2"
 	year 1996
 	manufacturer "SemiCom"
 	rom ( name cookbib2.zip size 741279 crc32 0861d9d1 sha1 db4b772292b9d82a1b89058503dec83e48a987dd )
 )
 
 game (
-	name "Cookie & Bibi 3"
+	name "Cookie _ Bibi 3"
 	year 1997
 	manufacturer "SemiCom"
 	rom ( name cookbib3.zip size 846012 crc32 b25ea726 sha1 4793eb59e453b5e8d72eff74dfed1538fe467610 )
 )
 
 game (
-	name "Cookie & Bibi (set 2)"
+	name "Cookie _ Bibi (set 2)"
 	year 1995
 	manufacturer "SemiCom"
 	rom ( name cookbiba.zip size 193293 crc32 f6eee047 sha1 291870f8a38f329aaa21f4edab396b7ebc0ff543 )
@@ -4723,14 +4723,14 @@ game (
 )
 
 game (
-	name "Crush Roller (Kural Esco - bootleg?)"
+	name "Crush Roller (Kural Esco - bootleg_)"
 	year 1981
 	manufacturer "Kural Esco Electric"
 	rom ( name crush2.zip size 17816 crc32 f599a42d sha1 6c7d1b862b338a36dfc54d45f8f6332b9add69e2 )
 )
 
 game (
-	name "Crush Roller (Kural - bootleg?)"
+	name "Crush Roller (Kural - bootleg_)"
 	year 1981
 	manufacturer "Kural Electric"
 	rom ( name crush3.zip size 15692 crc32 88607c4c sha1 cbeb8ea5d1936eef1b6219bb577fa6f05932cff7 )
@@ -4856,7 +4856,7 @@ game (
 )
 
 game (
-	name "Crouching Tiger Hidden Dragon 2003 (set 1) [Bootleg, Hack of "The King of Fighters 2001"]"
+	name "Crouching Tiger Hidden Dragon 2003 (set 1) [Bootleg, Hack of _The King of Fighters 2001_]"
 	year 2003
 	manufacturer "Phenixsoft"
 	rom ( name cthd2003.zip size 26583379 crc32 a434be72 sha1 3d64e540bda91184ead4d7289414b1d5b43f1afa )
@@ -4884,7 +4884,7 @@ game (
 )
 
 game (
-	name "The Combatribes (US set 1?)"
+	name "The Combatribes (US set 1_)"
 	year 1990
 	manufacturer "Technos Japan"
 	rom ( name ctribe1.zip size 121092 crc32 2692ded4 sha1 88d1c9a3afd902d795cd110125b50bea2486d669 )
@@ -5304,7 +5304,7 @@ game (
 )
 
 game (
-	name "Double Point (Dong Bang Electron, bootleg?)"
+	name "Double Point (Dong Bang Electron, bootleg_)"
 	year 1995
 	manufacturer "Dong Bang Electron"
 	rom ( name dblpointd.zip size 1147696 crc32 d25977d7 sha1 b0e74d91367edbe276f3033df7a0a69862b1da3e )
@@ -5367,14 +5367,14 @@ game (
 )
 
 game (
-	name "D. D. Crew (set 1, World, 4 Players, FD1094 317-?)"
+	name "D. D. Crew (set 1, World, 4 Players, FD1094 317-_)"
 	year 1991
 	manufacturer "Sega"
 	rom ( name ddcrew1.zip size 237858 crc32 741bf4d4 sha1 054ab15eb91bcdb61fa92e641769e90dbfcaacc4 )
 )
 
 game (
-	name "D. D. Crew (set 1, World, 4 Players, FD1094 317-? decrypted) [Bootleg]"
+	name "D. D. Crew (set 1, World, 4 Players, FD1094 317-_ decrypted) [Bootleg]"
 	year 1991
 	manufacturer "Sega"
 	rom ( name ddcrew1d.zip size 126302 crc32 e74f52b0 sha1 c6cd55e2a7876940bc17c3be69bf2562eb802a5c )
@@ -5444,7 +5444,7 @@ game (
 )
 
 game (
-	name "DoDonPachi (International, master ver. 97/02/05)"
+	name "DoDonPachi (International, master ver. 97_02_05)"
 	year 1997
 	manufacturer "Atlus / Cave"
 	rom ( name ddonpach.zip size 7873158 crc32 510a3ce1 sha1 2650247658a595cc7bb38a780407488c1390d25c )
@@ -5458,7 +5458,7 @@ game (
 )
 
 game (
-	name "DoDonPachi (Japan, master ver. 97/02/05)"
+	name "DoDonPachi (Japan, master ver. 97_02_05)"
 	year 1997
 	manufacturer "Atlus / Cave"
 	rom ( name ddonpachj.zip size 256039 crc32 c52bc6e4 sha1 2cc92e8579deb9d139487bb9f8a4fb7d9f07ffcf )
@@ -5745,182 +5745,182 @@ game (
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960619 Euro)"
+	name "Dungeons _ Dragons - shadow over mystara (960619 Euro)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsom.zip size 16975169 crc32 9f8a24bd sha1 37e1958eaec6c0affad27834fa81103a9c14cdc7 )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960619 Asia)"
+	name "Dungeons _ Dragons - shadow over mystara (960619 Asia)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsoma.zip size 1822224 crc32 ed7c2048 sha1 fdbc112146037ddf11d6a55492e74a99a53dadfd )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960208 Asia)"
+	name "Dungeons _ Dragons - shadow over mystara (960208 Asia)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomar1.zip size 1820869 crc32 d2e5ef6c sha1 460ebc3bd7a9d9ad3b87ba4a8a6627ef37dffcb4 )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960223 Brazil)"
+	name "Dungeons _ Dragons - shadow over mystara (960223 Brazil)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomb.zip size 1296704 crc32 435d137d sha1 58aa8b91d8a128c95a35947d9adebf7b7e5b724e )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960223 Hispanic)"
+	name "Dungeons _ Dragons - shadow over mystara (960223 Hispanic)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomh.zip size 1296729 crc32 d340142b sha1 0a899356f52a163bbeff0ea88f825b2a566b85de )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960619 Japan)"
+	name "Dungeons _ Dragons - shadow over mystara (960619 Japan)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomj.zip size 1822182 crc32 65baaed9 sha1 8c659e3244e401d355f49b5ecfa1c56ae6e9c88d )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960206 Japan)"
+	name "Dungeons _ Dragons - shadow over mystara (960206 Japan)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomjr1.zip size 1820208 crc32 626e8bbc sha1 3d3846991b66bfdccdae77d447fdf5950577ff80 )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960223 Euro)"
+	name "Dungeons _ Dragons - shadow over mystara (960223 Euro)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomr1.zip size 1109825 crc32 ba8cced0 sha1 f98ead15fa49d377dec7ecd0bb92f52086b5a665 )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960209 Euro)"
+	name "Dungeons _ Dragons - shadow over mystara (960209 Euro)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomr2.zip size 1108752 crc32 1319fee7 sha1 e75451dbc7992833d4cfb71d966198c1c5d09f63 )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960208 Euro)"
+	name "Dungeons _ Dragons - shadow over mystara (960208 Euro)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomr3.zip size 1108493 crc32 b103a67e sha1 523733f2b3bec0d327678b8bb46a2ad8bd186366 )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960619 USA)"
+	name "Dungeons _ Dragons - shadow over mystara (960619 USA)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomu.zip size 1822152 crc32 1a5cd791 sha1 4b1e2fb53692ce70be0ba49e2e82255c1aae76dc )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960619 USA Phoenix Edition) [Bootleg]"
+	name "Dungeons _ Dragons - shadow over mystara (960619 USA Phoenix Edition) [Bootleg]"
 	year 1996
 	manufacturer "bootleg"
 	rom ( name ddsomud.zip size 1338810 crc32 0a17a212 sha1 b7e6ec58be417d848b8aa6fbae3a2d7d60179249 )
 )
 
 game (
-	name "Dungeons & Dragons - shadow over mystara (960209 USA)"
+	name "Dungeons _ Dragons - shadow over mystara (960209 USA)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name ddsomur1.zip size 1821026 crc32 57557feb sha1 c88990f6e0bcbea489fd3978a1b6e6e06a2a6de2 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940412 Euro)"
+	name "Dungeons _ Dragons - tower of doom (940412 Euro)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtod.zip size 10767150 crc32 0acf3722 sha1 08aef5ac6f6893cd896c0404be79cb8abac5c863 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940412 Asia)"
+	name "Dungeons _ Dragons - tower of doom (940412 Asia)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtoda.zip size 858276 crc32 d6fbc335 sha1 68b000330221efe7c98bea1f319e31e2de460ef9 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940113 Asia)"
+	name "Dungeons _ Dragons - tower of doom (940113 Asia)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodar1.zip size 1253502 crc32 81141082 sha1 67c1ca9b8ef6e9853e0addf198d3474538f28cc2 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940412 Euro Phoenix Edition) [Bootleg]"
+	name "Dungeons _ Dragons - tower of doom (940412 Euro Phoenix Edition) [Bootleg]"
 	year 1994
 	manufacturer "bootleg"
 	rom ( name ddtodd.zip size 710595 crc32 f5ab032f sha1 d6fee9e16a55309936e42a0934d026eecc0e8c5a )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940412 Hispanic)"
+	name "Dungeons _ Dragons - tower of doom (940412 Hispanic)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodh.zip size 858325 crc32 8c5b235d sha1 62efc68ff75fd14a0387fc582211292c0720b280 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940125 Hispanic)"
+	name "Dungeons _ Dragons - tower of doom (940125 Hispanic)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodhr1.zip size 1257583 crc32 9252d498 sha1 f76c432777d5533897fc5c7f9ebfefc967a706dd )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940113 Hispanic)"
+	name "Dungeons _ Dragons - tower of doom (940113 Hispanic)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodhr2.zip size 1253494 crc32 2a7a02b7 sha1 f0e819663763a3fd5fbe48ab4f1521fe06266147 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940412 Japan)"
+	name "Dungeons _ Dragons - tower of doom (940412 Japan)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodj.zip size 857356 crc32 ba534a2a sha1 76be61bc53ab059e0c97f0162a167d8f8712ef4c )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940125 Japan)"
+	name "Dungeons _ Dragons - tower of doom (940125 Japan)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodjr1.zip size 1256805 crc32 ee2d625f sha1 b2da8b70ba0ea8e6e694e39435d38e53d3cd3aba )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940113 Japan)"
+	name "Dungeons _ Dragons - tower of doom (940113 Japan)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodjr2.zip size 1252933 crc32 fb507796 sha1 7db07d1b34c7f7b1dd5073f897445e4a7d600781 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940113 Euro)"
+	name "Dungeons _ Dragons - tower of doom (940113 Euro)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodr1.zip size 1253669 crc32 abacddf4 sha1 f9bfd64a8d911d346534e0429495d3be3775e056 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940125 USA)"
+	name "Dungeons _ Dragons - tower of doom (940125 USA)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodu.zip size 1257706 crc32 cf4ba0c5 sha1 9c1a413c66edf4586d02fd6ac2dbacb7e84f8f72 )
 )
 
 game (
-	name "Dungeons & Dragons - tower of doom (940113 USA)"
+	name "Dungeons _ Dragons - tower of doom (940113 USA)"
 	year 1994
 	manufacturer "Capcom"
 	rom ( name ddtodur1.zip size 1253465 crc32 baf6c574 sha1 7caeb8ad1b1edb921e74f6e4024e75b496d3db48 )
@@ -6046,28 +6046,28 @@ game (
 )
 
 game (
-	name "Demon's World / Horror Story (set 1)"
+	name "Demon's World _ Horror Story (set 1)"
 	year 1990
 	manufacturer "Toaplan"
 	rom ( name demonwld.zip size 445425 crc32 0cd05060 sha1 735c500e83ced740fe4920e498d63770ef5983dc )
 )
 
 game (
-	name "Demon's World / Horror Story (Taito license, set 2)"
+	name "Demon's World _ Horror Story (Taito license, set 2)"
 	year 1989
 	manufacturer "Toaplan"
 	rom ( name demonwld1.zip size 81286 crc32 bd33b80d sha1 7965e9ff8f921878ce198eab2e70ffff55aaa34c )
 )
 
 game (
-	name "Demon's World / Horror Story (set 3)"
+	name "Demon's World _ Horror Story (set 3)"
 	year 1989
 	manufacturer "Toaplan"
 	rom ( name demonwld2.zip size 81576 crc32 a9e7d22d sha1 648f18557f7b72821f7294eb8b4379beb3de61cb )
 )
 
 game (
-	name "Demon's World / Horror Story (set 4)"
+	name "Demon's World _ Horror Story (set 4)"
 	year 1989
 	manufacturer "Toaplan"
 	rom ( name demonwld3.zip size 80439 crc32 7025c0f9 sha1 f78a94c6a4c047d009af45b90e1704c18ccf697d )
@@ -6116,7 +6116,7 @@ game (
 )
 
 game (
-	name "Devil Fish (Galaxian hardware, bootleg?) [Bootleg]"
+	name "Devil Fish (Galaxian hardware, bootleg_) [Bootleg]"
 	year 1984
 	manufacturer "Vision / Artic"
 	rom ( name devilfsg.zip size 14346 crc32 0d4a5940 sha1 560bc0fde4141a45164a3635cc339a2cffcd930b )
@@ -6158,7 +6158,7 @@ game (
 )
 
 game (
-	name "Dangun Feveron (Japan, ver. 98/09/17)"
+	name "Dangun Feveron (Japan, ver. 98_09_17)"
 	year 1998
 	manufacturer "Cave / Nihon System inc."
 	rom ( name dfeveron.zip size 295488 crc32 51e58fef sha1 ba4beb9ee588bd88b87f34a3702d3e1497d5a8ba )
@@ -6242,7 +6242,7 @@ game (
 )
 
 game (
-	name "Cadillacs & Dinosaurs (930201 etc)"
+	name "Cadillacs _ Dinosaurs (930201 etc)"
 	year 1993
 	manufacturer "Capcom"
 	rom ( name dino.zip size 4116098 crc32 70dcfe0c sha1 cf96e4f68165efba6b0ef7588a2bb9241120e8b2 )
@@ -6347,7 +6347,7 @@ game (
 )
 
 game (
-	name "Cadillacs & Dinosaurs (930201 USA)"
+	name "Cadillacs _ Dinosaurs (930201 USA)"
 	year 1993
 	manufacturer "Capcom"
 	rom ( name dinou.zip size 592298 crc32 dbf12d5f sha1 73882d5409148de6d2fa8f63aa72af3ec18c755a )
@@ -6452,7 +6452,7 @@ game (
 )
 
 game (
-	name "Donkey Kong Junior (Japan?)"
+	name "Donkey Kong Junior (Japan_)"
 	year 1982
 	manufacturer "Nintendo"
 	rom ( name dkongjnrj.zip size 30518 crc32 edea5a6f sha1 c60dd3fb4699440a10fb9c7d58395d9cef587a42 )
@@ -6536,7 +6536,7 @@ game (
 )
 
 game (
-	name "Dream Land / Super Dream Land (bootleg of Bubble Bobble) [Bootleg]"
+	name "Dream Land _ Super Dream Land (bootleg of Bubble Bobble) [Bootleg]"
 	year 1987
 	manufacturer "bootleg"
 	rom ( name dland.zip size 185389 crc32 fd55d5ca sha1 a7809cd99f214d1e6943b4a3b863e20d272540d4 )
@@ -6662,28 +6662,28 @@ game (
 )
 
 game (
-	name "DonPachi (USA, ver. 1.12, 95/05/2x)"
+	name "DonPachi (USA, ver. 1.12, 95_05_2x)"
 	year 1995
 	manufacturer "Atlus / Cave"
 	rom ( name donpachi.zip size 4846905 crc32 2d3aca18 sha1 c6cddb07492c2a8f278b53260584c47d03d7faf7 )
 )
 
 game (
-	name "DonPachi (Hong Kong, ver. 1.10, 95/05/17)"
+	name "DonPachi (Hong Kong, ver. 1.10, 95_05_17)"
 	year 1995
 	manufacturer "Atlus / Cave"
 	rom ( name donpachihk.zip size 245756 crc32 f9853fcd sha1 9bec0e2ff98819325713b1125719cb1142b14f21 )
 )
 
 game (
-	name "DonPachi (Japan, ver. 1.01, 95/05/11)"
+	name "DonPachi (Japan, ver. 1.01, 95_05_11)"
 	year 1995
 	manufacturer "Atlus / Cave"
 	rom ( name donpachij.zip size 246359 crc32 852cec2e sha1 806e5a58ffcbe593fa0aeb6560592ab804384352 )
 )
 
 game (
-	name "DonPachi (Korea, ver. 1.12, 95/05/2x)"
+	name "DonPachi (Korea, ver. 1.12, 95_05_2x)"
 	year 1995
 	manufacturer "Atlus / Cave"
 	rom ( name donpachikr.zip size 245756 crc32 f5cecf39 sha1 e172cfc896ce021894687589e7b3a727a0753078 )
@@ -6739,14 +6739,14 @@ game (
 )
 
 game (
-	name "DownTown / Mokugeki (Set 1) [No sound, imperfect inputs]"
+	name "DownTown _ Mokugeki (Set 1) [No sound, imperfect inputs]"
 	year 1989
 	manufacturer "Seta"
 	rom ( name downtown.zip size 1659242 crc32 f65fe993 sha1 5a7bb81028ef2f9a891cda77a21b328ee29bb45c )
 )
 
 game (
-	name "DownTown / Mokugeki (Joystick Hack) [No sound, imperfect inputs]"
+	name "DownTown _ Mokugeki (Joystick Hack) [No sound, imperfect inputs]"
 	year 1989
 	manufacturer "Seta"
 	rom ( name downtownj.zip size 49397 crc32 96c2f870 sha1 1041a410fb71ca590650fb270f414d741da444d4 )
@@ -6830,7 +6830,7 @@ game (
 )
 
 game (
-	name "Dragon Unit / Castle of Dragon"
+	name "Dragon Unit _ Castle of Dragon"
 	year 1989
 	manufacturer "Seta"
 	rom ( name drgnunit.zip size 1821007 crc32 b60b6c6d sha1 0de8edcfae0111d1bb69cc6a18863a931ab615dd )
@@ -6935,7 +6935,7 @@ game (
 )
 
 game (
-	name "Dr. Toppel's Adventure (World, alt?)"
+	name "Dr. Toppel's Adventure (World, alt_)"
 	year 1987
 	manufacturer "Taito Corporation Japan"
 	rom ( name drtoppela.zip size 33782 crc32 63f4c87d sha1 fcdc801552fa3d85b6c409e4c6037a06be806fdf )
@@ -7054,7 +7054,7 @@ game (
 )
 
 game (
-	name "Dragon World 2001 (V100, Japan) [Bad sound?]"
+	name "Dragon World 2001 (V100, Japan) [Bad sound_]"
 	year 2001
 	manufacturer "IGS (Alta Co., LTD License)"
 	rom ( name dw2001.zip size 3813346 crc32 714f2ef7 sha1 ebb416c17d28c96b00a0823ff9405ba90cff1328 )
@@ -7082,7 +7082,7 @@ game (
 )
 
 game (
-	name "Dragon World Pretty Chance (V101, Japan) [Bad sound?]"
+	name "Dragon World Pretty Chance (V101, Japan) [Bad sound_]"
 	year 2001
 	manufacturer "IGS (Alta Co., LTD License)"
 	rom ( name dwpc.zip size 6256682 crc32 b388cc1f sha1 c7199cdf3991aacba149e8b0d5a60e75db052fa9 )
@@ -7103,7 +7103,7 @@ game (
 )
 
 game (
-	name "Dynablaster / Bomber Man"
+	name "Dynablaster _ Bomber Man"
 	year 1991
 	manufacturer "Irem (licensed from Hudson Soft)"
 	rom ( name dynablst.zip size 372810 crc32 49230dbf sha1 e4106b15c1cfb6a9415067ff75a226d9e5cade22 )
@@ -7187,14 +7187,14 @@ game (
 )
 
 game (
-	name "U.N. Defense Force: Earth Joker (Japan)"
+	name "U.N. Defense Force_ Earth Joker (Japan)"
 	year 1993
 	manufacturer "Visco"
 	rom ( name earthjkr.zip size 738445 crc32 733d0136 sha1 76c37a4fd302cdfefae7b6bed2c90883392bfe0b )
 )
 
 game (
-	name "U.N. Defense Force: Earth Joker (Japan, prototype?)"
+	name "U.N. Defense Force_ Earth Joker (Japan, prototype_)"
 	year 1993
 	manufacturer "Visco"
 	rom ( name earthjkrp.zip size 217869 crc32 7c48a779 sha1 ce76edf2ced85194ca282a3c23f75d021059d846 )
@@ -7243,28 +7243,28 @@ game (
 )
 
 game (
-	name "E.D.F. : Earth Defense Force (set 1)"
+	name "E.D.F. _ Earth Defense Force (set 1)"
 	year 1991
 	manufacturer "Jaleco"
 	rom ( name edf.zip size 1166516 crc32 621c9451 sha1 0843e086044885aa1c5b6a95f577790f0045f5e0 )
 )
 
 game (
-	name "E.D.F. : Earth Defense Force (set 2)"
+	name "E.D.F. _ Earth Defense Force (set 2)"
 	year 1991
 	manufacturer "Jaleco"
 	rom ( name edfa.zip size 173823 crc32 27d26a44 sha1 5aa184e674e2f733a01a1a34640d67fa9f601f26 )
 )
 
 game (
-	name "E.D.F. : Earth Defense Force (bootleg) [Bootleg, no sound]"
+	name "E.D.F. _ Earth Defense Force (bootleg) [Bootleg, no sound]"
 	year 1991
 	manufacturer "bootleg"
 	rom ( name edfbl.zip size 1257591 crc32 9ac6867c sha1 1beafdc8b70d3fcde235a794c763af6a48d128ff )
 )
 
 game (
-	name "E.D.F. : Earth Defense Force (North America)"
+	name "E.D.F. _ Earth Defense Force (North America)"
 	year 1991
 	manufacturer "Jaleco"
 	rom ( name edfu.zip size 125561 crc32 12fe65ce sha1 4c019606138395a8790940368e3c7f7d4994cce9 )
@@ -7397,21 +7397,21 @@ game (
 )
 
 game (
-	name "ESP Ra.De. - A.D.2018 Tokyo (International, ver. 98/04/22)"
+	name "ESP Ra.De. - A.D.2018 Tokyo (International, ver. 98_04_22)"
 	year 1998
 	manufacturer "Atlus / Cave"
 	rom ( name esprade.zip size 14414769 crc32 74c39685 sha1 e9d7eeadb7676fd6cfa8dcebc7c857dae1dc4ac1 )
 )
 
 game (
-	name "ESP Ra.De. (Japan, ver. 98/04/21)"
+	name "ESP Ra.De. (Japan, ver. 98_04_21)"
 	year 1998
 	manufacturer "Atlus / Cave"
 	rom ( name espradej.zip size 268616 crc32 bfe0be51 sha1 044734c217c6603a97084ac70bd3f461cb37860d )
 )
 
 game (
-	name "ESP Ra.De. (Japan, ver. 98/04/14)"
+	name "ESP Ra.De. (Japan, ver. 98_04_14)"
 	year 1998
 	manufacturer "Atlus / Cave"
 	rom ( name espradejo.zip size 268579 crc32 7034fc4c sha1 6a07fafbc1ae2da54d9e5c98906b12a4249405fe )
@@ -7537,7 +7537,7 @@ game (
 )
 
 game (
-	name "Exodus (bootleg?) [Bootleg]"
+	name "Exodus (bootleg_) [Bootleg]"
 	year 19??
 	manufacturer "Subelectro"
 	rom ( name exodus.zip size 12044 crc32 c98680ac sha1 06365f85655267b7562abbf2fee63a5528ccb21a )
@@ -7705,7 +7705,7 @@ game (
 )
 
 game (
-	name "Fantazia (bootleg?) [Bootleg]"
+	name "Fantazia (bootleg_) [Bootleg]"
 	year 1980
 	manufacturer "SubElectro"
 	rom ( name fantazia.zip size 13567 crc32 57ab31a5 sha1 60fca3a2d8609ded85515c2abb0a4009757303ad )
@@ -7803,49 +7803,49 @@ game (
 )
 
 game (
-	name "Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)"
+	name "Fatal Fury Special _ Garou Densetsu Special (set 1)(NGM-058)(NGH-058)"
 	year 1993
 	manufacturer "SNK"
 	rom ( name fatfursp.zip size 11294568 crc32 90124cef sha1 1791f683cdbd52b5c7116df5aab68e4ab81cb428 )
 )
 
 game (
-	name "Fatal Fury Special / Garou Densetsu Special (set 2)(NGM-058)(NGH-058)"
+	name "Fatal Fury Special _ Garou Densetsu Special (set 2)(NGM-058)(NGH-058)"
 	year 1993
 	manufacturer "SNK"
 	rom ( name fatfurspa.zip size 218112 crc32 8dd2f7d7 sha1 2ac5187f94d7885465eba3b9093558f115293154 )
 )
 
 game (
-	name "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)"
+	name "Fatal Fury - King of Fighters _ Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)"
 	year 1992
 	manufacturer "SNK"
 	rom ( name fatfury1.zip size 4054288 crc32 d4a0a573 sha1 5c49f0de65bc7a289d66aa81bfa4b028941b0f39 )
 )
 
 game (
-	name "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)"
+	name "Fatal Fury 2 _ Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)"
 	year 1992
 	manufacturer "SNK"
 	rom ( name fatfury2.zip size 7980986 crc32 4f61316e sha1 32494f9933fdb1ca3c9682367058b23bdbd7b471 )
 )
 
 game (
-	name "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)"
+	name "Fatal Fury 2 _ Garou Densetsu 2 - arata-naru tatakai (NGM-047)"
 	year 1992
 	manufacturer "SNK"
 	rom ( name fatfury2a.zip size 393157 crc32 893e434e sha1 c59a57202bd25ee06c5e2fcad283b9182563190a )
 )
 
 game (
-	name "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)"
+	name "Fatal Fury 3 - Road to the Final Victory _ Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)"
 	year 1995
 	manufacturer "SNK"
 	rom ( name fatfury3.zip size 19557282 crc32 c4b42e4c sha1 917e8db9a445b8590704ffdad39b366b528af067 )
 )
 
 game (
-	name "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069) (alternate set)"
+	name "Fatal Fury 3 - Road to the Final Victory _ Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069) (alternate set)"
 	year 1995
 	manufacturer "SNK"
 	rom ( name fatfury3a.zip size 416653 crc32 01c40f25 sha1 69f00f006d66c4a5c9c1a0411cd754c76925fcb8 )
@@ -7873,7 +7873,7 @@ game (
 )
 
 game (
-	name "Fever SOS (International, ver. 98/09/25)"
+	name "Fever SOS (International, ver. 98_09_25)"
 	year 1998
 	manufacturer "Cave / Nihon System inc."
 	rom ( name feversos.zip size 7034778 crc32 3fe5c7be sha1 c4428ff9334436403fc11b57d88a377d583f071a )
@@ -7950,7 +7950,7 @@ game (
 )
 
 game (
-	name "Street Smart / Final Fight (Japan, hack)"
+	name "Street Smart _ Final Fight (Japan, hack)"
 	year 1989
 	manufacturer "Capcom"
 	rom ( name ffightjh.zip size 1188941 crc32 15d83e89 sha1 1a48109e3cc69ecfd6094e46064a17e56fb1cdac )
@@ -8111,7 +8111,7 @@ game (
 )
 
 game (
-	name "Fighting Golf (World?)"
+	name "Fighting Golf (World_)"
 	year 1988
 	manufacturer "SNK"
 	rom ( name fitegolf.zip size 123197 crc32 6e34d6da sha1 ccbfac8fabb37c18b191dff74e2db035787cb8db )
@@ -8811,7 +8811,7 @@ game (
 )
 
 game (
-	name "Galaxian Growing Galaxip / Galaxian Nave Creciente (Recreativos Franco S.A. Spanish bootleg)"
+	name "Galaxian Growing Galaxip _ Galaxian Nave Creciente (Recreativos Franco S.A. Spanish bootleg)"
 	year 1980
 	manufacturer "bootleg (Recreativos Franco S.A.)"
 	rom ( name galaxrfgg.zip size 10209 crc32 19f71e2f sha1 bab47bed3f9ed8e2399c7255f1530c24ebc19e0f )
@@ -8825,7 +8825,7 @@ game (
 )
 
 game (
-	name "Galaxy Empire (bootleg?) [Bootleg]"
+	name "Galaxy Empire (bootleg_) [Bootleg]"
 	year 1980
 	manufacturer "bootleg (Taito do Brasil)"
 	rom ( name galemp.zip size 18051 crc32 151858a9 sha1 105cd133dbcb39118b83c90bdadac45a1b3caeaf )
@@ -8951,14 +8951,14 @@ game (
 )
 
 game (
-	name "Ganbare! Gonta!! 2 / Party Time: Gonta the Diver II (Japan Release)"
+	name "Ganbare! Gonta!! 2 _ Party Time_ Gonta the Diver II (Japan Release)"
 	year 1995
 	manufacturer "Mitchell"
 	rom ( name gangonta.zip size 751234 crc32 131aa96a sha1 4f3f0d81bcc296f89c13c63ac8f9562266ee84d0 )
 )
 
 game (
-	name "Ganryu / Musashi Ganryuki"
+	name "Ganryu _ Musashi Ganryuki"
 	year 1999
 	manufacturer "Visco"
 	rom ( name ganryu.zip size 19337390 crc32 ca07d2c2 sha1 81805d7f8a1db5595faf2972dcb664fb85c447da )
@@ -9406,7 +9406,7 @@ game (
 )
 
 game (
-	name "Gigaman 2: The Power Fighters (bootleg) [Bootleg, No Sound (MCU not dumped)]"
+	name "Gigaman 2_ The Power Fighters (bootleg) [Bootleg, No Sound (MCU not dumped)]"
 	year 1996
 	manufacturer "bootleg"
 	rom ( name gigaman2.zip size 8659971 crc32 41292445 sha1 7c71c875883cc6e79e1c70bcda43149496adca19 )
@@ -9483,7 +9483,7 @@ game (
 )
 
 game (
-	name "G.I. Joe (World, EB8, prototype?)"
+	name "G.I. Joe (World, EB8, prototype_)"
 	year 1992
 	manufacturer "Konami"
 	rom ( name gijoea.zip size 203344 crc32 aaa4d908 sha1 468a3a45fb414069c20dbaf7924e168a1921f6dd )
@@ -9567,14 +9567,14 @@ game (
 )
 
 game (
-	name "Ghosts'n Goblins (World? set 1)"
+	name "Ghosts'n Goblins (World_ set 1)"
 	year 1985
 	manufacturer "Capcom"
 	rom ( name gng.zip size 158211 crc32 89985ad4 sha1 ce34858b015b5888a91839aef276e809313ced86 )
 )
 
 game (
-	name "Ghosts'n Goblins (World? set 2)"
+	name "Ghosts'n Goblins (World_ set 2)"
 	year 1985
 	manufacturer "Capcom"
 	rom ( name gnga.zip size 48344 crc32 28d8ef2b sha1 3d6cba127fa874f9474c4291101c2430f29a672b )
@@ -9714,7 +9714,7 @@ game (
 )
 
 game (
-	name "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer"
+	name "Voltage Fighter - Gowcaizer _ Choujin Gakuen Gowcaizer"
 	year 1995
 	manufacturer "Technos"
 	rom ( name gowcaizr.zip size 12583351 crc32 0c26aa25 sha1 21a5877afbadd46b75013b1ab12bc6a65fefc924 )
@@ -9952,63 +9952,63 @@ game (
 )
 
 game (
-	name "1000 Miglia: Great 1000 Miles Rally (94/07/18)"
+	name "1000 Miglia_ Great 1000 Miles Rally (94_07_18)"
 	year 1994
 	manufacturer "Kaneko"
 	rom ( name gtmr.zip size 4142523 crc32 405928bd sha1 8def8041178ddd9b9ddc1018db1da22a981c58d7 )
 )
 
 game (
-	name "Mille Miglia 2: Great 1000 Miles Rally (95/05/24)"
+	name "Mille Miglia 2_ Great 1000 Miles Rally (95_05_24)"
 	year 1995
 	manufacturer "Kaneko"
 	rom ( name gtmr2.zip size 5690069 crc32 f5e64824 sha1 d18fc00153a04ff3e313322d7e70ecc27b932708 )
 )
 
 game (
-	name "Mille Miglia 2: Great 1000 Miles Rally (95/04/04)"
+	name "Mille Miglia 2_ Great 1000 Miles Rally (95_04_04)"
 	year 1995
 	manufacturer "Kaneko"
 	rom ( name gtmr2a.zip size 776009 crc32 e72d41e8 sha1 db1969062e0e1d682f4559bddbc029ab1b97037f )
 )
 
 game (
-	name "Great 1000 Miles Rally 2 USA (95/05/18)"
+	name "Great 1000 Miles Rally 2 USA (95_05_18)"
 	year 1995
 	manufacturer "Kaneko"
 	rom ( name gtmr2u.zip size 1173487 crc32 433d5cb7 sha1 4c28711d08f9926ccc798bb45dece877ccdadcdf )
 )
 
 game (
-	name "1000 Miglia: Great 1000 Miles Rally (94/06/13)"
+	name "1000 Miglia_ Great 1000 Miles Rally (94_06_13)"
 	year 1994
 	manufacturer "Kaneko"
 	rom ( name gtmra.zip size 425355 crc32 ff7e1a9e sha1 3134a0469e674909514905d5e031761a52655467 )
 )
 
 game (
-	name "1000 Miglia: Great 1000 Miles Rally (94/05/26)"
+	name "1000 Miglia_ Great 1000 Miles Rally (94_05_26)"
 	year 1994
 	manufacturer "Kaneko"
 	rom ( name gtmrb.zip size 423605 crc32 717201d4 sha1 3cce7797f1063aae78078eb4081e48436e2a69fb )
 )
 
 game (
-	name "Great 1000 Miles Rally: Evolution Model!!! (94/09/06)"
+	name "Great 1000 Miles Rally_ Evolution Model!!! (94_09_06)"
 	year 1994
 	manufacturer "Kaneko"
 	rom ( name gtmre.zip size 5691450 crc32 c2f78b68 sha1 2d5d0c5f8a289222a8b8362271054cb7972e8331 )
 )
 
 game (
-	name "1000 Miglia: Great 1000 Miles Rally (94/05/10)"
+	name "1000 Miglia_ Great 1000 Miles Rally (94_05_10)"
 	year 1994
 	manufacturer "Kaneko"
 	rom ( name gtmro.zip size 3430098 crc32 ab9874db sha1 ca9ce1a1cd5aa2eda7605721848c73043bf0f521 )
 )
 
 game (
-	name "Great 1000 Miles Rally: U.S.A Version! (94/09/06)"
+	name "Great 1000 Miles Rally_ U.S.A Version! (94_09_06)"
 	year 1994
 	manufacturer "Kaneko"
 	rom ( name gtmrusa.zip size 2793516 crc32 18546451 sha1 2c2e399340c15cfd750c2082dbc2edc4b08eb4f4 )
@@ -10099,7 +10099,7 @@ game (
 )
 
 game (
-	name "Gundhara (Chinese, bootleg?)"
+	name "Gundhara (Chinese, bootleg_)"
 	year 1995
 	manufacturer "Banpresto"
 	rom ( name gundharac.zip size 5963178 crc32 c351a955 sha1 e0c53f2efc3d0ab06924635527e910bf99ce27a7 )
@@ -10141,7 +10141,7 @@ game (
 )
 
 game (
-	name "Gun & Frontier (World)"
+	name "Gun _ Frontier (World)"
 	year 1990
 	manufacturer "Taito Corporation Japan"
 	rom ( name gunfront.zip size 2339248 crc32 b9f88b8c sha1 1dcfb3d155a0dace445127a393d4c1401eed6729 )
@@ -10239,14 +10239,14 @@ game (
 )
 
 game (
-	name "Guwange (Japan, Master Ver. 99/06/24)"
+	name "Guwange (Japan, Master Ver. 99_06_24)"
 	year 1999
 	manufacturer "Atlus / Cave"
 	rom ( name guwange.zip size 18761704 crc32 5386e849 sha1 92c92ca125f36a16a6cf325c7b6002836db81a31 )
 )
 
 game (
-	name "Guwange (Japan, Special Ver. 00/01/01)"
+	name "Guwange (Japan, Special Ver. 00_01_01)"
 	year 1999
 	manufacturer "Atlus / Cave"
 	rom ( name guwanges.zip size 395862 crc32 5c6ba6f9 sha1 2535372e0bc4b640a36b34943cf900ee23fe9160 )
@@ -10358,7 +10358,7 @@ game (
 )
 
 game (
-	name "Halfway To Hell: Progear Red Label (2016-1-17 Red label ver) [Bootleg]"
+	name "Halfway To Hell_ Progear Red Label (2016-1-17 Red label ver) [Bootleg]"
 	year 2016
 	manufacturer "The Halfway House"
 	rom ( name halfway.zip size 12940489 crc32 c9c30f81 sha1 e2230bbc3ffae9c5c6c79587067716b6d7bdde60 )
@@ -10449,7 +10449,7 @@ game (
 )
 
 game (
-	name "Adventure Quiz 2 - Hatena? no Daibouken (Japan 900228)"
+	name "Adventure Quiz 2 - Hatena_ no Daibouken (Japan 900228)"
 	year 1990
 	manufacturer "Capcom"
 	rom ( name hatena.zip size 795682 crc32 69c4314f sha1 60f739b8ac272d45930dd15cce8d3bdfba2aedf2 )
@@ -10512,14 +10512,14 @@ game (
 )
 
 game (
-	name "Head Panic (ver. 0117, 17/01/2000) [Story line & game instructions in English]"
+	name "Head Panic (ver. 0117, 17_01_2000) [Story line _ game instructions in English]"
 	year 2000
 	manufacturer "ESD"
 	rom ( name hedpanic.zip size 4707658 crc32 c3645014 sha1 cd2075903dae88a4cd8479dff6df6cade5828bd8 )
 )
 
 game (
-	name "Head Panic (ver. 0315, 15/03/2000) [Story line in Japanese, game instructions in English]"
+	name "Head Panic (ver. 0315, 15_03_2000) [Story line in Japanese, game instructions in English]"
 	year 2000
 	manufacturer "ESD / Fuuki"
 	rom ( name hedpanicf.zip size 131430 crc32 739efdbe sha1 977aa56bf62928378d8b351499f8646df7b3fc9e )
@@ -10855,35 +10855,35 @@ game (
 )
 
 game (
-	name "Hyper Street Fighter II: The Anniversary Edition (040202 USA)"
+	name "Hyper Street Fighter II_ The Anniversary Edition (040202 USA)"
 	year 2004
 	manufacturer "Capcom"
 	rom ( name hsf2.zip size 20976840 crc32 945fdbcf sha1 2679bce31861c45b7f97a9e4a5b5cf85ea200ac1 )
 )
 
 game (
-	name "Hyper Street Fighter II: The Anniversary Edition (040202 Asia)"
+	name "Hyper Street Fighter II_ The Anniversary Edition (040202 Asia)"
 	year 2004
 	manufacturer "Capcom"
 	rom ( name hsf2a.zip size 658680 crc32 4b0660b5 sha1 434ec67b556b12d8648a2c74d272da950190858a )
 )
 
 game (
-	name "Hyper Street Fighter II: The Anniversary Edition (040202 Asia Phoenix Edition) [Bootleg]"
+	name "Hyper Street Fighter II_ The Anniversary Edition (040202 Asia Phoenix Edition) [Bootleg]"
 	year 2004
 	manufacturer "bootleg"
 	rom ( name hsf2d.zip size 347499 crc32 7a1bc52b sha1 9946abb704e7cbe61fed9d188445b26986e0be7a )
 )
 
 game (
-	name "Hyper Street Fighter II: The Anniversary Edition (040202 Asia Phoenix Edition, alt) [Bootleg]"
+	name "Hyper Street Fighter II_ The Anniversary Edition (040202 Asia Phoenix Edition, alt) [Bootleg]"
 	year 2004
 	manufacturer "bootleg"
 	rom ( name hsf2da.zip size 19647671 crc32 c8ec52fc sha1 b9aa43fd98fe5f188081f5a42feeff1fc0ac3602 )
 )
 
 game (
-	name "Hyper Street Fighter II: The Anniversary Edition (031222 Japan)"
+	name "Hyper Street Fighter II_ The Anniversary Edition (031222 Japan)"
 	year 2004
 	manufacturer "Capcom"
 	rom ( name hsf2j.zip size 658686 crc32 9f40e1e5 sha1 6bfbe71c4257b2836c9d1e1316d8372ad94ac9a5 )
@@ -11135,7 +11135,7 @@ game (
 )
 
 game (
-	name "Space Invaders / Space Invaders M"
+	name "Space Invaders _ Space Invaders M"
 	year 1978
 	manufacturer "Taito / Midway"
 	rom ( name invaders.zip size 5388 crc32 c2683961 sha1 2e971b48fcada68eedd69f94ab0924c48e9e557a )
@@ -11163,7 +11163,7 @@ game (
 )
 
 game (
-	name "The Irritating Maze / Ultra Denryu Iraira Bou"
+	name "The Irritating Maze _ Ultra Denryu Iraira Bou"
 	year 1997
 	manufacturer "SNK / Saurus"
 	rom ( name irrmaze.zip size 4674508 crc32 11780d1d sha1 1439e9a195a7d5e1c3c10c24d7b97259c56eec0a )
@@ -11275,7 +11275,7 @@ game (
 )
 
 game (
-	name "Jigoku Meguri (Japan, hack?)"
+	name "Jigoku Meguri (Japan, hack_)"
 	year 19??
 	manufacturer "Taito Corporation"
 	rom ( name jigkmgria.zip size 115135 crc32 72267090 sha1 551acc3ed1faccf81b650aea195949cc7b45f4e8 )
@@ -11352,28 +11352,28 @@ game (
 )
 
 game (
-	name "Tatakae Genshizin Joe & Mac (Japan ver 1)"
+	name "Tatakae Genshizin Joe _ Mac (Japan ver 1)"
 	year 1991
 	manufacturer "Data East Corporation"
 	rom ( name joemac.zip size 143051 crc32 fc348991 sha1 83c6fca32f254276a98f7af802ed7af1ebc75183 )
 )
 
 game (
-	name "Joe & Mac Returns (World, Version 1.1, 1994.05.27)"
+	name "Joe _ Mac Returns (World, Version 1.1, 1994.05.27)"
 	year 1994
 	manufacturer "Data East"
 	rom ( name joemacr.zip size 3855457 crc32 290c6cbe sha1 9a26c2a4d6bd2f7d80355b38a0defbeedbf4ee3b )
 )
 
 game (
-	name "Joe & Mac Returns (World, Version 1.0, 1994.05.19)"
+	name "Joe _ Mac Returns (World, Version 1.0, 1994.05.19)"
 	year 1994
 	manufacturer "Data East"
 	rom ( name joemacra.zip size 1415988 crc32 42e24ed2 sha1 32a79a5a084eed5bdfb8ac3a3b46d3f75efcfbef )
 )
 
 game (
-	name "Joe & Mac Returns (Japan, Version 1.2, 1994.06.06)"
+	name "Joe _ Mac Returns (Japan, Version 1.2, 1994.06.06)"
 	year 1994
 	manufacturer "Data East"
 	rom ( name joemacrj.zip size 1416124 crc32 8bf019dc sha1 204149c6f9942478611d20a039ecd67ba93cd84b )
@@ -11387,105 +11387,105 @@ game (
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (USA 990128)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (USA 990128)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojo.zip size 46008575 crc32 27d1cd1a sha1 fd8b0a31d7986fd85ac6f4fa758b7e243012e391 )
 )
 
 game (
-	name "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)"
+	name "JoJo's Bizarre Adventure_ Heritage for the Future _ JoJo no Kimyou na Bouken_ Mirai e no Isan (Japan 990927)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name jojoba.zip size 54256886 crc32 8ec0969d sha1 28634f11225b3e8772a43073e006d3720112b4b7 )
 )
 
 game (
-	name "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)"
+	name "JoJo's Bizarre Adventure_ Heritage for the Future _ JoJo no Kimyou na Bouken_ Mirai e no Isan (Japan 990927, NO CD)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name jojoban.zip size 132281 crc32 5a17c5b2 sha1 366e621744b9e90330364e3fd3a382fa04296bed )
 )
 
 game (
-	name "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Euro 990927, NO CD)"
+	name "JoJo's Bizarre Adventure_ Heritage for the Future _ JoJo no Kimyou na Bouken_ Mirai e no Isan (Euro 990927, NO CD)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name jojobane.zip size 132279 crc32 72d5db36 sha1 70478eac2cc3fe93389a06f2c1b4a339f2368732 )
 )
 
 game (
-	name "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Euro 990913, NO CD)"
+	name "JoJo's Bizarre Adventure_ Heritage for the Future _ JoJo no Kimyou na Bouken_ Mirai e no Isan (Euro 990913, NO CD)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name jojobaner1.zip size 16693383 crc32 dbe72e53 sha1 3e13c57b191f520afea5632eb2b90edd5dbe91aa )
 )
 
 game (
-	name "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990913, NO CD)"
+	name "JoJo's Bizarre Adventure_ Heritage for the Future _ JoJo no Kimyou na Bouken_ Mirai e no Isan (Japan 990913, NO CD)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name jojobanr1.zip size 16693385 crc32 7bb18758 sha1 72659ecfa108216dde58c43e83e0ea3b29f59670 )
 )
 
 game (
-	name "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990913)"
+	name "JoJo's Bizarre Adventure_ Heritage for the Future _ JoJo no Kimyou na Bouken_ Mirai e no Isan (Japan 990913)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name jojobar1.zip size 16561148 crc32 8613dde1 sha1 f4c4f574df782a28a68632300ad4bb77c8a31303 )
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (Japan 990128)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (Japan 990128)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojoj.zip size 129243 crc32 8819029f sha1 d90420cf7b7b514c6a7d61f45f07b62de8595ee7 )
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (Japan 990108)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (Japan 990108)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojojr1.zip size 16568646 crc32 1365894c sha1 2bd9f856f95aec5053f52fc5eddf18d353c611ad )
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (Japan 981202)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (Japan 981202)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojojr2.zip size 16568755 crc32 6fc7a2d8 sha1 cca24a852ea1fa6e3f9cf5bd29b94d0ef9396a2f )
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (Asia 990128, NO CD)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (Asia 990128, NO CD)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojon.zip size 129251 crc32 d1fb9ffe sha1 947af59014de7a0a3d422fdebce2c98b0bac346f )
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (Asia 990108, NO CD)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (Asia 990108, NO CD)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojonr1.zip size 16568654 crc32 4ff72dc8 sha1 21f66a7165a33f1706e8f4c570812dce36db84b2 )
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (Asia 981202, NO CD)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (Asia 981202, NO CD)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojonr2.zip size 16568763 crc32 0cb2f3ee sha1 7a07402732f305b137a59526dae844d352c764b8 )
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (USA 990108)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (USA 990108)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojor1.zip size 16439447 crc32 f5aa40e3 sha1 c41ba1aefa3f65158e463c740ade145a749dce3d )
 )
 
 game (
-	name "JoJo's Venture / JoJo no Kimyou na Bouken (USA 981202)"
+	name "JoJo's Venture _ JoJo no Kimyou na Bouken (USA 981202)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name jojor2.zip size 16439556 crc32 d1d3dd2d sha1 9d3868d4cfb07a26c08e6f95208de5a4a161ebf8 )
@@ -11499,7 +11499,7 @@ game (
 )
 
 game (
-	name "Puzzled / Joy Joy Kid (NGM-021)(NGH-021)"
+	name "Puzzled _ Joy Joy Kid (NGM-021)(NGH-021)"
 	year 1990
 	manufacturer "SNK"
 	rom ( name joyjoy.zip size 1058332 crc32 d43d3312 sha1 26272c376e6350739552508e127ded611d725aad )
@@ -11632,7 +11632,7 @@ game (
 )
 
 game (
-	name "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den"
+	name "Far East of Eden - Kabuki Klash _ Tengai Makyou - Shin Den"
 	year 1995
 	manufacturer "Hudson"
 	rom ( name kabukikl.zip size 12077082 crc32 ad2e852a sha1 eb7f375dd00152265f1972e512c9c1654069a132 )
@@ -11772,7 +11772,7 @@ game (
 )
 
 game (
-	name "Karnov's Revenge / Fighter's History Dynamite"
+	name "Karnov's Revenge _ Fighter's History Dynamite"
 	year 1994
 	manufacturer "Data East Corporation"
 	rom ( name karnovr.zip size 7080605 crc32 98f1b086 sha1 63a48e616d5a425646e4af299bd3e0445bf6e222 )
@@ -11835,21 +11835,21 @@ game (
 )
 
 game (
-	name "Ketsui Kizuna Jigoku Tachi (Revision 2?, Japan)"
+	name "Ketsui Kizuna Jigoku Tachi (Revision 2_, Japan)"
 	year 2002
 	manufacturer "CAVE / AMI"
 	rom ( name ket.zip size 20364484 crc32 fcee7296 sha1 d9ea4c99cd421319c7e23abe16f6f475ee9755c8 )
 )
 
 game (
-	name "Ketsui Kizuna Jigoku Tachi (Revision 2? alt, Japan)"
+	name "Ketsui Kizuna Jigoku Tachi (Revision 2_ alt, Japan)"
 	year 2002
 	manufacturer "CAVE / AMI"
 	rom ( name ket1.zip size 1246700 crc32 22d88f20 sha1 5027ff45bbba82f8099d22f90564458abea83db6 )
 )
 
 game (
-	name "Ketsui Kizuna Jigoku Tachi (Revision 1?, Japan)"
+	name "Ketsui Kizuna Jigoku Tachi (Revision 1_, Japan)"
 	year 2002
 	manufacturer "CAVE / AMI"
 	rom ( name keta.zip size 1769398 crc32 dcd5c938 sha1 a4b1217918c974a662a7077202834a024f1a1fca )
@@ -11905,7 +11905,7 @@ game (
 )
 
 game (
-	name "Ketsui Kizuna Jigoku Tachi (Original?, Japan)"
+	name "Ketsui Kizuna Jigoku Tachi (Original_, Japan)"
 	year 2002
 	manufacturer "CAVE / AMI"
 	rom ( name ketb.zip size 1245544 crc32 ce7a3241 sha1 855a54520c04c83415641de1c72749c35febb59a )
@@ -11919,14 +11919,14 @@ game (
 )
 
 game (
-	name "The King of Fighters 2001 Plus (set 2, bootleg / hack) [Bootleg]"
+	name "The King of Fighters 2001 Plus (set 2, bootleg _ hack) [Bootleg]"
 	year 2002
 	manufacturer "bootleg"
 	rom ( name kf2k1pa.zip size 79875729 crc32 5761308e sha1 c007d32a506cb888b077445111ca3df4ad1eb8b2 )
 )
 
 game (
-	name "The King of Fighters 2001 Plus (set 1, bootleg / hack) [Bootleg]"
+	name "The King of Fighters 2001 Plus (set 1, bootleg _ hack) [Bootleg]"
 	year 2002
 	manufacturer "bootleg"
 	rom ( name kf2k1pls.zip size 79873252 crc32 e5dfef40 sha1 012a9331314b519f7289548777f61c25a3d7cb91 )
@@ -12003,7 +12003,7 @@ game (
 )
 
 game (
-	name "The King of Fighters 2004 Plus / Hero (bootleg) [Bootleg]"
+	name "The King of Fighters 2004 Plus _ Hero (bootleg) [Bootleg]"
 	year 2003
 	manufacturer "bootleg"
 	rom ( name kf2k3pl.zip size 4204125 crc32 f7a72cd8 sha1 e3c6b56cb79e4af8533f9c4b46f2b9ada463d551 )
@@ -12101,14 +12101,14 @@ game (
 )
 
 game (
-	name "King & Balloon (US)"
+	name "King _ Balloon (US)"
 	year 1980
 	manufacturer "Namco"
 	rom ( name kingball.zip size 16075 crc32 836ff309 sha1 d349575bc57310a88b78cfcbf22e4c46803ad6dc )
 )
 
 game (
-	name "King & Balloon (Japan)"
+	name "King _ Balloon (Japan)"
 	year 1980
 	manufacturer "Namco"
 	rom ( name kingballj.zip size 6687 crc32 e1b54ca6 sha1 bb52e292612a2ed6549507179c3b29a33393c76f )
@@ -12143,7 +12143,7 @@ game (
 )
 
 game (
-	name "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle"
+	name "Kizuna Encounter - Super Tag Battle _ Fu'un Super Tag Battle"
 	year 1996
 	manufacturer "SNK"
 	rom ( name kizuna.zip size 16771328 crc32 aee289da sha1 718e11da323375a735555c0454d7a65077008e57 )
@@ -12325,7 +12325,7 @@ game (
 )
 
 game (
-	name "The King of Fighters 2001 (NGM-262?)"
+	name "The King of Fighters 2001 (NGM-262_)"
 	year 2001
 	manufacturer "SNK / Eolith"
 	rom ( name kof2001.zip size 79827597 crc32 5d3bfa58 sha1 61ff1ef317c0e2463712880d2fd37624b94d2989 )
@@ -12437,7 +12437,7 @@ game (
 )
 
 game (
-	name "The King of Fighters '96 (bootleg / hack) [Bootleg]"
+	name "The King of Fighters '96 (bootleg _ hack) [Bootleg]"
 	year 1996
 	manufacturer "bootleg"
 	rom ( name kof96ep.zip size 23746384 crc32 518e3227 sha1 65036c68464a626f2042597b450f628a6383fde8 )
@@ -12486,7 +12486,7 @@ game (
 )
 
 game (
-	name "The King of Fighters '97 Plus 2003 (bootleg / hack) [Bootleg]"
+	name "The King of Fighters '97 Plus 2003 (bootleg _ hack) [Bootleg]"
 	year 2003
 	manufacturer "bootleg"
 	rom ( name kof97pla.zip size 28778088 crc32 e456cfc5 sha1 3564dc0a35dc2389622fd726a1074bba41e7d5e6 )
@@ -12507,14 +12507,14 @@ game (
 )
 
 game (
-	name "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)"
+	name "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - dream match never ends (NGM-2420)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name kof98.zip size 40445835 crc32 ba159910 sha1 bde244b013e92dff8894d60e5fd21119aa4c5a59 )
 )
 
 game (
-	name "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420, alternate board)"
+	name "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - dream match never ends (NGM-2420, alternate board)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name kof98a.zip size 1275037 crc32 689ad9a1 sha1 00a2f9f4c5782d7c5a4f95b1c07012fa97b10ddc )
@@ -12542,21 +12542,21 @@ game (
 )
 
 game (
-	name "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGH-2420)"
+	name "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - dream match never ends (NGH-2420)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name kof98h.zip size 418138 crc32 7f9c696e sha1 bb0837a1f2e83a67f680fdf503ecec82a1063b1e )
 )
 
 game (
-	name "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (Korean board)"
+	name "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - dream match never ends (Korean board)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name kof98k.zip size 88213 crc32 d99d6c4e sha1 6b4f6f60234e6db3f90aa123727cdc7df8adf0ac )
 )
 
 game (
-	name "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (Korean board 2)"
+	name "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - dream match never ends (Korean board 2)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name kof98ka.zip size 88222 crc32 e929beb8 sha1 fc3917360976d22943ce2e8884c0808bb75b8468 )
@@ -12794,112 +12794,112 @@ game (
 )
 
 game (
-	name "Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (ver. 303CN) [Bootleg]"
+	name "Knights of Valour_ Quan Huang San Guo Special _ Sangoku Senki_ Quan Huang San Guo Special (ver. 303CN) [Bootleg]"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovqhsgs.zip size 39208858 crc32 d7638cb2 sha1 ee0e2eb5bf20ebb8a054e4262e7a38f64e9051a1 )
 )
 
 game (
-	name "Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (alt ver. 303CN) [Bootleg]"
+	name "Knights of Valour_ Quan Huang San Guo Special _ Sangoku Senki_ Quan Huang San Guo Special (alt ver. 303CN) [Bootleg]"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovqhsgsa.zip size 39208834 crc32 a0facef3 sha1 b3b953a7d232d22f88aae27e64291bcc9b068941 )
 )
 
 game (
-	name "Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (set 1)"
+	name "Knights of Valour_ SanGuo QunYingZhuan _ Sangoku Senki_ SanGuo QunYingZhuan (set 1)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsgqyz.zip size 4056185 crc32 f4b637c0 sha1 2de6fafeb6ceb934e0351877dfc5364d6953b8c1 )
 )
 
 game (
-	name "Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (set 2)"
+	name "Knights of Valour_ SanGuo QunYingZhuan _ Sangoku Senki_ SanGuo QunYingZhuan (set 2)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsgqyza.zip size 4056737 crc32 1fd37225 sha1 fe8ccab9c0dad4bf789cddee2d81c9d334566946 )
 )
 
 game (
-	name "Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (set 3)"
+	name "Knights of Valour_ SanGuo QunYingZhuan _ Sangoku Senki_ SanGuo QunYingZhuan (set 3)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsgqyzb.zip size 4056209 crc32 4acca09a sha1 9eba12be7254dfbaa341f6d79ad7b70f7a686c4b )
 )
 
 game (
-	name "Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (set 4)"
+	name "Knights of Valour_ SanGuo QunYingZhuan _ Sangoku Senki_ SanGuo QunYingZhuan (set 4)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsgqyzc.zip size 4056817 crc32 d08578b4 sha1 32fe7c079ef3a51670e2fa351d392371bbf46a44 )
 )
 
 game (
-	name "Knights of Valour Superheroes / Sangoku Senki Superheroes (V104, China)"
+	name "Knights of Valour Superheroes _ Sangoku Senki Superheroes (V104, China)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsh.zip size 22366836 crc32 1886e131 sha1 dc125aa2ad08f868c13007d06a8824897a7fcb8b )
 )
 
 game (
-	name "Knights of Valour Superheroes / Sangoku Senki Superheroes (V100)"
+	name "Knights of Valour Superheroes _ Sangoku Senki Superheroes (V100)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsh100.zip size 2326703 crc32 e03b23dc sha1 53963db84d2e9cbdb60b58278de4951af6c204bb )
 )
 
 game (
-	name "Knights of Valour Superheroes / Sangoku Senki Superheroes (V101)"
+	name "Knights of Valour Superheroes _ Sangoku Senki Superheroes (V101)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsh101.zip size 2325328 crc32 a12da053 sha1 02a23e0d614b626597d419a16f90d03595f28601 )
 )
 
 game (
-	name "Knights of Valour Superheroes / Sangoku Senki Superheroes (V102)"
+	name "Knights of Valour Superheroes _ Sangoku Senki Superheroes (V102)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsh102.zip size 2325329 crc32 ebab2a41 sha1 9c9e69919d15c1f216cecca63966aee03fe26810 )
 )
 
 game (
-	name "Knights of Valour Superheroes / Sangoku Senki Superheroes (V103)"
+	name "Knights of Valour Superheroes _ Sangoku Senki Superheroes (V103)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovsh103.zip size 2783303 crc32 4a05d6cf sha1 cdc7568d5f098daf45417ea9f1dd3f45a3247c3c )
 )
 
 game (
-	name "Knights of Valour Superheroes / Sangoku Senki Superheroes (bootleg, V104, China)"
+	name "Knights of Valour Superheroes _ Sangoku Senki Superheroes (bootleg, V104, China)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovshb.zip size 778200 crc32 d3d8e58a sha1 476f252b2eedcf7a0c04837f879fe89b5522f632 )
 )
 
 game (
-	name "Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (ver. 101) [Imperfect Protection Emulation]"
+	name "Knights of Valour Super Heroes Plus _ Sangoku Senki Super Heroes Plus (ver. 101) [Imperfect Protection Emulation]"
 	year 2004
 	manufacturer "IGS"
 	rom ( name kovshp.zip size 22565369 crc32 cf3b042f sha1 435a603316911881e1f3a77ba6df23b7a6a3bdc5 )
 )
 
 game (
-	name "Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (ver. 100) [Imperfect Protection Emulation]"
+	name "Knights of Valour Super Heroes Plus _ Sangoku Senki Super Heroes Plus (ver. 100) [Imperfect Protection Emulation]"
 	year 2004
 	manufacturer "IGS"
 	rom ( name kovshpa.zip size 2740094 crc32 1d1bbd5e sha1 502c4ef994bfae6f5020b52569cc42caf5cff556 )
 )
 
 game (
-	name "Knights of Valour: Ao Shi San Guo / Sangoku Senki: Ao shi San Guo (ver. 202CN) [Bootleg, Imperfect Protection Emulation]"
+	name "Knights of Valour_ Ao Shi San Guo _ Sangoku Senki_ Ao shi San Guo (ver. 202CN) [Bootleg, Imperfect Protection Emulation]"
 	year 2008
 	manufacturer "IGS"
 	rom ( name kovshxas.zip size 4095617 crc32 45807ebd sha1 738fe31979657083bc14debf1aa36674fd505262 )
 )
 
 game (
-	name "Knights of Valour: Yi Tong Zhong Yuan / Sangoku Senki: Yi Tong Zhong Yuan (ver. 201, China) [Imperfect Protection Emulation]"
+	name "Knights of Valour_ Yi Tong Zhong Yuan _ Sangoku Senki_ Yi Tong Zhong Yuan (ver. 201, China) [Imperfect Protection Emulation]"
 	year 1999
 	manufacturer "IGS"
 	rom ( name kovytzy.zip size 22565276 crc32 7ea517a7 sha1 e3290dea0954424a58c411bff1dd9211070f985c )
@@ -12997,7 +12997,7 @@ game (
 )
 
 game (
-	name "Last Striker / Kyuukyoku no Striker"
+	name "Last Striker _ Kyuukyoku no Striker"
 	year 1989
 	manufacturer "East Technology"
 	rom ( name kyustrkr.zip size 475395 crc32 3d2f2c74 sha1 1e6566c11360a1c8dddc21d7ec841789db9c7238 )
@@ -13067,28 +13067,28 @@ game (
 )
 
 game (
-	name "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)"
+	name "The Last Blade _ Bakumatsu Roman - Gekka no Kenshi (NGM-2340)"
 	year 1997
 	manufacturer "SNK"
 	rom ( name lastblad.zip size 26306406 crc32 c5e33c4b sha1 f3434b41a526971eef9b4fefdf8171a003f636e9 )
 )
 
 game (
-	name "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340, alternate board)"
+	name "The Last Blade _ Bakumatsu Roman - Gekka no Kenshi (NGM-2340, alternate board)"
 	year 1997
 	manufacturer "SNK"
 	rom ( name lastblada.zip size 1697699 crc32 c6e2d9a2 sha1 56f43486e2a9530523e77d73e0aeda4b99ccdaaa )
 )
 
 game (
-	name "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGH-2340)"
+	name "The Last Blade _ Bakumatsu Roman - Gekka no Kenshi (NGH-2340)"
 	year 1997
 	manufacturer "SNK"
 	rom ( name lastbladh.zip size 269128 crc32 3bd8058f sha1 a45476dd2f498ac0b973c0394d937bb7dad7fc85 )
 )
 
 game (
-	name "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)"
+	name "The Last Blade 2 _ Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name lastbld2.zip size 32382384 crc32 cba188bf sha1 c49a94d9ef6e31c5ab869f4915039a738155dcfc )
@@ -13263,7 +13263,7 @@ game (
 )
 
 game (
-	name "Legend of Success Joe / Ashitano Joe Densetsu"
+	name "Legend of Success Joe _ Ashitano Joe Densetsu"
 	year 1991
 	manufacturer "SNK / WAVE"
 	rom ( name legendos.zip size 1635556 crc32 4631276b sha1 bd9823e39df85fccec9026f225778f0b3f2aaed9 )
@@ -13305,49 +13305,49 @@ game (
 )
 
 game (
-	name "Lethal Enforcers (ver UAE, 11/19/92 15:04)"
+	name "Lethal Enforcers (ver UAE, 11_19_92 15_04)"
 	year 1992
 	manufacturer "Konami"
 	rom ( name lethalen.zip size 5570393 crc32 87b9c804 sha1 66c045d07cb33cb1d1f0fc9893c3b4d63d3ece63 )
 )
 
 game (
-	name "Lethal Enforcers (ver EAA, 09/09/92 09:44)"
+	name "Lethal Enforcers (ver EAA, 09_09_92 09_44)"
 	year 1992
 	manufacturer "Konami"
 	rom ( name lethaleneaa.zip size 162373 crc32 cf929e75 sha1 1686d33605432e2b2d47c201c9bdc9cc570140dd )
 )
 
 game (
-	name "Lethal Enforcers (ver EAB, 10/14/92 19:53)"
+	name "Lethal Enforcers (ver EAB, 10_14_92 19_53)"
 	year 1992
 	manufacturer "Konami"
 	rom ( name lethaleneab.zip size 162545 crc32 2f4f5428 sha1 420f587244bddaf9686cae79e3cbe62f28700831 )
 )
 
 game (
-	name "Lethal Enforcers (ver EAE, 11/19/92 16:24)"
+	name "Lethal Enforcers (ver EAE, 11_19_92 16_24)"
 	year 1992
 	manufacturer "Konami"
 	rom ( name lethaleneae.zip size 162453 crc32 629f751f sha1 8aa1e1bffe7b192d578e727dfe953050e4a1acbb )
 )
 
 game (
-	name "Lethal Enforcers (ver UAA, 08/17/92 21:38)"
+	name "Lethal Enforcers (ver UAA, 08_17_92 21_38)"
 	year 1992
 	manufacturer "Konami"
 	rom ( name lethalenua.zip size 161592 crc32 c381d981 sha1 d238322b9df414b00e9551d06f7bdaf8098eb041 )
 )
 
 game (
-	name "Lethal Enforcers (ver UAB, 09/01/92 11:12)"
+	name "Lethal Enforcers (ver UAB, 09_01_92 11_12)"
 	year 1992
 	manufacturer "Konami"
 	rom ( name lethalenub.zip size 162841 crc32 5f7c3def sha1 5bba2e48972790493d4adad1ba35603a2f92e8bb )
 )
 
 game (
-	name "Lethal Enforcers (ver unknown, US, 08/06/92 15:11, hacked/proto?)"
+	name "Lethal Enforcers (ver unknown, US, 08_06_92 15_11, hacked_proto_)"
 	year 1992
 	manufacturer "Konami"
 	rom ( name lethalenux.zip size 157206 crc32 183c9d13 sha1 301ae18d27bfee59f0d35a545a1184303c93b818 )
@@ -13543,42 +13543,42 @@ game (
 )
 
 game (
-	name "Line of Fire / Bakudan Yarou (World, FD1094 317-0136)"
+	name "Line of Fire _ Bakudan Yarou (World, FD1094 317-0136)"
 	year 1989
 	manufacturer "Sega"
 	rom ( name loffire.zip size 1541070 crc32 582d55fa sha1 6106a1c8a489638e56e0dbbac5083e5292bba767 )
 )
 
 game (
-	name "Line of Fire / Bakudan Yarou (World, FD1094 317-0136 decrypted) [Bootleg]"
+	name "Line of Fire _ Bakudan Yarou (World, FD1094 317-0136 decrypted) [Bootleg]"
 	year 1989
 	manufacturer "Sega"
 	rom ( name loffired.zip size 88713 crc32 8b48ae1d sha1 bccbcfec113d27ec541f51d7bb18845ba56ae539 )
 )
 
 game (
-	name "Line of Fire / Bakudan Yarou (Japan, FD1094 317-0134)"
+	name "Line of Fire _ Bakudan Yarou (Japan, FD1094 317-0134)"
 	year 1989
 	manufacturer "Sega"
 	rom ( name loffirej.zip size 149697 crc32 426f3e46 sha1 f90198a56c06477ae34d3da36314f83027f8b355 )
 )
 
 game (
-	name "Line of Fire / Bakudan Yarou (Japan, FD1094 317-0134 decrypted) [Bootleg]"
+	name "Line of Fire _ Bakudan Yarou (Japan, FD1094 317-0134 decrypted) [Bootleg]"
 	year 1989
 	manufacturer "Sega"
 	rom ( name loffirejd.zip size 88729 crc32 4b918621 sha1 d4a653879e1e2243648338b898b7a2245c8e7987 )
 )
 
 game (
-	name "Line of Fire / Bakudan Yarou (US, FD1094 317-0135)"
+	name "Line of Fire _ Bakudan Yarou (US, FD1094 317-0135)"
 	year 1989
 	manufacturer "Sega"
 	rom ( name loffireu.zip size 151978 crc32 03463a39 sha1 0f68bb277135463ef5cf7e33ab12b3b447627dc4 )
 )
 
 game (
-	name "Line of Fire / Bakudan Yarou (US, FD1094 317-0135 decrypted) [Bootleg]"
+	name "Line of Fire _ Bakudan Yarou (US, FD1094 317-0135 decrypted) [Bootleg]"
 	year 1989
 	manufacturer "Sega"
 	rom ( name loffireud.zip size 88728 crc32 ecbb0e2b sha1 246c7bb1bba3dfaaabf70ce3bdd523321bfe1a63 )
@@ -13788,21 +13788,21 @@ game (
 )
 
 game (
-	name "Super Spacefortress Macross / Chou-Jikuu Yousai Macross"
+	name "Super Spacefortress Macross _ Chou-Jikuu Yousai Macross"
 	year 1992
 	manufacturer "Banpresto"
 	rom ( name macross.zip size 2124862 crc32 d177e5c8 sha1 b7c17a4b8b6c0f41dd12ddea21095d146cba6747 )
 )
 
 game (
-	name "Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II"
+	name "Super Spacefortress Macross II _ Chou-Jikuu Yousai Macross II"
 	year 1993
 	manufacturer "Banpresto"
 	rom ( name macross2.zip size 3682248 crc32 bd90caff sha1 00b33591358405b56dfbb749d4bdfa7f671a410f )
 )
 
 game (
-	name "Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II (GAMEST review build)"
+	name "Super Spacefortress Macross II _ Chou-Jikuu Yousai Macross II (GAMEST review build)"
 	year 1993
 	manufacturer "Banpresto"
 	rom ( name macross2g.zip size 148745 crc32 9b457967 sha1 49f8a4437c70123322fb62e072440a3fff76683e )
@@ -14201,28 +14201,28 @@ game (
 )
 
 game (
-	name "Matrimelee / Shin Gouketsuji Ichizoku Toukon (NGM-2660) (NGH-2660)"
+	name "Matrimelee _ Shin Gouketsuji Ichizoku Toukon (NGM-2660) (NGH-2660)"
 	year 2002
 	manufacturer "Noise Factory / Atlus"
 	rom ( name matrim.zip size 82318885 crc32 6fea7509 sha1 8b072775e238068d252a0bb3a8acb741bf8726b3 )
 )
 
 game (
-	name "Matrimelee / Shin Gouketsuji Ichizoku Toukon (bootleg) [Bootleg]"
+	name "Matrimelee _ Shin Gouketsuji Ichizoku Toukon (bootleg) [Bootleg]"
 	year 2002
 	manufacturer "bootleg"
 	rom ( name matrimbl.zip size 33415392 crc32 79df202b sha1 af1c92d6df9ba41c8d3b3d3891d0dce2410e1c91 )
 )
 
 game (
-	name "Mazinger Z (World, ver. 94/06/27)"
+	name "Mazinger Z (World, ver. 94_06_27)"
 	year 1994
 	manufacturer "Banpresto / Dynamic Pl. Toei Animation"
 	rom ( name mazinger.zip size 2912728 crc32 579784f2 sha1 8b52fae08d5a63e13eedd279020096a99ca47b05 )
 )
 
 game (
-	name "Mazinger Z (Japan, ver. 94/06/27)"
+	name "Mazinger Z (Japan, ver. 94_06_27)"
 	year 1994
 	manufacturer "Banpresto / Dynamic Pl. Toei Animation"
 	rom ( name mazingerj.zip size 168 crc32 135d61b7 sha1 d20e66faea6c8d9af43ec4c350f114eaa1e94ee3 )
@@ -14271,14 +14271,14 @@ game (
 )
 
 game (
-	name "Multi Champ Deluxe (ver. 0106, 06/01/2000)"
+	name "Multi Champ Deluxe (ver. 0106, 06_01_2000)"
 	year 2000
 	manufacturer "ESD"
 	rom ( name mchampdx.zip size 3027281 crc32 5ea89d44 sha1 fe1f8a6300ef3fc4d7b72ed9627293672798aa8b )
 )
 
 game (
-	name "Multi Champ Deluxe (ver. 1126, 26/11/1999)"
+	name "Multi Champ Deluxe (ver. 1126, 26_11_1999)"
 	year 1999
 	manufacturer "ESD"
 	rom ( name mchampdxa.zip size 550297 crc32 f65fb23e sha1 f721d657a3be665230e36d844f74e3c4c2f9f951 )
@@ -14551,21 +14551,21 @@ game (
 )
 
 game (
-	name "Magical Crystals (World, 92/01/10)"
+	name "Magical Crystals (World, 92_01_10)"
 	year 1991
 	manufacturer "Kaneko"
 	rom ( name mgcrystl.zip size 1025117 crc32 e84dc661 sha1 e51ae28eb95d6ba9ddb6667aa415f292c214e33e )
 )
 
 game (
-	name "Magical Crystals (Japan, 92/01/13)"
+	name "Magical Crystals (Japan, 92_01_13)"
 	year 1991
 	manufacturer "Kaneko (Atlus license)"
 	rom ( name mgcrystlj.zip size 1025349 crc32 779564b4 sha1 85234c017a63124813cb8ff2d2bffcd424e6cbf6 )
 )
 
 game (
-	name "Magical Crystals (World, 91/12/10)"
+	name "Magical Crystals (World, 91_12_10)"
 	year 1991
 	manufacturer "Kaneko"
 	rom ( name mgcrystlo.zip size 126663 crc32 9f447edf sha1 1b845f25f13867fd4a089c96c729b189777e7f1f )
@@ -14614,7 +14614,7 @@ game (
 )
 
 game (
-	name "Money Puzzle Exchanger / Money Idol Exchanger"
+	name "Money Puzzle Exchanger _ Money Idol Exchanger"
 	year 1997
 	manufacturer "Face"
 	rom ( name miexchng.zip size 5346904 crc32 c8d7269b sha1 3c42ebf89c30ccac1c250c09e48a7150f613cbbc )
@@ -15041,7 +15041,7 @@ game (
 )
 
 game (
-	name "Moon Cresta (SegaSA / Sonic) [Bootleg]"
+	name "Moon Cresta (SegaSA _ Sonic) [Bootleg]"
 	year 1980
 	manufacturer "Nichibutsu (Sonic license)"
 	rom ( name mooncrstso.zip size 14376 crc32 9828bd94 sha1 ffb2c2a155f40e2fc0bbf13c41d415325e317631 )
@@ -15321,14 +15321,14 @@ game (
 )
 
 game (
-	name "Ms. Pacman Champion Edition / Zola-Puc Gal"
+	name "Ms. Pacman Champion Edition _ Zola-Puc Gal"
 	year 1995
 	manufacturer "hack"
 	rom ( name mschamp.zip size 33744 crc32 5a0265a1 sha1 eb71ec0c3c402a5e08df54f837cc0943c19bf9d2 )
 )
 
 game (
-	name "Ms. Pacman Champion Edition / Super Zola Pac Gal"
+	name "Ms. Pacman Champion Edition _ Super Zola Pac Gal"
 	year 1995
 	manufacturer "hack"
 	rom ( name mschamps.zip size 33634 crc32 f91a8072 sha1 28ee5e1ff1cd88945ed52050c5eff12f63679001 )
@@ -15412,14 +15412,14 @@ game (
 )
 
 game (
-	name "Moon Shuttle (US?) [Incomplete Sound]"
+	name "Moon Shuttle (US_) [Incomplete Sound]"
 	year 1981
 	manufacturer "Nichibutsu"
 	rom ( name mshuttle.zip size 26328 crc32 5ecd1fc3 sha1 7693ab9b55a5a9b7bb2cdd42412eb903bb28e1a9 )
 )
 
 game (
-	name "Moon Shuttle (US? set 2) [Incomplete Sound]"
+	name "Moon Shuttle (US_ set 2) [Incomplete Sound]"
 	year 1981
 	manufacturer "Nichibutsu"
 	rom ( name mshuttle2.zip size 9356 crc32 8013d9e1 sha1 eec77728402c7bdd087349dd40d8e27b76a96066 )
@@ -15531,14 +15531,14 @@ game (
 )
 
 game (
-	name "Metal Slug 2 - Super Vehicle-001/II (NGM-2410) (NGH-2410)"
+	name "Metal Slug 2 - Super Vehicle-001_II (NGM-2410) (NGH-2410)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name mslug2.zip size 17473893 crc32 f03e8e61 sha1 b905659204c67caaeb1b477e98fd62a298ebd967 )
 )
 
 game (
-	name "Metal Slug 2 - Super Vehicle-001/II (NGM-9410) (slowdown/fix hack by Trap15)"
+	name "Metal Slug 2 - Super Vehicle-001_II (NGM-9410) (slowdown_fix hack by Trap15)"
 	year 1998
 	manufacturer "Hack / Trap15"
 	rom ( name mslug2t.zip size 348804 crc32 07c7364b sha1 1020b9285bef28c2994cc8defdd744c28ded468f )
@@ -15811,7 +15811,7 @@ game (
 )
 
 game (
-	name "US AAF Mustang (25th May. 1990 / Seoul Trading)"
+	name "US AAF Mustang (25th May. 1990 _ Seoul Trading)"
 	year 1990
 	manufacturer "UPL (Seoul Trading license)"
 	rom ( name mustangs.zip size 50071 crc32 5a539fbb sha1 0873fd74cf95644b616979dd8db949d70a0bdd8d )
@@ -15965,7 +15965,7 @@ game (
 )
 
 game (
-	name "Michael Jackson's Moonwalker (set 3, World, FD1094/8751 317-0159)"
+	name "Michael Jackson's Moonwalker (set 3, World, FD1094_8751 317-0159)"
 	year 1990
 	manufacturer "Sega"
 	rom ( name mwalk.zip size 1942192 crc32 bb901a3f sha1 bc1d00e2c3d0391a743642ae9c983fe791718985 )
@@ -16021,7 +16021,7 @@ game (
 )
 
 game (
-	name "Mello Yello Q*bert"
+	name "Mello Yello Q_bert"
 	year 1982
 	manufacturer "Gottlieb"
 	rom ( name myqbert.zip size 27745 crc32 cde1b367 sha1 78127c21ba59a5f6a598b830cc4c2536248984bd )
@@ -16035,7 +16035,7 @@ game (
 )
 
 game (
-	name "Mystic Riders (bootleg?)"
+	name "Mystic Riders (bootleg_)"
 	year 1992
 	manufacturer "Irem"
 	rom ( name mysticrib.zip size 227553 crc32 7370b6ba sha1 1c377d271844a26aa668a836429c5f14fed5399e )
@@ -16133,21 +16133,21 @@ game (
 )
 
 game (
-	name "NBA Hangtime (rev L1.1 04/16/96)"
+	name "NBA Hangtime (rev L1.1 04_16_96)"
 	year 1996
 	manufacturer "Midway"
 	rom ( name nbahangt.zip size 16879228 crc32 b3266f32 sha1 4117ece3e622cb82dcf2a387fb9a22a21c86092e )
 )
 
 game (
-	name "NBA Maximum Hangtime (rev 1.03 06/09/97)"
+	name "NBA Maximum Hangtime (rev 1.03 06_09_97)"
 	year 1996
 	manufacturer "Midway"
 	rom ( name nbamht.zip size 555142 crc32 368edc99 sha1 aafd63eb418506540857edf98dbf00dcc34a9c66 )
 )
 
 game (
-	name "NBA Maximum Hangtime (rev 1.0 11/08/96)"
+	name "NBA Maximum Hangtime (rev 1.0 11_08_96)"
 	year 1996
 	manufacturer "Midway"
 	rom ( name nbamht1.zip size 555130 crc32 b678e10c sha1 a1ea26019edf80f2b5e5421ead0a2a8c57cf38b9 )
@@ -16196,7 +16196,7 @@ game (
 )
 
 game (
-	name "Nemesis (World?, ROM version)"
+	name "Nemesis (World_, ROM version)"
 	year 1985
 	manufacturer "Konami"
 	rom ( name nemesisuk.zip size 121314 crc32 079d921e sha1 732a59221372993170bf77d240adc5bda4808d48 )
@@ -16483,28 +16483,28 @@ game (
 )
 
 game (
-	name "Ninja-Kid II / NinjaKun Ashura no Shou (set 1)"
+	name "Ninja-Kid II _ NinjaKun Ashura no Shou (set 1)"
 	year 1987
 	manufacturer "UPL"
 	rom ( name ninjakd2.zip size 215168 crc32 cc68e1e5 sha1 10387c78ec6bba96ee5cd1494aba2940fb2cf688 )
 )
 
 game (
-	name "Ninja-Kid II / NinjaKun Ashura no Shou (set 2, bootleg?)"
+	name "Ninja-Kid II _ NinjaKun Ashura no Shou (set 2, bootleg_)"
 	year 1987
 	manufacturer "UPL"
 	rom ( name ninjakd2a.zip size 83369 crc32 c0a1b639 sha1 693c03dc98bb19c201d63ceb2a72076d49fa6061 )
 )
 
 game (
-	name "Ninja-Kid II / NinjaKun Ashura no Shou (set 3, bootleg?)"
+	name "Ninja-Kid II _ NinjaKun Ashura no Shou (set 3, bootleg_)"
 	year 1987
 	manufacturer "UPL"
 	rom ( name ninjakd2b.zip size 73641 crc32 29ac18ca sha1 82011388c5a139aa43a676bc891c3270386ab322 )
 )
 
 game (
-	name "Ninja-Kid II / NinjaKun Ashura no Shou (set 4)"
+	name "Ninja-Kid II _ NinjaKun Ashura no Shou (set 4)"
 	year 1987
 	manufacturer "UPL"
 	rom ( name ninjakd2c.zip size 45356 crc32 455bff19 sha1 bd8b457d6c3e02ad70e8e1013d00c88d43b4c09a )
@@ -16595,21 +16595,21 @@ game (
 )
 
 game (
-	name "Multi 5 / New Multi Game 5 (set 1)"
+	name "Multi 5 _ New Multi Game 5 (set 1)"
 	year 1998
 	manufacturer "Yun Sung"
 	rom ( name nmg5.zip size 3116556 crc32 ed2f9ebb sha1 666aef2ef2b390d17e513d8c1cf8cac4edfb3a2e )
 )
 
 game (
-	name "Multi 5 / New Multi Game 5 (set 2)"
+	name "Multi 5 _ New Multi Game 5 (set 2)"
 	year 1997
 	manufacturer "Yun Sung"
 	rom ( name nmg5a.zip size 2805320 crc32 8b94aeab sha1 0af71651b50d42e1a35dbeab29b2adbdf8db9278 )
 )
 
 game (
-	name "Multi 5 / New Multi Game 5 (set 3, earlier)"
+	name "Multi 5 _ New Multi Game 5 (set 3, earlier)"
 	year 1997
 	manufacturer "Yun Sung"
 	rom ( name nmg5e.zip size 3006909 crc32 ee85cc3c sha1 36462540f67d6af4e32d3b2cc99fc657116e0244 )
@@ -16700,7 +16700,7 @@ game (
 )
 
 game (
-	name "Nova 2001 (Japan, hack?)"
+	name "Nova 2001 (Japan, hack_)"
 	year 1983
 	manufacturer "UPL"
 	rom ( name nova2001h.zip size 11029 crc32 398651c6 sha1 ee025791690dea5fd5d9b0959cf5f69c38f5664b )
@@ -16714,14 +16714,14 @@ game (
 )
 
 game (
-	name "Ninja Princess (315-5051, 64k Ver. bootleg?) [Bootleg]"
+	name "Ninja Princess (315-5051, 64k Ver. bootleg_) [Bootleg]"
 	year 1985
 	manufacturer "bootleg?"
 	rom ( name nprinces.zip size 54843 crc32 c55fbb78 sha1 32048eea53aacd5f72175975f4271cc876026a5c )
 )
 
 game (
-	name "Ninja Princess (315-5051?, 128k Ver. bootleg?) [Bootleg]"
+	name "Ninja Princess (315-5051_, 128k Ver. bootleg_) [Bootleg]"
 	year 1985
 	manufacturer "bootleg?"
 	rom ( name nprincesb.zip size 54909 crc32 72f257f5 sha1 bd565994c7ba01726818d957dd257660441c56d7 )
@@ -16868,7 +16868,7 @@ game (
 )
 
 game (
-	name "Oriental Legend Special Plus / Xi You Shi E Zhuan Super Plus (ver. 205) [Incomplete Dump]"
+	name "Oriental Legend Special Plus _ Xi You Shi E Zhuan Super Plus (ver. 205) [Incomplete Dump]"
 	year 2004
 	manufacturer "IGS"
 	rom ( name oldsplus.zip size 23069455 crc32 2fe8d9c7 sha1 91e895ff815a8e9ca0d1ae491fbcec4b8410e9c2 )
@@ -16980,7 +16980,7 @@ game (
 )
 
 game (
-	name "Orbs (10/7/94 prototype?)"
+	name "Orbs (10_7_94 prototype_)"
 	year 1994
 	manufacturer "American Sammy"
 	rom ( name orbs.zip size 2249497 crc32 c01eae0d sha1 828fa64e2c2276bb00343bc2dcdbe2bd2338ff2d )
@@ -17113,7 +17113,7 @@ game (
 )
 
 game (
-	name "Out Run (sitdown/upright, Rev B)"
+	name "Out Run (sitdown_upright, Rev B)"
 	year 1986
 	manufacturer "Sega"
 	rom ( name outrun.zip size 877001 crc32 0124f38f sha1 09360b2d1140044bc73a0617a812ceb1d309b8ab )
@@ -17155,14 +17155,14 @@ game (
 )
 
 game (
-	name "Out Run (sitdown/upright, Rev B) (Enhanced Edition v1.1.0)"
+	name "Out Run (sitdown_upright, Rev B) (Enhanced Edition v1.1.0)"
 	year 2014
 	manufacturer "hack (Chris White)"
 	rom ( name outruneh.zip size 108380 crc32 cbc66f81 sha1 f02a24ad8520eaac66296e51576eb079e6fd86d0 )
 )
 
 game (
-	name "Out Run (sitdown/upright, Rev A)"
+	name "Out Run (sitdown_upright, Rev A)"
 	year 1986
 	manufacturer "Sega"
 	rom ( name outrunra.zip size 82463 crc32 4aed9852 sha1 0777ca3305346beab33a5c9c1c9ca0a80aaff0b0 )
@@ -17351,7 +17351,7 @@ game (
 )
 
 game (
-	name "Pac-Man (SegaSA / Sonic)"
+	name "Pac-Man (SegaSA _ Sonic)"
 	year 1980
 	manufacturer "Namco (Sonic license)"
 	rom ( name pacmanso.zip size 15034 crc32 db5ffc7e sha1 d1880a9d228d6952e75125e65e5d67e97d0df4ea )
@@ -17456,7 +17456,7 @@ game (
 )
 
 game (
-	name "Pang! 3: Kaitou Tachi no Karei na Gogo (950511 Japan)"
+	name "Pang! 3_ Kaitou Tachi no Karei na Gogo (950511 Japan)"
 	year 1995
 	manufacturer "Mitchell"
 	rom ( name pang3j.zip size 145318 crc32 13579ee5 sha1 ab5fa1324b51b7c4ec37611a10491f946de42842 )
@@ -17624,7 +17624,7 @@ game (
 )
 
 game (
-	name "Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)"
+	name "Puzzle Bobble 2 _ Bust-A-Move Again (Neo-Geo)"
 	year 1999
 	manufacturer "Taito (SNK license)"
 	rom ( name pbobbl2n.zip size 8562761 crc32 2e724800 sha1 0769eafc96afb740596bf81c55c5a33d516f6394 )
@@ -17638,14 +17638,14 @@ game (
 )
 
 game (
-	name "Puzzle Bobble / Bust-A-Move (Neo-Geo) (NGM-083)"
+	name "Puzzle Bobble _ Bust-A-Move (Neo-Geo) (NGM-083)"
 	year 1994
 	manufacturer "Taito"
 	rom ( name pbobblen.zip size 3671493 crc32 e018bf82 sha1 0e059a64ff45469c94d356c7b274dec8d251a121 )
 )
 
 game (
-	name "Puzzle Bobble / Bust-A-Move (Neo-Geo) (bootleg) [Bootleg]"
+	name "Puzzle Bobble _ Bust-A-Move (Neo-Geo) (bootleg) [Bootleg]"
 	year 1994
 	manufacturer "Taito"
 	rom ( name pbobblenb.zip size 1403946 crc32 2cd4b856 sha1 9bbf6ddd4355ba4bb1686e095be0cb28e2cf328f )
@@ -17848,7 +17848,7 @@ game (
 )
 
 game (
-	name "Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)"
+	name "Pleasure Goal _ Futsal - 5 on 5 Mini Soccer (NGM-219)"
 	year 1996
 	manufacturer "Saurus"
 	rom ( name pgoal.zip size 7243545 crc32 91f0f617 sha1 ef36aedbf437efbc39b80050851cc939bfbdf177 )
@@ -17876,14 +17876,14 @@ game (
 )
 
 game (
-	name "Photo Finish (bootleg?)"
+	name "Photo Finish (bootleg_)"
 	year 1991
 	manufacturer "Jaleco / Casio"
 	rom ( name photof.zip size 36298 crc32 9661c07a sha1 3ac124012617322f5eaefe352435dab5441f91fa )
 )
 
 game (
-	name "Photo Y2K / Real and Fake (V105)"
+	name "Photo Y2K _ Real and Fake (V105)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name photoy2k.zip size 15555105 crc32 9ba86046 sha1 5145f125ac3c9f0f46c723b40419bbbfd3e1e91a )
@@ -17897,7 +17897,7 @@ game (
 )
 
 game (
-	name "Photo Y2K / Real and Fake (V104)"
+	name "Photo Y2K _ Real and Fake (V104)"
 	year 1999
 	manufacturer "IGS"
 	rom ( name photoy2k104.zip size 745003 crc32 a91da05a sha1 04c9c3b541c2eb62a0bcddddc4ad3110e4699cae )
@@ -17911,21 +17911,21 @@ game (
 )
 
 game (
-	name "Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 1)"
+	name "Pipi _ Bibis _ Whoopee!! (Z80 sound cpu, set 1)"
 	year 1991
 	manufacturer "Toaplan"
 	rom ( name pipibibs.zip size 519392 crc32 76c2a0fc sha1 5ebea5616c195315b1a3e393208660f5b03e1231 )
 )
 
 game (
-	name "Pipi & Bibis / Whoopee!! (Z80 sound cpu, set 2)"
+	name "Pipi _ Bibis _ Whoopee!! (Z80 sound cpu, set 2)"
 	year 1991
 	manufacturer "Toaplan"
 	rom ( name pipibibsa.zip size 59610 crc32 720812e5 sha1 c803237e2921de6ddb15d10cae780a96aa292d21 )
 )
 
 game (
-	name "Pipi & Bibis / Whoopee!! (prototype) [Prototype]"
+	name "Pipi _ Bibis _ Whoopee!! (prototype) [Prototype]"
 	year 1991
 	manufacturer "Toaplan"
 	rom ( name pipibibsp.zip size 525751 crc32 389c0ff0 sha1 820b4e347db232baef7a1c6ed77ab6dcb904d240 )
@@ -18051,14 +18051,14 @@ game (
 )
 
 game (
-	name "Gouketsuji Gaiden Legends (USA, ver. 95/06/20)"
+	name "Gouketsuji Gaiden Legends (USA, ver. 95_06_20)"
 	year 1995
 	manufacturer "Atlus / KM International"
 	rom ( name plegends.zip size 17405356 crc32 0568723a sha1 c8e90ecd33642fd12c2d4657ebf4fd6ad5535a4d )
 )
 
 game (
-	name "Gouketsuji Gaiden Saikyou Densetsu (Japan, ver. 95/06/20)"
+	name "Gouketsuji Gaiden Saikyou Densetsu (Japan, ver. 95_06_20)"
 	year 1995
 	manufacturer "Atlus"
 	rom ( name plegendsj.zip size 728119 crc32 23dbe58f sha1 5a7eea387e2e96a9f51bbd5cb76e814e7dc67512 )
@@ -18177,7 +18177,7 @@ game (
 )
 
 game (
-	name "Pop 'n Bounce / Gapporin"
+	name "Pop 'n Bounce _ Gapporin"
 	year 1997
 	manufacturer "Video System Co."
 	rom ( name popbounc.zip size 3032986 crc32 21b470fa sha1 e056a24cd501c22c392d80441a57b84b7c288f84 )
@@ -18275,7 +18275,7 @@ game (
 )
 
 game (
-	name "Planet Probe (prototype?)"
+	name "Planet Probe (prototype_)"
 	year 1985
 	manufacturer "Crux / Kyugo?"
 	rom ( name pprobe.zip size 39913 crc32 ad26878b sha1 b97d5ab57c1034743886d1a4b13128fa077c873e )
@@ -18366,7 +18366,7 @@ game (
 )
 
 game (
-	name "Party Time: Gonta the Diver II / Ganbare! Gonta!! 2 (World Release)"
+	name "Party Time_ Gonta the Diver II _ Ganbare! Gonta!! 2 (World Release)"
 	year 1995
 	manufacturer "Mitchell"
 	rom ( name prtytime.zip size 5230367 crc32 420df1c8 sha1 0745e420758d91ee0d2becbcb9b808a046a7ca76 )
@@ -18730,14 +18730,14 @@ game (
 )
 
 game (
-	name "Power Instinct 2 (USA, ver. 94/04/08)"
+	name "Power Instinct 2 (USA, ver. 94_04_08)"
 	year 1994
 	manufacturer "Atlus"
 	rom ( name pwrinst2.zip size 15137352 crc32 0cb26f2d sha1 9acdc94f189723f4e1c88207282238e8c258f757 )
 )
 
 game (
-	name "Gouketsuji Ichizoku 2 (Japan, ver. 94/04/08)"
+	name "Gouketsuji Ichizoku 2 (Japan, ver. 94_04_08)"
 	year 1994
 	manufacturer "Atlus"
 	rom ( name pwrinst2j.zip size 817148 crc32 3e32791c sha1 6613679b8566e3f6ead6f12491de856444e9494f )
@@ -18779,42 +18779,42 @@ game (
 )
 
 game (
-	name "Quiz & Dragons (capcom quiz game 920701 USA)"
+	name "Quiz _ Dragons (capcom quiz game 920701 USA)"
 	year 1992
 	manufacturer "Capcom"
 	rom ( name qad.zip size 1095857 crc32 ef803b76 sha1 4f4b30e8da9ec3c88c35d68ae7abf17eeded6c91 )
 )
 
 game (
-	name "Quiz & Dragons (940921 Japan Resale Ver.)"
+	name "Quiz _ Dragons (940921 Japan Resale Ver.)"
 	year 1992
 	manufacturer "Capcom"
 	rom ( name qadjr.zip size 1415956 crc32 2ab2084b sha1 3c07f2b910cc8105e41b6ac50a11ab9a86750f0d )
 )
 
 game (
-	name "Q*bert (US set 1)"
+	name "Q_bert (US set 1)"
 	year 1982
 	manufacturer "Gottlieb"
 	rom ( name qbert.zip size 25942 crc32 2d418e2a sha1 04ad21a1d7acb8fce7714164680e1c5471d9d9eb )
 )
 
 game (
-	name "Q*bert (US set 2)"
+	name "Q_bert (US set 2)"
 	year 1982
 	manufacturer "Gottlieb"
 	rom ( name qberta.zip size 13596 crc32 edc2fe4e sha1 365f5076cc41fd12d5603d47220d7dd3d635f7ef )
 )
 
 game (
-	name "Q*bert (Japan)"
+	name "Q_bert (Japan)"
 	year 1982
 	manufacturer "Gottlieb (Konami license)"
 	rom ( name qbertj.zip size 14584 crc32 82a0ddb3 sha1 2484b3c364df0f3565f16c71efe175e7c34af99e )
 )
 
 game (
-	name "Q*bert's Qubes"
+	name "Q_bert's Qubes"
 	year 1983
 	manufacturer "Mylstar"
 	rom ( name qbertqub.zip size 46583 crc32 6c7201ea sha1 ab6850dfa2822f59a576e27d302235d74af76a79 )
@@ -18926,7 +18926,7 @@ game (
 )
 
 game (
-	name "Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 (NGM-042)(NGH-042)"
+	name "Quiz Meitantei Neo _ Geo - Quiz Daisousa Sen part 2 (NGM-042)(NGH-042)"
 	year 1992
 	manufacturer "SNK"
 	rom ( name quizdai2.zip size 3506201 crc32 4b50afcb sha1 db3d6cebc78690c00e99a4802b98bdc95f082750 )
@@ -19087,7 +19087,7 @@ game (
 )
 
 game (
-	name "Ragnagard / Shin-Oh-Ken"
+	name "Ragnagard _ Shin-Oh-Ken"
 	year 1996
 	manufacturer "Saurus"
 	rom ( name ragnagrd.zip size 22854637 crc32 091c1ead sha1 1b3f7df06884143343d15ac3f3ce335068eb0749 )
@@ -19129,14 +19129,14 @@ game (
 )
 
 game (
-	name "Raiden II (Easy Version, Korea?)"
+	name "Raiden II (Easy Version, Korea_)"
 	year 1993
 	manufacturer "Seibu Kaihatsu"
 	rom ( name raiden2e.zip size 588140 crc32 45ffb86e sha1 84a382f28de0dd0af7e2266d4e27ed8bf9f6609d )
 )
 
 game (
-	name "Raiden II (Easy Version, Japan?)"
+	name "Raiden II (Easy Version, Japan_)"
 	year 1993
 	manufacturer "Seibu Kaihatsu"
 	rom ( name raiden2ea.zip size 563012 crc32 24326ea3 sha1 1050a6e54144c158f8e0ad33f174f7de8d6d32b2 )
@@ -19346,14 +19346,14 @@ game (
 )
 
 game (
-	name "Rally Bike / Dash Yarou"
+	name "Rally Bike _ Dash Yarou"
 	year 1988
 	manufacturer "[Toaplan] Taito Corporation"
 	rom ( name rallybik.zip size 377947 crc32 413d46ec sha1 97397872bff3d4101e604582d2d172fe4809523a )
 )
 
 game (
-	name "Rally X (32k Ver.?)"
+	name "Rally X (32k Ver._)"
 	year 1980
 	manufacturer "Namco"
 	rom ( name rallyx.zip size 13890 crc32 07bbac8a sha1 f8e5c96c1ddd2cff4636fb9639d4f3ae5b33b29d )
@@ -19388,7 +19388,7 @@ game (
 )
 
 game (
-	name "Rambo III (Europe, Proti?)"
+	name "Rambo III (Europe, Proti_)"
 	year 1989
 	manufacturer "Taito Europe Corporation"
 	rom ( name rambo3p.zip size 1513254 crc32 8801814f sha1 d2062eaab0022447478a217487d87f7f19cfd1e2 )
@@ -19472,28 +19472,28 @@ game (
 )
 
 game (
-	name "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)"
+	name "Real Bout Fatal Fury _ Real Bout Garou Densetsu (NGM-095)(NGH-095)"
 	year 1995
 	manufacturer "SNK"
 	rom ( name rbff1.zip size 24118759 crc32 3a73deac sha1 e36b4fe69565f9ab0bac15cd2e89ee581efc8e30 )
 )
 
 game (
-	name "Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision)"
+	name "Real Bout Fatal Fury _ Real Bout Garou Densetsu (bug fix revision)"
 	year 1995
 	manufacturer "SNK"
 	rom ( name rbff1a.zip size 194937 crc32 8cab773c sha1 f0f2a5624d497581e0be85edc1f014d8462e11d0 )
 )
 
 game (
-	name "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)"
+	name "Real Bout Fatal Fury 2 - The Newcomers _ Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name rbff2.zip size 29723145 crc32 57069ba0 sha1 69af41bd78e0fc39dc45203f8415f1b98d7218ca )
 )
 
 game (
-	name "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGH-2400)"
+	name "Real Bout Fatal Fury 2 - The Newcomers _ Real Bout Garou Densetsu 2 - the newcomers (NGH-2400)"
 	year 1998
 	manufacturer "SNK"
 	rom ( name rbff2h.zip size 346092 crc32 86a6ca99 sha1 133d606d62b98b199a27f98d6c7674472dbcaafd )
@@ -19507,14 +19507,14 @@ game (
 )
 
 game (
-	name "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special"
+	name "Real Bout Fatal Fury Special _ Real Bout Garou Densetsu Special"
 	year 1996
 	manufacturer "SNK"
 	rom ( name rbffspec.zip size 24869007 crc32 234e9a55 sha1 d662dc4d632308dfbf76c32540594d61ae264db8 )
 )
 
 game (
-	name "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special (Korean release)"
+	name "Real Bout Fatal Fury Special _ Real Bout Garou Densetsu Special (Korean release)"
 	year 1996
 	manufacturer "SNK"
 	rom ( name rbffspeck.zip size 337143 crc32 a85075ca sha1 e612f969f3ebb9d9dcc1f520d5e4ab274b6bab19 )
@@ -19556,21 +19556,21 @@ game (
 )
 
 game (
-	name "Rad Action / NinjaKun Ashura no Shou"
+	name "Rad Action _ NinjaKun Ashura no Shou"
 	year 1987
 	manufacturer "UPL (World Games license)"
 	rom ( name rdaction.zip size 53340 crc32 8baab95e sha1 28c3666a1982fd8b56a3553979e9a1f2d13ff39f )
 )
 
 game (
-	name "Red Earth / War-Zard (Euro 961121)"
+	name "Red Earth _ War-Zard (Euro 961121)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name redearth.zip size 38374386 crc32 f357fac2 sha1 44bfd0dec70a4c3ac3bffe6cefbd2f582fc84903 )
 )
 
 game (
-	name "Red Earth / War-Zard (Euro 961023)"
+	name "Red Earth _ War-Zard (Euro 961023)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name redearthr1.zip size 8262234 crc32 7dc5e119 sha1 c8aefa3d958607609425901e9e540c8724195b65 )
@@ -19801,28 +19801,28 @@ game (
 )
 
 game (
-	name "R&T (Rod-Land prototype?)"
+	name "R_T (Rod-Land prototype_)"
 	year 1990
 	manufacturer "Jaleco"
 	rom ( name rittam.zip size 875440 crc32 e4f82f77 sha1 95f1150b09b0700d9dd4bfdde2886978869448b8 )
 )
 
 game (
-	name "Rockman: The Power Battle (950922 Japan)"
+	name "Rockman_ The Power Battle (950922 Japan)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name rmancp2j.zip size 6897289 crc32 0fc097d0 sha1 bae310b9f42b2eff7e651ae412c01f99d843f854 )
 )
 
 game (
-	name "Rampage: World Tour (rev 1.3)"
+	name "Rampage_ World Tour (rev 1.3)"
 	year 1997
 	manufacturer "Midway"
 	rom ( name rmpgwt.zip size 13420501 crc32 dafc0ebb sha1 3a237a62bb7ead25a6d90d916b9444ff99b156ae )
 )
 
 game (
-	name "Rampage: World Tour (rev 1.1)"
+	name "Rampage_ World Tour (rev 1.1)"
 	year 1997
 	manufacturer "Midway"
 	rom ( name rmpgwt11.zip size 315426 crc32 f052e293 sha1 59c68294c3e0c91a9dbc1721c9d223ce839dd14e )
@@ -19850,7 +19850,7 @@ game (
 )
 
 game (
-	name "Robocop 2 (Euro/Asia v0.10)"
+	name "Robocop 2 (Euro_Asia v0.10)"
 	year 1991
 	manufacturer "Data East Corporation"
 	rom ( name robocop2.zip size 2681392 crc32 49cb94d0 sha1 f45a1d477691a41ee72fff158d020ec13673de4e )
@@ -19969,7 +19969,7 @@ game (
 )
 
 game (
-	name "Rock Duck (prototype?) [incorrect colors]"
+	name "Rock Duck (prototype_) [incorrect colors]"
 	year 1983
 	manufacturer "Datel SAS"
 	rom ( name rockduck.zip size 18823 crc32 d61f8b53 sha1 6cad70beb126648d5eb6e4b14702a49a7404c4df )
@@ -20032,7 +20032,7 @@ game (
 )
 
 game (
-	name "Rock'n Rage (prototype?) [Prototype]"
+	name "Rock'n Rage (prototype_) [Prototype]"
 	year 1986
 	manufacturer "Konami"
 	rom ( name rockragea.zip size 259639 crc32 616ab4e8 sha1 a9570c9d454f20f0591a81036d900fe7444b2f97 )
@@ -20088,21 +20088,21 @@ game (
 )
 
 game (
-	name "Rohga Armor Force (Asia/Europe v5.0)"
+	name "Rohga Armor Force (Asia_Europe v5.0)"
 	year 1991
 	manufacturer "Data East Corporation"
 	rom ( name rohga.zip size 4194146 crc32 a9301961 sha1 9e1a07934c4297610bae7e68fe18ff738304d5ac )
 )
 
 game (
-	name "Rohga Armor Force (Asia/Europe v3.0 Set 1)"
+	name "Rohga Armor Force (Asia_Europe v3.0 Set 1)"
 	year 1991
 	manufacturer "Data East Corporation"
 	rom ( name rohga1.zip size 199621 crc32 93fb1d67 sha1 302441c5e66a09dec6e51b5bb5762b8fb7edba22 )
 )
 
 game (
-	name "Rohga Armor Force (Asia/Europe v3.0 Set 2)"
+	name "Rohga Armor Force (Asia_Europe v3.0 Set 2)"
 	year 1991
 	manufacturer "Data East Corporation"
 	rom ( name rohga2.zip size 199609 crc32 027a3a81 sha1 d8f58f083143784eb9558834cb3dc8724e17b71f )
@@ -20165,7 +20165,7 @@ game (
 )
 
 game (
-	name "Rage of the Dragons (NGM-264?)"
+	name "Rage of the Dragons (NGM-264_)"
 	year 2002
 	manufacturer "Evoga / Playmore"
 	rom ( name rotd.zip size 76583467 crc32 78b26847 sha1 1e5800e79593aa332d3bb859cd576782d77097d8 )
@@ -20193,7 +20193,7 @@ game (
 )
 
 game (
-	name "Route 16 (set 3, bootleg?)"
+	name "Route 16 (set 3, bootleg_)"
 	year 1981
 	manufacturer "Tehkan/Sun (Centuri license)"
 	rom ( name route16c.zip size 14935 crc32 15033ab4 sha1 7e8d9ece0d9a4f5f17a2974e4b035fe423d0acd1 )
@@ -20249,7 +20249,7 @@ game (
 )
 
 game (
-	name "Rolling Thunder (rev 3, alternate?)"
+	name "Rolling Thunder (rev 3, alternate_)"
 	year 1986
 	manufacturer "Namco"
 	rom ( name rthundera.zip size 18073 crc32 5d8c5a22 sha1 efd80f3a086734efcd21034f722cb2b2852cb6d0 )
@@ -20347,7 +20347,7 @@ game (
 )
 
 game (
-	name "Rush & Crash (Japan)"
+	name "Rush _ Crash (Japan)"
 	year 1986
 	manufacturer "Capcom"
 	rom ( name rushcrsh.zip size 89167 crc32 e282971f sha1 8e3e473110b8935459c2b2247c3af396cbafe62d )
@@ -20452,7 +20452,7 @@ game (
 )
 
 game (
-	name "Strikers 1945 III (World) / Strikers 1999 (Japan)"
+	name "Strikers 1945 III (World) _ Strikers 1999 (Japan)"
 	year 1999
 	manufacturer "Psikyo"
 	rom ( name s1945iii.zip size 22384556 crc32 218b8341 sha1 088d56e0f8bd5683bbae6a34e53f81e3b46809b1 )
@@ -20522,84 +20522,84 @@ game (
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22B, Europe)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22B, Europe)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormn.zip size 14219151 crc32 dda413f6 sha1 c4bda5995c50db09e1b84f56d94aed6ff0992290 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22B, Hong Kong)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22B, Hong Kong)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnh.zip size 178 crc32 38d5c953 sha1 328582d7322079ff8078d8b0d5a5553ea9ed97a5 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22B, Japan)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22B, Japan)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnj.zip size 172 crc32 72d71a03 sha1 50409a4c17762bb6a83de54c18d0708c3d910ca8 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22B, Korea)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22B, Korea)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnk.zip size 170 crc32 bdd5115c sha1 20d6dc59da047d5db8965e324cb576c1e945da05 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22, Europe)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22, Europe)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormno.zip size 120265 crc32 ff2e1a4b sha1 fc481e83f467ce35c62924121b4e3a8f6533e715 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22, Hong Kong)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22, Hong Kong)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnoh.zip size 120399 crc32 d6f577cf sha1 f5c5fdc2ecebc5cf914a340df2998dd7bd153a82 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22, Japan)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22, Japan)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnoj.zip size 120393 crc32 4c30062c sha1 b575763b94cd1418104db29ebcc3821ce9addced )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22, Korea)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22, Korea)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnok.zip size 120391 crc32 244d863c sha1 ec50f02c74666d1e802051e2cf69f0bcb5f259a8 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22, Taiwan)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22, Taiwan)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnot.zip size 120395 crc32 a70ca0ab sha1 9d976068832928f37f5e8dbf429caec7d989d1c7 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22, USA)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22, USA)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnou.zip size 120386 crc32 6bd2a6c3 sha1 d88622b2430f8b85af6e3255fbdd3735ddf83928 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22B, Taiwan)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22B, Taiwan)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnt.zip size 174 crc32 b0337350 sha1 741c3d526beae9d9d5285d0a62ddb672e5cf7904 )
 )
 
 game (
-	name "Pretty Soldier Sailor Moon (ver. 95/03/22B, USA)"
+	name "Pretty Soldier Sailor Moon (ver. 95_03_22B, USA)"
 	year 1995
 	manufacturer "BanPresto / Gazelle"
 	rom ( name sailormnu.zip size 165 crc32 54fb6f44 sha1 0ff0b96816c8876d9fc8abf3262698850be0c62c )
@@ -20662,119 +20662,119 @@ game (
 )
 
 game (
-	name "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)"
+	name "Samurai Shodown V Special _ Samurai Spirits Zero Special (NGM-2720)"
 	year 2004
 	manufacturer "Yuki Enterprise / SNK Playmore"
 	rom ( name samsh5sp.zip size 83033266 crc32 399058f6 sha1 715890427e48b1cdfe3ebcff2bff65a8b115117a )
 )
 
 game (
-	name "Samurai Shodown V Special / Samurai Spirits Zero Special (NGH-2720) (2nd release, less censored)"
+	name "Samurai Shodown V Special _ Samurai Spirits Zero Special (NGH-2720) (2nd release, less censored)"
 	year 2004
 	manufacturer "Yuki Enterprise / SNK Playmore"
 	rom ( name samsh5sph.zip size 2251931 crc32 5566de5b sha1 52d9474a0690b21c9ce79fa3ac80b8bb61a50445 )
 )
 
 game (
-	name "Samurai Shodown V Special / Samurai Spirits Zero Special (NGH-2720) (1st release, censored)"
+	name "Samurai Shodown V Special _ Samurai Spirits Zero Special (NGH-2720) (1st release, censored)"
 	year 2004
 	manufacturer "Yuki Enterprise / SNK Playmore"
 	rom ( name samsh5spho.zip size 2263270 crc32 5b660628 sha1 5514d61e769247537e590c9da9be0686d78db05b )
 )
 
 game (
-	name "Samurai Shodown / Samurai Spirits (NGM-045)"
+	name "Samurai Shodown _ Samurai Spirits (NGM-045)"
 	year 1993
 	manufacturer "SNK"
 	rom ( name samsho.zip size 8347740 crc32 85cef671 sha1 af5ad4b7f6fc3a6f2d70f533a481c60f8ec32e9f )
 )
 
 game (
-	name "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)"
+	name "Samurai Shodown II _ Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)"
 	year 1994
 	manufacturer "SNK"
 	rom ( name samsho2.zip size 14482574 crc32 bdd45540 sha1 bcfa25f3cbd5696fd8773929eecefdf507c8bbd2 )
 )
 
 game (
-	name "Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II)"
+	name "Saulabi Spirits _ Jin Saulabi Tu Hon (Korean release of Samurai Shodown II)"
 	year 1994
 	manufacturer "SNK"
 	rom ( name samsho2k.zip size 1482792 crc32 7fb24e23 sha1 1b63a558614cfe9c92f1f1c1f884a4a567524230 )
 )
 
 game (
-	name "Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 2)"
+	name "Saulabi Spirits _ Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 2)"
 	year 1994
 	manufacturer "SNK"
 	rom ( name samsho2k2.zip size 983299 crc32 767d14e6 sha1 3e5eb1c022a8f0c801f0c3fa0e249cd1f14875b9 )
 )
 
 game (
-	name "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)"
+	name "Samurai Shodown III _ Samurai Spirits - Zankurou Musouken (NGM-087)"
 	year 1995
 	manufacturer "SNK"
 	rom ( name samsho3.zip size 17548262 crc32 cfc71d4b sha1 def0836a00cc7891da94c580d50c7c82473cceee )
 )
 
 game (
-	name "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGH-087)"
+	name "Samurai Shodown III _ Samurai Spirits - Zankurou Musouken (NGH-087)"
 	year 1995
 	manufacturer "SNK"
 	rom ( name samsho3h.zip size 1187099 crc32 b2fff0c9 sha1 8cfc5779ce22c00bfc8617dd28ad9bac526f74f1 )
 )
 
 game (
-	name "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)"
+	name "Samurai Shodown IV - Amakusa's Revenge _ Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)"
 	year 1996
 	manufacturer "SNK"
 	rom ( name samsho4.zip size 22671957 crc32 0e182e9a sha1 897a589423641be098804610d87b932597f5cddd )
 )
 
 game (
-	name "Pae Wang Jeon Seol / Legend of a Warrior (Korean censored Samurai Shodown IV)"
+	name "Pae Wang Jeon Seol _ Legend of a Warrior (Korean censored Samurai Shodown IV)"
 	year 1996
 	manufacturer "SNK"
 	rom ( name samsho4k.zip size 370459 crc32 ab1b6966 sha1 0c5c21a212d32406d564f2a7e5659e71ff1aefde )
 )
 
 game (
-	name "Samurai Shodown V / Samurai Spirits Zero (NGM-2700)"
+	name "Samurai Shodown V _ Samurai Spirits Zero (NGM-2700)"
 	year 2003
 	manufacturer "Yuki Enterprise / SNK Playmore"
 	rom ( name samsho5.zip size 83164356 crc32 9fe9c26d sha1 f9aa14d1cd8e65dac086fc475a2b0c677b251141 )
 )
 
 game (
-	name "Samurai Shodown V / Samurai Spirits Zero (bootleg) [Bootleg]"
+	name "Samurai Shodown V _ Samurai Spirits Zero (bootleg) [Bootleg]"
 	year 2003
 	manufacturer "bootleg"
 	rom ( name samsho5b.zip size 41223684 crc32 7cbd0b71 sha1 e813e2a484c425c91d0b09197be8ba3058c2343d )
 )
 
 game (
-	name "Samurai Shodown V / Samurai Spirits Zero (NGH-2700)"
+	name "Samurai Shodown V _ Samurai Spirits Zero (NGH-2700)"
 	year 2003
 	manufacturer "Yuki Enterprise / SNK Playmore"
 	rom ( name samsho5h.zip size 2319012 crc32 e49bd1c9 sha1 6583e1cd133819289442282983fdb13787599ca9 )
 )
 
 game (
-	name "Samurai Shodown V / Samurai Spirits Zero (hack of XBOX version) [Hack]"
+	name "Samurai Shodown V _ Samurai Spirits Zero (hack of XBOX version) [Hack]"
 	year 2003
 	manufacturer "hack"
 	rom ( name samsho5x.zip size 40148896 crc32 2fbd90da sha1 8a521321178a1af7d7997a765758d42ae2579016 )
 )
 
 game (
-	name "Samurai Shodown / Samurai Spirits (NGM-045, alternate board)"
+	name "Samurai Shodown _ Samurai Spirits (NGM-045, alternate board)"
 	year 1993
 	manufacturer "SNK"
 	rom ( name samshoa.zip size 1232870 crc32 86045ff6 sha1 758bd9effcba5a543fde1f40c430847b6dfa8aee )
 )
 
 game (
-	name "Samurai Shodown / Samurai Spirits (NGH-045)"
+	name "Samurai Shodown _ Samurai Spirits (NGH-045)"
 	year 1993
 	manufacturer "SNK"
 	rom ( name samshoh.zip size 799466 crc32 0b8b86c4 sha1 e9df621418cf47441d8d09855ea9d19be3ecbdaf )
@@ -20823,7 +20823,7 @@ game (
 )
 
 game (
-	name "Savage Reign / Fu'un Mokushiroku - kakutou sousei"
+	name "Savage Reign _ Fu'un Mokushiroku - kakutou sousei"
 	year 1995
 	manufacturer "SNK"
 	rom ( name savagere.zip size 13252181 crc32 5d4213cf sha1 059ad1b4accafc9ffa41530b5e121c5830b1797f )
@@ -21096,7 +21096,7 @@ game (
 )
 
 game (
-	name "Scramble (bootleg?) [Bootleg]"
+	name "Scramble (bootleg_) [Bootleg]"
 	year 1981
 	manufacturer "bootleg?"
 	rom ( name scramblebb.zip size 11786 crc32 9fcb8d03 sha1 23a6b035181287039bf5db14b8f4b59cfb39ff6d )
@@ -21201,7 +21201,7 @@ game (
 )
 
 game (
-	name "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu"
+	name "Super Dodge Ball _ Kunio no Nekketsu Toukyuu Densetsu"
 	year 1996
 	manufacturer "Technos"
 	rom ( name sdodgeb.zip size 7214434 crc32 4ebdd52d sha1 34be8c2733e134b469a389c0a19f0647eedcd68c )
@@ -21229,14 +21229,14 @@ game (
 )
 
 game (
-	name "Search Eye (English / Korean / Japanese / Italian)"
+	name "Search Eye (English _ Korean _ Japanese _ Italian)"
 	year 1999
 	manufacturer "Yun Sung"
 	rom ( name searchey.zip size 3292548 crc32 aacb0945 sha1 e0a2ccf0b34afc3d28aa985b9020c6949d4e11ba )
 )
 
 game (
-	name "Search Eye (English / Korean)"
+	name "Search Eye (English _ Korean)"
 	year 1999
 	manufacturer "Yun Sung"
 	rom ( name searcheya.zip size 516267 crc32 c1aa71f6 sha1 31d90b24bed59a6fbe017f9fdf521ae9ee04e2c0 )
@@ -21327,35 +21327,35 @@ game (
 )
 
 game (
-	name "Sengoku / Sengoku Denshou (NGM-017)(NGH-017)"
+	name "Sengoku _ Sengoku Denshou (NGM-017)(NGH-017)"
 	year 1991
 	manufacturer "SNK"
 	rom ( name sengoku.zip size 3554646 crc32 831bf2bd sha1 c4b1b17413def7bf09f4d3525870f241eb19db9a )
 )
 
 game (
-	name "Sengoku 2 / Sengoku Denshou 2"
+	name "Sengoku 2 _ Sengoku Denshou 2"
 	year 1993
 	manufacturer "SNK"
 	rom ( name sengoku2.zip size 5280898 crc32 2e14d60e sha1 16a691749584ee2d0d619c495815aea9d10f6761 )
 )
 
 game (
-	name "Sengoku 3 / Sengoku Densho 2001"
+	name "Sengoku 3 _ Sengoku Densho 2001"
 	year 2001
 	manufacturer "SNK / Noise Factory"
 	rom ( name sengoku3.zip size 44805641 crc32 3a711cfb sha1 9af136fb74979d06f8546b8551ea39059e409550 )
 )
 
 game (
-	name "Sengoku 3 / Sengoku Densho 2001 (Evolution 1.0, FCHT hack) [Hack]"
+	name "Sengoku 3 _ Sengoku Densho 2001 (Evolution 1.0, FCHT hack) [Hack]"
 	year 2001
 	manufacturer "SNK / Noise Factory"
 	rom ( name sengoku3s.zip size 8724129 crc32 b4283bdd sha1 f4344c808c873f5f412420157f39c0560cf02011 )
 )
 
 game (
-	name "Sengoku / Sengoku Denshou (NGH-017)(US)"
+	name "Sengoku _ Sengoku Denshou (NGH-017)(US)"
 	year 1991
 	manufacturer "SNK"
 	rom ( name sengokuh.zip size 164365 crc32 5aee485c sha1 cbac082b41811f5607679f2daf5db763357e909f )
@@ -21642,7 +21642,7 @@ game (
 )
 
 game (
-	name "Street Fighter II': Champion Edition (Dongfang Bubai protection bootleg, etc 920313) [Bootleg]"
+	name "Street Fighter II'_ Champion Edition (Dongfang Bubai protection bootleg, etc 920313) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name sf2dongb.zip size 404950 crc32 a69fa9eb sha1 6dc0b577a380bba943551cab5aad9c1610e7068f )
@@ -22167,112 +22167,112 @@ game (
 )
 
 game (
-	name "Street Fighter III: New Generation (Euro 970204)"
+	name "Street Fighter III_ New Generation (Euro 970204)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiii.zip size 38868497 crc32 809a9658 sha1 b4f3f8e1437c9662acb6dc0785b7c3ebd762520d )
 )
 
 game (
-	name "Street Fighter III 2nd Impact: Giant Attack (USA 970930)"
+	name "Street Fighter III 2nd Impact_ Giant Attack (USA 970930)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiii2.zip size 43777198 crc32 ef7fa548 sha1 d74777cdb2c3e8977fef07e09de2a45f1dde228c )
 )
 
 game (
-	name "Street Fighter III 2nd Impact: Giant Attack (Japan 970930)"
+	name "Street Fighter III 2nd Impact_ Giant Attack (Japan 970930)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiii2j.zip size 131625 crc32 2fb906df sha1 b6da5c4ba5e127cd924f5245d0823b60c09b9bf1 )
 )
 
 game (
-	name "Street Fighter III 2nd Impact: Giant Attack (Asia 970930, NO CD)"
+	name "Street Fighter III 2nd Impact_ Giant Attack (Asia 970930, NO CD)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiii2n.zip size 131634 crc32 f920122d sha1 7fe620e44d04970a6838fc571ff0359869fffa5a )
 )
 
 game (
-	name "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)"
+	name "Street Fighter III 3rd Strike_ Fight for the Future (Euro 990608)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name sfiii3.zip size 70592155 crc32 36056b5e sha1 09ac08c7e01135d4cefc278801ca86c30ba4fab3 )
 )
 
 game (
-	name "Street Fighter III 3rd Strike: Fight for the Future (Japan 990608, NO CD)"
+	name "Street Fighter III 3rd Strike_ Fight for the Future (Japan 990608, NO CD)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name sfiii3n.zip size 132348 crc32 43a14657 sha1 e7fb9551e425af16e56a05fcd46ac9d1a99c9d3e )
 )
 
 game (
-	name "Street Fighter III 3rd Strike: Fight for the Future (Japan 990512, NO CD)"
+	name "Street Fighter III 3rd Strike_ Fight for the Future (Japan 990512, NO CD)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name sfiii3nr1.zip size 8375056 crc32 081c8344 sha1 281d9369698d5d527849bd716406a9c9ebb6d130 )
 )
 
 game (
-	name "Street Fighter III 3rd Strike: Fight for the Future (Euro 990512)"
+	name "Street Fighter III 3rd Strike_ Fight for the Future (Euro 990512)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name sfiii3r1.zip size 8242752 crc32 730973fc sha1 43f8c635bd54a87e3750e2b18466b91f827e1f80 )
 )
 
 game (
-	name "Street Fighter III 3rd Strike: Fight for the Future (USA 990608)"
+	name "Street Fighter III 3rd Strike_ Fight for the Future (USA 990608)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name sfiii3u.zip size 132333 crc32 428a9f8b sha1 7f5cc505b475e7f3a7ff85ce432d0c711ad47587 )
 )
 
 game (
-	name "Street Fighter III 3rd Strike: Fight for the Future (USA 990512)"
+	name "Street Fighter III 3rd Strike_ Fight for the Future (USA 990512)"
 	year 1999
 	manufacturer "Capcom"
 	rom ( name sfiii3ur1.zip size 8375041 crc32 566985ed sha1 ce0975d45349913e1a6c77ab62b13864de1af7c9 )
 )
 
 game (
-	name "Street Fighter III: New Generation (Asia 970204)"
+	name "Street Fighter III_ New Generation (Asia 970204)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiiia.zip size 132486 crc32 195d9bd3 sha1 7b19fa6befb2b2e6dfa857ecdf7b1782b2c178ea )
 )
 
 game (
-	name "Street Fighter III: New Generation (Hispanic 970204)"
+	name "Street Fighter III_ New Generation (Hispanic 970204)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiiih.zip size 132474 crc32 2d234fd6 sha1 ae8953dfeebb88539b0f4810da6bab2e0800bfea )
 )
 
 game (
-	name "Street Fighter III: New Generation (Japan 970204)"
+	name "Street Fighter III_ New Generation (Japan 970204)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiiij.zip size 132468 crc32 57683a09 sha1 62f791a9202cd7fe5806e362da807e604b591c86 )
 )
 
 game (
-	name "Street Fighter III: New Generation (Asia 970204, NO CD, bios set 1)"
+	name "Street Fighter III_ New Generation (Asia 970204, NO CD, bios set 1)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiiin.zip size 132470 crc32 9c57fa04 sha1 dc5b9890032c151f48b361bd708ba74796667b5f )
 )
 
 game (
-	name "Street Fighter III: New Generation (Asia 970204, NO CD, bios set 2)"
+	name "Street Fighter III_ New Generation (Asia 970204, NO CD, bios set 2)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiiina.zip size 132476 crc32 c0383cd8 sha1 a1c7c4551419fdc03aef4198defe6b9b7024a25e )
 )
 
 game (
-	name "Street Fighter III: New Generation (USA 970204)"
+	name "Street Fighter III_ New Generation (USA 970204)"
 	year 1997
 	manufacturer "Capcom"
 	rom ( name sfiiiu.zip size 132484 crc32 0adeaac5 sha1 53c54fc0fb9a9cbc07608512bcd47f6b9186be86 )
@@ -22559,7 +22559,7 @@ game (
 )
 
 game (
-	name "Sangokushi II: Sanguo Yingxiong Zhuan (Chinese bootleg set 3, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ Sanguo Yingxiong Zhuan (Chinese bootleg set 3, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name sgyxz.zip size 2721492 crc32 00843f86 sha1 9bb8cad9d50aa81a49fe0e72805d30a05c34ce98 )
@@ -22608,7 +22608,7 @@ game (
 )
 
 game (
-	name "Super Hang-On (sitdown/upright, unprotected)"
+	name "Super Hang-On (sitdown_upright, unprotected)"
 	year 1987
 	manufacturer "Sega"
 	rom ( name shangon.zip size 691577 crc32 47206612 sha1 2e80f113ae93663650233b73f5e662e5a01ded4e )
@@ -22629,14 +22629,14 @@ game (
 )
 
 game (
-	name "Super Hang-On (sitdown/upright, FD1089B 317-0034)"
+	name "Super Hang-On (sitdown_upright, FD1089B 317-0034)"
 	year 1987
 	manufacturer "Sega"
 	rom ( name shangon3.zip size 519789 crc32 e514382e sha1 7f7bd3ccceaf114e8c4461554d9aaccfd9880728 )
 )
 
 game (
-	name "Super Hang-On (sitdown/upright, FD1089B 317-0034 decrypted) [Bootleg]"
+	name "Super Hang-On (sitdown_upright, FD1089B 317-0034 decrypted) [Bootleg]"
 	year 1987
 	manufacturer "Sega"
 	rom ( name shangon3d.zip size 458869 crc32 a7ffdbea sha1 4dc01d0df04372235e77f706e75a3283d1cbcf57 )
@@ -22699,7 +22699,7 @@ game (
 )
 
 game (
-	name "Shinobi / FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2006)"
+	name "Shinobi _ FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2006)"
 	year 2006
 	manufacturer "ISG"
 	rom ( name shinfz.zip size 1544980 crc32 e4fbb603 sha1 bb5dccf1a15913332354df8436a9edf8f92d059e )
@@ -23469,49 +23469,49 @@ game (
 )
 
 game (
-	name "Snow Bros. - Nick & Tom (set 1)"
+	name "Snow Bros. - Nick _ Tom (set 1)"
 	year 1990
 	manufacturer "Toaplan"
 	rom ( name snowbros.zip size 289681 crc32 af8a4129 sha1 c3bdfa5acd020f201cdd17a8466e3a55074043c7 )
 )
 
 game (
-	name "Snow Bros. - Nick & Tom (set 2)"
+	name "Snow Bros. - Nick _ Tom (set 2)"
 	year 1990
 	manufacturer "Toaplan"
 	rom ( name snowbrosa.zip size 61769 crc32 a1b25780 sha1 aa69a8cd619cc1a697456518920edb080c64c1f2 )
 )
 
 game (
-	name "Snow Bros. - Nick & Tom (set 3)"
+	name "Snow Bros. - Nick _ Tom (set 3)"
 	year 1990
 	manufacturer "Toaplan"
 	rom ( name snowbrosb.zip size 61869 crc32 7994f81b sha1 234227311a771fc5117acf0c6c99088f298408aa )
 )
 
 game (
-	name "Snow Bros. - Nick & Tom (set 4)"
+	name "Snow Bros. - Nick _ Tom (set 4)"
 	year 1990
 	manufacturer "Toaplan"
 	rom ( name snowbrosc.zip size 61747 crc32 c6482fdc sha1 1f40a314eead1c1f3ae74a76f28a7de6ad6c67b3 )
 )
 
 game (
-	name "Snow Bros. - Nick & Tom (Dooyong license)"
+	name "Snow Bros. - Nick _ Tom (Dooyong license)"
 	year 1990
 	manufacturer "Toaplan (Dooyong license)"
 	rom ( name snowbrosd.zip size 61773 crc32 5ff39a51 sha1 cbe207e02fd55469b92b4ec5db2ad2a7fa9fff11 )
 )
 
 game (
-	name "Snow Bros. - Nick & Tom (Japan)"
+	name "Snow Bros. - Nick _ Tom (Japan)"
 	year 1990
 	manufacturer "Toaplan"
 	rom ( name snowbrosj.zip size 61953 crc32 8bf12070 sha1 2993c4aaf5db4661b7e170b3213c02037cc0f54e )
 )
 
 game (
-	name "Snow Bros. - Nick & Tom (The Winter Bobble hardware bootleg) [Bootleg]"
+	name "Snow Bros. - Nick _ Tom (The Winter Bobble hardware bootleg) [Bootleg]"
 	year 1990
 	manufacturer "bootleg"
 	rom ( name snowbroswb.zip size 299435 crc32 23941fc9 sha1 8cfb4e5f491840e41f80d27a515c3ff6f4aa4527 )
@@ -23609,14 +23609,14 @@ game (
 )
 
 game (
-	name "Aero Fighters 2 / Sonic Wings 2"
+	name "Aero Fighters 2 _ Sonic Wings 2"
 	year 1994
 	manufacturer "Video System Co."
 	rom ( name sonicwi2.zip size 5543850 crc32 473e2a48 sha1 56e35a0437844e5c17e6c57a1b5e8bd2268b0504 )
 )
 
 game (
-	name "Aero Fighters 3 / Sonic Wings 3"
+	name "Aero Fighters 3 _ Sonic Wings 3"
 	year 1995
 	manufacturer "Video System Co."
 	rom ( name sonicwi3.zip size 9336734 crc32 0f78f395 sha1 ac5b47282cf530f3d3999ac56948373da9d1fac8 )
@@ -23812,14 +23812,14 @@ game (
 )
 
 game (
-	name "Speak & Rescue"
+	name "Speak _ Rescue"
 	year 1980
 	manufacturer "Sun Electronics"
 	rom ( name speakres.zip size 12891 crc32 900cac77 sha1 9378a7c5732260987a9137d412e3c9dd70290ffd )
 )
 
 game (
-	name "Speak & Rescue (bootleg)"
+	name "Speak _ Rescue (bootleg)"
 	year 1980
 	manufacturer "bootleg"
 	rom ( name speakresb.zip size 12987 crc32 cb98aa46 sha1 0772a3def6e49523d1ee3212208387b347318b4d )
@@ -23945,7 +23945,7 @@ game (
 )
 
 game (
-	name "Spin Master / Miracle Adventure"
+	name "Spin Master _ Miracle Adventure"
 	year 1993
 	manufacturer "Data East Corporation"
 	rom ( name spinmast.zip size 4037255 crc32 420bc094 sha1 ced5839100777c03927a7a0467926bb38692ba72 )
@@ -24008,7 +24008,7 @@ game (
 )
 
 game (
-	name "Faster, Harder, More Challenging Q*bert (prototype)"
+	name "Faster, Harder, More Challenging Q_bert (prototype)"
 	year 1983
 	manufacturer "Mylstar"
 	rom ( name sqbert.zip size 33640 crc32 14a45fc3 sha1 38a13e1c80f834300e1d8cae76adc9eb4f9f617c )
@@ -24281,28 +24281,28 @@ game (
 )
 
 game (
-	name "Super Sidekicks / Tokuten Ou"
+	name "Super Sidekicks _ Tokuten Ou"
 	year 1992
 	manufacturer "SNK"
 	rom ( name ssideki.zip size 3253025 crc32 b9fd2d54 sha1 3567311d415eda269a07320cb0b60aac16b17c63 )
 )
 
 game (
-	name "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)"
+	name "Super Sidekicks 2 - The World Championship _ Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)"
 	year 1994
 	manufacturer "SNK"
 	rom ( name ssideki2.zip size 6848129 crc32 7380262c sha1 3c271dd57d0396746b00a68bb695f9a2fced3a1d )
 )
 
 game (
-	name "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikou e no michi"
+	name "Super Sidekicks 3 - The Next Glory _ Tokuten Ou 3 - eikou e no michi"
 	year 1995
 	manufacturer "SNK"
 	rom ( name ssideki3.zip size 9870579 crc32 1b1901bd sha1 6bafa133bb0392a341127f04bdf10649aa107b27 )
 )
 
 game (
-	name "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero"
+	name "The Ultimate 11 - The SNK Football Championship _ Tokuten Ou - Honoo no Libero"
 	year 1996
 	manufacturer "SNK"
 	rom ( name ssideki4.zip size 13639424 crc32 a68799c5 sha1 853769f696d75594b006e38e9a3b045fd4e91afd )
@@ -24449,7 +24449,7 @@ game (
 )
 
 game (
-	name "Stakes Winner / Stakes Winner - GI kinzen seiha e no michi"
+	name "Stakes Winner _ Stakes Winner - GI kinzen seiha e no michi"
 	year 1995
 	manufacturer "Saurus"
 	rom ( name stakwin.zip size 3368722 crc32 c5aeb019 sha1 a26ffa0c81fe5433c0441cb1a74836e47c18d730 )
@@ -24540,7 +24540,7 @@ game (
 )
 
 game (
-	name "Stinger (prototype?)"
+	name "Stinger (prototype_)"
 	year 1983
 	manufacturer "Seibu Denshi"
 	rom ( name stinger2.zip size 35540 crc32 fa209a12 sha1 a02c72fd3b4a6f409d45ef8fb5694c081b024ba0 )
@@ -24659,7 +24659,7 @@ game (
 )
 
 game (
-	name "Street Hoop / Street Slam / Dunk Dream (DEM-004) (DEH-004)"
+	name "Street Hoop _ Street Slam _ Dunk Dream (DEM-004) (DEH-004)"
 	year 1994
 	manufacturer "Data East Corporation"
 	rom ( name strhoop.zip size 4677642 crc32 15217b88 sha1 1bb70b8a935ffc817126ea1a201076892ec941a4 )
@@ -25023,7 +25023,7 @@ game (
 )
 
 game (
-	name "Swarm (bootleg?) [Bootleg]"
+	name "Swarm (bootleg_) [Bootleg]"
 	year 1979
 	manufacturer "Sebelectro"
 	rom ( name swarm.zip size 10513 crc32 25c8f106 sha1 b9063b8569e64adba13f01d6fe7b3dbd4767a773 )
@@ -25079,7 +25079,7 @@ game (
 )
 
 game (
-	name "Tang Tang (ver. 0526, 26/05/2000)"
+	name "Tang Tang (ver. 0526, 26_05_2000)"
 	year 2000
 	manufacturer "ESD"
 	rom ( name tangtang.zip size 2208242 crc32 c1439c81 sha1 761d282944067df09c7d1a091639f80348e82cdc )
@@ -25128,7 +25128,7 @@ game (
 )
 
 game (
-	name "Tecmo Bowl (World?)"
+	name "Tecmo Bowl (World_)"
 	year 1987
 	manufacturer "Tecmo"
 	rom ( name tbowl.zip size 434953 crc32 87857bfe sha1 00d51221d1c8d3ddc4a186222b7b097812a16bca )
@@ -25317,7 +25317,7 @@ game (
 )
 
 game (
-	name "Tetris / Bloxeed (Korean System 16 bootleg) (ISG Selection Master Type 2006)"
+	name "Tetris _ Bloxeed (Korean System 16 bootleg) (ISG Selection Master Type 2006)"
 	year 2006
 	manufacturer "ISG"
 	rom ( name tetrbx.zip size 345109 crc32 90e9c7e5 sha1 ec67b9de4937987c86fbc4922be3fcbf62bf8eb5 )
@@ -25450,7 +25450,7 @@ game (
 )
 
 game (
-	name "Task Force Harrier (US?)"
+	name "Task Force Harrier (US_)"
 	year 1989
 	manufacturer "UPL (American Sammy license)"
 	rom ( name tharrieru.zip size 90204 crc32 f0163840 sha1 1dd7f63c3f56930508f9d404dc99209e239ce14e )
@@ -25471,28 +25471,28 @@ game (
 )
 
 game (
-	name "The Gladiator - Road Of The Sword / Shen Jian (V101) [Incomplete Dump]"
+	name "The Gladiator - Road Of The Sword _ Shen Jian (V101) [Incomplete Dump]"
 	year 2003
 	manufacturer "IGS"
 	rom ( name theglad.zip size 21421263 crc32 8c5fd718 sha1 d01612c658746f8bddf134f46d218b23bc9826d1 )
 )
 
 game (
-	name "The Gladiator - Road Of The Sword / Shen Jian (V100, Taiwan) [Incomplete Dump]"
+	name "The Gladiator - Road Of The Sword _ Shen Jian (V100, Taiwan) [Incomplete Dump]"
 	year 2003
 	manufacturer "IGS"
 	rom ( name theglad100.zip size 1788041 crc32 a58f16ef sha1 b2d24428a0046a444cd18d5f3276002d1e063c37 )
 )
 
 game (
-	name "The Gladiator - Road Of The Sword / Shen Jian (V100) [Incomplete Dump]"
+	name "The Gladiator - Road Of The Sword _ Shen Jian (V100) [Incomplete Dump]"
 	year 2003
 	manufacturer "IGS"
 	rom ( name theglad101.zip size 1784974 crc32 2a2d42fe sha1 8a103e6a9f80ef0051a6db4caabb2fc8c0a6dfb5 )
 )
 
 game (
-	name "The Gladiator - Road Of The Sword / Shen Jian (V100, Japan, Single PCB Version)"
+	name "The Gladiator - Road Of The Sword _ Shen Jian (V100, Japan, Single PCB Version)"
 	year 2003
 	manufacturer "IGS"
 	rom ( name thegladpcb.zip size 24851154 crc32 215d032d sha1 1dff6c215b26622049a13fd8e78effb077d32863 )
@@ -25583,7 +25583,7 @@ game (
 )
 
 game (
-	name "Thunder Blade (deluxe/standing, unprotected)"
+	name "Thunder Blade (deluxe_standing, unprotected)"
 	year 1987
 	manufacturer "Sega"
 	rom ( name thndrbld1.zip size 333814 crc32 fa19666b sha1 f5089bcea36a7e6baf5dfe0fb1045f74f8aad224 )
@@ -25653,7 +25653,7 @@ game (
 )
 
 game (
-	name "Thunder & Lightning"
+	name "Thunder _ Lightning"
 	year 1990
 	manufacturer "Seta"
 	rom ( name thunderl.zip size 1083460 crc32 2848edbf sha1 a72f7bfb8b30a81d2f099b226b889d4b036bed09 )
@@ -26017,7 +26017,7 @@ game (
 )
 
 game (
-	name "The NewZealand Story (World, prototype?) (older PCB)"
+	name "The NewZealand Story (World, prototype_) (older PCB)"
 	year 1988
 	manufacturer "Taito Corporation Japan"
 	rom ( name tnzsop.zip size 356724 crc32 769e62dc sha1 cd192a5271b1274b6e6b5a18d91d56cd7de5e13a )
@@ -26045,21 +26045,21 @@ game (
 )
 
 game (
-	name "Tokio / Scramble Formation (newer) [Use tokiob instead!]"
+	name "Tokio _ Scramble Formation (newer) [Use tokiob instead!]"
 	year 1986
 	manufacturer "Taito Corporation"
 	rom ( name tokio.zip size 343947 crc32 8c9af2fe sha1 d89bc91a250767b8be1336b22e50565a97021d18 )
 )
 
 game (
-	name "Tokio / Scramble Formation (bootleg) [Bootleg]"
+	name "Tokio _ Scramble Formation (bootleg) [Bootleg]"
 	year 1986
 	manufacturer "bootleg"
 	rom ( name tokiob.zip size 39617 crc32 6d4a3208 sha1 e912e8c80ef183ea6299ee9dbba9e4cfbae48640 )
 )
 
 game (
-	name "Toki (US, prototype?)"
+	name "Toki (US, prototype_)"
 	year 1989
 	manufacturer "TAD Corporation (Fabtek license)"
 	rom ( name tokip.zip size 1067208 crc32 bb368699 sha1 c29c0b9a82e152eabd54cf551270a0f0decbd3f5 )
@@ -26101,21 +26101,21 @@ game (
 )
 
 game (
-	name "Top Hunter - Roddy & Cathy (NGM-046)"
+	name "Top Hunter - Roddy _ Cathy (NGM-046)"
 	year 1994
 	manufacturer "SNK"
 	rom ( name tophuntr.zip size 6958558 crc32 ca733eb4 sha1 92a1d86b361c2a7bcbef818b6c08212ff5a3bc07 )
 )
 
 game (
-	name "Top Hunter - Roddy & Cathy (NGH-046)"
+	name "Top Hunter - Roddy _ Cathy (NGH-046)"
 	year 1994
 	manufacturer "SNK"
 	rom ( name tophuntrh.zip size 421381 crc32 a97ae649 sha1 f9cc43aa3c97dfc10dfd7b6318c9ce60c3de3222 )
 )
 
 game (
-	name "Toppy & Rappy"
+	name "Toppy _ Rappy"
 	year 1996
 	manufacturer "SemiCom"
 	rom ( name toppyrap.zip size 899598 crc32 d49e6bb7 sha1 99620ac1f426bfa55d603e5423313ac15c3a05dc )
@@ -26269,14 +26269,14 @@ game (
 )
 
 game (
-	name "Treasure Hunt (bootleg?)"
+	name "Treasure Hunt (bootleg_)"
 	year 1982
 	manufacturer "Hara Industries"
 	rom ( name treahunt.zip size 25186 crc32 28ca7010 sha1 e6d0f15efe8f72f70e1ef279132d1310987ec319 )
 )
 
 game (
-	name "Trick Trap (World?)"
+	name "Trick Trap (World_)"
 	year 1987
 	manufacturer "Konami"
 	rom ( name tricktrp.zip size 185828 crc32 fc6b8641 sha1 3fdb80457c688cc6407b1ece4adb2583ec2c374b )
@@ -26374,7 +26374,7 @@ game (
 )
 
 game (
-	name "Trophy Hunting - Bear & Moose V1.0"
+	name "Trophy Hunting - Bear _ Moose V1.0"
 	year 2002
 	manufacturer "Sammy USA Corporation"
 	rom ( name trophyh.zip size 19646008 crc32 a75a07f5 sha1 f0828d904825fbcb2ad13ac1c6edb959d7926cf6 )
@@ -26493,7 +26493,7 @@ game (
 )
 
 game (
-	name "Neo Turf Masters / Big Tournament Golf"
+	name "Neo Turf Masters _ Big Tournament Golf"
 	year 1996
 	manufacturer "Nazca"
 	rom ( name turfmast.zip size 9330726 crc32 3f41c322 sha1 258d3d0a208d2470f0a1d145ddd9a9d35e3db6f1 )
@@ -26549,7 +26549,7 @@ game (
 )
 
 game (
-	name "Turtle Ship (Korea, 88/9)"
+	name "Turtle Ship (Korea, 88_9)"
 	year 1988
 	manufacturer "Philko"
 	rom ( name turtshipkn.zip size 284402 crc32 c80af6ed sha1 fb533500afb38718e700fe87e129895628ee1b3b )
@@ -26794,14 +26794,14 @@ game (
 )
 
 game (
-	name "Puzzle Uo Poko (International, ver. 98/02/06)"
+	name "Puzzle Uo Poko (International, ver. 98_02_06)"
 	year 1999
 	manufacturer "Cave / Jaleco"
 	rom ( name uopoko.zip size 3554014 crc32 72de9e9b sha1 38568d3e007dd97e870513f17abf2713b68550ee )
 )
 
 game (
-	name "Puzzle Uo Poko (Japan, ver. 98/02/06)"
+	name "Puzzle Uo Poko (Japan, ver. 98_02_06)"
 	year 1999
 	manufacturer "Cave / Jaleco"
 	rom ( name uopokoj.zip size 272740 crc32 97f80f23 sha1 1bd0fb5db3eba7faa7b432da495dfa5a7f534595 )
@@ -27025,7 +27025,7 @@ game (
 )
 
 game (
-	name "Vendetta (World, 2 Players ver. EB-A?)"
+	name "Vendetta (World, 2 Players ver. EB-A_)"
 	year 1991
 	manufacturer "Konami"
 	rom ( name vendetta2peba.zip size 149788 crc32 edf4b5c3 sha1 da574d14f8b492ad1737793dd260fcb6d8b87177 )
@@ -27445,7 +27445,7 @@ game (
 )
 
 game (
-	name "Vulgus (Japan?)"
+	name "Vulgus (Japan_)"
 	year 1984
 	manufacturer "Capcom"
 	rom ( name vulgusj.zip size 17130 crc32 e1a36e3c sha1 293e0f04ead549e9b2d14ec28455e63a7d31b1de )
@@ -27494,7 +27494,7 @@ game (
 )
 
 game (
-	name "Warp & Warp"
+	name "Warp _ Warp"
 	year 1981
 	manufacturer "Namco"
 	rom ( name warpwarp.zip size 10751 crc32 27b0527f sha1 55e47b8aa03dbd45d50720a33f2d691775ee719f )
@@ -27522,14 +27522,14 @@ game (
 )
 
 game (
-	name "War-Zard / Red Earth (Japan 961121)"
+	name "War-Zard _ Red Earth (Japan 961121)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name warzard.zip size 132467 crc32 ec020281 sha1 94a7171c029631395f3bcca67cf4a044f6d8311c )
 )
 
 game (
-	name "War-Zard / Red Earth (Japan 961023)"
+	name "War-Zard _ Red Earth (Japan 961023)"
 	year 1996
 	manufacturer "Capcom"
 	rom ( name warzardr1.zip size 8394657 crc32 f4b3eff3 sha1 aac69a796dddf4e3bc4b0834744957bcd25e8690 )
@@ -27781,7 +27781,7 @@ game (
 )
 
 game (
-	name "Welltris - Alexey Pajitnov's (World?, 2 players)"
+	name "Welltris - Alexey Pajitnov's (World_, 2 players)"
 	year 1991
 	manufacturer "Video System Co."
 	rom ( name welltris.zip size 1810875 crc32 286d7ea0 sha1 1228670404246623443257533b8a5d251a164612 )
@@ -27844,7 +27844,7 @@ game (
 )
 
 game (
-	name "Pipi & Bibis / Whoopee!! (Teki Paki hardware) [No sound (sound MCU not dumped)]"
+	name "Pipi _ Bibis _ Whoopee!! (Teki Paki hardware) [No sound (sound MCU not dumped)]"
 	year 1991
 	manufacturer "Toaplan"
 	rom ( name whoopee.zip size 59555 crc32 e74225b3 sha1 925e2d433ef0d690b65130da7e162e472e1e8cd6 )
@@ -27865,7 +27865,7 @@ game (
 )
 
 game (
-	name "Wild Fang / Tecmo Knight"
+	name "Wild Fang _ Tecmo Knight"
 	year 1989
 	manufacturer "Tecmo"
 	rom ( name wildfang.zip size 1127216 crc32 1bbd53df sha1 5f75aafe536acc379790a20c2fa9fb2f26ca4196 )
@@ -27963,7 +27963,7 @@ game (
 )
 
 game (
-	name "Windjammers / Flying Power Disc"
+	name "Windjammers _ Flying Power Disc"
 	year 1994
 	manufacturer "Data East Corporation"
 	rom ( name wjammers.zip size 4041194 crc32 394a17ce sha1 6b5efc7d62c41a996944df2f768e2230bfd563df )
@@ -28005,28 +28005,28 @@ game (
 )
 
 game (
-	name "Sangokushi II: San Jian Sheng (Chinese bootleg set 1, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ San Jian Sheng (Chinese bootleg set 1, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wof3js.zip size 2850622 crc32 ef2e4bf4 sha1 7b48e55a6d264f2f1d04d0f93c78f4a3e4aed74c )
 )
 
 game (
-	name "Sangokushi II: San Jian Sheng (Chinese bootleg set 2, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ San Jian Sheng (Chinese bootleg set 2, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wof3jsa.zip size 2749138 crc32 a91f433f sha1 22b75aad9365a5196f9dbfb96561936c7ffd41f2 )
 )
 
 game (
-	name "Sangokushi II: San Sheng Jian (Chinese bootleg set 1, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ San Sheng Jian (Chinese bootleg set 1, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wof3sj.zip size 2749906 crc32 587f4189 sha1 cdc657c4c28732888c73bc13aaf12b207ab543cc )
 )
 
 game (
-	name "Sangokushi II: San Sheng Jian (Chinese bootleg set 2, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ San Sheng Jian (Chinese bootleg set 2, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wof3sja.zip size 2754905 crc32 b37498fc sha1 d01a1b9d77385d7fac5ec553735348424e72fbba )
@@ -28075,28 +28075,28 @@ game (
 )
 
 game (
-	name "Sangokushi III Gaiden: Kakou-On's Revenge DX (hack)"
+	name "Sangokushi III Gaiden_ Kakou-On's Revenge DX (hack)"
 	year 2010
 	manufacturer "Capcom"
 	rom ( name wofchdx.zip size 431897 crc32 8242260a sha1 906411a6b3559dca3621d55ced6e55daaecc59ae )
 )
 
 game (
-	name "Sangokushi II: Sanguo Yingxiong Zhuan (Chinese bootleg set 1, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ Sanguo Yingxiong Zhuan (Chinese bootleg set 1, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wofh.zip size 2718911 crc32 f7f83394 sha1 c215ba2504e510f50d19e74075e753c8cc4fe04b )
 )
 
 game (
-	name "Sangokushi II: Sanguo Yingxiong Zhuan (Chinese bootleg set 2, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ Sanguo Yingxiong Zhuan (Chinese bootleg set 2, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wofha.zip size 2717869 crc32 971dafe8 sha1 3e4e6483ca6f0817f142d81107651bb167ded978 )
 )
 
 game (
-	name "Sangokushi II: Huo Fenghuang (Chinese bootleg, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ Huo Fenghuang (Chinese bootleg, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wofhfh.zip size 2760624 crc32 194f7292 sha1 1d168ef69a90baf5234e4379db7393caabeec6dd )
@@ -28124,21 +28124,21 @@ game (
 )
 
 game (
-	name "Sangokushi II: Sheng Jian Sanguo (Chinese bootleg set 1, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ Sheng Jian Sanguo (Chinese bootleg set 1, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wofsj.zip size 2750483 crc32 c1d42f3d sha1 0470d61955e642f29a66a624325655aa9d2ef510 )
 )
 
 game (
-	name "Sangokushi II: Sheng Jian Sanguo (Chinese bootleg set 2, 921005 Asia) [Bootleg]"
+	name "Sangokushi II_ Sheng Jian Sanguo (Chinese bootleg set 2, 921005 Asia) [Bootleg]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wofsja.zip size 2755420 crc32 a831ca0f sha1 f2d1c65f893295bfa664d27e0be091d3f926b3d1 )
 )
 
 game (
-	name "Sangokushi II: Sheng Jian Sanguo (Chinese bootleg set 3, 921005 Asia) [Bootleg, No sound]"
+	name "Sangokushi II_ Sheng Jian Sanguo (Chinese bootleg set 3, 921005 Asia) [Bootleg, No sound]"
 	year 1992
 	manufacturer "bootleg"
 	rom ( name wofsjb.zip size 2519654 crc32 c92309e4 sha1 bf109fa797803cd0269717cf177bd95c0adb6162 )
@@ -28201,7 +28201,7 @@ game (
 )
 
 game (
-	name "World Wars (World?)"
+	name "World Wars (World_)"
 	year 1987
 	manufacturer "SNK"
 	rom ( name worldwar.zip size 401499 crc32 099ef338 sha1 fe5e26022720a7ada1ba5c0c97778b33847dbec1 )
@@ -28306,14 +28306,14 @@ game (
 )
 
 game (
-	name "WWF: Wrestlemania (rev 1.30 08/10/95)"
+	name "WWF_ Wrestlemania (rev 1.30 08_10_95)"
 	year 1995
 	manufacturer "Midway"
 	rom ( name wwfmania.zip size 18713371 crc32 dc013fed sha1 9c7214d6aa973bb199288e12efec7737716ae49b )
 )
 
 game (
-	name "WWF: Wrestlemania (rev 1.20 08/02/95)"
+	name "WWF_ Wrestlemania (rev 1.20 08_02_95)"
 	year 1995
 	manufacturer "Midway"
 	rom ( name wwfmaniab.zip size 466649 crc32 bf374469 sha1 3ac648ba24c50a813b87814b80a855d619de8f72 )
@@ -28726,7 +28726,7 @@ game (
 )
 
 game (
-	name "Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun"
+	name "Go Go Mr. Yamaguchi _ Yuke Yuke Yamaguchi-kun"
 	year 1985
 	manufacturer "Kaneko / Taito"
 	rom ( name yamagchi.zip size 73052 crc32 1661f3f1 sha1 2ef68ce2c80dc6fc01bcf106923637234a08e899 )
@@ -28747,7 +28747,7 @@ game (
 )
 
 game (
-	name "Yes/No Sinri Tokimeki Chart"
+	name "Yes_No Sinri Tokimeki Chart"
 	year 1992
 	manufacturer "Taito Corporation"
 	rom ( name yesnoj.zip size 537398 crc32 f51f2cf2 sha1 ee026e3a0fd2c130886155c8e2f019472506cc97 )
@@ -28831,7 +28831,7 @@ game (
 )
 
 game (
-	name "Zed Blade / Operation Ragnarok"
+	name "Zed Blade _ Operation Ragnarok"
 	year 1994
 	manufacturer "NMK"
 	rom ( name zedblade.zip size 5159503 crc32 93f12dc3 sha1 0573aa1ba14ef1844c1f0cd7372c50571a7b14bc )
@@ -28873,14 +28873,14 @@ game (
 )
 
 game (
-	name "Zero Team (set 2, Japan? (earlier?))"
+	name "Zero Team (set 2, Japan_ (earlier_))"
 	year 1993
 	manufacturer "Seibu Kaihatsu"
 	rom ( name zeroteama.zip size 804055 crc32 ada27b36 sha1 308f1c202e2de0af3a846c4309095ae3cd3e1763 )
 )
 
 game (
-	name "Zero Team (set 3, Japan? (later batteryless))"
+	name "Zero Team (set 3, Japan_ (later batteryless))"
 	year 1993
 	manufacturer "Seibu Kaihatsu"
 	rom ( name zeroteamb.zip size 809484 crc32 4673879e sha1 a5662c689040d5cdf44125e006167fb596991a3a )
@@ -28978,42 +28978,42 @@ game (
 )
 
 game (
-	name "Zintrick / Oshidashi Zentrix (hack / bootleg) [Bootleg]"
+	name "Zintrick _ Oshidashi Zentrix (hack _ bootleg) [Bootleg]"
 	year 1996
 	manufacturer "hack / bootleg"
 	rom ( name zintrckb.zip size 2087676 crc32 d71221b7 sha1 95b00af1fbbe8e58735a13b0d7dc7917a0d0388b )
 )
 
 game (
-	name "Zintrick / Oshidashi Zentrix (Neo CD conversion) [Hack]"
+	name "Zintrick _ Oshidashi Zentrix (Neo CD conversion) [Hack]"
 	year 1996
 	manufacturer "hack"
 	rom ( name zintrkcd.zip size 1203582 crc32 0b5fe1b6 sha1 6878eeca32bb069db8822d004f01c99b109e32f6 )
 )
 
 game (
-	name "Zip & Zap [Imperfect GFXs, No Sound]"
+	name "Zip _ Zap [Imperfect GFXs, No Sound]"
 	year 1995
 	manufacturer "Barko Corp"
 	rom ( name zipzap.zip size 1889854 crc32 b5f99dd5 sha1 19cd1b0a118aee8d46e6cb6e8103a4f3fadf55cc )
 )
 
 game (
-	name "Zombie Raid (9/28/95, US)"
+	name "Zombie Raid (9_28_95, US)"
 	year 1995
 	manufacturer "American Sammy"
 	rom ( name zombraid.zip size 6902645 crc32 56cfd5fd sha1 ece3db9236c9fce717d35443bfcae6da8bef2c01 )
 )
 
 game (
-	name "Zombie Raid (9/28/95, US, prototype PCB)"
+	name "Zombie Raid (9_28_95, US, prototype PCB)"
 	year 1995
 	manufacturer "American Sammy"
 	rom ( name zombraidp.zip size 7012107 crc32 a378b3b0 sha1 fc39ae16392bb9f20f46ee59a3c0cb50457b1306 )
 )
 
 game (
-	name "Zombie Raid (9/28/95, Japan, prototype PCB)"
+	name "Zombie Raid (9_28_95, Japan, prototype PCB)"
 	year 1995
 	manufacturer "Sammy Industries Co.,Ltd."
 	rom ( name zombraidpj.zip size 7012108 crc32 aa5f2860 sha1 bf971c68bd7e495bd4079a925af20fc6bcbceebb )

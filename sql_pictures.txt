@@ -1,0 +1,16 @@
+SELECT COUNT(p.name), COUNT(CASE WHEN i.description IS NULL THEN i2.description ELSE i.description END), (COUNT(CASE WHEN i.description IS NULL THEN i2.description ELSE i.description END)*1.0/COUNT(p.name))
+FROM tblRomPictures p
+LEFT JOIN tblRomInfos i
+ON p.name = i.description
+LEFT JOIN tblRomInfos i2
+ON p.name = i2.name
+WHERE p.type = 'Named_Titles'
+
+SELECT p.name, p.type, CASE WHEN i.description IS NULL THEN i2.description ELSE i.description END matched
+FROM tblRomPictures p
+LEFT JOIN tblRomInfos i
+ON p.name = i.description
+LEFT JOIN tblRomInfos i2
+ON p.name = i2.name
+WHERE p.type = 'Named_Titles'
+AND CASE WHEN i.description IS NULL THEN i2.description ELSE i.description END IS NULL
