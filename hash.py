@@ -96,7 +96,7 @@ def export_dat(path, cur):
         f.write("\tname \"" + game[1] + "\"\n")
         f.write("\tyear " + game[2] + "\n")
         f.write("\tmanufacturer \"" + game[3] + "\"\n")
-        f.write("\trom ( name {0} size {1} crc32 {2} sha1 {3} )\n".format(game[4],game[5],game[6],game[8]))
+        f.write("\trom ( name {0} size {1} crc {2} sha1 {3} )\n".format(game[4],game[5],game[6],game[8]))
         f.write(")\n\n")
     f.close()
 
