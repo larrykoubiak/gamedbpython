@@ -10,6 +10,8 @@ flag = namedtuple('Flag',['name','value'])
 class GameDB:
     def __init__(self):
         self.regexes = GameDBRegex()
+        if not os.path.exists('sqlite'):
+            os.makedirs('sqlite')
         self.con = lite.connect('sqlite/GameDB.db')
         self.cur = self.con.cursor()
         self.dats = []
@@ -19,15 +21,18 @@ class GameDB:
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblDatFiles (datFileId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, systemId TEXT, datFileName TEXT, datType TEXT, datReleaseGroup TEXT, datDate TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblDatGames (datGameId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, datFileId INTEGER, datGameName TEXT, datCloneOf TEXT, datRomOf TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblDatRoms (datROMId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, datFileId INTEGER, datGameId INTEGER, datROMName TEXT, datROMMerge TEXT, datROMSize INTEGER, datROMCRC TEXT, datROMMD5 TEXT, datROMSHA1 TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblSystems (systemId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, systemName TEXT, systemManufacturer TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblSoftwares (softwareId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, softwareName TEXT, softwareType TEXT, systemId INTEGER)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleases (releaseId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseName TEXT, releaseType TEXT, softwareId INTEGER )")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblROMs (romId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseId INTEGER, crc32 TEXT, md5 TEXT, sha1 TEXT, size INTEGER )")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlags (releaseFlagId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseFlagName TEXT )")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlagValues (releaseId INTEGER, releaseFlagId INTEGER, releaseFlagValue TEXT )")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatGame_fileId ON tblDatGames (datFileId ASC)")
         self.cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS idxDatGame_gameName ON tblDatGames (datFileId ASC,datGameName ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatRom_fileId ON tblDatRoms (datFileId ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatRom_gameId ON tblDatRoms (datGameId ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxROM_releaseId ON tblROMs (releaseId ASC)")
+        self.cur.execute("CREATE INDEX IF NOT EXISTS idxROM_hashes ON tblROMs (crc32 ASC,md5 ASC,sha1 ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxRelease_softwareId ON tblReleases (softwareId ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxSoftware_systemId ON tblSoftwares (systemId ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxreleaseflagvalue_releaseId_releaseFlagId ON tblReleaseFlagValues (releaseId ASC,releaseFlagId ASC)")
@@ -47,6 +52,15 @@ class GameDB:
             systemId = systemrow[0]
         return systemId
 
+    def getSystemName(self,systemId):
+        systemName = ""
+        query = "SELECT systemManufacturer || ' - ' || systemName FROM tblSystems WHERE systemId = " + systemId
+        self.cur.execute(query)
+        systemrow = self.cur.fetchone()
+        if systemrow is not None:
+            systemName = systemrow[0]
+        return systemName
+    
     def getDATReleaseGroup(self,dat):
         releaseGroup = None
         if('comment' in dat.header):
@@ -55,11 +69,13 @@ class GameDB:
         elif('url' in dat.header):
             if(dat.header['url'] == "www.no-intro.org"):
                 releaseGroup = "No-Intro"
+            elif(dat.header['url'] == "http://www.fbalpha.com/"):
+                releaseGroup = "FBA"
         else:
             if(dat.header['homepage'] is not None):
                 if(dat.header['homepage'] == "TOSEC"):
                     releaseGroup = "TOSEC"
-                elif(self.header['homepage'] == "redump.org"):
+                elif(dat.header['homepage'] == "redump.org"):
                     releaseGroup = "Redump"
         return releaseGroup
     
@@ -247,9 +263,10 @@ class GameDB:
         releaseId = None
         softwareId = None
         releaseGroup = None
+        systemId = None
         query = """SELECT df.systemId, df.datReleaseGroup, dg.datGameName, dg.datCloneOf, dr.datGameId, dr.datROMSize, dr.datROMCRC,dr.datROMMD5,dr.datROMSHA1 
-                    FROM tblDatRoms dr INNER JOIN tblDatFiles df ON df.datFileId = dr.datFileId INNER JOIN tblDatGames dg ON dg.datGameId = dr.datGameId
-                    WHERE NOT EXISTS (SELECT 1 FROM tblROMs r WHERE r.crc32 = dr.datROMCRC OR r.md5 = dr.datROMMD5 OR r.sha1 = dr.datROMSHA1)"""
+                    FROM tblDatRoms dr INNER JOIN tblDatFiles df ON df.datFileId = dr.datFileId INNER JOIN tblDatGames dg ON dg.datGameId = dr.datGameId 
+                    LEFT JOIN tblROMs r ON r.crc32 = dr.datROMCRC AND r.md5 = dr.datROMMD5 AND r.sha1 = dr.datROMSHA1 WHERE r.romID IS NULL"""
         self.cur.execute(query)
         datRoms = self.cur.fetchall()
         for datRom in datRoms:
@@ -257,6 +274,10 @@ class GameDB:
             if releaseGroup != datRom[1]:
                 releaseGroup = datRom[1]
                 self.regexes.init_regexes(releaseGroup)
+            #get system
+            if systemId != datRom[0]:
+                systemId = datRom[0]
+                print "exporting new roms for " + self.getSystemName(systemId)
             #get software
             gameName = datRom[2] if datRom[3] == '' else datRom[3]
             softwareId = self.getSoftware(gameName,datRom[0]) 
@@ -274,12 +295,13 @@ class GameDB:
             dat.read_dat(os.path.join(path,xmlfile))
             self.dats.append(dat)
         for dat in self.dats:
-            print "importing " + dat.filename
+            print "parsing " + dat.filename
             self.import_dat(dat)
+        self.dats = None
         self.import_new_ROMS()
         self.con.close()
 
 if __name__ == '__main__':
     gamedb = GameDB()
     gamedb.import_folder("DAT")
-    print gamedb
+    print "\nJob done."
