@@ -226,8 +226,13 @@ class GameDB:
         if(baddumpresult):
             releaseflags.append([releaseId,self.getReleaseFlag('BadDump'),baddumpresult.group('BadDump')])
         for flag in releaseflags:
-            query = "INSERT INTO tblReleaseFlagValues (releaseId,releaseFlagId,releaseFlagValue) VALUES (?,?,?)"
+            query = "SELECT 1 FROM tblReleaseFlagValues WHERE releaseId = ? AND releaseFlagId = ? AND releaseFlagValue = ?"
             self.cur.execute(query,flag)
+            flagrow = self.cur.fetchone()
+            if flagrow is None:
+                query = "INSERT INTO tblReleaseFlagValues (releaseId,releaseFlagId,releaseFlagValue) VALUES (?,?,?)"
+                self.cur.execute(query,flag)
+        return releaseId
 
     def getROM(self,releaseId,romsize,romcrc,rommd5,romsha1):
         rom = {}
@@ -280,7 +285,7 @@ class GameDB:
                 print "exporting new roms for " + self.getSystemName(systemId)
             #get software
             gameName = datRom[2] if datRom[3] == '' else datRom[3]
-            softwareId = self.getSoftware(gameName,datRom[0]) 
+            softwareId = self.getSoftware(gameName,datRom[0])
             #get release
             releaseName = datRom[2]
             releaseId = self.getRelease(releaseName,softwareId)
