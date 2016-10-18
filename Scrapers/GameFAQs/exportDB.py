@@ -50,5 +50,4 @@ def import_folder(path):
     for xmlfile in os.listdir(path):
         export_xml(os.path.join(path,xmlfile))
 
-#export_xml("xml/gameFAQsNintendoGameCube.xml")
 import_folder('./xml')

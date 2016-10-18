@@ -249,12 +249,12 @@ def ScrapeAGame(gameURL,gameFAQsMetaDataFile):
     
 def ScrapeAllGames():
     with open('gameFAQsURL.csv','r') as gameFAQsFile:
-        gameFAQsMetaDataFile = codecs.open('gameFAQsOdyssey2.xml','w', encoding='utf-8')
+        gameFAQsMetaDataFile = codecs.open('gameMASTA_FILE.xml','w', encoding='utf-8')
         gameFAQsMetaDataFile.write('<?xml version="1.0" encoding="UTF-8" ?>\n')
         gameFAQsMetaDataFile.write('<softwarelist>\n')
-        for x in range (0,55763):
-            gameFAQsFile.readline()
-        for x in range (0,55851-55763):
+        #for x in range (0,xxxxxx):
+        #    gameFAQsFile.readline()
+        for x in range (0,87942):
             gameLine = gameFAQsFile.readline()[:-1].split(";")
             gameFAQsMetaDataFile.write('\t<software scraper="{0}" system="{1}" name="{2}" URL="{3}">\n'.format(escape(gameLine[0].encode('utf-8')),escape(gameLine[1].encode('utf-8')),escape(gameLine[2].encode('utf-8')),escape(gameLine[3].encode('utf-8'))))
             
