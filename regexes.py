@@ -8,7 +8,7 @@ class GameDBRegex:
     def init_regexes(self,releaseGroup):
         self.regexes = {}
         tree = ET.parse("Regexes/"+releaseGroup + ".xml")
-        groupNode = tree.find("//ReleaseGroup[@name='" + releaseGroup+ "']")
+        groupNode = tree.find(".//ReleaseGroup[@name='" + releaseGroup+ "']")
         for regex in groupNode.findall("Regex"):
             namenode = regex.find("Name")
             patternnode = regex.find("Pattern")
