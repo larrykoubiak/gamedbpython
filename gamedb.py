@@ -1,9 +1,12 @@
 import sqlite3 as lite
 import os
 from datetime import datetime
+from collections import namedtuple
+import codecs
+
 from dat import DAT
 from regexes import GameDBRegex
-from collections import namedtuple
+from scraper import Scraper
 
 flag = namedtuple('Flag',['name','value'])
 
@@ -15,6 +18,7 @@ class GameDB:
         self.con = lite.connect('sqlite/GameDB.db')
         self.cur = self.con.cursor()
         self.dats = []
+        self.scrapers = []
         self.init_database()
 
     def init_database(self):
@@ -27,6 +31,8 @@ class GameDB:
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblROMs (romId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseId INTEGER, crc32 TEXT, md5 TEXT, sha1 TEXT, size INTEGER )")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlags (releaseFlagId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseFlagName TEXT )")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlagValues (releaseId INTEGER, releaseFlagId INTEGER, releaseFlagValue TEXT )")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScrapers (scraperId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperName TEXT, scraperURL TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperSystems (scraperSystemId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperId INTEGER, scraperSystemName TEXT, scraperSystemAcronym TEXT, scraperSystemURL TEXT)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatGame_fileId ON tblDatGames (datFileId ASC)")
         self.cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS idxDatGame_gameName ON tblDatGames (datFileId ASC,datGameName ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatRom_fileId ON tblDatRoms (datFileId ASC)")
@@ -252,7 +258,38 @@ class GameDB:
         else:
             romId = romrow[0]
         return romId
-                
+
+    def getScraper(self,name,url):
+        scraperId = None
+        scraperDic = {}
+        scraperDic['Name'] = name
+        scraperDic['URL'] = url
+        print scraperDic
+        query = "SELECT scraperId FROM tblScrapers WHERE scraperName=:Name AND scraperURL=:URL"
+        self.cur.execute(query,scraperDic)
+        scraperrow = self.cur.fetchone()
+        if scraperrow is None:
+            query = "INSERT INTO tblScrapers (scraperName, scraperURL) VALUES (:Name,:URL)"
+            self.cur.execute(query,scraperDic)
+            scraperId = self.cur.lastrowid
+        else:
+            scraperId = scraperrow[0]
+        return scraperId
+
+    def getScraperSystem(self,scraperId,scraperSystemDic):
+        scraperSystemId = None
+        scraperSystemDic['scraperId'] = scraperId
+        query = "SELECT scraperSystemId FROM tblScraperSystems WHERE scraperId=:scraperId AND scraperSystemName=:systemName AND scraperSystemAcronym=:systemAcronym AND scraperSystemURL=:systemURL"
+        self.cur.execute(query,scraperSystemDic)
+        scraperSystemrow = self.cur.fetchone()
+        if scraperSystemrow is None:
+            query = "INSERT INTO tblScraperSystems (scraperId,scraperSystemName,scraperSystemAcronym,scraperSystemURL) VALUES (:scraperId,:systemName,:systemAcronym,:systemURL)"
+            self.cur.execute(query,scraperSystemDic)
+            scraperSystemId = self.cur.lastrowid
+        else:
+            scraperSystemId = scraperSystemrow[0]
+        return scraperSystemId
+    
     def import_dat(self,dat):
         datGameId = None
         datRomId = None
@@ -304,9 +341,23 @@ class GameDB:
             self.import_dat(dat)
         self.dats = None
         self.import_new_ROMS()
-        self.con.close()
+        
 
+    def import_scrapers(self):
+        self.scrapers = []
+        scrapersfile = codecs.open('Scrapers/scrapers.csv')
+        for scraperline in scrapersfile:
+            scraperCols = scraperline.split(';')
+            scraperId = self.getScraper(*scraperCols)
+            print scraperCols
+            scraper = Scraper(*scraperCols)
+            for scraperSystem in scraper.systems:
+                print scraperSystem
+                scraperSystemId = self.getScraperSystem(scraperId,scraperSystem)
+        self.con.commit()
 if __name__ == '__main__':
     gamedb = GameDB()
     gamedb.import_folder("DAT")
+    gamedb.import_scrapers()
+    gamedb.con.close()
     print "\nJob done."
