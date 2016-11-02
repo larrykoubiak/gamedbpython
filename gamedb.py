@@ -275,7 +275,6 @@ class GameDB:
         scraperDic = {}
         scraperDic['Name'] = name
         scraperDic['URL'] = url
-        print scraperDic
         query = "SELECT scraperId FROM tblScrapers WHERE scraperName=:Name AND scraperURL=:URL"
         self.cur.execute(query,scraperDic)
         scraperrow = self.cur.fetchone()
