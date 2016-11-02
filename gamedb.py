@@ -33,6 +33,11 @@ class GameDB:
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlagValues (releaseId INTEGER, releaseFlagId INTEGER, releaseFlagValue TEXT )")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScrapers (scraperId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperName TEXT, scraperURL TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperSystems (scraperSystemId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperId INTEGER, scraperSystemName TEXT, scraperSystemAcronym TEXT, scraperSystemURL TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperGames (scraperGameId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperSystemId INTEGER, scraperGameName TEXT, scraperGameURL TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperGameFlags (scraperGameId INTEGER, scraperGameFlagName TEXT, scraperGameFlagValue TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleases (scraperReleaseId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperGameId INTEGER, scraperReleaseName TEXT, scraperReleaseRegion TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseFlags (scraperReleaseId INTEGER, scraperReleaseFlagName TEXT, scraperReleaseFlagValue TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseImages (scraperReleaseImageId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperReleaseId INTEGER, scraperImageName TEXT, scraperImageType TEXT)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatGame_fileId ON tblDatGames (datFileId ASC)")
         self.cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS idxDatGame_gameName ON tblDatGames (datFileId ASC,datGameName ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatRom_fileId ON tblDatRoms (datFileId ASC)")
@@ -42,6 +47,12 @@ class GameDB:
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxRelease_softwareId ON tblReleases (softwareId ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxSoftware_systemId ON tblSoftwares (systemId ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxreleaseflagvalue_releaseId_releaseFlagId ON tblReleaseFlagValues (releaseId ASC,releaseFlagId ASC)")
+        self.cur.execute("CREATE INDEX IF NOT EXISTS idxscrapersystem_scraperId ON tblScraperSystems (scraperId ASC)")
+        self.cur.execute("CREATE INDEX IF NOT EXISTS idxScraperGame_systemId ON tblScraperGames (scraperSystemId ASC)")
+        self.cur.execute("CREATE INDEX IF NOT EXISTS idxscrapergameflag_gameid ON tblScraperGameFlags (scraperGameId ASC)")
+        self.cur.execute("CREATE INDEX IF NOT EXISTS idxScraperRelease_gameid ON tblScraperReleases (scraperGameId ASC)")
+        self.cur.execute("CREATE INDEX IF NOT EXISTS idxscraperreleaseflag_releaseid ON tblScraperReleaseFlags (scraperReleaseId ASC)")
+        self.cur.execute("CREATE INDEX IF NOT EXISTS idxscraperreleaseimage_releaseid ON tblScraperReleaseImages (scraperReleaseId ASC)")
         self.con.commit()
 
     def getSystem(self,manufacturer,systemName):
@@ -276,19 +287,74 @@ class GameDB:
             scraperId = scraperrow[0]
         return scraperId
 
-    def getScraperSystem(self,scraperId,scraperSystemDic):
+    def getScraperSystem(self,scraperId,systemname,systemacronym,systemurl):
         scraperSystemId = None
+        scraperSystemDic = {}
         scraperSystemDic['scraperId'] = scraperId
-        query = "SELECT scraperSystemId FROM tblScraperSystems WHERE scraperId=:scraperId AND scraperSystemName=:systemName AND scraperSystemAcronym=:systemAcronym AND scraperSystemURL=:systemURL"
+        scraperSystemDic['scraperSystemName'] = systemname
+        scraperSystemDic['scraperSystemAcronym'] = systemacronym
+        scraperSystemDic['scraperSystemURL'] = systemurl
+        query = "SELECT scraperSystemId FROM tblScraperSystems WHERE scraperId=:scraperId AND scraperSystemName=:scraperSystemName AND scraperSystemAcronym=:scraperSystemAcronym AND scraperSystemURL=:scraperSystemURL"
         self.cur.execute(query,scraperSystemDic)
         scraperSystemrow = self.cur.fetchone()
         if scraperSystemrow is None:
-            query = "INSERT INTO tblScraperSystems (scraperId,scraperSystemName,scraperSystemAcronym,scraperSystemURL) VALUES (:scraperId,:systemName,:systemAcronym,:systemURL)"
+            query = "INSERT INTO tblScraperSystems (scraperId,scraperSystemName,scraperSystemAcronym,scraperSystemURL) VALUES (:scraperId,:scraperSystemName,:scraperSystemAcronym,:scraperSystemURL)"
             self.cur.execute(query,scraperSystemDic)
             scraperSystemId = self.cur.lastrowid
         else:
             scraperSystemId = scraperSystemrow[0]
         return scraperSystemId
+
+    def getScraperGame(self,systemid,gamename,gameurl):
+        scraperGameId = None
+        scraperGameDic = {}
+        scraperGameDic['scraperSystemId'] = systemid
+        scraperGameDic['scraperGameName'] = gamename
+        scraperGameDic['scraperGameURL'] = gameurl
+        query = "SELECT scraperGameId FROM tblScraperGames WHERE scraperSystemId=:scraperSystemId AND scraperGameName=:scraperGameName AND scraperGameURL=:scraperGameURL"
+        self.cur.execute(query,scraperGameDic)
+        scraperGamerow = self.cur.fetchone()
+        if scraperGamerow is None:
+            query = "INSERT INTO tblScraperGames (scraperSystemId,scraperGameName,scraperGameURL) VALUES (:scraperSystemId,:scraperGameName,:scraperGameURL)"
+            self.cur.execute(query,scraperGameDic)
+            scraperGameId = self.cur.lastrowid
+        else:
+            scraperGameId = scraperGamerow[0]
+        return scraperGameId
+
+    def getScraperRelease(self,gameid,name,region):
+        scraperReleaseId = None
+        scraperReleaseDic = {}
+        scraperReleaseDic['scraperGameId'] = gameid
+        scraperReleaseDic['scraperReleaseName'] = name
+        scraperReleaseDic['scraperReleaseRegion'] = region
+        query = "SELECT scraperReleaseId FROM tblScraperReleases WHERE scraperGameId=:scraperGameId AND scraperReleaseName=:scraperReleaseName AND scraperReleaseRegion=:scraperReleaseRegion"
+        self.cur.execute(query,scraperGameDic)
+        scraperReleaserow = self.cur.fetchone()
+        if scraperReleaserow is None:
+            query = "INSERT INTO tblScraperReleases (scraperGameId,scraperReleaseName,scraperReleaseRegion) VALUES (:scraperGameId,:scraperReleaseName,:scraperReleaseRegion)"
+            self.cur.execute(query,scraperReleaseDic)
+            scraperReleaseId = self.cur.lastrowid
+        else:
+            scraperReleaseId = scraperReleaserow[0]
+        return scraperReleaseId
+
+    def getScraperReleaseImage(self,releaseid,name,imagetype):
+        scraperReleaseImageId = None
+        scraperReleaseImageDic = {}
+        scraperReleaseImageDic['scraperReleaseId'] = releaseid
+        scraperReleaseImageDic['scraperReleaseImageName'] = name
+        scraperReleaseImageDic['scraperReleaseImageType'] = imagetype
+        query = "SELECT scraperReleaseImageId FROM tblScraperReleaseImages WHERE scraperReleaseId=:scraperReleaseId AND scraperReleaseImageName=:scraperReleaseImageName AND scraperReleaseImageType=:scraperReleaseImageType"
+        self.cur.execute(query,scraperReleaseImageDic)
+        scraperReleaseImagerow = self.cur.fetchone()
+        if scraperReleaseImagerow is None:
+            query = "INSERT INTO tblScraperReleaseImages (scraperReleaseId,scraperReleaseImageName,scraperReleaseImageType) VALUES (:scraperReleaseId,:scraperReleaseImageName,:scraperReleaseImageType)"
+            self.cur.execyte(query,scraperReleaseImageDic)
+            scraperReleaseImageId = self.cur.lastrowid
+        else:
+            scraperReleaseImageId = scraperReleaseImagerow[0]
+        return scraperReleaseImageId
     
     def import_dat(self,dat):
         datGameId = None
@@ -330,11 +396,11 @@ class GameDB:
             romId = self.getROM(releaseId,*datRom[5:])
         self.con.commit()
 
-    def import_folder(self,path):
+    def import_dats(self):
         self.dats = []
-        for xmlfile in os.listdir(path):
+        for xmlfile in os.listdir("DAT"):
             dat = DAT()
-            dat.read_dat(os.path.join(path,xmlfile))
+            dat.read_dat(os.path.join("DAT",xmlfile))
             self.dats.append(dat)
         for dat in self.dats:
             print "parsing " + dat.filename
@@ -349,15 +415,35 @@ class GameDB:
         for scraperline in scrapersfile:
             scraperCols = scraperline.split(';')
             scraperId = self.getScraper(*scraperCols)
-            print scraperCols
             scraper = Scraper(*scraperCols)
-            for scraperSystem in scraper.systems:
-                print scraperSystem
-                scraperSystemId = self.getScraperSystem(scraperId,scraperSystem)
+            for scraperSystemKey,scraperSystem in scraper.systems.items():
+                print "parsing data from " + scraper.name + " - " + scraperSystemKey
+                scraperSystemId = self.getScraperSystem(scraperId,scraperSystem['systemName'],scraperSystem['systemAcronym'],scraperSystem['systemURL'])
+                for scraperGameKey,scraperGame in scraperSystem['systemGames'].items():
+                    scraperGameId = self.getScraperGame(scraperSystemId,scraperGame['gameName'],scraperGame['gameUrl'])
+                    if scraperGame['gameParsed']=='Yes':
+                        for flag in scraperGame['softwareFlags']:
+                            query = "SELECT 1 FROM tblScraperGameFlags WHERE scraperGameId = ? AND scraperGameFlagName = ? AND scraperGameFlagName = ?"
+                            self.cur.execute(query,scraperGameId,flag['name'],flag['value'])
+                            flagrow = self.cur.fetchone()
+                            if flagrow is None:
+                                query = "INSERT INTO tblScraperGameFlags (scraperGameId,scraperGameFlagName,scraperGameFlagName) VALUES (?,?,?)"
+                                self.cur.execute(query,scraperGameId,flag['name'],flag['value'])
+                        for scraperRelease in scraperGame['releases']:
+                            scraperReleaseId = self.getScraperRelease(scraperGameId,scraperRelease['name'],scraperRelease['region'])
+                            for flag in scraperRelease['releaseFlags']:
+                                query = "SELECT 1 FROM tblScraperReleaseFlags WHERE scraperReleaseId = ? AND scraperReleaseFlagName = ? AND scraperReleaseFlagValue = ?"
+                                self.cur.execute(query,scraperReleaseId,flag['name'],flag['value'])
+                                flagrow = self.cur.fetchone()
+                                if flagrow is None:
+                                    query = "INSERT INTO tblScraperReleaseFlags (scraperReleaseId,scraperReleaseFlagName,scraperReleaseFlagValue) VALUES (?,?,?)"
+                                    self.cur.execute(query,releaseId,flag['name'],flag['value'])
+                            for scraperReleaseImage in scraperRelease['releaseImages']:
+                                scraperReleaseImageId = self.getScraperReleaseImage(scraperReleaseId,scraperReleaseImage['name'],scraperReleaseImage['type'])                            
         self.con.commit()
 if __name__ == '__main__':
     gamedb = GameDB()
-    gamedb.import_folder("DAT")
+    gamedb.import_dats()
     gamedb.import_scrapers()
     gamedb.con.close()
     print "\nJob done."
