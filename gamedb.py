@@ -37,7 +37,7 @@ class GameDB:
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperGameFlags (scraperGameId INTEGER, scraperGameFlagName TEXT, scraperGameFlagValue TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleases (scraperReleaseId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperGameId INTEGER, scraperReleaseName TEXT, scraperReleaseRegion TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseFlags (scraperReleaseId INTEGER, scraperReleaseFlagName TEXT, scraperReleaseFlagValue TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseImages (scraperReleaseImageId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperReleaseId INTEGER, scraperImageName TEXT, scraperImageType TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseImages (scraperReleaseImageId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperReleaseId INTEGER, scraperReleaseImageName TEXT, scraperReleaseImageType TEXT)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatGame_fileId ON tblDatGames (datFileId ASC)")
         self.cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS idxDatGame_gameName ON tblDatGames (datFileId ASC,datGameName ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatRom_fileId ON tblDatRoms (datFileId ASC)")
@@ -329,7 +329,7 @@ class GameDB:
         scraperReleaseDic['scraperReleaseName'] = name
         scraperReleaseDic['scraperReleaseRegion'] = region
         query = "SELECT scraperReleaseId FROM tblScraperReleases WHERE scraperGameId=:scraperGameId AND scraperReleaseName=:scraperReleaseName AND scraperReleaseRegion=:scraperReleaseRegion"
-        self.cur.execute(query,scraperGameDic)
+        self.cur.execute(query,scraperReleaseDic)
         scraperReleaserow = self.cur.fetchone()
         if scraperReleaserow is None:
             query = "INSERT INTO tblScraperReleases (scraperGameId,scraperReleaseName,scraperReleaseRegion) VALUES (:scraperGameId,:scraperReleaseName,:scraperReleaseRegion)"
@@ -350,7 +350,7 @@ class GameDB:
         scraperReleaseImagerow = self.cur.fetchone()
         if scraperReleaseImagerow is None:
             query = "INSERT INTO tblScraperReleaseImages (scraperReleaseId,scraperReleaseImageName,scraperReleaseImageType) VALUES (:scraperReleaseId,:scraperReleaseImageName,:scraperReleaseImageType)"
-            self.cur.execyte(query,scraperReleaseImageDic)
+            self.cur.execute(query,scraperReleaseImageDic)
             scraperReleaseImageId = self.cur.lastrowid
         else:
             scraperReleaseImageId = scraperReleaseImagerow[0]
@@ -417,27 +417,27 @@ class GameDB:
             scraperId = self.getScraper(*scraperCols)
             scraper = Scraper(*scraperCols)
             for scraperSystemKey,scraperSystem in scraper.systems.items():
-                print "parsing data from " + scraper.name + " - " + scraperSystemKey
+                print "exporting game data for " + scraper.name + " - " + scraperSystemKey
                 scraperSystemId = self.getScraperSystem(scraperId,scraperSystem['systemName'],scraperSystem['systemAcronym'],scraperSystem['systemURL'])
                 for scraperGameKey,scraperGame in scraperSystem['systemGames'].items():
                     scraperGameId = self.getScraperGame(scraperSystemId,scraperGame['gameName'],scraperGame['gameUrl'])
                     if scraperGame['gameParsed']=='Yes':
                         for flag in scraperGame['softwareFlags']:
-                            query = "SELECT 1 FROM tblScraperGameFlags WHERE scraperGameId = ? AND scraperGameFlagName = ? AND scraperGameFlagName = ?"
-                            self.cur.execute(query,scraperGameId,flag['name'],flag['value'])
+                            query = "SELECT 1 FROM tblScraperGameFlags WHERE scraperGameId = ? AND scraperGameFlagName = ? AND scraperGameFlagValue = ?"
+                            self.cur.execute(query,(scraperGameId,flag['name'],flag['value']))
                             flagrow = self.cur.fetchone()
                             if flagrow is None:
-                                query = "INSERT INTO tblScraperGameFlags (scraperGameId,scraperGameFlagName,scraperGameFlagName) VALUES (?,?,?)"
-                                self.cur.execute(query,scraperGameId,flag['name'],flag['value'])
+                                query = "INSERT INTO tblScraperGameFlags (scraperGameId,scraperGameFlagName,scraperGameFlagValue) VALUES (?,?,?)"
+                                self.cur.execute(query,(scraperGameId,flag['name'],flag['value']))
                         for scraperRelease in scraperGame['releases']:
                             scraperReleaseId = self.getScraperRelease(scraperGameId,scraperRelease['name'],scraperRelease['region'])
                             for flag in scraperRelease['releaseFlags']:
                                 query = "SELECT 1 FROM tblScraperReleaseFlags WHERE scraperReleaseId = ? AND scraperReleaseFlagName = ? AND scraperReleaseFlagValue = ?"
-                                self.cur.execute(query,scraperReleaseId,flag['name'],flag['value'])
+                                self.cur.execute(query,(scraperReleaseId,flag['name'],flag['value']))
                                 flagrow = self.cur.fetchone()
                                 if flagrow is None:
                                     query = "INSERT INTO tblScraperReleaseFlags (scraperReleaseId,scraperReleaseFlagName,scraperReleaseFlagValue) VALUES (?,?,?)"
-                                    self.cur.execute(query,releaseId,flag['name'],flag['value'])
+                                    self.cur.execute(query,(scraperReleaseId,flag['name'],flag['value']))
                             for scraperReleaseImage in scraperRelease['releaseImages']:
                                 scraperReleaseImageId = self.getScraperReleaseImage(scraperReleaseId,scraperReleaseImage['name'],scraperReleaseImage['type'])                            
         self.con.commit()

@@ -19,6 +19,7 @@ class Scraper:
         self.systems = {}
         self.getSystems()
         self.getGames()
+        self.getGameData()
 
     def getSystems(self):
         self.systems = {}
@@ -39,7 +40,7 @@ class Scraper:
             urlDic = {}
             urlrow = urlline.split(";")
             urlDic['gameName'] = urlrow[2]
-            urlDic['gameUrl'] = urlrow[3]
+            urlDic['gameUrl'] = urlrow[3].replace('\r\n','')
             urlDic['gameParsed'] = 'No'
             self.systems[urlrow[1]]['systemGames'][urlDic['gameUrl']] = urlDic
 
@@ -47,11 +48,12 @@ class Scraper:
         xmlpath = 'Scrapers/' + self.name + '/xml'
         if os.path.exists(xmlpath):
             for xmlfile in os.listdir(xmlpath):
-                tree = ET.parse(xmlfile)
+                print "Parsing game data from " + xmlfile
+                tree = ET.parse(os.path.join(xmlpath,xmlfile))
                 root = tree.getroot()
                 for softnode in root.findall('software'):
                     systemname = softnode.get('system')
-                    url = softnode.get('url')
+                    url = softnode.get('URL')
                     gameDic = self.systems[systemname]['systemGames'][url]
                     gameDic['gameParsed'] = 'Yes'
                     gameDic['softwareFlags'] = []
@@ -67,7 +69,7 @@ class Scraper:
                         releaseDic['name'] = release.get('name')
                         releaseDic['region'] = release.get('region')
                         releaseDic['releaseFlags'] = []
-                        releasedic['releaseImages'] = []
+                        releaseDic['releaseImages'] = []
                         for flag in [flag for flag in list(release) if flag.tag !='ReleaseImages']:
                             if(flag.text is not None):
                                 if(len(flag.text)>1):
@@ -79,8 +81,8 @@ class Scraper:
                         if(images is not None):
                             for img in images.findall('Image'):
                                 imageDic = {}
-                                image['name'] = img.text
-                                image['type'] = re.search("_([a-z]+)\.",img.text,re.IGNORECASE).group(1)
+                                imageDic['name'] = img.text
+                                imageDic['type'] = re.search("_([a-z]+)\.",img.text,re.IGNORECASE).group(1)
                                 releaseDic['releaseImages'].append(imageDic)
                         gameDic['releases'].append(releaseDic)
                   
@@ -88,8 +90,9 @@ if __name__ == '__main__':
     gf = Scraper('GameFAQs','http://www.gamefaqs.com')
     gf.getSystems()
     gf.getGames()
-    for system in gf.systems:
-        print system
+    gf.getGameData()
+    for key,system in gf.systems.items():
+        print system['systemGames'].itervalues().next()
     print "Done."
         
             
