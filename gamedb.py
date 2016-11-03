@@ -7,6 +7,7 @@ import codecs
 from dat import DAT
 from regexes import GameDBRegex
 from scraper import Scraper
+from matcher import Matcher
 
 flag = namedtuple('Flag',['name','value'])
 
@@ -32,7 +33,7 @@ class GameDB:
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlags (releaseFlagId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseFlagName TEXT )")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlagValues (releaseId INTEGER, releaseFlagId INTEGER, releaseFlagValue TEXT )")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScrapers (scraperId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperName TEXT, scraperURL TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperSystems (scraperSystemId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperId INTEGER, scraperSystemName TEXT, scraperSystemAcronym TEXT, scraperSystemURL TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperSystems (scraperSystemId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperId INTEGER, scraperSystemName TEXT, scraperSystemAcronym TEXT, scraperSystemURL TEXT, systemId INTEGER)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperGames (scraperGameId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperSystemId INTEGER, scraperGameName TEXT, scraperGameURL TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperGameFlags (scraperGameId INTEGER, scraperGameFlagName TEXT, scraperGameFlagValue TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleases (scraperReleaseId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperGameId INTEGER, scraperReleaseName TEXT, scraperReleaseRegion TEXT)")
@@ -440,9 +441,28 @@ class GameDB:
                             for scraperReleaseImage in scraperRelease['releaseImages']:
                                 scraperReleaseImageId = self.getScraperReleaseImage(scraperReleaseId,scraperReleaseImage['name'],scraperReleaseImage['type'])                            
         self.con.commit()
+
+    def match_systems(self):
+        systemDic = {}
+        matcher = Matcher()
+        query = "SELECT systemId, systemName FROM tblSystems"
+        self.cur.execute(query)
+        for row in self.cur:
+            systemDic[row[0]] = row[1]
+        query = "SELECT scraperSystemId, scraperSystemName FROM tblScraperSystems"
+        self.cur.execute(query)
+        scraperSystems = self.cur.fetchall()
+        for scraperSystem in scraperSystems:
+            systemId = matcher.match_fuzzy(systemDic,scraperSystem[1])
+            query = "UPDATE tblScraperSystems SET systemId = ? WHERE scraperSystemId = ?"
+            self.cur.execute(query,(systemId,scraperSystem[0]))
+        self.con.commit()
+        print "\n***** Please do update the mismatched systems ! ****\n"
+        
 if __name__ == '__main__':
     gamedb = GameDB()
-    gamedb.import_dats()
-    gamedb.import_scrapers()
+    #gamedb.import_dats()
+    #gamedb.import_scrapers()
+    gamedb.match_systems()
     gamedb.con.close()
     print "\nJob done."
