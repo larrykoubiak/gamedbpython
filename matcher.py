@@ -1,8 +1,24 @@
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import regex as re
+import codecs
 
 class Matcher:
+    def __init__(self):
+        self.synonyms = []
+        self.getSynonyms()
+        
+    def getSynonyms(self):
+        self.synonyms = []
+        synonymsfile = codecs.open('Scrapers/synonyms.csv','r',encoding='utf8')
+        for synonym in synonymsfile:
+            synonymDic = {}
+            synonymrow = synonym.split(",")
+            synonymDic['key'] = synonymrow[0]
+            synonymDic['value'] = synonymrow[1].replace('\r\n','')
+            self.synonyms.append(synonymDic)
+        synonymsfile.close()
+
     def match_fuzzy(self, Dic, Entry):
         for key,value in Dic.items():
             Dic[key] = self.normalize(value)

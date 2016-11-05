@@ -39,6 +39,7 @@ class GameDB:
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleases (scraperReleaseId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperGameId INTEGER, scraperReleaseName TEXT, scraperReleaseRegion TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseFlags (scraperReleaseId INTEGER, scraperReleaseFlagName TEXT, scraperReleaseFlagValue TEXT)")
         self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseImages (scraperReleaseImageId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperReleaseId INTEGER, scraperReleaseImageName TEXT, scraperReleaseImageType TEXT)")
+        self.cur.execute("CREATE TABLE IF NOT EXISTS tblSynonyms (key TEXT, value TEXT)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatGame_fileId ON tblDatGames (datFileId ASC)")
         self.cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS idxDatGame_gameName ON tblDatGames (datFileId ASC,datGameName ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatRom_fileId ON tblDatRoms (datFileId ASC)")
@@ -54,6 +55,7 @@ class GameDB:
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxScraperRelease_gameid ON tblScraperReleases (scraperGameId ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxscraperreleaseflag_releaseid ON tblScraperReleaseFlags (scraperReleaseId ASC)")
         self.cur.execute("CREATE INDEX IF NOT EXISTS idxscraperreleaseimage_releaseid ON tblScraperReleaseImages (scraperReleaseId ASC)")
+        self.cur.execute("CREATE INDEX IF NOT EXISTS idxsynonym_key ON tblSynonyms (key ASC)")
         self.con.commit()
 
     def getSystem(self,manufacturer,systemName):
@@ -355,6 +357,15 @@ class GameDB:
         else:
             scraperReleaseImageId = scraperReleaseImagerow[0]
         return scraperReleaseImageId
+
+    def getSynonym(self,synonymDic):
+        synonymId = None
+        query = "SELECT key, value FROM tblSynonyms WHERE key=:key AND value=:value"
+        self.cur.execute(query,synonymDic)
+        synonymrow = self.cur.fetchone()
+        if synonymrow is None:
+            query = "INSERT INTO tblSynonyms (key,value) VALUES (:key,:value)"
+            self.cur.execute(query,synonymDic)
     
     def import_dat(self,dat):
         datGameId = None
@@ -445,6 +456,8 @@ class GameDB:
     def match_systems(self):
         systemDic = {}
         matcher = Matcher()
+        for synonym in matcher.synonyms:
+            self.getSynonym(synonym)
         query = "SELECT systemId, systemName FROM tblSystems"
         self.cur.execute(query)
         for row in self.cur:
@@ -452,17 +465,23 @@ class GameDB:
         query = "SELECT scraperSystemId, scraperSystemName FROM tblScraperSystems"
         self.cur.execute(query)
         scraperSystems = self.cur.fetchall()
+        #create fuzzy matches for system
         for scraperSystem in scraperSystems:
             systemId = matcher.match_fuzzy(systemDic,scraperSystem[1])
+            if systemId is None:
+                #use synonym table to find match
+                query = "SELECT s.systemId FROM tblSystems s INNER JOIN tblSynonyms sn ON sn.key = s.systemName INNER JOIN tblScraperSystems ss ON ss.scraperSystemName = sn.value WHERE ss.scraperSystemId = " + str(scraperSystem[0])
+                self.cur.execute(query)
+                systemrow = self.cur.fetchone()
+                systemId = None if systemrow is None else systemrow[0]
             query = "UPDATE tblScraperSystems SET systemId = ? WHERE scraperSystemId = ?"
             self.cur.execute(query,(systemId,scraperSystem[0]))
         self.con.commit()
-        print "\n***** Please do update the mismatched systems ! ****\n"
         
 if __name__ == '__main__':
     gamedb = GameDB()
-    #gamedb.import_dats()
-    #gamedb.import_scrapers()
+    gamedb.import_dats()
+    gamedb.import_scrapers()
     gamedb.match_systems()
     gamedb.con.close()
     print "\nJob done."
