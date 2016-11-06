@@ -349,6 +349,19 @@ class GameDB:
             self.cur.execute(query,systemMatchDic)
         else:
             pass
+
+    def getSoftwareMatch(self,softwareId,scraperGameId):
+        softwareMatchDic = {}
+        softwareMatchDic['softwareId'] = softwareId
+        softwareMatchDic['scraperGameId'] = scraperGameId
+        query = "SELECT 1 FROM tblSoftwareMap WHERE softwareId = :softwareId AND scraperGameId = :scraperGameId"
+        self.cur.execute(query,softwareMatchDic)
+        softwareMatchrow = self.cur.fetchone()
+        if softwareMatchrow is None:
+            query = "INSERT INTO tblSoftwareMap (softwareId, scraperGameId) VALUES (:softwareId,:scraperGameId)"
+            self.cur.execute(query,softwareMatchDic)
+        else:
+            pass
         
     def import_dat(self,dat):
         datGameId = None
@@ -450,6 +463,7 @@ class GameDB:
         scraperSystems = self.cur.fetchall()
         #create fuzzy matches for system
         for scraperSystem in scraperSystems:
+            print "Matching System : " + scraperSystem[1]
             #use synonym table to find match
             query = "SELECT s.systemId FROM tblSystems s INNER JOIN tblSynonyms sn ON sn.key = s.systemName INNER JOIN tblScraperSystems ss ON ss.scraperSystemName = sn.value WHERE ss.scraperSystemId = " + str(scraperSystem[0])
             self.cur.execute(query)
@@ -457,11 +471,36 @@ class GameDB:
             for systemrow in systemrows:
                 self.getSystemMatch(systemrow[0],scraperSystem[0])
         self.con.commit()
+
+    def match_softwares(self):
+        scrapedGamesDic = {}
+        matcher = Matcher()
+        query = """SELECT s.systemId, s.systemName, ss.scraperSystemId FROM tblSystems s INNER JOIN tblSystemMap sm on s.systemId = sm.systemId INNER JOIN
+                tblScraperSystems ss on sm.scraperSystemId = ss.scraperSystemId WHERE ss.scraperId = 1"""
+        self.cur.execute(query)
+        systems = self.cur.fetchall()
+        for system in systems:
+            print "Matching Softwares for System : " + system[1]
+            releaseDic = {}
+            query = """SELECT DISTINCT sr.scraperGameId, sr.scraperReleaseName FROM tblScraperReleases
+                    sr INNER JOIN tblScraperGames sg ON sg.scraperGameId = sr.scraperGameId WHERE sg.scraperSystemId = ?"""
+            self.cur.execute(query,(system[2],))
+            for row in self.cur:
+                releaseDic[row[0]] = row[1]
+
+            query = "SELECT softwareId, softwareName FROM tblSoftwares s WHERE s.systemId = ?"
+            self.cur.execute(query,(system[0],))
+            softwares = self.cur.fetchall()
+            for software in softwares:
+                scraperGameId = matcher.match_fuzzy(releaseDic,software[1])
+                self.getSoftwareMatch(software[0],scraperGameId)
+        self.con.commit()        
         
 if __name__ == '__main__':
     gamedb = GameDB()
-    #gamedb.import_dats()
-    #gamedb.import_scrapers()
+    gamedb.import_dats()
+    gamedb.import_scrapers()
     gamedb.match_systems()
+    gamedb.match_softwares()
     gamedb.con.close()
     print "\nJob done."

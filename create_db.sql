@@ -23,6 +23,9 @@ CREATE TABLE IF NOT EXISTS tblScraperReleaseImages (scraperReleaseImageId INTEGE
 --Matcher tables
 CREATE TABLE IF NOT EXISTS tblSynonyms (key TEXT, value TEXT)
 CREATE TABLE IF NOT EXISTS tblSystemMap(systemId INTEGER, scraperSystemId INTEGER)
+CREATE TABLE IF NOT EXISTS tblSoftwareMap(softwareId INTEGER, scraperGameId INTEGER)
+--View
+CREATE VIEW IF NOT EXISTS vSoftwareMatch as SELECT  s.systemId, s.systemName, so.softwareId, so.softwareName, sg.scraperGameName FROM tblSystems s INNER JOIN tblSoftwares so on s.systemId = so.systemId INNER JOIN tblSoftwareMap sm on so.softwareId = sm.softwareId INNER JOIN tblScraperGames sg on sm.scraperGameId = sg.scraperGameId ORDER BY 1,5
 
 /*-------------*/
 /*   Indexes   */
@@ -37,13 +40,14 @@ CREATE INDEX IF NOT EXISTS idxROM_releaseId ON tblROMs (releaseId ASC)
 CREATE INDEX IF NOT EXISTS idxROM_hashes ON tblROMs (crc32 ASC,md5 ASC,sha1 ASC)
 CREATE INDEX IF NOT EXISTS idxRelease_softwareId ON tblReleases (softwareId ASC)
 CREATE INDEX IF NOT EXISTS idxSoftware_systemId ON tblSoftwares (systemId ASC)
-CREATE INDEX IF NOT EXISTS idxreleaseflagvalue_releaseId_releaseFlagId ON tblReleaseFlagValues (releaseId ASC,releaseFlagId ASC)
+CREATE INDEX IF NOT EXISTS idxReleaseFlagValue_releaseId_releaseFlagId ON tblReleaseFlagValues (releaseId ASC,releaseFlagId ASC)
 --Scraper indexes
-CREATE INDEX IF NOT EXISTS idxscrapersystem_scraperId ON tblScraperSystems (scraperId ASC)
+CREATE INDEX IF NOT EXISTS idxScraperSystem_scraperId ON tblScraperSystems (scraperId ASC)
 CREATE INDEX IF NOT EXISTS idxScraperGame_systemId ON tblScraperGames (scraperSystemId ASC)
-CREATE INDEX IF NOT EXISTS idxscrapergameflag_gameid ON tblScraperGameFlags (scraperGameId ASC)
+CREATE INDEX IF NOT EXISTS idxScraperGameFlag_gameid ON tblScraperGameFlags (scraperGameId ASC)
 CREATE INDEX IF NOT EXISTS idxScraperRelease_gameid ON tblScraperReleases (scraperGameId ASC)
-CREATE INDEX IF NOT EXISTS idxscraperreleaseflag_releaseid ON tblScraperReleaseFlags (scraperReleaseId ASC)
-CREATE INDEX IF NOT EXISTS idxscraperreleaseimage_releaseid ON tblScraperReleaseImages (scraperReleaseId ASC)
+CREATE INDEX IF NOT EXISTS idxScraperReleaseFlag_releaseid ON tblScraperReleaseFlags (scraperReleaseId ASC)
+CREATE INDEX IF NOT EXISTS idxScraperReleaseImage_releaseid ON tblScraperReleaseImages (scraperReleaseId ASC)
 --Matcher indexes
-CREATE INDEX IF NOT EXISTS idxsynonym_key ON tblSynonyms (key ASC)
+CREATE INDEX IF NOT EXISTS idxSynonym_key ON tblSynonyms (key ASC)
+CREATE INDEX IF NOT EXISTS idxSoftwareMap_sofwareId ON tblSoftwareMap (softwareId ASC, scraperGameId ASC)
