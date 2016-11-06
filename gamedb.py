@@ -23,41 +23,11 @@ class GameDB:
         self.init_database()
 
     def init_database(self):
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblDatFiles (datFileId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, systemId TEXT, datFileName TEXT, datType TEXT, datReleaseGroup TEXT, datDate TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblDatGames (datGameId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, datFileId INTEGER, datGameName TEXT, datCloneOf TEXT, datRomOf TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblDatRoms (datROMId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, datFileId INTEGER, datGameId INTEGER, datROMName TEXT, datROMMerge TEXT, datROMSize INTEGER, datROMCRC TEXT, datROMMD5 TEXT, datROMSHA1 TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblSystems (systemId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, systemName TEXT, systemManufacturer TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblSoftwares (softwareId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, softwareName TEXT, softwareType TEXT, systemId INTEGER)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleases (releaseId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseName TEXT, releaseType TEXT, softwareId INTEGER )")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblROMs (romId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseId INTEGER, crc32 TEXT, md5 TEXT, sha1 TEXT, size INTEGER )")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlags (releaseFlagId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseFlagName TEXT )")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblReleaseFlagValues (releaseId INTEGER, releaseFlagId INTEGER, releaseFlagValue TEXT )")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScrapers (scraperId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperName TEXT, scraperURL TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperSystems (scraperSystemId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperId INTEGER, scraperSystemName TEXT, scraperSystemAcronym TEXT, scraperSystemURL TEXT, systemId INTEGER)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperGames (scraperGameId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperSystemId INTEGER, scraperGameName TEXT, scraperGameURL TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperGameFlags (scraperGameId INTEGER, scraperGameFlagName TEXT, scraperGameFlagValue TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleases (scraperReleaseId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperGameId INTEGER, scraperReleaseName TEXT, scraperReleaseRegion TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseFlags (scraperReleaseId INTEGER, scraperReleaseFlagName TEXT, scraperReleaseFlagValue TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblScraperReleaseImages (scraperReleaseImageId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperReleaseId INTEGER, scraperReleaseImageName TEXT, scraperReleaseImageType TEXT)")
-        self.cur.execute("CREATE TABLE IF NOT EXISTS tblSynonyms (key TEXT, value TEXT)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatGame_fileId ON tblDatGames (datFileId ASC)")
-        self.cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS idxDatGame_gameName ON tblDatGames (datFileId ASC,datGameName ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatRom_fileId ON tblDatRoms (datFileId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxDatRom_gameId ON tblDatRoms (datGameId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxROM_releaseId ON tblROMs (releaseId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxROM_hashes ON tblROMs (crc32 ASC,md5 ASC,sha1 ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxRelease_softwareId ON tblReleases (softwareId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxSoftware_systemId ON tblSoftwares (systemId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxreleaseflagvalue_releaseId_releaseFlagId ON tblReleaseFlagValues (releaseId ASC,releaseFlagId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxscrapersystem_scraperId ON tblScraperSystems (scraperId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxScraperGame_systemId ON tblScraperGames (scraperSystemId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxscrapergameflag_gameid ON tblScraperGameFlags (scraperGameId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxScraperRelease_gameid ON tblScraperReleases (scraperGameId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxscraperreleaseflag_releaseid ON tblScraperReleaseFlags (scraperReleaseId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxscraperreleaseimage_releaseid ON tblScraperReleaseImages (scraperReleaseId ASC)")
-        self.cur.execute("CREATE INDEX IF NOT EXISTS idxsynonym_key ON tblSynonyms (key ASC)")
+        sqlfile = codecs.open('create_db.sql')
+        for line in sqlfile:
+            self.cur.execute(line)
         self.con.commit()
-
+        
     def getSystem(self,manufacturer,systemName):
         system = {}
         systemId = None
@@ -366,7 +336,20 @@ class GameDB:
         if synonymrow is None:
             query = "INSERT INTO tblSynonyms (key,value) VALUES (:key,:value)"
             self.cur.execute(query,synonymDic)
-    
+
+    def getSystemMatch(self,systemId,scraperSystemId):
+        systemMatchDic = {}
+        systemMatchDic['systemId'] = systemId
+        systemMatchDic['scraperSystemId'] = scraperSystemId
+        query = "SELECT 1 FROM tblSystemMap WHERE systemId = :systemId AND scraperSystemId = :scraperSystemId"
+        self.cur.execute(query,systemMatchDic)
+        systemMatchrow = self.cur.fetchone()
+        if systemMatchrow is None:
+            query = "INSERT INTO tblSystemMap (systemId, scraperSystemId) VALUES (:systemId,:scraperSystemId)"
+            self.cur.execute(query,systemMatchDic)
+        else:
+            pass
+        
     def import_dat(self,dat):
         datGameId = None
         datRomId = None
@@ -467,21 +450,18 @@ class GameDB:
         scraperSystems = self.cur.fetchall()
         #create fuzzy matches for system
         for scraperSystem in scraperSystems:
-            systemId = matcher.match_fuzzy(systemDic,scraperSystem[1])
-            if systemId is None:
-                #use synonym table to find match
-                query = "SELECT s.systemId FROM tblSystems s INNER JOIN tblSynonyms sn ON sn.key = s.systemName INNER JOIN tblScraperSystems ss ON ss.scraperSystemName = sn.value WHERE ss.scraperSystemId = " + str(scraperSystem[0])
-                self.cur.execute(query)
-                systemrow = self.cur.fetchone()
-                systemId = None if systemrow is None else systemrow[0]
-            query = "UPDATE tblScraperSystems SET systemId = ? WHERE scraperSystemId = ?"
-            self.cur.execute(query,(systemId,scraperSystem[0]))
+            #use synonym table to find match
+            query = "SELECT s.systemId FROM tblSystems s INNER JOIN tblSynonyms sn ON sn.key = s.systemName INNER JOIN tblScraperSystems ss ON ss.scraperSystemName = sn.value WHERE ss.scraperSystemId = " + str(scraperSystem[0])
+            self.cur.execute(query)
+            systemrows = self.cur.fetchall()
+            for systemrow in systemrows:
+                self.getSystemMatch(systemrow[0],scraperSystem[0])
         self.con.commit()
         
 if __name__ == '__main__':
     gamedb = GameDB()
-    gamedb.import_dats()
-    gamedb.import_scrapers()
+    #gamedb.import_dats()
+    #gamedb.import_scrapers()
     gamedb.match_systems()
     gamedb.con.close()
     print "\nJob done."
