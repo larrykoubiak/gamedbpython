@@ -2,7 +2,7 @@ import sqlite3 as lite
 import os
 from datetime import datetime
 from collections import namedtuple
-import codecs
+import io
 
 from dat import DAT
 from regexes import GameDBRegex
@@ -23,9 +23,8 @@ class GameDB:
         self.init_database()
 
     def init_database(self):
-        sqlfile = codecs.open('create_db.sql')
-        for line in sqlfile:
-            self.cur.execute(line)
+        sqlfile = io.open('create_db.sql','r',encoding='utf-8').read()
+        self.cur.executescript(sqlfile)
         self.con.commit()
         
     def getSystem(self,manufacturer,systemName):
@@ -418,7 +417,7 @@ class GameDB:
 
     def import_scrapers(self):
         self.scrapers = []
-        scrapersfile = codecs.open('Scrapers/scrapers.csv')
+        scrapersfile = io.open('Scrapers/scrapers.csv','r',encoding='utf-8')
         for scraperline in scrapersfile:
             scraperCols = scraperline.split(';')
             scraperId = self.getScraper(*scraperCols)
@@ -488,7 +487,7 @@ class GameDB:
             for row in self.cur:
                 releaseDic[row[0]] = row[1]
 
-            query = "SELECT softwareId, softwareName FROM tblSoftwares s WHERE s.systemId = ?"
+            query = "SELECT softwareId, softwareName FROM tblSoftwares s WHERE s.systemId = ? AND NOT EXISTS (SELECT 1 FROM tblSoftwareMap WHERE softwareId = s.softwareId)"
             self.cur.execute(query,(system[0],))
             softwares = self.cur.fetchall()
             for software in softwares:
