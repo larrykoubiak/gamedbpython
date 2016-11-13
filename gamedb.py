@@ -8,6 +8,7 @@ from dat import DAT
 from regexes import GameDBRegex
 from scraper import Scraper
 from matcher import Matcher
+from exporter import Exporter
 
 flag = namedtuple('Flag',['name','value'])
 
@@ -493,13 +494,60 @@ class GameDB:
             for software in softwares:
                 scraperGameId = matcher.match_fuzzy(releaseDic,software[1])
                 self.getSoftwareMatch(software[0],scraperGameId)
-        self.con.commit()        
+        self.con.commit()
+
+    def export_metadata(self):
+        exporter = Exporter()
+        for flagname in ['developer','franchise','genre']:
+            flag = {}
+            flag['name'] = flagname
+            if flagname == "developer":
+                flag['scraperGameFlagName'] = "Developer"
+            elif flagname == "franchise":
+                flag['scraperGameFlagName'] = "Franchise"
+            elif flagname == "genre":
+                flag['scraperGameFlagName'] = "Genre"
+            else:
+                pass
+            flag['systems'] = []
+            query = """SELECT DISTINCT sgf.scraperGameFlagName, s.systemManufacturer || ' - ' || s.systemName systemName, s.systemId
+                    FROM tblScraperGameFlags sgf INNER JOIN
+                    tblScraperGames sg ON sg.scraperGameId = sgf.scraperGameId INNER JOIN
+                    tblScraperSystems ss ON ss.scraperSystemId = sg.scraperSystemId INNER JOIN
+                    tblSystemMap sm ON sm.scraperSystemId = ss.scraperSystemId INNER JOIN
+                    tblSystems s ON s.systemId = sm.systemId
+                    WHERE scraperGameFlagName = ?"""
+            self.cur.execute(query,(flag['scraperGameFlagName'],))
+            systemrows = self.cur.fetchall()
+            for systemrow in systemrows:
+                system = {}
+                system['name'] = systemrow[1]
+                system['roms'] = []
+                query = """SELECT ro.crc32, r.releaseName, sgf.scraperGameFlagValue
+                        FROM tblROMs ro INNER JOIN 
+                        tblReleases r ON r.releaseId = ro.releaseId INNER JOIN
+                        tblSoftwares so ON so.softwareId = r.softwareId INNER JOIN
+                        tblSoftwareMap sm ON sm.softwareId = so.softwareId INNER JOIN
+                        tblScraperGameFlags sgf ON sgf.scraperGameId = sm.scraperGameId
+                        WHERE so.systemId = ? AND sgf.scraperGameFlagName = ?"""
+                self.cur.execute(query,(systemrow[2],flag['scraperGameFlagName']))
+                romrows = self.cur.fetchall()
+                for romrow in romrows:
+                    rom = {}
+                    rom['name'] = romrow[1]
+                    rom['flagvalue'] = romrow[2]
+                    rom['crc'] = romrow[0]
+                    system['roms'].append(rom)
+                flag['systems'].append(system)
+            print "Exporting flag " + flagname
+            exporter.export_rdb_dat(flag)            
         
 if __name__ == '__main__':
     gamedb = GameDB()
-    gamedb.import_dats()
-    gamedb.import_scrapers()
-    gamedb.match_systems()
-    gamedb.match_softwares()
+    #gamedb.import_dats()
+    #gamedb.import_scrapers()
+    #gamedb.match_systems()
+    #gamedb.match_softwares()
+    gamedb.export_metadata()
     gamedb.con.close()
     print "\nJob done."
