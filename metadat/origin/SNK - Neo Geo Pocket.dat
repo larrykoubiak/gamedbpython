@@ -1,0 +1,71 @@
+clrmamepro (
+	name "SNK - Neo Geo Pocket"
+	description "SNK - Neo Geo Pocket"
+)
+
+game (
+	name "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo)"
+	origin "Japan"
+	rom ( crc 2660BFC4 )
+)
+
+game (
+	name "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+	origin "Japan,Europe"
+	rom ( crc 32E4696A )
+)
+
+game (
+	name "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+	origin "Japan,Europe"
+	rom ( crc 33ADD5BD )
+)
+
+game (
+	name "Baseball Stars (Japan, Europe) (En,Ja)"
+	origin "Japan,Europe"
+	rom ( crc 4781AE84 )
+)
+
+game (
+	name "Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)"
+	origin "Japan,Europe"
+	rom ( crc 5C067579 )
+)
+
+game (
+	name "[BIOS] SNK Neo Geo Pocket (Japan, Europe)"
+	origin "Japan,Europe"
+	rom ( crc 6232DF8D )
+)
+
+game (
+	name "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+	origin "Japan,Europe"
+	rom ( crc 89410850 )
+)
+
+game (
+	name "Melon-chan no Seichou Nikki (Japan)"
+	origin "Japan"
+	rom ( crc CB42CFA4 )
+)
+
+game (
+	name "Renketsu Puzzle Tsunagete Pon! (Japan)"
+	origin "Japan"
+	rom ( crc CE09F534 )
+)
+
+game (
+	name "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+	origin "Japan,Europe"
+	rom ( crc DCEB7E11 )
+)
+
+game (
+	name "Shougi no Tatsujin (Japan)"
+	origin "Japan"
+	rom ( crc F34D0C9B )
+)
+

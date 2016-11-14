@@ -1,0 +1,269 @@
+clrmamepro (
+	name "Nintendo - Pokemon Mini"
+	description "Nintendo - Pokemon Mini"
+)
+
+game (
+	name "Pichu Bros. Mini (Japan)"
+	origin "Japan"
+	rom ( crc 00D8C968 )
+)
+
+game (
+	name "Snorlax's Lunch Time (Japan) (GameCube)"
+	origin "Japan"
+	rom ( crc 0186EA70 )
+)
+
+game (
+	name "Lunch Time (USA) (GameCube)"
+	origin "USA"
+	rom ( crc 05C5C126 )
+)
+
+game (
+	name "Pokemon Party Mini - Baseline Judge (USA) (GameCube)"
+	origin "USA"
+	rom ( crc 0CFB4D1C )
+)
+
+game (
+	name "Pokemon Party Mini - Baseline Judge (Europe) (GameCube)"
+	origin "Europe"
+	rom ( crc 0E1E150B )
+)
+
+game (
+	name "Pokemon Puzzle Collection (Germany) (GameCube Preview)"
+	origin "Germany"
+	rom ( crc 0E7752E8 )
+)
+
+game (
+	name "Pokemon Anime Card Daisakusen (Japan)"
+	origin "Japan"
+	rom ( crc 199D7AB1 )
+)
+
+game (
+	name "Pokemon Puzzle Collection (Germany)"
+	origin "Germany"
+	rom ( crc 22101046 )
+)
+
+game (
+	name "Pokemon Puzzle Collection (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 2B348340 )
+)
+
+game (
+	name "Pokemon Tetris (Europe) (En,Ja,Fr)"
+	origin "Europe"
+	rom ( crc 2FB23527 )
+)
+
+game (
+	name "Pokemon Puzzle Collection (France)"
+	origin "France"
+	rom ( crc 3004C354 )
+)
+
+game (
+	name "Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)"
+	origin "USA"
+	rom ( crc 3322ED38 )
+)
+
+game (
+	name "Togepi no Daibouken (Japan)"
+	origin "Japan"
+	rom ( crc 33B3492B )
+)
+
+game (
+	name "Pokemon Pinball Mini (Japan)"
+	origin "Japan"
+	rom ( crc 398D47DE )
+)
+
+game (
+	name "Pokemon Party Mini - Rocket Start (USA) (GameCube)"
+	origin "USA"
+	rom ( crc 44C5271E )
+)
+
+game (
+	name "Pokemon Pinball Mini (USA) (GameCube Preview)"
+	origin "USA"
+	rom ( crc 50AD9D57 )
+)
+
+game (
+	name "Pokemon Party Mini (Europe)"
+	origin "Europe"
+	rom ( crc 54ACB670 )
+)
+
+game (
+	name "Pokemon Puzzle Collection (USA) (GameCube Preview)"
+	origin "USA"
+	rom ( crc 6F8AE656 )
+)
+
+game (
+	name "Pokemon Puzzle Collection Vol. 2 (Japan)"
+	origin "Japan"
+	rom ( crc 76A1BBF8 )
+)
+
+game (
+	name "Pokemon Puzzle Collection (France) (GameCube Preview)"
+	origin "France"
+	rom ( crc 7776F2BB )
+)
+
+game (
+	name "Pokemon Zany Cards (France)"
+	origin "France"
+	rom ( crc 830DA957 )
+)
+
+game (
+	name "Pokemon Pinball Mini (Japan) (Preview)"
+	origin "Japan"
+	rom ( crc 88CA8CC5 )
+)
+
+game (
+	name "Pokemon Zany Cards (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 8A2FC063 )
+)
+
+game (
+	name "Togepi no Daibouken (Japan) (Preview)"
+	origin "Japan"
+	rom ( crc 8C557C89 )
+)
+
+game (
+	name "Pokemon Race Mini (Japan) (Preview)"
+	origin "Japan"
+	rom ( crc 8F731830 )
+)
+
+game (
+	name "Pokemon Party Mini (USA)"
+	origin "USA"
+	rom ( crc 938D3819 )
+)
+
+game (
+	name "Pokemon Puzzle Collection (Japan)"
+	origin "Japan"
+	rom ( crc 95AFAE59 )
+)
+
+game (
+	name "Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)"
+	origin "Europe"
+	rom ( crc 9FD4D48B )
+)
+
+game (
+	name "Pokemon Pinball Mini (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc A0091534 )
+)
+
+game (
+	name "Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)"
+	origin "Japan"
+	rom ( crc A22D00A7 )
+)
+
+game (
+	name "Pokemon Party Mini (Japan)"
+	origin "Japan"
+	rom ( crc AE2DDE60 )
+)
+
+game (
+	name "[BIOS] Nintendo Pokemon Mini (World)"
+	origin "World"
+	rom ( crc AED3C14D )
+)
+
+game (
+	name "Pokemon Shock Tetris (Japan)"
+	origin "Japan"
+	rom ( crc B4B5CC20 )
+)
+
+game (
+	name "Snorlax's Lunch Time (Europe) (GameCube)"
+	origin "Europe"
+	rom ( crc B9324F30 )
+)
+
+game (
+	name "Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)"
+	origin "Europe"
+	rom ( crc BA504497 )
+)
+
+game (
+	name "Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)"
+	origin "Japan"
+	rom ( crc BE22866A )
+)
+
+game (
+	name "Pokemon Zany Cards (Germany)"
+	origin "Germany"
+	rom ( crc C009D501 )
+)
+
+game (
+	name "Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)"
+	origin "Japan"
+	rom ( crc D09DB45C )
+)
+
+game (
+	name "Pokemon Sodateyasan Mini (Japan)"
+	origin "Japan"
+	rom ( crc D55FC4C8 )
+)
+
+game (
+	name "Pokemon Puzzle Collection (Japan) (GameCube)"
+	origin "Japan"
+	rom ( crc DA278854 )
+)
+
+game (
+	name "Pichu Bros. Mini - Skateboard (Japan) (Preview)"
+	origin "Japan"
+	rom ( crc DEC65262 )
+)
+
+game (
+	name "Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)"
+	origin "Europe"
+	rom ( crc F15964AF )
+)
+
+game (
+	name "Pokemon Party Mini - Baseline Judge (Japan) (GameCube)"
+	origin "Japan"
+	rom ( crc F5192440 )
+)
+
+game (
+	name "Pokemon Race Mini (Japan)"
+	origin "Japan"
+	rom ( crc F8C842B5 )
+)
+

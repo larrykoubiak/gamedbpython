@@ -89,7 +89,6 @@ ENV/
 .ropeproject
 
 output/
-metadat/
 rdb/
 test/
 old/

@@ -1,0 +1,11 @@
+clrmamepro (
+	name "SNK - Neo Geo Pocket"
+	description "SNK - Neo Geo Pocket"
+)
+
+game (
+	name "Baseball Stars (Japan, Europe) (En,Ja)"
+	franchise "Baseball Stars"
+	rom ( crc 4781AE84 )
+)
+

@@ -1,0 +1,23 @@
+clrmamepro (
+	name "Fairchild - Channel F"
+	description "Fairchild - Channel F"
+)
+
+game (
+	name "Desert Fox, Shooting Gallery (USA)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 1570934B )
+)
+
+game (
+	name "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc FF4768B0 )
+)
+
+game (
+	name "Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 7124DC59 )
+)
+

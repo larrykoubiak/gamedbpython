@@ -1,0 +1,521 @@
+clrmamepro (
+	name "Atari - Lynx"
+	description "Atari - Lynx"
+)
+
+game (
+	name "NFL Football (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 006FD398 )
+)
+
+game (
+	name "Lexis (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 0271B6E9 )
+)
+
+game (
+	name "Awesome Golf (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 0483CD2A )
+)
+
+game (
+	name "Tournament Cyberball (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 0590A9E3 )
+)
+
+game (
+	name "[BIOS] Atari Lynx (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 0D973C9D )
+)
+
+game (
+	name "Lynx Casino (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 1091A268 )
+)
+
+game (
+	name "Switchblade II (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 13657705 )
+)
+
+game (
+	name "Rampart (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 139F301D )
+)
+
+game (
+	name "Bill & Ted's Excellent Adventure (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 143A313E )
+)
+
+game (
+	name "Pinball Jam (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 14D38CA7 )
+)
+
+game (
+	name "Toki (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 156A4A4C )
+)
+
+game (
+	name "Shanghai (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 192BCD04 )
+)
+
+game (
+	name "Checkered Flag (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 19C5A7A5 )
+)
+
+game (
+	name "Ninja Gaiden (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 22D47D51 )
+)
+
+game (
+	name "Pit Fighter - The Ultimate Competition (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 2393135F )
+)
+
+game (
+	name "Jimmy Connors' Tennis (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 2455B6CF )
+)
+
+game (
+	name "Batman Returns (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 277F82C2 )
+)
+
+game (
+	name "Lynx II Production Test Program V0.02 (USA) (Proto)"
+	origin "USA"
+	rom ( crc 28ADA019 )
+)
+
+game (
+	name "Super Asteroids, Missile Command (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 2DA7E2A8 )
+)
+
+game (
+	name "Battlezone 2000 (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 30FEE726 )
+)
+
+game (
+	name "Bubble Trouble (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 333DAECE )
+)
+
+game (
+	name "Dracula the Undead (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 33BB74C7 )
+)
+
+game (
+	name "Baseball Heroes (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 3943C116 )
+)
+
+game (
+	name "Lemmings (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 39B9B8CC )
+)
+
+game (
+	name "Block Out (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 3CD75DF3 )
+)
+
+game (
+	name "Basketbrawl (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 4161BB4A )
+)
+
+game (
+	name "Gates of Zendocon, The (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 494CC568 )
+)
+
+game (
+	name "Paperboy (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 4CDFBD57 )
+)
+
+game (
+	name "Dinolympics (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 50386CFA )
+)
+
+game (
+	name "Alien vs Predator (USA) (Proto)"
+	origin "USA"
+	rom ( crc 540E9BB7 )
+)
+
+game (
+	name "Steel Talons (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 5B2308ED )
+)
+
+game (
+	name "Ishido - The Way of Stones (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 5CF8BBF0 )
+)
+
+game (
+	name "Joust (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 5DBA792A )
+)
+
+game (
+	name "Rygar - Legendary Warrior (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 67E5BDBA )
+)
+
+game (
+	name "RoadBlasters (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 6867E80C )
+)
+
+game (
+	name "Super Off-Road (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 690CAEB0 )
+)
+
+game (
+	name "Road Riot 4WD (USA) (Proto)"
+	origin "USA"
+	rom ( crc 69959A3B )
+)
+
+game (
+	name "Chip's Challenge (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 6A5F53ED )
+)
+
+game (
+	name "Eye of the Beholder (USA) (Proto)"
+	origin "USA"
+	rom ( crc 6BCEAA9C )
+)
+
+game (
+	name "Hard Drivin' (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 6DF63834 )
+)
+
+game (
+	name "Battle Wheels (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 779FAECE )
+)
+
+game (
+	name "Robotron 2084 (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 7A6049B5 )
+)
+
+game (
+	name "Ms. Pac-Man (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 7DE3783A )
+)
+
+game (
+	name "Fidelity Ultimate Chess Challenge, The (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 7E4B5945 )
+)
+
+game (
+	name "Gauntlet - The Third Encounter (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 7F0EC7AD )
+)
+
+game (
+	name "S.T.U.N. Runner (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 8595C40B )
+)
+
+game (
+	name "Xybots (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 89E2A595 )
+)
+
+game (
+	name "Viking Child (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 8D56828B )
+)
+
+game (
+	name "Fat Bobby (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 9034EE27 )
+)
+
+game (
+	name "World Class Soccer (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 91233794 )
+)
+
+game (
+	name "Centipede (USA) (Proto)"
+	origin "USA"
+	rom ( crc 97501709 )
+)
+
+game (
+	name "Daemonsgate (USA) (Proto)"
+	origin "USA"
+	rom ( crc 99729395 )
+)
+
+game (
+	name "Power Factor (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 99C42034 )
+)
+
+game (
+	name "Xenophobe (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 9BED736D )
+)
+
+game (
+	name "California Games (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc A08F0B59 )
+)
+
+game (
+	name "Turbo Sub (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc A4B924D6 )
+)
+
+game (
+	name "Klax (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc A53649F1 )
+)
+
+game (
+	name "Pac-Land (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc AA50DD22 )
+)
+
+game (
+	name "Malibu Bikini Volleyball (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc ABA6DA3D )
+)
+
+game (
+	name "Todd's Adventures in Slime World (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc AE267E29 )
+)
+
+game (
+	name "Crystal Mines II (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc AEC474C8 )
+)
+
+game (
+	name "Rampage (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc B10B7C8E )
+)
+
+game (
+	name "Loopz (USA) (Proto)"
+	origin "USA"
+	rom ( crc B1C25EF1 )
+)
+
+game (
+	name "Warbirds (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc B946BA49 )
+)
+
+game (
+	name "QIX (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc B9881423 )
+)
+
+game (
+	name "Desert Strike - Return to the Gulf (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc B9AC1FE5 )
+)
+
+game (
+	name "Raiden (USA) (v3.0)"
+	origin "USA"
+	rom ( crc BCD10C3A )
+)
+
+game (
+	name "Electrocop (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc BD97116B )
+)
+
+game (
+	name "Scrapyard Dog (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc BE166F3B )
+)
+
+game (
+	name "Krazy Ace - Miniature Golf (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc BED5BA2B )
+)
+
+game (
+	name "Blue Lightning (USA) (Demo)"
+	origin "USA"
+	rom ( crc BFE36525 )
+)
+
+game (
+	name "Marlboro Go! (Europe) (Proto)"
+	origin "Europe"
+	rom ( crc C3FA0D4D )
+)
+
+game (
+	name "Zarlor Mercenary (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc CB27199D )
+)
+
+game (
+	name "Kung Food (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc CD1BD405 )
+)
+
+game (
+	name "Robo-Squash (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc D1DFF2B2 )
+)
+
+game (
+	name "Gordo 106 - The Mutated Lab Monkey (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc D20A85FC )
+)
+
+game (
+	name "Dirty Larry - Renegade Cop (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc D565FBB7 )
+)
+
+game (
+	name "Blue Lightning (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc DAF587B1 )
+)
+
+game (
+	name "Super Skweek (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc DFA61571 )
+)
+
+game (
+	name "Hydra (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc E3041C6C )
+)
+
+game (
+	name "Hockey (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc E8B45707 )
+)
+
+game (
+	name "Shadow of the Beast (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc EB78BAA3 )
+)
+
+game (
+	name "Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc F3E3F811 )
+)
+
+game (
+	name "A.P.B. - All Points Bulletin (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc F6FB48FB )
+)
+
+game (
+	name "European Soccer Challenge (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc F83397F9 )
+)
+
+game (
+	name "Double Dragon (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc FBFC0F05 )
+)
+

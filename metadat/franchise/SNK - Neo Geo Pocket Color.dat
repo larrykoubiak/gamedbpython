@@ -1,0 +1,143 @@
+clrmamepro (
+	name "SNK - Neo Geo Pocket Color"
+	description "SNK - Neo Geo Pocket Color"
+)
+
+game (
+	name "Baseball Stars Color (World) (En,Ja)"
+	franchise "Baseball Stars"
+	rom ( crc FFA7E88D )
+)
+
+game (
+	name "Cool Boarders Pocket (Japan, Europe) (En,Ja)"
+	franchise "Cool Boarders"
+	rom ( crc 833F9C22 )
+)
+
+game (
+	name "Infinity Cure (Japan)"
+	franchise "Infinity"
+	rom ( crc 32DC2AA2 )
+)
+
+game (
+	name "King of Fighters, The - Battle de Paradise (Japan)"
+	franchise "The King of Fighters"
+	rom ( crc 77E37BAC )
+)
+
+game (
+	name "Last Blade, The - Beyond the Destiny (Europe)"
+	franchise "The Last Blade"
+	rom ( crc 94FCFD1E )
+)
+
+game (
+	name "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)"
+	franchise "The Last Blade"
+	rom ( crc 12AFACB0 )
+)
+
+game (
+	name "Magical Drop Pocket (USA, Europe)"
+	franchise "Magical Drop"
+	rom ( crc 7712F82D )
+)
+
+game (
+	name "Magical Drop Pocket (Japan)"
+	franchise "Magical Drop"
+	rom ( crc 694CE2DC )
+)
+
+game (
+	name "Magical Drop Pocket (Japan) (Demo)"
+	franchise "Magical Drop"
+	rom ( crc D76F1A47 )
+)
+
+game (
+	name "Memories Off - Pure (Japan)"
+	franchise "Memories Off"
+	rom ( crc A7926E90 )
+)
+
+game (
+	name "Pac-Man (World) (En,Ja)"
+	franchise "Pac-Man"
+	rom ( crc 21E8CC15 )
+)
+
+game (
+	name "Pocket Love if (Japan)"
+	franchise "Pocket Love"
+	rom ( crc C2EE1EE5 )
+)
+
+game (
+	name "Rockman - Battle & Fighters (Japan)"
+	franchise "Mega Man"
+	rom ( crc 9C861E49 )
+)
+
+game (
+	name "Rockman - Battle & Fighters (Japan) (Demo)"
+	franchise "Mega Man"
+	rom ( crc 16A98AC4 )
+)
+
+game (
+	name "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)"
+	franchise "Capcom vs. SNK"
+	rom ( crc 80CE137B )
+)
+
+game (
+	name "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)"
+	franchise "Capcom vs. SNK"
+	rom ( crc 9217159B )
+)
+
+game (
+	name "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)"
+	franchise "Capcom vs. SNK"
+	rom ( crc 94B63A97 )
+)
+
+game (
+	name "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)"
+	franchise "Capcom vs. SNK"
+	rom ( crc 7065295C )
+)
+
+game (
+	name "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)"
+	franchise "Capcom vs. SNK"
+	rom ( crc E70E3F1A )
+)
+
+game (
+	name "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)"
+	franchise "Capcom vs. SNK"
+	rom ( crc B173030A )
+)
+
+game (
+	name "Sonic The Hedgehog - Pocket Adventure (World)"
+	franchise "Sonic the Hedgehog"
+	rom ( crc 356F0849 )
+)
+
+game (
+	name "Sonic The Hedgehog - Pocket Adventure (World) (Demo)"
+	franchise "Sonic the Hedgehog"
+	rom ( crc 622176CE )
+)
+
+game (
+	name "Super Real Mahjong - Premium Collection (Japan)"
+	franchise "Super Real Mahjong"
+	rom ( crc C6E620C3 )
+)
+

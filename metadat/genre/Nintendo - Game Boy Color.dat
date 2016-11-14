@@ -1,0 +1,6809 @@
+clrmamepro (
+	name "Nintendo - Game Boy Color"
+	description "Nintendo - Game Boy Color"
+)
+
+game (
+	name "007 - The World Is Not Enough (USA, Europe)"
+	genre "Action > Shooter > First-Person > Arcade"
+	rom ( crc E038E666 )
+)
+
+game (
+	name "10-Pin Bowling (Europe)"
+	genre "Sports > Individual > Bowling"
+	rom ( crc 5449CAC0 )
+)
+
+game (
+	name "10-Pin Bowling (USA) (Rumble Version)"
+	genre "Sports > Individual > Bowling"
+	rom ( crc 720C7023 )
+)
+
+game (
+	name "102 Dalmatians - Puppies to the Rescue (USA, Europe)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 56B83539 )
+)
+
+game (
+	name "102 Dalmatas - Cachorros Al Rescate (Spain)"
+	genre "Action > Platformer > 3D"
+	rom ( crc F2128908 )
+)
+
+game (
+	name "102 Dalmatiens a la Rescousse, Les (France)"
+	genre "Action > Platformer > 3D"
+	rom ( crc E84191A8 )
+)
+
+game (
+	name "102 Dalmatiner (Germany)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 725A3483 )
+)
+
+game (
+	name "1942 (USA, Europe)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 87431672 )
+)
+
+game (
+	name "3-D Ultra Pinball - Thrillride (USA) (Rumble Version)"
+	genre "Action > Pinball"
+	rom ( crc 1766E558 )
+)
+
+game (
+	name "3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Sports > Individual > Billiards"
+	rom ( crc 8CDAB77F )
+)
+
+game (
+	name "720 Degrees (USA, Europe)"
+	genre "Sports > Individual > Skate / Skateboard"
+	rom ( crc E633841F )
+)
+
+game (
+	name "Action Man - Search for Base X (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 1226499E )
+)
+
+game (
+	name "Adventures of Elmo in Grouchland, The (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 41228EE7 )
+)
+
+game (
+	name "Adventures of Elmo in Grouchland, The (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 2C4C2A5F )
+)
+
+game (
+	name "Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc D0D3DFED )
+)
+
+game (
+	name "Alfred's Adventure (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6F9EF15E )
+)
+
+game (
+	name "Alice in Wonderland (Europe) (En,Fr,De,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 85545D81 )
+)
+
+game (
+	name "Alice in Wonderland (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 3199F65F )
+)
+
+game (
+	name "Aliens - Thanatos Encounter (USA, Europe)"
+	genre "Action > General"
+	rom ( crc BEC3C24B )
+)
+
+game (
+	name "All-Star Baseball 2000 (USA, Europe)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc E17F59A5 )
+)
+
+game (
+	name "All-Star Baseball 2001 (USA)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc BC562466 )
+)
+
+game (
+	name "Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action Adventure > Survival"
+	rom ( crc 7FF2042F )
+)
+
+game (
+	name "Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)"
+	genre "Action Adventure > Survival"
+	rom ( crc C145C036 )
+)
+
+game (
+	name "Animal Breeder 3 (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc C62A4C30 )
+)
+
+game (
+	name "Animal Breeder 4 (Japan)"
+	genre "Simulation > Virtual > Pet"
+	rom ( crc 83D838C3 )
+)
+
+game (
+	name "Animastar GB (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc B14920F0 )
+)
+
+game (
+	name "Animorphs (Europe) (En,Fr,De,Es,It)"
+	genre "Adventure > General"
+	rom ( crc 7FD46DA1 )
+)
+
+game (
+	name "Animorphs (USA)"
+	genre "Adventure > General"
+	rom ( crc B4F293CC )
+)
+
+game (
+	name "Antz (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 4839E0C1 )
+)
+
+game (
+	name "Antz (USA) (En,Fr,Es)"
+	genre "Action > General"
+	rom ( crc DC0BE439 )
+)
+
+game (
+	name "Antz Racing (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Racing > Arcade > Other"
+	rom ( crc F625A959 )
+)
+
+game (
+	name "Antz Racing (USA) (En,Fr,De,Es,It,Nl)"
+	genre "Racing > Arcade > Other"
+	rom ( crc DFDF90C0 )
+)
+
+game (
+	name "Antz World Sportz (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 67C7F85C )
+)
+
+game (
+	name "Aqualife (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc E243FEB4 )
+)
+
+game (
+	name "Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 8EE043EA )
+)
+
+game (
+	name "Armada - FX Racers (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc D952CBAB )
+)
+
+game (
+	name "Armorines - Project S.W.A.R.M. (USA, Europe) (En,De)"
+	genre "Action > Shooter > First-Person > Arcade"
+	rom ( crc EA3B9C73 )
+)
+
+game (
+	name "Army Men (USA, Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 34411753 )
+)
+
+game (
+	name "Army Men - Air Combat (USA, Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc B0D1DE8C )
+)
+
+game (
+	name "Army Men - Sarge's Heroes 2 (USA, Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 71B857EA )
+)
+
+game (
+	name "Army Men 2 (USA, Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 2272BACA )
+)
+
+game (
+	name "Arthur's Absolutely Fun Day! (USA)"
+	genre "Action > General"
+	rom ( crc F03599A3 )
+)
+
+game (
+	name "Asterix & Obelix (Europe) (En,Fr,De,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6628CDEE )
+)
+
+game (
+	name "Asterix & Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl)"
+	genre "Action > General"
+	rom ( crc 71043D76 )
+)
+
+game (
+	name "Asteroids (USA, Europe)"
+	genre "Action > Shooter > Shoot-'Em-Up > Top-Down"
+	rom ( crc 89D5D936 )
+)
+
+game (
+	name "Atlantis - The Lost Empire (USA, Europe)"
+	genre "Adventure > General"
+	rom ( crc D594D24B )
+)
+
+game (
+	name "Atlantis - The Lost Empire (Europe) (En,Es,It)"
+	genre "Adventure > General"
+	rom ( crc 28F7D5E3 )
+)
+
+game (
+	name "Atlantis - The Lost Empire (Europe) (Fr,De,Nl)"
+	genre "Adventure > General"
+	rom ( crc 4E052510 )
+)
+
+game (
+	name "ATV Racing (Europe) (Unl)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 7987D5CD )
+)
+
+game (
+	name "Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc BF99F8CB )
+)
+
+game (
+	name "Austin Powers - Oh, Behave! (USA)"
+	genre "Action > General"
+	rom ( crc BB89190E )
+)
+
+game (
+	name "Austin Powers - Welcome to my Underground Lair! (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 693F50DA )
+)
+
+game (
+	name "Austin Powers - Welcome to my Underground Lair! (USA)"
+	genre "Action > General"
+	rom ( crc ABA42B78 )
+)
+
+game (
+	name "Azarashi Sentai Inazuma - Dokidoki Daisakusen! (Japan)"
+	genre "Action > General"
+	rom ( crc 98F63BD4 )
+)
+
+game (
+	name "B-Daman Bakugaiden - Victory e no Michi (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc DDCE76D6 )
+)
+
+game (
+	name "B-Daman Bakugaiden V - Final Mega Tune (Japan)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc 547A9A69 )
+)
+
+game (
+	name "Babe and Friends (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc B3681854 )
+)
+
+game (
+	name "Babe and Friends (USA)"
+	genre "Action > General"
+	rom ( crc E25407F1 )
+)
+
+game (
+	name "Baby Felix - Halloween (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 7DED5C71 )
+)
+
+game (
+	name "Backgammon (Europe) (En,Fr,De,Es)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc D33D6F7B )
+)
+
+game (
+	name "Backgammon (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 712A49B3 )
+)
+
+game (
+	name "Bad Badtz-Maru Robo Battle (Japan)"
+	genre "Action > General"
+	rom ( crc 4DD29B09 )
+)
+
+game (
+	name "Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!! (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 5C95D5A2 )
+)
+
+game (
+	name "Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 92C8B9B5 )
+)
+
+game (
+	name "Bakuten Shoot Beyblade (Japan)"
+	genre "Action > General"
+	rom ( crc BC306EA4 )
+)
+
+game (
+	name "Balloon Fight GB (Japan) (NP, SGB Enhanced)"
+	genre "Action > General"
+	rom ( crc D2AF64CE )
+)
+
+game (
+	name "Barbie - Fashion Pack Games (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 09EE93A8 )
+)
+
+game (
+	name "Barbie - Magic Genie Adventure (USA)"
+	genre "Action > General"
+	rom ( crc 57F1A202 )
+)
+
+game (
+	name "Barbie - Ocean Discovery (Europe)"
+	genre "Action > General"
+	rom ( crc FDC8E7F1 )
+)
+
+game (
+	name "Barbie - Aventura Submarina (Spain)"
+	genre "Action > General"
+	rom ( crc 0CF2B7F2 )
+)
+
+game (
+	name "Barbie - Avventure nell'Oceano (Italy)"
+	genre "Action > General"
+	rom ( crc 59645A18 )
+)
+
+game (
+	name "Barbie - Chasse au Tresor Sous-Marine (France)"
+	genre "Action > General"
+	rom ( crc 4068E981 )
+)
+
+game (
+	name "Barbie - Diepzee Avontuur (Netherlands)"
+	genre "Action > General"
+	rom ( crc 39C6B8DF )
+)
+
+game (
+	name "Barbie - Meeres Abenteuer (Germany)"
+	genre "Action > General"
+	rom ( crc 5E46D64A )
+)
+
+game (
+	name "Barbie - Ocean Discovery (USA)"
+	genre "Action > General"
+	rom ( crc 746936C6 )
+)
+
+game (
+	name "Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)"
+	genre "Miscellaneous > Edutainment"
+	rom ( crc 48E638CE )
+)
+
+game (
+	name "Barbie - Pet Rescue (USA)"
+	genre "Miscellaneous > Edutainment"
+	rom ( crc 1FC972CC )
+)
+
+game (
+	name "Bass Masters Classic (USA, Europe)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc B70028E4 )
+)
+
+game (
+	name "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)"
+	genre "Adventure > General"
+	rom ( crc F9D5B399 )
+)
+
+game (
+	name "Batman Beyond - Return of the Joker (Japan) (NP)"
+	genre "Adventure > General"
+	rom ( crc B8B1F8F8 )
+)
+
+game (
+	name "Batman Beyond - Return of the Joker (USA)"
+	genre "Adventure > General"
+	rom ( crc B32F4586 )
+)
+
+game (
+	name "Battleship (USA, Europe)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 8E6F8037 )
+)
+
+game (
+	name "BattleTanx (Europe) (En,Fr,De)"
+	genre "Simulation > Vehicle > Combat"
+	rom ( crc 2FCECB70 )
+)
+
+game (
+	name "BattleTanx (USA)"
+	genre "Simulation > Vehicle > Combat"
+	rom ( crc 4431F8E7 )
+)
+
+game (
+	name "Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 48C99939 )
+)
+
+game (
+	name "Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 851C8710 )
+)
+
+game (
+	name "Beatmania GB (Japan) (SGB Enhanced)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 0D9CB195 )
+)
+
+game (
+	name "Beatmania GB - Gotcha Mix 2 (Japan)"
+	genre "Action > Rhythm > Music"
+	rom ( crc B92A6D16 )
+)
+
+game (
+	name "Beatmania GB2 - Gotcha Mix (Japan) (SGB Enhanced)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 59BEB372 )
+)
+
+game (
+	name "Beauty and the Beast - A Board Game Adventure (Europe) (En,Fr,De,Es,It) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc E4C410F0 )
+)
+
+game (
+	name "Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 6DE1D581 )
+)
+
+game (
+	name "Benjamin Bluemchen - Ein verrueckter Tag im Zoo (Germany)"
+	genre "Adventure > General"
+	rom ( crc 51972995 )
+)
+
+game (
+	name "Beyblade - Fighting Tournament (Japan)"
+	genre "Action > General"
+	rom ( crc 1EC9DB95 )
+)
+
+game (
+	name "Bibi Blocksberg - Im Bann der Hexenkugel (Germany)"
+	genre "Adventure > General"
+	rom ( crc 4D39FBFE )
+)
+
+game (
+	name "Bibi und Tina - Fohlen Felix in Gefahr (Germany)"
+	genre "Adventure > General"
+	rom ( crc 8874ACD4 )
+)
+
+game (
+	name "Billy Bob's Huntin' 'n' Fishin' (USA, Europe)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc FA1E6853 )
+)
+
+game (
+	name "Bionic Commando - Elite Forces (USA, Australia)"
+	genre "Action > Platformer > 2D"
+	rom ( crc A663CF31 )
+)
+
+game (
+	name "Black Bass - Lure Fishing (USA, Europe)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc E44977DC )
+)
+
+game (
+	name "Black Onyx, The (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 582FE338 )
+)
+
+game (
+	name "Blade (USA, Europe)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 2DD5907F )
+)
+
+game (
+	name "Blue's Clues - Blue's Alphabet Book (USA)"
+	genre "Puzzle > General"
+	rom ( crc 748D1345 )
+)
+
+game (
+	name "Bob the Builder - Fix it Fun! (Europe) (En,Fr,De,Es,Nl)"
+	genre "Action > General"
+	rom ( crc EA33FE3D )
+)
+
+game (
+	name "Bob the Builder - Fix it Fun! (Europe) (En,Fr,It)"
+	genre "Action > General"
+	rom ( crc A8EBD88B )
+)
+
+game (
+	name "Bob the Builder - Fix it Fun! (Europe) (En,Sv,No,Da,Fi)"
+	genre "Action > General"
+	rom ( crc F319E823 )
+)
+
+game (
+	name "Bob the Builder - Fix it Fun! (USA)"
+	genre "Action > General"
+	rom ( crc 93FA37BD )
+)
+
+game (
+	name "Boku no Camp-jou (Japan)"
+	genre "Strategy > General"
+	rom ( crc C87120B5 )
+)
+
+game (
+	name "Bomberman Quest (Europe) (En,Fr,De) (SGB Enhanced)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc 5A9B9AE6 )
+)
+
+game (
+	name "Bomber Man Quest (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc 55210934 )
+)
+
+game (
+	name "Bomberman Quest (USA) (SGB Enhanced)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc A089C656 )
+)
+
+game (
+	name "Brave Saga - Shinshou Astaria (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 5D5D294A )
+)
+
+game (
+	name "Buffy the Vampire Slayer (USA, Europe)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 5692E262 )
+)
+
+game (
+	name "Bugs Bunny - Crazy Castle 3 (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 7A2801FB )
+)
+
+game (
+	name "Bugs Bunny - Crazy Castle 3 (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc AE839CAE )
+)
+
+game (
+	name "Bugs Bunny in Crazy Castle 4 (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 53155E60 )
+)
+
+game (
+	name "Bugs Bunny et le Chateau des Catastrophes (France)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6DA8E6EB )
+)
+
+game (
+	name "Bugs Bunny in Crazy Castle 4 (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc D6387EAA )
+)
+
+game (
+	name "Bugs Bunny in Crazy Castle 4 (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 98DBFFE0 )
+)
+
+game (
+	name "Burger Paradise International (Japan)"
+	genre "Strategy > General"
+	rom ( crc 9092B0EB )
+)
+
+game (
+	name "Buzz Lightyear of Star Command (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 84E29B87 )
+)
+
+game (
+	name "Aventures de Buzz l'Eclair, Les (France)"
+	genre "Action > General"
+	rom ( crc 841674B0 )
+)
+
+game (
+	name "Captain Buzz Lightyear - Star Command (Germany)"
+	genre "Action > General"
+	rom ( crc F06D296C )
+)
+
+game (
+	name "Caesars Palace II (USA, Europe)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 351BA5EA )
+)
+
+game (
+	name "Cannon Fodder (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 824C3BF3 )
+)
+
+game (
+	name "Cannon Fodder (USA) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 26F8E1A0 )
+)
+
+game (
+	name "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev B)"
+	genre "Adventure > General"
+	rom ( crc 7243E258 )
+)
+
+game (
+	name "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan)"
+	genre "Adventure > General"
+	rom ( crc 89BA58ED )
+)
+
+game (
+	name "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev A)"
+	genre "Adventure > General"
+	rom ( crc 43F28E22 )
+)
+
+game (
+	name "Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan)"
+	genre "Sports > General"
+	rom ( crc F78F7998 )
+)
+
+game (
+	name "Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 15430979 )
+)
+
+game (
+	name "Casper (Europe) (En,Fr,De)"
+	genre "Action Adventure > General"
+	rom ( crc E6B9F155 )
+)
+
+game (
+	name "Casper (Europe) (En,Es,It)"
+	genre "Action Adventure > General"
+	rom ( crc DAEFE53C )
+)
+
+game (
+	name "Casper (USA)"
+	genre "Action Adventure > General"
+	rom ( crc C775D653 )
+)
+
+game (
+	name "Caterpillar Construction Zone (USA, Europe)"
+	genre "Action > General"
+	rom ( crc D20DC670 )
+)
+
+game (
+	name "Catwoman (Europe)"
+	genre "Action Adventure > General"
+	rom ( crc 41E78645 )
+)
+
+game (
+	name "Catwoman (USA)"
+	genre "Action Adventure > General"
+	rom ( crc 12F0C196 )
+)
+
+game (
+	name "Centipede (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 255DB8BE )
+)
+
+game (
+	name "Centipede (USA)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 13AD07B1 )
+)
+
+game (
+	name "Championship Motocross 2001 featuring Ricky Carmichael (USA, Europe)"
+	genre "Racing > Arcade > Other"
+	rom ( crc CBB336ED )
+)
+
+game (
+	name "Checkmate (Japan) (En,Ja)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 1AAB415D )
+)
+
+game (
+	name "Chee-Chai Alien (Japan) (Rumble Version)"
+	genre "Action > General"
+	rom ( crc 9E988FFE )
+)
+
+game (
+	name "Chessmaster (USA, Europe)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 1C13DBB0 )
+)
+
+game (
+	name "Chi to Ase to Namida no Koukou Yakyuu (Japan)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 3C39BCAB )
+)
+
+game (
+	name "Chibi Maruko-chan - Go Chounai Minna de Game Da yo! (Japan)"
+	genre "Action > General"
+	rom ( crc 20FAA0D1 )
+)
+
+game (
+	name "Chicken Run (USA, Europe) (En,Fr,De,Es,It)"
+	genre "Action Adventure > General"
+	rom ( crc F8BD2A01 )
+)
+
+game (
+	name "Colin McRae Rally (Europe)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc E93AF9C8 )
+)
+
+game (
+	name "Columns GB - Tezuka Osamu Characters (Japan) (SGB Enhanced)"
+	genre "Puzzle > Matching"
+	rom ( crc FBE5DE37 )
+)
+
+game (
+	name "Command Master (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc D10B5645 )
+)
+
+game (
+	name "Commander Keen (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 4AF4CC9C )
+)
+
+game (
+	name "Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced)"
+	genre "Action > Platformer > 2D"
+	rom ( crc A50BE9A8 )
+)
+
+game (
+	name "Cool Bricks (Europe) (En,Fr,De,Es,It)"
+	genre "Puzzle > General"
+	rom ( crc 04FE7790 )
+)
+
+game (
+	name "Croc (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 4664A167 )
+)
+
+game (
+	name "Croc 2 (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc C1D60129 )
+)
+
+game (
+	name "Cross Hunter - Monster Hunter Version (Japan)"
+	genre "Action > General"
+	rom ( crc 48E1BA7D )
+)
+
+game (
+	name "Cross Hunter - Treasure Hunter Version (Japan)"
+	genre "Action > General"
+	rom ( crc 623C1516 )
+)
+
+game (
+	name "Cross Hunter - X Hunter Version (Japan)"
+	genre "Action > General"
+	rom ( crc 858010E0 )
+)
+
+game (
+	name "Cruis'n Exotica (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 9562E7E8 )
+)
+
+game (
+	name "Crystalis (USA)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc 909BB02D )
+)
+
+game (
+	name "Cubix - Robots for Everyone - Race 'n Robots (USA) (En,Fr,De,Es,It)"
+	genre "Racing > General"
+	rom ( crc 9F883B0F )
+)
+
+game (
+	name "CyberTiger (USA, Europe)"
+	genre "Sports > Individual > Golf > Arcade"
+	rom ( crc E470CAFA )
+)
+
+game (
+	name "Cyborg Kuro-chan - Devil Fukkatsu (Japan)"
+	genre "Action > General"
+	rom ( crc 392D630F )
+)
+
+game (
+	name "Cyborg Kuro-chan 2 - White Woods no Gyakushuu (Japan)"
+	genre "Action > General"
+	rom ( crc E86BF12E )
+)
+
+game (
+	name "Daa! Daa! Daa! - Totsuzen Card de Battle de Uranai de! (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc F41BB392 )
+)
+
+game (
+	name "Daikaijuu Monogatari - The Miracle of the Zone II (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > General"
+	rom ( crc 692D6794 )
+)
+
+game (
+	name "Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced)"
+	genre "Action > Platformer > 2D"
+	rom ( crc E2071293 )
+)
+
+game (
+	name "Dance Dance Revolution GB (Japan)"
+	genre "Action > Rhythm > Dancing"
+	rom ( crc C64FF2B6 )
+)
+
+game (
+	name "Dance Dance Revolution GB - Disney Mix (Japan)"
+	genre "Action > Rhythm > Dancing"
+	rom ( crc B31A59BF )
+)
+
+game (
+	name "Dance Dance Revolution GB2 (Japan)"
+	genre "Action > Rhythm > Dancing"
+	rom ( crc 565FEC36 )
+)
+
+game (
+	name "Dance Dance Revolution GB3 (Japan)"
+	genre "Action > Rhythm > Dancing"
+	rom ( crc 58F26F36 )
+)
+
+game (
+	name "Dancing Furby (Japan)"
+	genre "Action > General"
+	rom ( crc 3263F692 )
+)
+
+game (
+	name "Data-Navi Pro Yakyuu (Japan)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc C958AD75 )
+)
+
+game (
+	name "Data-Navi Pro Yakyuu 2 (Japan)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 96071AD0 )
+)
+
+game (
+	name "Dave Mirra Freestyle BMX (USA, Europe)"
+	genre "Sports > Individual > Biking"
+	rom ( crc 2DF6E230 )
+)
+
+game (
+	name "David Beckham Soccer (Europe) (En,Fr,De,Es,It)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 753BDCE4 )
+)
+
+game (
+	name "Deadly Skies (Europe) (En,Fr,De)"
+	genre "Simulation > Flight > Combat"
+	rom ( crc 402DE378 )
+)
+
+game (
+	name "AirForce Delta (Japan)"
+	genre "Simulation > Flight > Combat"
+	rom ( crc 5DFFF5E2 )
+)
+
+game (
+	name "AirForce Delta (USA)"
+	genre "Simulation > Flight > Combat"
+	rom ( crc FF31CC92 )
+)
+
+game (
+	name "Dear Daniel no Sweet Adventure - Kitty-chan o Sagashite (Japan) (SGB Enhanced)"
+	genre "Adventure > General"
+	rom ( crc 0FD34427 )
+)
+
+game (
+	name "Deer Hunter (USA)"
+	genre "Sports > Individual > Nature > Hunting"
+	rom ( crc 40A715FB )
+)
+
+game (
+	name "Deja Vu I & II - The Casebooks of Ace Harding (Europe) (En,Fr)"
+	genre "Adventure > 3D > First-Person"
+	rom ( crc 71F798B5 )
+)
+
+game (
+	name "Deja Vu I & II - The Casebooks of Ace Harding (Europe) (Fr,De)"
+	genre "Adventure > 3D > First-Person"
+	rom ( crc C6E7F3C6 )
+)
+
+game (
+	name "Deja Vu I & II - The Casebooks of Ace Harding (Japan)"
+	genre "Adventure > 3D > First-Person"
+	rom ( crc BAF2CC96 )
+)
+
+game (
+	name "Deja Vu I & II - The Casebooks of Ace Harding (USA)"
+	genre "Adventure > 3D > First-Person"
+	rom ( crc AD0937F4 )
+)
+
+game (
+	name "Dejiko no Mahjong Party (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc C5501FCE )
+)
+
+game (
+	name "Denki Blocks! (Europe) (En,Fr,De,Es,It)"
+	genre "Puzzle > General"
+	rom ( crc 38F00974 )
+)
+
+game (
+	name "Densha de Go! (Japan)"
+	genre "Simulation > Vehicle > Train"
+	rom ( crc 14375072 )
+)
+
+game (
+	name "Densha de Go! 2 (Japan)"
+	genre "Simulation > Vehicle > Train"
+	rom ( crc B72603FC )
+)
+
+game (
+	name "Dino Breeder 3 - Gaia Fukkatsu (Japan) (SGB Enhanced)"
+	genre "Simulation > Virtual > Pet"
+	rom ( crc D9F071BB )
+)
+
+game (
+	name "Dino Breeder 4 (Japan) (SGB Enhanced)"
+	genre "Simulation > Virtual > Pet"
+	rom ( crc B0106777 )
+)
+
+game (
+	name "Dinosaur (Europe) (En,Fr,De,Es,It)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc 0AA8D0CC )
+)
+
+game (
+	name "Dinosaur (USA)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc 276ECAAE )
+)
+
+game (
+	name "Dinosaur (USA) (Beta)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc 0B087FE7 )
+)
+
+game (
+	name "Dinosaur'us (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc F4609FE3 )
+)
+
+game (
+	name "Dokapon! - Millennium Quest (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 4FE9E966 )
+)
+
+game (
+	name "Doki x Doki Sasete!! (Japan)"
+	genre "Action > General"
+	rom ( crc 19A73F60 )
+)
+
+game (
+	name "Dokidoki Densetsu - Mahoujin Guruguru (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 83E47A1A )
+)
+
+game (
+	name "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 07A13B5B )
+)
+
+game (
+	name "Donald Duck - Daisy o Sukue! (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 333C124C )
+)
+
+game (
+	name "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 4685909B )
+)
+
+game (
+	name "Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc B1743477 )
+)
+
+game (
+	name "Donkey Kong 2001 (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc CB065EBA )
+)
+
+game (
+	name "Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It) (Sample)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 945C3653 )
+)
+
+game (
+	name "Donkey Kong GB - Dinky Kong & Dixie Kong (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 28D7E8D3 )
+)
+
+game (
+	name "Doraemon - Aruke Aruke Labyrinth (Japan)"
+	genre "Action > General"
+	rom ( crc F6D79A79 )
+)
+
+game (
+	name "Doraemon - Kimi to Pet no Monogatari (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 2FA46211 )
+)
+
+game (
+	name "Doraemon Kart 2 (Japan) (SGB Enhanced)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc CF1A2038 )
+)
+
+game (
+	name "Doraemon Memories - Nobita no Omoide Daibouken (Japan)"
+	genre "Action > General"
+	rom ( crc D187CEC4 )
+)
+
+game (
+	name "Doraemon no Quiz Boy (Japan) (Rev A)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 915356E3 )
+)
+
+game (
+	name "Doraemon no Quiz Boy (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 3BBF9EA8 )
+)
+
+game (
+	name "Doraemon no Quiz Boy 2 (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 9E80199A )
+)
+
+game (
+	name "Doraemon no Study Boy - Gakushuu Kanji Game (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 67413F65 )
+)
+
+game (
+	name "Doraemon no Study Boy - Kanji Yomikaki Master (Japan)"
+	genre "Miscellaneous > Edutainment"
+	rom ( crc 70156DA7 )
+)
+
+game (
+	name "Doraemon no Study Boy - Kuku Game (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc A8A353D8 )
+)
+
+game (
+	name "Dr. Rin ni Kiitemite! - Koi no Rin Fuusui (Japan)"
+	genre "Adventure > General"
+	rom ( crc EC168A61 )
+)
+
+game (
+	name "Dracula - Crazy Vampire (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 2F7AEF51 )
+)
+
+game (
+	name "Dracula - Crazy Vampire (USA)"
+	genre "Action > General"
+	rom ( crc 283742E4 )
+)
+
+game (
+	name "Dragon Ball Z - Legendary Super Warriors (Europe)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 7BF836DB )
+)
+
+game (
+	name "Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 7D28689A )
+)
+
+game (
+	name "Dragon Ball Z - Guerreros de Leyenda (Spain)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 9DAD6E23 )
+)
+
+game (
+	name "Dragon Ball Z - I Leggendari Super Guerrieri (Italy)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc A888A049 )
+)
+
+game (
+	name "Dragon Ball Z - Legendaere Superkaempfer (Germany)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc EC7DFDC1 )
+)
+
+game (
+	name "Dragon Ball Z - Legendary Super Warriors (USA)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 025AA88A )
+)
+
+game (
+	name "Dragon Ball Z - Les Guerriers Legendaires (France)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc C07E9438 )
+)
+
+game (
+	name "Dragon Tales - Dragon Adventures (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc DE390609 )
+)
+
+game (
+	name "Dragon Tales - Dragon Wings (Europe)"
+	genre "Action > General"
+	rom ( crc 137D7B45 )
+)
+
+game (
+	name "Dragon Tales - Dragon Wings (USA)"
+	genre "Action > General"
+	rom ( crc 191D31EC )
+)
+
+game (
+	name "Dragon Warrior I & II (USA) (SGB Enhanced)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc 71D693DA )
+)
+
+game (
+	name "Dragon Quest I & II (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc A053B42E )
+)
+
+game (
+	name "Dragon Warrior III (USA)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 0FD9C59C )
+)
+
+game (
+	name "Dragon Quest III - Soshite Densetsu e... (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 21078C16 )
+)
+
+game (
+	name "Dragon Warrior Monsters (USA, Europe) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc E56C35B1 )
+)
+
+game (
+	name "Dragon Quest Monsters (Germany) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 2A82B63B )
+)
+
+game (
+	name "Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 4702C4F1 )
+)
+
+game (
+	name "Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev A) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc D263D88D )
+)
+
+game (
+	name "Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc AB7BFDD5 )
+)
+
+game (
+	name "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 2C428A87 )
+)
+
+game (
+	name "Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 35EC5FB2 )
+)
+
+game (
+	name "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 68BA18D7 )
+)
+
+game (
+	name "Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh)"
+	genre "Action > Arcade"
+	rom ( crc BF076CA5 )
+)
+
+game (
+	name "Dropzone (Europe)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 1E71B67E )
+)
+
+game (
+	name "DT - Lords of Genomes (Japan) (SGB Enhanced)"
+	genre "Adventure > General"
+	rom ( crc 42CEB854 )
+)
+
+game (
+	name "Duke Nukem (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc FC3D1BB7 )
+)
+
+game (
+	name "Duke Nukem (USA) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 846FC830 )
+)
+
+game (
+	name "Dukes of Hazzard, The - Racing for Home (Europe) (En,Fr,De)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 21826ADC )
+)
+
+game (
+	name "Dukes of Hazzard, The - Racing for Home (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc FB08DCEB )
+)
+
+game (
+	name "Dungeon Savior (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 2BCB5F78 )
+)
+
+game (
+	name "DX Jinsei Game (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 7E15B3DD )
+)
+
+game (
+	name "DX Monopoly GB (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 3F1E076C )
+)
+
+game (
+	name "DynaMike (Europe) (Proto)"
+	genre "Puzzle > General"
+	rom ( crc 53C069E9 )
+)
+
+game (
+	name "E.T. - The Extra-Terrestrial - Digital Companion (USA)"
+	genre "Miscellaneous > Application"
+	rom ( crc 84872999 )
+)
+
+game (
+	name "E.T. - The Extra-Terrestrial and the Cosmic Garden (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Strategy > General"
+	rom ( crc 8321A1B9 )
+)
+
+game (
+	name "E.T. - The Extra-Terrestrial and the Cosmic Garden (USA)"
+	genre "Strategy > General"
+	rom ( crc 32C87958 )
+)
+
+game (
+	name "Earthworm Jim - Menace 2 the Galaxy (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 2E65DAAF )
+)
+
+game (
+	name "ECW Hardcore Revolution (USA, Europe)"
+	genre "Sports > Individual > Combat > Wrestling"
+	rom ( crc 484EBA10 )
+)
+
+game (
+	name "Elevator Action EX (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 2154763C )
+)
+
+game (
+	name "Dexter's Laboratory - Robot Rampage (USA, Europe)"
+	genre "Action > General"
+	rom ( crc D24D6601 )
+)
+
+game (
+	name "Elevator Action EX (Japan)"
+	genre "Action > General"
+	rom ( crc B70C4DDB )
+)
+
+game (
+	name "Emperor's New Groove, The (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 4CAA8CD0 )
+)
+
+game (
+	name "Emperor's New Groove, The (USA)"
+	genre "Action > General"
+	rom ( crc 6EBAD539 )
+)
+
+game (
+	name "ESPN National Hockey Night (USA)"
+	genre "Sports > Team > Ice Hockey > Sim"
+	rom ( crc 600F61F9 )
+)
+
+game (
+	name "European Super League (Europe) (En,Fr,De,Es,It)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 5A0B7C72 )
+)
+
+game (
+	name "Mia Hamm Soccer Shootout (USA)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc D77971C0 )
+)
+
+game (
+	name "Evel Knievel (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	genre "Sports > General"
+	rom ( crc DFD6A908 )
+)
+
+game (
+	name "Evel Knievel (USA)"
+	genre "Sports > General"
+	rom ( crc 51E951B5 )
+)
+
+game (
+	name "Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt)"
+	genre "Action > General"
+	rom ( crc CC777B98 )
+)
+
+game (
+	name "Extreme Sports with the Berenstain Bears (USA, Europe) (En,Fr,De,Es,It)"
+	genre "Sports > Individual > Other"
+	rom ( crc 5C0E7B44 )
+)
+
+game (
+	name "F-1 World Grand Prix (Europe) (En,Fr,De,Es)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 8D9A9182 )
+)
+
+game (
+	name "F-18 Thunder Strike (USA, Europe)"
+	genre "Simulation > Flight > Combat"
+	rom ( crc 410FA858 )
+)
+
+game (
+	name "F.A. Premier League Stars 2001, The (Europe)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 5E3844FB )
+)
+
+game (
+	name "Bundesliga Stars 2001 (Germany)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 5622B551 )
+)
+
+game (
+	name "LNF Stars 2001 (France)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc F8BF3EE7 )
+)
+
+game (
+	name "F1 Championship Season 2000 (Europe) (En,Fr,De,Es,It)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 5C10315E )
+)
+
+game (
+	name "F1 Racing Championship (Europe) (En,Fr,De,Es,It)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc E115DDB1 )
+)
+
+game (
+	name "F1 Racing Championship (Europe) (En,Fr,De,Es,It) (Beta)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc FC537719 )
+)
+
+game (
+	name "F1 World Grand Prix II for Game Boy Color (Europe) (En,Fr,De,Es)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc EEF4A20B )
+)
+
+game (
+	name "F1 World Grand Prix II for Game Boy Color (Japan) (En,Ja)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 28453467 )
+)
+
+game (
+	name "F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 482E10C5 )
+)
+
+game (
+	name "Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (Rev A) (SGB Enhanced)"
+	genre "Miscellaneous > General"
+	rom ( crc C4D3628F )
+)
+
+game (
+	name "Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > General"
+	rom ( crc B59A51C4 )
+)
+
+game (
+	name "FIFA 2000 (USA, Europe) (SGB Enhanced)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc E6BC2E8C )
+)
+
+game (
+	name "Fish Files, The (Europe) (En,Fr,De,Es,It)"
+	genre "Adventure > General"
+	rom ( crc D6ABC1F8 )
+)
+
+game (
+	name "Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc A5B09726 )
+)
+
+game (
+	name "Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It) (Beta)"
+	genre "Action > General"
+	rom ( crc ECCCD908 )
+)
+
+game (
+	name "Flintstones, The - Burgertime in Bedrock (USA)"
+	genre "Action > General"
+	rom ( crc 14D8CC5D )
+)
+
+game (
+	name "Flipper & Lopaka (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+	genre "Action > General"
+	rom ( crc 08B9E4AA )
+)
+
+game (
+	name "Force 21 (USA) (En,Fr,De)"
+	genre "Strategy > General"
+	rom ( crc 2DCD0A0A )
+)
+
+game (
+	name "Formula One 2000 (USA)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 703C057F )
+)
+
+game (
+	name "Fort Boyard (Europe) (En,Fr,De,Es,It,Nl,Pt)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 06C8E50A )
+)
+
+game (
+	name "Frogger (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Arcade"
+	rom ( crc B6BF0672 )
+)
+
+game (
+	name "Frogger (USA)"
+	genre "Action > Arcade"
+	rom ( crc AF46EA77 )
+)
+
+game (
+	name "Frogger (USA) (Rev B)"
+	genre "Action > Arcade"
+	rom ( crc D9A22E5D )
+)
+
+game (
+	name "Frogger (USA) (Rev A)"
+	genre "Action > Arcade"
+	rom ( crc BA907064 )
+)
+
+game (
+	name "Frogger 2 (USA)"
+	genre "Action > Arcade"
+	rom ( crc 6A2666AA )
+)
+
+game (
+	name "From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc A7317BB8 )
+)
+
+game (
+	name "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev A) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc A4DDE805 )
+)
+
+game (
+	name "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc C693AA37 )
+)
+
+game (
+	name "Front Row (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 6EEA9243 )
+)
+
+game (
+	name "Full Time Soccer (Europe) (Unl)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc B99BEDA2 )
+)
+
+game (
+	name "Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 2C97E90F )
+)
+
+game (
+	name "Gaiamaster Duel - Card Attackers (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 78206460 )
+)
+
+game (
+	name "Gakkyuu Ou Yamazaki (Japan) (Rev A)"
+	genre "Role-Playing > General"
+	rom ( crc EF2CFD99 )
+)
+
+game (
+	name "Galaga - Destination Earth (USA)"
+	genre "Action > Shooter > Rail"
+	rom ( crc E3C4ABC6 )
+)
+
+game (
+	name "Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 28356950 )
+)
+
+game (
+	name "Game Boy Wars 2 (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 559EDB5E )
+)
+
+game (
+	name "Game Boy Wars 3 (Japan)"
+	genre "Strategy > General"
+	rom ( crc 30C26262 )
+)
+
+game (
+	name "Game Conveni 21 (Japan)"
+	genre "Strategy > General"
+	rom ( crc 994314B3 )
+)
+
+game (
+	name "Ganbare Goemon - Seikuushi Dynamites Arawaru!! (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 2EA8D9D4 )
+)
+
+game (
+	name "Ganbare Goemon - Tengutou no Gyakushuu (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc D829EB2F )
+)
+
+game (
+	name "GB Harobots (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 1C0368FA )
+)
+
+game (
+	name "GB Karan Koron Gakuen - Hanafuda Mahjong (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc AABA1EA4 )
+)
+
+game (
+	name "Geheimnis der Happy Hippo-Insel, Das (Germany)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 25B480C3 )
+)
+
+game (
+	name "Gekisou Dangun Racer - Onsoku Buster Dangun Dan (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 06FCCEFC )
+)
+
+game (
+	name "Gensou Maden Saiyuuki - Sabaku no Shijin (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 918A40E7 )
+)
+
+game (
+	name "Get Chuu Club - Minna no Konchuu Daizukan (Japan) (Rumble Version) (SGB Enhanced)"
+	genre "Adventure > General"
+	rom ( crc 9EBDB6C6 )
+)
+
+game (
+	name "Gex - Enter the Gecko (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc DCCC7514 )
+)
+
+game (
+	name "Gex 3 - Deep Cover Gecko (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 025F305D )
+)
+
+game (
+	name "Gex 3 - Deep Pocket Gecko (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 85A98C7D )
+)
+
+game (
+	name "Ghosts'n Goblins (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc AE024C23 )
+)
+
+game (
+	name "Gift (Europe)"
+	genre "Action > Beat-'Em-Up > 3D"
+	rom ( crc 1B0034E8 )
+)
+
+game (
+	name "Gift (Europe) (Sample)"
+	genre "Action > Beat-'Em-Up > 3D"
+	rom ( crc D8E357BA )
+)
+
+game (
+	name "Gifty (Germany) (En)"
+	genre "Action > Beat-'Em-Up > 3D"
+	rom ( crc B97A8CB8 )
+)
+
+game (
+	name "Godzilla - The Series (Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 2A073369 )
+)
+
+game (
+	name "Godzilla - The Series (USA) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc DD716EFE )
+)
+
+game (
+	name "Godzilla - The Series - Monster Wars (Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc A6007CE1 )
+)
+
+game (
+	name "Godzilla - The Series - Monster Wars (USA) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc E7EBB394 )
+)
+
+game (
+	name "Gold and Glory - The Road to El Dorado (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Adventure > 3D > Third-Person"
+	rom ( crc B16F1752 )
+)
+
+game (
+	name "Gold and Glory - The Road to El Dorado (USA)"
+	genre "Adventure > 3D > Third-Person"
+	rom ( crc B7D49490 )
+)
+
+game (
+	name "Golf Daisuki! (Japan) (SGB Enhanced)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 80444A86 )
+)
+
+game (
+	name "Gonta no Okiraku Daibouken (Japan)"
+	genre "Adventure > General"
+	rom ( crc E45E99D2 )
+)
+
+game (
+	name "Goraku Ou Tango! (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 81FB43E1 )
+)
+
+game (
+	name "Grand Theft Auto (Europe) (En,Fr,De,Es,It)"
+	genre "Action Adventure > Open-World"
+	rom ( crc 25BA9231 )
+)
+
+game (
+	name "Grand Theft Auto (USA)"
+	genre "Action Adventure > Open-World"
+	rom ( crc 924DE366 )
+)
+
+game (
+	name "Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It)"
+	genre "Action Adventure > Open-World"
+	rom ( crc AD563BD9 )
+)
+
+game (
+	name "Grand Theft Auto 2 (USA)"
+	genre "Action Adventure > Open-World"
+	rom ( crc 68610203 )
+)
+
+game (
+	name "Grandia - Parallel Trippers (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 23223670 )
+)
+
+game (
+	name "Granduel - Shinki Dungeon no Hihou (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc D589C501 )
+)
+
+game (
+	name "Granduel - Shinki Dungeon no Hihou (Japan) (Sample)"
+	genre "Role-Playing > General"
+	rom ( crc 7122136D )
+)
+
+game (
+	name "Great Battle Pocket, The (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > General"
+	rom ( crc B471C095 )
+)
+
+game (
+	name "Gremlins Unleashed (Europe) (En,Fr,De,Es,It,Pt)"
+	genre "Action > General"
+	rom ( crc 053BC315 )
+)
+
+game (
+	name "Gremlins Unleashed (Europe) (En,Fr,De,Es,It,Pt) (Beta)"
+	genre "Action > General"
+	rom ( crc C38D52E7 )
+)
+
+game (
+	name "Grinch, The (Europe) (En,Fr,De)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 9ED6059A )
+)
+
+game (
+	name "Grinch (Japan)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 432DC371 )
+)
+
+game (
+	name "Grinch, The (USA)"
+	genre "Action > Platformer > 3D"
+	rom ( crc C5A47896 )
+)
+
+game (
+	name "Guruguru Garakutas (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 7EAEEEAC )
+)
+
+game (
+	name "Guruguru Town Hanamaru-kun (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 03FBFC9E )
+)
+
+game (
+	name "Gute Zeiten Schlechte Zeiten Quiz (Germany)"
+	genre "Miscellaneous > Trivia / Game Show"
+	rom ( crc 5F13A2D4 )
+)
+
+game (
+	name "Gyouten Ningen Batseelor - Doctor Guy no Yabou (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc B17DC263 )
+)
+
+game (
+	name "Halloween Racer (Europe) (En,Fr,De,Es,It,Pt)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 70F3B431 )
+)
+
+game (
+	name "Hamster Club (Japan)"
+	genre "Strategy > General"
+	rom ( crc 8A4D86A0 )
+)
+
+game (
+	name "Hamster Club - Awasete Chuu (Japan)"
+	genre "Puzzle > General"
+	rom ( crc D56D68FF )
+)
+
+game (
+	name "Hamster Club - Oshiema Chuu (Japan)"
+	genre "Strategy > General"
+	rom ( crc 79CEEF4E )
+)
+
+game (
+	name "Hamster Club 2 (Japan)"
+	genre "Strategy > General"
+	rom ( crc 2FB398F9 )
+)
+
+game (
+	name "Hamster Monogatari GB + Magi Ham no Mahou Shoujo (Japan)"
+	genre "Strategy > General"
+	rom ( crc ABD59939 )
+)
+
+game (
+	name "Hamster Paradise (Japan) (SGB Enhanced)"
+	genre "Simulation > Virtual > Pet"
+	rom ( crc F520CB19 )
+)
+
+game (
+	name "Hamster Paradise 2 (Japan) (Rev A)"
+	genre "Simulation > Virtual > Pet"
+	rom ( crc B9E1F3B0 )
+)
+
+game (
+	name "Hamster Paradise 2 (Japan)"
+	genre "Simulation > Virtual > Pet"
+	rom ( crc 542C78B6 )
+)
+
+game (
+	name "Hamster Paradise 3 (Japan)"
+	genre "Simulation > Virtual > Pet"
+	rom ( crc 14CAC67C )
+)
+
+game (
+	name "Hamster Paradise 4 (Japan)"
+	genre "Simulation > Virtual > Pet"
+	rom ( crc C460DC88 )
+)
+
+game (
+	name "Hana Yori Dango - Another Love Story (Japan)"
+	genre "Adventure > General"
+	rom ( crc 469F0284 )
+)
+
+game (
+	name "Hanasaka Tenshi Tenten-kun no Beat Breaker (Japan) (SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 6E988C07 )
+)
+
+game (
+	name "Hands of Time (USA, Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc F519F4C3 )
+)
+
+game (
+	name "Harley-Davidson Motor Cycles - Race Across America (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 644BAC84 )
+)
+
+game (
+	name "Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da)"
+	genre "Action Adventure > General"
+	rom ( crc 136E9D0C )
+)
+
+game (
+	name "Harvest Moon 2 GBC (Europe) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 160CA990 )
+)
+
+game (
+	name "Bokujou Monogatari GB2 (Japan)"
+	genre "Strategy > General"
+	rom ( crc EE993302 )
+)
+
+game (
+	name "Harvest Moon 2 GBC (Germany) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 32A04C29 )
+)
+
+game (
+	name "Harvest Moon 2 GBC (USA) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 08906220 )
+)
+
+game (
+	name "Harvest Moon 3 GBC (USA)"
+	genre "Strategy > General"
+	rom ( crc A0D67417 )
+)
+
+game (
+	name "Bokujou Monogatari GB3 - Boy Meets Girl (Japan)"
+	genre "Strategy > General"
+	rom ( crc 3A18B41F )
+)
+
+game (
+	name "Harvest Moon GB (Europe) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc C8A6F68A )
+)
+
+game (
+	name "Harvest Moon GB (Germany) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc D3896652 )
+)
+
+game (
+	name "Harvest Moon GB (USA) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc AB5738A1 )
+)
+
+game (
+	name "Hello Kitty no Beads Factory (Japan) (SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 12F74CD4 )
+)
+
+game (
+	name "Hello Kitty no Happy House (Japan)"
+	genre "Action > General"
+	rom ( crc 159FE5E7 )
+)
+
+game (
+	name "Hello Kitty no Magical Museum (Japan) (SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc F6768930 )
+)
+
+game (
+	name "Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai (Japan) (SGB Enhanced)"
+	genre "Adventure > General"
+	rom ( crc 45F4159B )
+)
+
+game (
+	name "Hello Kitty to Dear Daniel no Dream Adventure (Japan)"
+	genre "Action > General"
+	rom ( crc 018EED29 )
+)
+
+game (
+	name "Hello Kitty's Cube Frenzy (USA)"
+	genre "Puzzle > Action"
+	rom ( crc 937729F6 )
+)
+
+game (
+	name "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc C0EDE71F )
+)
+
+game (
+	name "Hero Hero Kun (Japan)"
+	genre "Action > General"
+	rom ( crc 8CABDCA4 )
+)
+
+game (
+	name "Heroes of Might and Magic (Europe) (En,Fr,De)"
+	genre "Strategy > General"
+	rom ( crc E0B9FD3B )
+)
+
+game (
+	name "Heroes of Might and Magic (USA) (En,Fr,De)"
+	genre "Strategy > General"
+	rom ( crc BB0672A6 )
+)
+
+game (
+	name "Heroes of Might and Magic II (USA) (En,Fr,De)"
+	genre "Strategy > Turn-Based > General"
+	rom ( crc 53156D4D )
+)
+
+game (
+	name "Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 84084E5F )
+)
+
+game (
+	name "Glocal Hexcite (Japan) (SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc F1908391 )
+)
+
+game (
+	name "Hiryuu no Ken - Retsuden GB (Japan)"
+	genre "Action > General"
+	rom ( crc BDAE91E8 )
+)
+
+game (
+	name "Hissatsu Pachinko Boy - CR Monster House (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 70F10315 )
+)
+
+game (
+	name "Hole In One Golf (USA) (Rumble Version) (SGB Enhanced)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 27A53965 )
+)
+
+game (
+	name "Golf de Ohasuta (Japan)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 38273BDD )
+)
+
+game (
+	name "Hollywood Pinball (Europe) (En,Fr,De,It)"
+	genre "Action > Pinball"
+	rom ( crc 8BD1F635 )
+)
+
+game (
+	name "Hollywood Pinball (Japan)"
+	genre "Action > Pinball"
+	rom ( crc 77D7E5B7 )
+)
+
+game (
+	name "Honkaku Hanafuda GB (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 05DCBD55 )
+)
+
+game (
+	name "Honkaku Shougi - Shougi Ou (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Party / Minigame"
+	rom ( crc 3A96E868 )
+)
+
+game (
+	name "Honkaku Taisen Shougi Ayumu (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 89140949 )
+)
+
+game (
+	name "Honkaku Yonin Uchi Mahjong - Mahjong Ou (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 8ED4BBBA )
+)
+
+game (
+	name "Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced)"
+	genre "Racing > General"
+	rom ( crc 72A5E820 )
+)
+
+game (
+	name "Hoyle Card Games (USA)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc DD5D3713 )
+)
+
+game (
+	name "Hoyle Casino (USA)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 413473B0 )
+)
+
+game (
+	name "Hugo - Black Diamond Fever (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 685CAFCC )
+)
+
+game (
+	name "Hugo 2 1-2 (Germany)"
+	genre "Action > Platformer > 2D"
+	rom ( crc FAB64B18 )
+)
+
+game (
+	name "Hunter X Hunter - Hunter no Keifu (Japan)"
+	genre "Strategy > General"
+	rom ( crc A1361642 )
+)
+
+game (
+	name "Hunter X Hunter - Kindan no Hihou (Japan)"
+	genre "Action > General"
+	rom ( crc D23C6A75 )
+)
+
+game (
+	name "Hype - The Time Quest (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+	genre "Adventure > General"
+	rom ( crc 24846D65 )
+)
+
+game (
+	name "Ide Yousuke no Mahjong Kyoushitsu GB (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 61DF88CA )
+)
+
+game (
+	name "Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De)"
+	genre "Action Adventure > General"
+	rom ( crc 7FFF1142 )
+)
+
+game (
+	name "Inspector Gadget - Operation Madkactus (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 3390B056 )
+)
+
+game (
+	name "Inspector Gadget - Operation Madkactus (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 1AF0B489 )
+)
+
+game (
+	name "International Karate 2000 (Europe)"
+	genre "Sports > Individual > Other"
+	rom ( crc 12E00808 )
+)
+
+game (
+	name "International Track & Field (Europe) (En,Fr,De,It) (SGB Enhanced)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 327EC81F )
+)
+
+game (
+	name "Hyper Olympic Series - Track & Field GB (Japan) (SGB Enhanced)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 77F76EBC )
+)
+
+game (
+	name "International Track & Field (USA) (SGB Enhanced)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 803D5D57 )
+)
+
+game (
+	name "International Track & Field - Summer Games (Europe)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc D826C75F )
+)
+
+game (
+	name "ESPN International Track & Field (USA)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 4005D541 )
+)
+
+game (
+	name "Ganbare! Nippon! Olympic 2000 (Japan)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc FFD919A7 )
+)
+
+game (
+	name "Itsudemo Pachinko GB - CR Monster House (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 834091BA )
+)
+
+game (
+	name "J.League Excite Stage GB (Japan)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc B3F38F16 )
+)
+
+game (
+	name "J.League Excite Stage Tactics (Japan)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 558F4631 )
+)
+
+game (
+	name "Jagainu-kun (Japan)"
+	genre "Action > General"
+	rom ( crc AEB634C5 )
+)
+
+game (
+	name "Jankyuusei - Cosplay Paradise (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc D60E1C0A )
+)
+
+game (
+	name "Janosch - Das grosse Panama-Spiel (Germany)"
+	genre "Adventure > General"
+	rom ( crc 32C8EE13 )
+)
+
+game (
+	name "Jay und die Spielzeugdiebe (Germany)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 73F4F6DA )
+)
+
+game (
+	name "Jeff Gordon XS Racing (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc A41ED926 )
+)
+
+game (
+	name "Jeremy McGrath Supercross 2000 (USA, Europe)"
+	genre "Racing > Arcade > Other"
+	rom ( crc F0F9ABE6 )
+)
+
+game (
+	name "Jimmy White's Cueball (Europe)"
+	genre "Sports > Individual > Billiards"
+	rom ( crc 27632F4F )
+)
+
+game (
+	name "Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc C8D46E99 )
+)
+
+game (
+	name "Jisedai Begoma Battle Beyblade (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 9C56977E )
+)
+
+game (
+	name "Jissen ni Yakudatsu Tsumego (Japan) (Rev A)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 55EFA05E )
+)
+
+game (
+	name "Joryuu Janshi ni Chousen GB - Watashi-tachi ni Chousen Shitene! (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 9FA5CDB5 )
+)
+
+game (
+	name "JumpStart Dino Adventure - Field Trip (USA)"
+	genre "Action > General"
+	rom ( crc 6D50772D )
+)
+
+game (
+	name "Jungle Book, The - Mowgli's Wild Adventure (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc B609ECEA )
+)
+
+game (
+	name "Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 9B6B755F )
+)
+
+game (
+	name "Juukou Senki Bullet Battlers (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 4039C187 )
+)
+
+game (
+	name "K.O. - The Pro Boxing (Japan)"
+	genre "Sports > Individual > Combat > Boxing / Martial Arts"
+	rom ( crc 69F08C89 )
+)
+
+game (
+	name "Kaept'n Blaubaer - Die verrueckte Schatzsuche (Germany)"
+	genre "Puzzle > General"
+	rom ( crc 77E13DBE )
+)
+
+game (
+	name "Kaitei Densetsu!! Treasure World (Japan)"
+	genre "Strategy > General"
+	rom ( crc 4C7258D9 )
+)
+
+game (
+	name "Kakurenbo Battle Monster Tactics (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 9CFA76C3 )
+)
+
+game (
+	name "Kakutou Ryouri Densetsu Bistro Recipe - Gekitou Foodon Battle Hen (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 459A126B )
+)
+
+game (
+	name "Kakutou Ryouri Densetsu Bistro Recipe - Kettou Bistgarm Hen (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 4FBEC464 )
+)
+
+game (
+	name "Kanji Boy (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > General"
+	rom ( crc 18CAA513 )
+)
+
+game (
+	name "Kanji Boy 2 (Japan) (SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 81FD8918 )
+)
+
+game (
+	name "Kanji Boy 3 (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 2D4D8597 )
+)
+
+game (
+	name "Kanji de Puzzle (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 25EFA1D7 )
+)
+
+game (
+	name "Kanzume Monsters Parfait (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 6D5B59C0 )
+)
+
+game (
+	name "Karamuchou wa Oosawagi! - Okawari! (Japan) (NP, SGB Enhanced)"
+	genre "Puzzle > Action"
+	rom ( crc 6C568E06 )
+)
+
+game (
+	name "Karamuchou wa Oosawagi! - Polinkies to Okashina Nakama-tachi (Japan) (SGB Enhanced)"
+	genre "Action > General"
+	rom ( crc DD948071 )
+)
+
+game (
+	name "Karate Joe (Europe) (Unl)"
+	genre "Action > General"
+	rom ( crc B8A54E29 )
+)
+
+game (
+	name "Kaseki Sousei Reborn II - Monster Digger (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc BF80C897 )
+)
+
+game (
+	name "Katou Hifumi Kudan - Shougi Kyoushitsu (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Party / Minigame"
+	rom ( crc A262269F )
+)
+
+game (
+	name "Kawaii Pet Shop Monogatari (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 44767443 )
+)
+
+game (
+	name "Kawaii Pet Shop Monogatari 2 (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 3791DCA1 )
+)
+
+game (
+	name "Keep the Balance (Europe) (En,Fr,De,Es,It)"
+	genre "Puzzle > General"
+	rom ( crc B868E846 )
+)
+
+game (
+	name "Keibajou e Ikou! Wide (Japan)"
+	genre "Sports > Individual > Horse Racing"
+	rom ( crc 710286EA )
+)
+
+game (
+	name "Ken Griffey Jr.'s Slugfest (USA)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 1E64D19C )
+)
+
+game (
+	name "Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen (Japan) (SGB Enhanced)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 72895639 )
+)
+
+game (
+	name "Kidou Senkan Nadesico - Ruri Ruri Mahjong (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 6427CD7A )
+)
+
+game (
+	name "Kindaichi Shounen no Jikenbo - 10nenme no Shoutaijou (Japan) (SGB Enhanced)"
+	genre "Adventure > Visual Novel"
+	rom ( crc DE52FFDC )
+)
+
+game (
+	name "Kinniku Banzuke GB - Chousensha wa Kimida! (Japan) (SGB Enhanced)"
+	genre "Sports > General"
+	rom ( crc E2E4328B )
+)
+
+game (
+	name "Kinniku Banzuke GB3 - Shinseiki Survival Retsuden! (Japan)"
+	genre "Sports > General"
+	rom ( crc E2F6253E )
+)
+
+game (
+	name "Kirikou (Europe) (En,Fr,De,Es,It,Pt)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 783BC02D )
+)
+
+game (
+	name "Kisekae Series 2 - Oshare Nikki (Japan) (Rev A)"
+	genre "Miscellaneous > General"
+	rom ( crc E915337C )
+)
+
+game (
+	name "Kisekae Series 2 - Oshare Nikki (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 948F4A96 )
+)
+
+game (
+	name "Kisekae Series 3 - Kisekae Hamster (Japan)"
+	genre "Adventure > General"
+	rom ( crc A29D862F )
+)
+
+game (
+	name "Klax (USA, Europe)"
+	genre "Puzzle > Matching"
+	rom ( crc 7181CBD0 )
+)
+
+game (
+	name "Klustar (Europe) (En,Fr,De,Es,It)"
+	genre "Puzzle > General"
+	rom ( crc 577E1521 )
+)
+
+game (
+	name "Klustar (USA)"
+	genre "Puzzle > General"
+	rom ( crc 3F8D6041 )
+)
+
+game (
+	name "Knockout Kings (USA, Europe)"
+	genre "Sports > Individual > Combat > Boxing / Martial Arts"
+	rom ( crc A0D64934 )
+)
+
+game (
+	name "Konami GB Collection Vol.1 (Europe)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc 203F8727 )
+)
+
+game (
+	name "Konami GB Collection Vol.2 (Europe)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc A6499792 )
+)
+
+game (
+	name "Konami GB Collection Vol.3 (Europe)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc D4D6243D )
+)
+
+game (
+	name "Konami GB Collection Vol.4 (Europe)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc 8800F1C9 )
+)
+
+game (
+	name "Konchuu Fighters (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc C6758B0B )
+)
+
+game (
+	name "Konchuu Hakase 2 (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc B6381744 )
+)
+
+game (
+	name "Konchuu Hakase 3 (Japan)"
+	genre "Strategy > General"
+	rom ( crc 380F19ED )
+)
+
+game (
+	name "Koto Battle - Tengai no Moribito (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 430EB1E1 )
+)
+
+game (
+	name "Koushien Pocket (Japan) (SGB Enhanced)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 6910FF3A )
+)
+
+game (
+	name "Land Before Time, The (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc F253E082 )
+)
+
+game (
+	name "Land Before Time, The (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc BCE9CB16 )
+)
+
+game (
+	name "Legend of the River King 2 (Europe) (SGB Enhanced)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc F24D010A )
+)
+
+game (
+	name "Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc F0B09DDB )
+)
+
+game (
+	name "Legend of the River King 2 (USA) (SGB Enhanced)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 840FD525 )
+)
+
+game (
+	name "Legend of the River King GB (Europe) (SGB Enhanced)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 87EF9530 )
+)
+
+game (
+	name "Legend of the River King GB (Germany) (SGB Enhanced)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 1241F3F5 )
+)
+
+game (
+	name "Legend of the River King GB (USA) (SGB Enhanced)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 7E821F47 )
+)
+
+game (
+	name "LEGO Alpha Team (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+	genre "Action Adventure > General"
+	rom ( crc 690C0373 )
+)
+
+game (
+	name "LEGO Alpha Team (USA)"
+	genre "Action Adventure > General"
+	rom ( crc 6D7EC41B )
+)
+
+game (
+	name "LEGO Island 2 - The Brickster's Revenge (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+	genre "Action > General"
+	rom ( crc 921ABB21 )
+)
+
+game (
+	name "LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr,Es)"
+	genre "Action > General"
+	rom ( crc B14FA7E7 )
+)
+
+game (
+	name "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+	genre "Racing > Arcade > Other"
+	rom ( crc 0A109F13 )
+)
+
+game (
+	name "LEGO Racers (USA) (En,Fr,Es)"
+	genre "Racing > Arcade > Other"
+	rom ( crc F6865B09 )
+)
+
+game (
+	name "LEGO Stunt Rally (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 05CC01FB )
+)
+
+game (
+	name "LEGO Stunt Rally (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc DA084760 )
+)
+
+game (
+	name "Lemmings (USA)"
+	genre "Puzzle > Action"
+	rom ( crc 97E5CE2F )
+)
+
+game (
+	name "VS Lemmings (Japan)"
+	genre "Puzzle > Action"
+	rom ( crc 947D45AE )
+)
+
+game (
+	name "Lil' Monster (USA) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc C6859B34 )
+)
+
+game (
+	name "Gem Gem Monster (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc DE7505C0 )
+)
+
+game (
+	name "Lion King, The - Simba's Mighty Adventure (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc D5B4B7BB )
+)
+
+game (
+	name "Koenig der Loewen, Der - Simbas grosses Abenteuer (Germany)"
+	genre "Action > Platformer > 2D"
+	rom ( crc EA11E39C )
+)
+
+game (
+	name "Roi Lion, Le - Les Adventures de Simba (France)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6467FBA0 )
+)
+
+game (
+	name "Little Magic (Japan)"
+	genre "Puzzle > General"
+	rom ( crc CA38283D )
+)
+
+game (
+	name "Little Mermaid II, The - Pinball Frenzy (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Pinball"
+	rom ( crc 9FEC297E )
+)
+
+game (
+	name "Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version)"
+	genre "Action > Pinball"
+	rom ( crc 364F9CCD )
+)
+
+game (
+	name "Little Nicky (USA)"
+	genre "Action > General"
+	rom ( crc 27310900 )
+)
+
+game (
+	name "Lode Runner - Domudomu Dan no Yabou (Japan)"
+	genre "Puzzle > Action"
+	rom ( crc ECEAB84E )
+)
+
+game (
+	name "Lodoss-tou Senki - Eiyuu Kishiden GB (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 66E166BB )
+)
+
+game (
+	name "Logical (Europe)"
+	genre "Puzzle > Logic"
+	rom ( crc 5EEE76C4 )
+)
+
+game (
+	name "Logical (USA)"
+	genre "Puzzle > Logic"
+	rom ( crc D67275F7 )
+)
+
+game (
+	name "Looney Tunes (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 76CF3E3A )
+)
+
+game (
+	name "Looney Tunes (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 4EF3DDD7 )
+)
+
+game (
+	name "Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 5D85DFAD )
+)
+
+game (
+	name "Looney Tunes Collector - Alert! (USA) (En,Fr,Es)"
+	genre "Action > General"
+	rom ( crc 54509D24 )
+)
+
+game (
+	name "Looney Tunes Collector - Martian Quest! (Japan)"
+	genre "Action > General"
+	rom ( crc BC46A2D2 )
+)
+
+game (
+	name "Looney Tunes Collector - Martian Revenge! (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 22952662 )
+)
+
+game (
+	name "Marvin Strikes Back! (USA) (En,Fr,Es)"
+	genre "Action > General"
+	rom ( crc 11B4788C )
+)
+
+game (
+	name "Looney Tunes Racing (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 7EFDCA8A )
+)
+
+game (
+	name "Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 66792CDE )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev A) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc D54D5836 )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 29E193C5 )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev A) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 065A3BF5 )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc E078D9F8 )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev A) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 267B5253 )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc C0287CF2 )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev A) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc A30AD68D )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc D457CC6C )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev A) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 9C932F0D )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 3EF25533 )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev A) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 8019C6F5 )
+)
+
+game (
+	name "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (NP, SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 094FFD1E )
+)
+
+game (
+	name "Love Hina Party (Japan)"
+	genre "Adventure > Visual Novel"
+	rom ( crc 034D2686 )
+)
+
+game (
+	name "Love Hina Pocket (Japan)"
+	genre "Adventure > General"
+	rom ( crc 1C877ABD )
+)
+
+game (
+	name "Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 3AEBFAD8 )
+)
+
+game (
+	name "Lucky Luke (Europe) (En,Fr,De,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 412FB57C )
+)
+
+game (
+	name "Lucky Luke (USA) (En,Fr,De,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc A5E29F34 )
+)
+
+game (
+	name "Lucky Luke - Desperado Train (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Platformer > 2D"
+	rom ( crc CE7F108A )
+)
+
+game (
+	name "Lufia - The Legend Returns (Europe) (En,De)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 470DCB1D )
+)
+
+game (
+	name "Estpolis Denki - Yomigaeru Densetsu (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 54617416 )
+)
+
+game (
+	name "Lufia - The Legend Returns (USA)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 5BAE3C04 )
+)
+
+game (
+	name "M&M's Minis Madness (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 60683BC4 )
+)
+
+game (
+	name "M&M's Minis Madness (Germany)"
+	genre "Action > Platformer > 2D"
+	rom ( crc A666F54D )
+)
+
+game (
+	name "M&M's Minis Madness (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 8649D7A0 )
+)
+
+game (
+	name "M&M's Minis Madness (USA) (Sample)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 83293B1B )
+)
+
+game (
+	name "Macross 7 - Ginga no Heart o Furuwasero!! (Japan)"
+	genre "Strategy > General"
+	rom ( crc 2B7ABBA4 )
+)
+
+game (
+	name "Madden NFL 2000 (USA, Europe) (SGB Enhanced)"
+	genre "Sports > Team > Football > Sim"
+	rom ( crc 482944AA )
+)
+
+game (
+	name "Madden NFL 2001 (USA)"
+	genre "Sports > Team > Football > Sim"
+	rom ( crc 160E9E3C )
+)
+
+game (
+	name "Madden NFL 2002 (USA)"
+	genre "Sports > Team > Football > Sim"
+	rom ( crc DE1338D2 )
+)
+
+game (
+	name "Magi Nation (USA)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 5042450B )
+)
+
+game (
+	name "Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan)"
+	genre "Action > Shooter > Shoot-'Em-Up > Horizontal"
+	rom ( crc 15E5D499 )
+)
+
+game (
+	name "Magical Drop (Europe) (En,Fr,De)"
+	genre "Puzzle > Stacking"
+	rom ( crc EA9EE203 )
+)
+
+game (
+	name "Magical Drop (USA)"
+	genre "Puzzle > Stacking"
+	rom ( crc E4188A79 )
+)
+
+game (
+	name "Mahjong Joou (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 7D83A5E8 )
+)
+
+game (
+	name "Mahjong Quest (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc C870B88F )
+)
+
+game (
+	name "Marble Madness (USA, Europe)"
+	genre "Puzzle > Action"
+	rom ( crc 4EC78785 )
+)
+
+game (
+	name "Mario Golf (Europe)"
+	genre "Sports > Individual > Golf > Arcade"
+	rom ( crc A132417D )
+)
+
+game (
+	name "Mario Golf (USA)"
+	genre "Sports > Individual > Golf > Arcade"
+	rom ( crc 905AD0CB )
+)
+
+game (
+	name "Mario Golf GB (Japan)"
+	genre "Sports > Individual > Golf > Arcade"
+	rom ( crc 4CA2191A )
+)
+
+game (
+	name "Mario Tennis (Europe)"
+	genre "Sports > Individual > Tennis"
+	rom ( crc 0510D601 )
+)
+
+game (
+	name "Mario Tennis (USA)"
+	genre "Sports > Individual > Tennis"
+	rom ( crc A781C63C )
+)
+
+game (
+	name "Mario Tennis GB (Japan)"
+	genre "Sports > Individual > Tennis"
+	rom ( crc 19070962 )
+)
+
+game (
+	name "Mary-Kate & Ashley - Get a Clue! (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 46FAA730 )
+)
+
+game (
+	name "Mary-Kate and Ashley - Crush Course (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 69DB3CD8 )
+)
+
+game (
+	name "Mary-Kate and Ashley - Pocket Planner (USA, Europe)"
+	genre "Miscellaneous > Application"
+	rom ( crc 84A880B9 )
+)
+
+game (
+	name "Mary-Kate and Ashley - Winners Circle (USA, Europe)"
+	genre "Sports > Individual > Other"
+	rom ( crc 35D6DDCC )
+)
+
+game (
+	name "Mask of Zorro, The (Europe)"
+	genre "Action > General"
+	rom ( crc 909C870F )
+)
+
+game (
+	name "Mask of Zorro, The (USA)"
+	genre "Action > General"
+	rom ( crc 2C92AD12 )
+)
+
+game (
+	name "Mat Hoffman's Pro BMX (USA, Europe)"
+	genre "Sports > Individual > Biking"
+	rom ( crc 515C1459 )
+)
+
+game (
+	name "Matchbox Emergency Patrol (USA, Europe)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc A3F23D7E )
+)
+
+game (
+	name "Maus, Die - Verrueckte Olympiade (Germany)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc FD11138E )
+)
+
+game (
+	name "Maya the Bee & Her Friends (Europe) (En,Fr,De,Es)"
+	genre "Action > General"
+	rom ( crc 983B1D26 )
+)
+
+game (
+	name "Maya the Bee - Garden Adventures (Europe) (En,Fr,De,Es)"
+	genre "Action > General"
+	rom ( crc 142B6EFB )
+)
+
+game (
+	name "McDonald's Monogatari - Honobono Tenchou Ikusei Game (Japan)"
+	genre "Adventure > General"
+	rom ( crc 66328695 )
+)
+
+game (
+	name "Medarot 2 - Kabuto Version (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc BF6BD446 )
+)
+
+game (
+	name "Medarot 2 - Kuwagata Version (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 5B8FFD37 )
+)
+
+game (
+	name "Medarot 2 - Parts Collection (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 159673DB )
+)
+
+game (
+	name "Medarot 3 - Kabuto Version (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc E655632C )
+)
+
+game (
+	name "Medarot 3 - Kuwagata Version (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc BC617834 )
+)
+
+game (
+	name "Medarot 3 - Parts Collection - Z kara no Chousenjou (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc EE2D977F )
+)
+
+game (
+	name "Medarot 4 - Kabuto Version (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc C192A368 )
+)
+
+game (
+	name "Medarot 4 - Kuwagata Version (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 6A29B9D8 )
+)
+
+game (
+	name "Medarot 5 - Susutake Mura no Tenkousei - Kabuto (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc A3C1756E )
+)
+
+game (
+	name "Medarot 5 - Susutake Mura no Tenkousei - Kuwagata (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 014083A8 )
+)
+
+game (
+	name "Medarot Cardrobottle - Kabuto Version (Japan) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 4F03D80A )
+)
+
+game (
+	name "Medarot Cardrobottle - Kuwagata Version (Japan) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc A3735F81 )
+)
+
+game (
+	name "Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 9CAA00B5 )
+)
+
+game (
+	name "Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced)"
+	genre "Adventure > General"
+	rom ( crc 3B5F24FC )
+)
+
+game (
+	name "Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced)"
+	genre "Adventure > General"
+	rom ( crc E620FAE2 )
+)
+
+game (
+	name "Meitantei Conan - Norowareta Kouro (Japan) (SGB Enhanced)"
+	genre "Adventure > General"
+	rom ( crc CABDD802 )
+)
+
+game (
+	name "Men in Black - The Series (USA, Europe) (SGB Enhanced)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 65B8B343 )
+)
+
+game (
+	name "Men in Black 2 - The Series (Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc CA675933 )
+)
+
+game (
+	name "Men in Black 2 - The Series (USA) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 8B63F36F )
+)
+
+game (
+	name "Merlin (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Platformer > 2D"
+	rom ( crc C5290CEE )
+)
+
+game (
+	name "Metal Walker (USA)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 3BE68391 )
+)
+
+game (
+	name "Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc D514C9A0 )
+)
+
+game (
+	name "Metamode (Japan)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc A76EED5B )
+)
+
+game (
+	name "Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It)"
+	genre "Racing > Arcade > Other"
+	rom ( crc D5E845F4 )
+)
+
+game (
+	name "Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 11763934 )
+)
+
+game (
+	name "Micro Machines 1 and 2 - Twin Turbo (USA, Europe)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc 5DD337EB )
+)
+
+game (
+	name "Micro Machines V3 (USA, Europe)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc B8064453 )
+)
+
+game (
+	name "Micro Maniacs (Europe)"
+	genre "Racing > Arcade > Other"
+	rom ( crc E66E093B )
+)
+
+game (
+	name "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (Europe) (En,Fr,De,Es,It)"
+	genre "Puzzle > General"
+	rom ( crc EE4CBA24 )
+)
+
+game (
+	name "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)"
+	genre "Puzzle > General"
+	rom ( crc 0777B8D7 )
+)
+
+game (
+	name "Microsoft - The Best of Entertainment Pack (Europe)"
+	genre "Puzzle > General"
+	rom ( crc 0F02D708 )
+)
+
+game (
+	name "Microsoft - The Best of Entertainment Pack (USA)"
+	genre "Puzzle > General"
+	rom ( crc D2D88CFA )
+)
+
+game (
+	name "Microsoft Pinball Arcade (Europe)"
+	genre "Action > Pinball"
+	rom ( crc 4EB7DB14 )
+)
+
+game (
+	name "Microsoft Pinball Arcade (USA)"
+	genre "Action > Pinball"
+	rom ( crc 504F55C5 )
+)
+
+game (
+	name "Minna no Shougi - Shokyuu Hen (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 5CB4FC8A )
+)
+
+game (
+	name "Minnie & Friends - Yume no Kuni o Sagashite (Japan)"
+	genre "Action > General"
+	rom ( crc D47AE577 )
+)
+
+game (
+	name "Missile Command (Europe)"
+	genre "Action > Shooter > Shoot-'Em-Up > Top-Down"
+	rom ( crc 18216E26 )
+)
+
+game (
+	name "Missile Command (USA) (Rumble Version)"
+	genre "Action > Shooter > Shoot-'Em-Up > Top-Down"
+	rom ( crc 47543C51 )
+)
+
+game (
+	name "Mission Impossible (Europe) (En,Fr,De,Es,It)"
+	genre "Adventure > General"
+	rom ( crc 0AF32BAA )
+)
+
+game (
+	name "Mission Impossible (USA) (En,Fr,Es)"
+	genre "Adventure > General"
+	rom ( crc 41230D11 )
+)
+
+game (
+	name "Mizuki Shigeru no Shin Youkaiden (Japan)"
+	genre "Strategy > General"
+	rom ( crc FC1F100F )
+)
+
+game (
+	name "Mobile Golf (Japan)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 35FC5B32 )
+)
+
+game (
+	name "Monopoly (USA)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc E559A717 )
+)
+
+game (
+	name "Monopoly (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 0503E567 )
+)
+
+game (
+	name "Monster Race 2 (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc B985F0D8 )
+)
+
+game (
+	name "Monster Rancher Battle Card GB (USA) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 50DDF120 )
+)
+
+game (
+	name "Monster Farm Battle Card GB (Japan) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 69B88F1E )
+)
+
+game (
+	name "Monster Traveler (Japan) (Rev A)"
+	genre "Strategy > General"
+	rom ( crc F60A376E )
+)
+
+game (
+	name "Montezuma's Return! (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 659693DE )
+)
+
+game (
+	name "Montezuma's Return! (USA) (En,Es)"
+	genre "Action > General"
+	rom ( crc DE04772F )
+)
+
+game (
+	name "Moorhuhn 2 - Die Jagd geht weiter (Germany)"
+	genre "Action > General"
+	rom ( crc ED52CEAF )
+)
+
+game (
+	name "Mortal Kombat 4 (USA, Europe) (SGB Enhanced)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 4EB71448 )
+)
+
+game (
+	name "Mortal Kombat 4 (Germany) (SGB Enhanced)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 87588725 )
+)
+
+game (
+	name "Mr Nutz (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 4E37C741 )
+)
+
+game (
+	name "Mr Nutz (USA) (En,Fr,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 59F67529 )
+)
+
+game (
+	name "Mr. Driller (Europe)"
+	genre "Puzzle > Action"
+	rom ( crc BDF9B05C )
+)
+
+game (
+	name "Mr. Driller (Japan)"
+	genre "Puzzle > Action"
+	rom ( crc 773729AF )
+)
+
+game (
+	name "Mr. Driller (USA)"
+	genre "Puzzle > Action"
+	rom ( crc 492C0EBF )
+)
+
+game (
+	name "Ms. Pac-Man - Special Colour Edition (Europe)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc F2335DA9 )
+)
+
+game (
+	name "Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc 103E212D )
+)
+
+game (
+	name "MTV Sports - Pure Ride (USA, Europe)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc B7B2354B )
+)
+
+game (
+	name "MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe)"
+	genre "Sports > Individual > Skate / Skateboard"
+	rom ( crc 744561F3 )
+)
+
+game (
+	name "MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe)"
+	genre "Sports > Individual > Biking"
+	rom ( crc 904663AF )
+)
+
+game (
+	name "Mummy Returns, The (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 64052B9B )
+)
+
+game (
+	name "Mummy Returns, The (USA)"
+	genre "Action > General"
+	rom ( crc C997F45B )
+)
+
+game (
+	name "Mummy, The (Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 84FC838A )
+)
+
+game (
+	name "Hamunaptra - Ushinawareta Sabaku no Miyako (Japan)"
+	genre "Action > General"
+	rom ( crc FF454711 )
+)
+
+game (
+	name "Mummy, The (USA)"
+	genre "Action > General"
+	rom ( crc C6BA9F27 )
+)
+
+game (
+	name "Muteki Ou Tri-Zenon (Japan)"
+	genre "Adventure > General"
+	rom ( crc 0BAB7A61 )
+)
+
+game (
+	name "Nakayoshi Cooking Series 1 - Oishii Cake-ya-san (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc E5C9569A )
+)
+
+game (
+	name "Nakayoshi Cooking Series 2 - Oishii Panya-san (Japan)"
+	genre "Strategy > General"
+	rom ( crc B9FA3CE4 )
+)
+
+game (
+	name "Nakayoshi Cooking Series 3 - Tanoshii Obentou (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc DD7666CE )
+)
+
+game (
+	name "Nakayoshi Cooking Series 4 - Tanoshii Dessert (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 7E5C8542 )
+)
+
+game (
+	name "Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan)"
+	genre "Strategy > General"
+	rom ( crc C04539F8 )
+)
+
+game (
+	name "Nakayoshi Pet Series 1 - Kawaii Hamster (Japan)"
+	genre "Strategy > General"
+	rom ( crc 98D0FCB0 )
+)
+
+game (
+	name "Nakayoshi Pet Series 2 - Kawaii Usagi (Japan)"
+	genre "Strategy > General"
+	rom ( crc 866095C2 )
+)
+
+game (
+	name "Nakayoshi Pet Series 3 - Kawaii Koinu (Japan)"
+	genre "Strategy > General"
+	rom ( crc FA4E9896 )
+)
+
+game (
+	name "Nakayoshi Pet Series 4 - Kawaii Koneko (Japan)"
+	genre "Strategy > General"
+	rom ( crc 1A382367 )
+)
+
+game (
+	name "Nakayoshi Pet Series 5 - Kawaii Hamster 2 (Japan)"
+	genre "Strategy > General"
+	rom ( crc E5EC7BE5 )
+)
+
+game (
+	name "NASCAR 2000 (USA, Europe)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 54D90A4C )
+)
+
+game (
+	name "NASCAR Challenge (USA) (Rumble Version)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 39C6B868 )
+)
+
+game (
+	name "NASCAR Heat (USA)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc FA83B37C )
+)
+
+game (
+	name "NASCAR Racers (USA)"
+	genre "Racing > Arcade > Futuristic"
+	rom ( crc F39A5C4F )
+)
+
+game (
+	name "Nations, The - Land of Legends (Europe) (En,De)"
+	genre "Action > General"
+	rom ( crc 8C195F49 )
+)
+
+game (
+	name "NBA 3 on 3 featuring Kobe Bryant (USA) (SGB Enhanced)"
+	genre "Sports > Team > Basketball > Arcade"
+	rom ( crc 001F4754 )
+)
+
+game (
+	name "NBA Hoopz (USA)"
+	genre "Sports > Team > Basketball > Arcade"
+	rom ( crc 5011A419 )
+)
+
+game (
+	name "NBA In the Zone 2000 (Europe)"
+	genre "Sports > Team > Basketball > Sim"
+	rom ( crc E6AF6D07 )
+)
+
+game (
+	name "NBA In the Zone 2000 (USA)"
+	genre "Sports > Team > Basketball > Sim"
+	rom ( crc FDB38C49 )
+)
+
+game (
+	name "NBA Jam '99 (USA, Europe)"
+	genre "Sports > Team > Basketball > Arcade"
+	rom ( crc 84BE0EED )
+)
+
+game (
+	name "NBA Jam 2001 (USA, Europe)"
+	genre "Sports > Team > Basketball > Arcade"
+	rom ( crc 3AA75F1C )
+)
+
+game (
+	name "NBA Pro '99 (Europe) (SGB Enhanced)"
+	genre "Sports > Team > Basketball > Sim"
+	rom ( crc 748564AE )
+)
+
+game (
+	name "NBA In the Zone (USA) (Rev A) (SGB Enhanced)"
+	genre "Sports > Team > Basketball > Sim"
+	rom ( crc BE949F74 )
+)
+
+game (
+	name "NBA Show Time - NBA on NBC (USA)"
+	genre "Sports > Team > Basketball > Arcade"
+	rom ( crc 7AE23888 )
+)
+
+game (
+	name "Net de Get - Minigame @ 100 (Japan)"
+	genre "Miscellaneous > Compilation"
+	rom ( crc 6E33D509 )
+)
+
+game (
+	name "Network Boukenki Bugsite - Alpha Version (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc D65C8BA1 )
+)
+
+game (
+	name "Network Boukenki Bugsite - Beta Version (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 56F52663 )
+)
+
+game (
+	name "New Addams Family Series, The (Europe) (En,Fr,De,Es,It,Pt)"
+	genre "Action > General"
+	rom ( crc FBB97680 )
+)
+
+game (
+	name "New Adventures of Mary-Kate & Ashley, The (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc DCA4474E )
+)
+
+game (
+	name "NFL Blitz (USA, Europe) (Rev A)"
+	genre "Sports > Team > Football > Arcade"
+	rom ( crc 107D734B )
+)
+
+game (
+	name "NFL Blitz (USA)"
+	genre "Sports > Team > Football > Arcade"
+	rom ( crc D731DED7 )
+)
+
+game (
+	name "NFL Blitz 2000 (USA)"
+	genre "Sports > Team > Football > Arcade"
+	rom ( crc 090C7DAC )
+)
+
+game (
+	name "NFL Blitz 2001 (USA)"
+	genre "Sports > Team > Football > Arcade"
+	rom ( crc 61C653AE )
+)
+
+game (
+	name "NHL 2000 (USA, Europe) (SGB Enhanced)"
+	genre "Sports > Team > Ice Hockey > Sim"
+	rom ( crc BB625129 )
+)
+
+game (
+	name "NHL Blades of Steel (USA)"
+	genre "Sports > Team > Ice Hockey > Sim"
+	rom ( crc A890ADB2 )
+)
+
+game (
+	name "NHL Blades of Steel 2000 (USA)"
+	genre "Sports > Team > Ice Hockey > Sim"
+	rom ( crc 8BC5B62A )
+)
+
+game (
+	name "Nicktoons Racing (USA)"
+	genre "Racing > Arcade > Other"
+	rom ( crc A3F079D4 )
+)
+
+game (
+	name "Nintama Rantarou - Ninjutsu Gakuen ni Nyuugaku Shiyou no Dan (Japan)"
+	genre "Action > General"
+	rom ( crc 4631D8BF )
+)
+
+game (
+	name "No Fear - Downhill Mountain Biking (Europe)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 0F69F574 )
+)
+
+game (
+	name "Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 233862D0 )
+)
+
+game (
+	name "Noddy and the Birthday Party (Europe) (En,Fr,De,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 845B4E44 )
+)
+
+game (
+	name "NSYNC - Get to the Show (USA)"
+	genre "Action > General"
+	rom ( crc F770878B )
+)
+
+game (
+	name "Nushi Tsuri Adventure - Kite no Bouken (Japan) (Rumble Version)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc AC52F6EF )
+)
+
+game (
+	name "O'Leary Manager 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)"
+	genre "Sports > Team > Soccer > Management"
+	rom ( crc 3485761A )
+)
+
+game (
+	name "Oddworld Adventures II (USA) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 5C260D5A )
+)
+
+game (
+	name "Oddworld Adventures II (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 4B83B14F )
+)
+
+game (
+	name "Ohasuta Dance Dance Revolution GB (Japan)"
+	genre "Action > Rhythm > Dancing"
+	rom ( crc E338C118 )
+)
+
+game (
+	name "Ohasuta Yama-chan & Raymond (Japan) (SGB Enhanced)"
+	genre "Action > General"
+	rom ( crc 840EF32F )
+)
+
+game (
+	name "Oide Rascal (Japan)"
+	genre "Action > General"
+	rom ( crc 9E0799F4 )
+)
+
+game (
+	name "Ojarumaru - Mangan Jinja no Ennichi de Ojaru! (Japan)"
+	genre "Action > General"
+	rom ( crc D86507C9 )
+)
+
+game (
+	name "Ojarumaru - Tsukiyo ga Ike no Takaramono (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc ED7461D2 )
+)
+
+game (
+	name "Original Moorhuhn Jagd, Die (Germany)"
+	genre "Action > Shooter > Light Gun"
+	rom ( crc 714EC204 )
+)
+
+game (
+	name "Othello Millennium (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc C7800576 )
+)
+
+game (
+	name "Ottifanten - Kommando Stoertebeker (Germany)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 3EAC3D1C )
+)
+
+game (
+	name "Ou Dorobou Jing - Angel Version (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc D47C0DCF )
+)
+
+game (
+	name "Ou Dorobou Jing - Devil Version (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 2A39A874 )
+)
+
+game (
+	name "Owarai Yoiko no Geemumichi - Oyaji Sagashite 3 Choume (Japan) (SGB Enhanced)"
+	genre "Action > General"
+	rom ( crc 3F635A4F )
+)
+
+game (
+	name "Pac-Man - Special Colour Edition (Europe)"
+	genre "Action > Arcade"
+	rom ( crc F565647F )
+)
+
+game (
+	name "Pac-Man - Special Color Edition (USA) (SGB Enhanced)"
+	genre "Action > Arcade"
+	rom ( crc 3485EF86 )
+)
+
+game (
+	name "Pachinko CR Mouretsu Genshijin T (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc F75E269E )
+)
+
+game (
+	name "Pachinko Hisshou Guide - Data no Ousama (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 1A631BAB )
+)
+
+game (
+	name "Pachipachi Pachisurou - New Pulsar Hen (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 1E443D1B )
+)
+
+game (
+	name "Paperboy (USA, Europe)"
+	genre "Action > General"
+	rom ( crc C0A98305 )
+)
+
+game (
+	name "Papyrus (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Platformer > 2D"
+	rom ( crc DA3A3278 )
+)
+
+game (
+	name "Visiteurs, Les (France)"
+	genre "Action > Platformer > 2D"
+	rom ( crc D843F898 )
+)
+
+game (
+	name "Perfect Choro Q (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc AFA1AAC3 )
+)
+
+game (
+	name "Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)"
+	genre "Action Adventure > Linear"
+	rom ( crc 0601BEF6 )
+)
+
+game (
+	name "Pia Carrot e Youkoso!! 2.2 (Japan)"
+	genre "Adventure > Visual Novel"
+	rom ( crc 2267360B )
+)
+
+game (
+	name "Pitfall - Beyond the Jungle (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc F911BB5D )
+)
+
+game (
+	name "Pitfall GB (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc FA09CEBE )
+)
+
+game (
+	name "Planet of the Apes (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc A92DCB79 )
+)
+
+game (
+	name "Planet of the Apes (USA) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 91D7CCCA )
+)
+
+game (
+	name "Player Manager 2001 (Europe) (En,Fr)"
+	genre "Sports > Team > Soccer > Management"
+	rom ( crc 375C35E0 )
+)
+
+game (
+	name "Anpfiff - Der RTL Fussball-Manager (Germany)"
+	genre "Sports > Team > Soccer > Management"
+	rom ( crc B54D264A )
+)
+
+game (
+	name "Pocket Billiards - Funk the 9 Ball (Japan)"
+	genre "Sports > General"
+	rom ( crc 3B46E7C9 )
+)
+
+game (
+	name "Pocket Bomberman (USA, Europe) (SGB Enhanced)"
+	genre "Action > Arcade"
+	rom ( crc FA2A66E9 )
+)
+
+game (
+	name "Pocket Bowling (USA)"
+	genre "Sports > Individual > Bowling"
+	rom ( crc 3ED30908 )
+)
+
+game (
+	name "Pocket Bowling (Japan)"
+	genre "Sports > Individual > Bowling"
+	rom ( crc 26589B79 )
+)
+
+game (
+	name "Pocket Color Billiards (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 911007E1 )
+)
+
+game (
+	name "Pocket Color Mahjong (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 08DC0AF4 )
+)
+
+game (
+	name "Pocket Color Trump (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc C73EB10E )
+)
+
+game (
+	name "Pocket Cooking (Japan)"
+	genre "Strategy > General"
+	rom ( crc F5AB554D )
+)
+
+game (
+	name "Pocket Densha 2 (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 4D26E880 )
+)
+
+game (
+	name "Pocket Family GB2 (Japan)"
+	genre "Strategy > General"
+	rom ( crc 2A273244 )
+)
+
+game (
+	name "Pocket GI Stable (Japan) (SGB Enhanced)"
+	genre "Sports > Individual > Horse Racing"
+	rom ( crc C424874E )
+)
+
+game (
+	name "Pocket Hanafuda (Japan)"
+	genre "Miscellaneous > Party / Minigame"
+	rom ( crc AF0C51B8 )
+)
+
+game (
+	name "Pocket King (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc DEE71D44 )
+)
+
+game (
+	name "Pocket Lure Boy (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 35A29628 )
+)
+
+game (
+	name "Pocket Music (Europe) (En,Fr,De,Es,It)"
+	genre "Miscellaneous > Application"
+	rom ( crc 1BFB531E )
+)
+
+game (
+	name "Pocket Pro Wrestling - Perfect Wrestler (Japan)"
+	genre "Sports > Individual > Combat > Wrestling"
+	rom ( crc D4EBBA41 )
+)
+
+game (
+	name "Pocket Pro Yakyuu (Japan)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 2A6EF6A8 )
+)
+
+game (
+	name "Pocket Puyo Puyo Sun (Japan) (SGB Enhanced)"
+	genre "Puzzle > Matching"
+	rom ( crc 45661EC3 )
+)
+
+game (
+	name "Pocket Puyo Puyo-n (Japan)"
+	genre "Puzzle > Matching"
+	rom ( crc 870DB337 )
+)
+
+game (
+	name "Pocket Racing (Europe)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc FBF97372 )
+)
+
+game (
+	name "Pocket GT (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 2AC77C5A )
+)
+
+game (
+	name "Pocket Soccer (Europe) (En,Fr,De,Es,It,Pt)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc E8F5824F )
+)
+
+game (
+	name "Pokemon - Crystal Version (USA, Europe) (Rev A)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 3358E30A )
+)
+
+game (
+	name "Pocket Monsters - Crystal Version (Japan)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 270C4ECC )
+)
+
+game (
+	name "Pokemon - Crystal Version (USA, Europe)"
+	genre "Role-Playing > Trainer"
+	rom ( crc EE6F5188 )
+)
+
+game (
+	name "Pokemon - Edicion Cristal (Spain)"
+	genre "Role-Playing > Trainer"
+	rom ( crc FF0A6F8A )
+)
+
+game (
+	name "Pokemon - Kristall-Edition (Germany)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 616D85DE )
+)
+
+game (
+	name "Pokemon - Version Cristal (France)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 878B2AA7 )
+)
+
+game (
+	name "Pokemon - Versione Cristallo (Italy)"
+	genre "Role-Playing > Trainer"
+	rom ( crc D45AC039 )
+)
+
+game (
+	name "Pokemon - Gold Version (USA, Europe) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 6BDE3C3E )
+)
+
+game (
+	name "Pocket Monsters Geum (Korea)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 249A7A66 )
+)
+
+game (
+	name "Pocket Monsters Kin (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 524478D4 )
+)
+
+game (
+	name "Pocket Monsters Kin (Japan) (Rev A) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 4EF7F2A5 )
+)
+
+game (
+	name "Pokemon - Edicion Oro (Spain) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 3434A92B )
+)
+
+game (
+	name "Pokemon - Goldene Edition (Germany) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 4889DFAA )
+)
+
+game (
+	name "Pokemon - Version Or (France) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 37A70702 )
+)
+
+game (
+	name "Pokemon - Versione Oro (Italy) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 4C184CE3 )
+)
+
+game (
+	name "Pokemon - Silver Version (USA, Europe) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 8AD48636 )
+)
+
+game (
+	name "Pocket Monsters Eun (Korea)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 9CC1F90F )
+)
+
+game (
+	name "Pocket Monsters Gin (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc BE1B928A )
+)
+
+game (
+	name "Pocket Monsters Gin (Japan) (Rev A) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 0AEA5383 )
+)
+
+game (
+	name "Pokemon - Edicion Plata (Spain) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 1D9FAAC5 )
+)
+
+game (
+	name "Pokemon - Silberne Edition (Germany) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc 96C9DB95 )
+)
+
+game (
+	name "Pokemon - Version Argent (France) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc E0C216EA )
+)
+
+game (
+	name "Pokemon - Versione Argento (Italy) (SGB Enhanced)"
+	genre "Role-Playing > Trainer"
+	rom ( crc CBA6D2D4 )
+)
+
+game (
+	name "Pokemon Card GB2 - GR Dan Sanjou! (Japan)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 6C933A14 )
+)
+
+game (
+	name "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced)"
+	genre "Action > Pinball"
+	rom ( crc 39C432A4 )
+)
+
+game (
+	name "Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced)"
+	genre "Action > Pinball"
+	rom ( crc 13C70DE9 )
+)
+
+game (
+	name "Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced)"
+	genre "Action > Pinball"
+	rom ( crc 03CE8D9A )
+)
+
+game (
+	name "Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 4523376E )
+)
+
+game (
+	name "Pokemon Card GB (Japan) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 1926F570 )
+)
+
+game (
+	name "Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 966DAEF1 )
+)
+
+game (
+	name "Pokemon Trading Card Game (USA) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 81069D53 )
+)
+
+game (
+	name "Pong - The Next Level (USA, Europe)"
+	genre "Action > Arcade"
+	rom ( crc 476BD39D )
+)
+
+game (
+	name "Pooh and Tigger's Hunny Safari (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 8505D139 )
+)
+
+game (
+	name "Pooh and Tigger's Hunny Safari (USA)"
+	genre "Action > General"
+	rom ( crc 622690DA )
+)
+
+game (
+	name "Pop'n Music GB (Japan)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 07E6CA95 )
+)
+
+game (
+	name "Pop'n Music GB - Animation Melody (Japan)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 9B2429A7 )
+)
+
+game (
+	name "Pop'n Music GB - Disney Tunes (Japan)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 48C3C6EF )
+)
+
+game (
+	name "Portal Runner (USA)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 913AC306 )
+)
+
+game (
+	name "Power Pro Kun Pocket (Japan) (Rev A) (SGB Enhanced)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 894D88F2 )
+)
+
+game (
+	name "Power Pro Kun Pocket (Japan) (SGB Enhanced)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 145540D8 )
+)
+
+game (
+	name "Power Pro Kun Pocket 2 (Japan) (SGB Enhanced)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc C2A4A3EB )
+)
+
+game (
+	name "Power Quest (Europe) (En,Fr,De,Es,It) (SGB Enhanced)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 30E1E567 )
+)
+
+game (
+	name "Power Quest (USA) (En,Fr,De,Es,It) (SGB Enhanced)"
+	genre "Action > Fighting > 2D"
+	rom ( crc DAD6F6B4 )
+)
+
+game (
+	name "Power Rangers - Lightspeed Rescue (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 99869172 )
+)
+
+game (
+	name "Power Rangers - Time Force (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 17E51443 )
+)
+
+game (
+	name "Powerpuff Girls, The - Bad Mojo Jojo (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 75D1063A )
+)
+
+game (
+	name "Powerpuff Girls, The - Bad Mojo Jojo (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 834CAF7A )
+)
+
+game (
+	name "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev A)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 548A287A )
+)
+
+game (
+	name "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev B)"
+	genre "Action > Platformer > 2D"
+	rom ( crc A111704F )
+)
+
+game (
+	name "Powerpuff Girls, The - L'Affreux Mojo Jojo (France)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 256D166F )
+)
+
+game (
+	name "Super Nenas, Las - El Malvado Mojo Jojo (Spain)"
+	genre "Action > Platformer > 2D"
+	rom ( crc EFE652BF )
+)
+
+game (
+	name "Powerpuff Girls, The - Battle Him (Europe)"
+	genre "Action > General"
+	rom ( crc 788859AE )
+)
+
+game (
+	name "Powerpuff Girls, The - Battle Him (USA)"
+	genre "Action > General"
+	rom ( crc D8455984 )
+)
+
+game (
+	name "Powerpuff Girls, The - Battle Him (USA) (Rev A)"
+	genre "Action > General"
+	rom ( crc E3D6964C )
+)
+
+game (
+	name "Powerpuff Girls, The - Bulle Contre Lui (France)"
+	genre "Action > General"
+	rom ( crc 7085270C )
+)
+
+game (
+	name "Super Nenas, Las - Lucha Con Ese (Spain)"
+	genre "Action > General"
+	rom ( crc 7BA87C11 )
+)
+
+game (
+	name "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev B)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 443367AE )
+)
+
+game (
+	name "Powerpuff Girls, The - Paint the Townsville Green (USA)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 9D47261A )
+)
+
+game (
+	name "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev A)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 295B3646 )
+)
+
+game (
+	name "Powerpuff Girls, The - Paint the Townsville Green (Europe)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 98E4B0C4 )
+)
+
+game (
+	name "Powerpuff Girls, The - Panique A Townsville (France)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 79A417DB )
+)
+
+game (
+	name "Super Nenas, Las - Panico en Townsville (Spain)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 03EDB574 )
+)
+
+game (
+	name "Prince Naseem Boxing (Europe) (En,Fr,De)"
+	genre "Sports > Individual > Combat > Boxing / Martial Arts"
+	rom ( crc 91DEF753 )
+)
+
+game (
+	name "Prince of Persia (USA, Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc E6BEC6D1 )
+)
+
+game (
+	name "Pro Darts (USA)"
+	genre "Sports > Individual > Other"
+	rom ( crc 834A72C0 )
+)
+
+game (
+	name "Pro Mahjong Kiwame GB II (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 14F91F86 )
+)
+
+game (
+	name "Pro Mahjong Tsuwamono GB (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 1461D8D8 )
+)
+
+game (
+	name "Pro Mahjong Tsuwamono GB2 (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc F03016F5 )
+)
+
+game (
+	name "Pro Pool (Europe) (En,Fr,De)"
+	genre "Sports > Individual > Billiards"
+	rom ( crc 21A4DA64 )
+)
+
+game (
+	name "Pro Pool (USA) (En,Fr,De)"
+	genre "Sports > Individual > Billiards"
+	rom ( crc 04D3031A )
+)
+
+game (
+	name "Project S-11 (USA)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 20CEE2E8 )
+)
+
+game (
+	name "Puchi Carat (Europe) (SGB Enhanced)"
+	genre "Puzzle > Stacking"
+	rom ( crc A9A89DDA )
+)
+
+game (
+	name "Puchi Carat (Japan) (SGB Enhanced)"
+	genre "Puzzle > Stacking"
+	rom ( crc F0D0C36D )
+)
+
+game (
+	name "Pumuckls Abenteuer bei den Piraten (Germany)"
+	genre "Action > General"
+	rom ( crc F55CDB79 )
+)
+
+game (
+	name "Pumuckls Abenteuer im Geisterschloss (Germany)"
+	genre "Action > General"
+	rom ( crc 87FCEC24 )
+)
+
+game (
+	name "Puyo Puyo Gaiden - Puyo Wars (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 67350BC9 )
+)
+
+game (
+	name "Puzzle de Shoubuyo! Wootama-chan (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 73ED3042 )
+)
+
+game (
+	name "Puzzle Master (USA)"
+	genre "Puzzle > General"
+	rom ( crc 06EB7A01 )
+)
+
+game (
+	name "Puzzled (Europe) (En,Fr,De)"
+	genre "Puzzle > General"
+	rom ( crc 15B44D68 )
+)
+
+game (
+	name "Puzzled (USA)"
+	genre "Puzzle > General"
+	rom ( crc F03FFDAF )
+)
+
+game (
+	name "Q-bert (USA)"
+	genre "Action > Arcade"
+	rom ( crc 90F46D7E )
+)
+
+game (
+	name "QIX Adventure (Europe)"
+	genre "Puzzle > General"
+	rom ( crc D729DB40 )
+)
+
+game (
+	name "QIX Adventure (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 5ACEA4A9 )
+)
+
+game (
+	name "Quest for Camelot (Europe) (En,Fr,De,Es,It,Nl) (SGB Enhanced)"
+	genre "Action Adventure > General"
+	rom ( crc CE55A4DE )
+)
+
+game (
+	name "Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced)"
+	genre "Action Adventure > General"
+	rom ( crc D903DB7D )
+)
+
+game (
+	name "Quest RPG - Brian's Journey (USA)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 9AC27645 )
+)
+
+game (
+	name "Jack no Daibouken - Daimaou no Gyakushuu (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc CFF5325A )
+)
+
+game (
+	name "Qui Qui (Japan)"
+	genre "Strategy > General"
+	rom ( crc 56D76BA2 )
+)
+
+game (
+	name "R-Type DX (USA, Europe)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc FC1D4089 )
+)
+
+game (
+	name "R-Type DX (Japan)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 3623EBB6 )
+)
+
+game (
+	name "Radikal Bikers (Europe) (En,Fr,De,Es) (Proto)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 81E25D37 )
+)
+
+game (
+	name "Rainbow Islands (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6DECC6B3 )
+)
+
+game (
+	name "Rampage - World Tour (USA, Europe)"
+	genre "Action > General"
+	rom ( crc B029017F )
+)
+
+game (
+	name "Rampage 2 - Universal Tour (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 20B86F1E )
+)
+
+game (
+	name "Rampart (USA)"
+	genre "Action > General"
+	rom ( crc D5AEED2E )
+)
+
+game (
+	name "Razor Freestyle Scooter (USA)"
+	genre "Sports > Individual > Other"
+	rom ( crc 5C201286 )
+)
+
+game (
+	name "Freestyle Scooter (Europe)"
+	genre "Sports > Individual > Other"
+	rom ( crc EE79117D )
+)
+
+game (
+	name "Ready 2 Rumble Boxing (Europe)"
+	genre "Sports > Individual > Combat > Boxing / Martial Arts"
+	rom ( crc BEA36BF9 )
+)
+
+game (
+	name "Ready 2 Rumble Boxing (USA) (Rumble Version)"
+	genre "Sports > Individual > Combat > Boxing / Martial Arts"
+	rom ( crc 345E20A4 )
+)
+
+game (
+	name "Real Pro Yakyuu! - Central League Hen (Japan) (SGB Enhanced)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc AFFF6BB9 )
+)
+
+game (
+	name "Real Pro Yakyuu! - Pacific League Hen (Japan) (SGB Enhanced)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 16B81C36 )
+)
+
+game (
+	name "Rescue Heroes - Fire Frenzy (USA)"
+	genre "Action > General"
+	rom ( crc 77A4DC63 )
+)
+
+game (
+	name "Reservoir Rat (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 22621803 )
+)
+
+game (
+	name "Rats! (USA) (En,Es)"
+	genre "Action > General"
+	rom ( crc 17635AD1 )
+)
+
+game (
+	name "Resident Evil (Unknown) (Proto)"
+	genre "Action Adventure > Survival"
+	rom ( crc 53F7BBA1 )
+)
+
+game (
+	name "Resident Evil (Unknown) (Proto) (early)"
+	genre "Action Adventure > Survival"
+	rom ( crc E6E722C8 )
+)
+
+game (
+	name "Resident Evil Gaiden (Europe) (En,Fr,De,Es,It)"
+	genre "Action Adventure > Survival"
+	rom ( crc F85C3F2C )
+)
+
+game (
+	name "Biohazard Gaiden (Japan)"
+	genre "Action Adventure > Survival"
+	rom ( crc C2531D36 )
+)
+
+game (
+	name "Resident Evil Gaiden (USA)"
+	genre "Action Adventure > Survival"
+	rom ( crc F8C5021B )
+)
+
+game (
+	name "Return of the Ninja (Europe)"
+	genre "Action > General"
+	rom ( crc 8E04849A )
+)
+
+game (
+	name "Return of the Ninja (USA)"
+	genre "Action > General"
+	rom ( crc A07DA702 )
+)
+
+game (
+	name "Revelations - The Demon Slayer (USA) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc D1A65D74 )
+)
+
+game (
+	name "Megami Tensei Gaiden - Last Bible (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc BD9BA639 )
+)
+
+game (
+	name "Rhino Rumble (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 73160E05 )
+)
+
+game (
+	name "Rip-Tide Racer (Europe) (En,Fr,De,Es,It)"
+	genre "Racing > Arcade > Other"
+	rom ( crc AB8C3A31 )
+)
+
+game (
+	name "Road Champs - BXS Stunt Biking (USA, Europe)"
+	genre "Sports > Individual > Biking"
+	rom ( crc 98C59706 )
+)
+
+game (
+	name "Road Rash (USA, Europe)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 11025EEB )
+)
+
+game (
+	name "Roadsters '98 (USA) (Proto) (SGB Enhanced)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc FE2995A1 )
+)
+
+game (
+	name "Robin Hood (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc D4F84329 )
+)
+
+game (
+	name "RoboCop (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 6C6423E2 )
+)
+
+game (
+	name "Robopon - Sun Version (USA) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 32CAEF11 )
+)
+
+game (
+	name "Robot Poncots - Sun Version (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc CB0B8003 )
+)
+
+game (
+	name "Robot Poncots - Comic Bom Bom Special Version (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 4AA209CD )
+)
+
+game (
+	name "Robot Poncots - Moon Version (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 87A29030 )
+)
+
+game (
+	name "Robot Poncots - Star Version (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc B28F32AC )
+)
+
+game (
+	name "Robot Wars - Metal Mayhem (Europe) (En,Fr,De,It,Nl,Sv)"
+	genre "Action > General"
+	rom ( crc E99BDEE6 )
+)
+
+game (
+	name "Rocket Power - Gettin' Air (USA, Europe)"
+	genre "Sports > Individual > Other"
+	rom ( crc 7025EB63 )
+)
+
+game (
+	name "Rocket Power - La Glisse de l'Extreme (France)"
+	genre "Sports > Individual > Other"
+	rom ( crc C9A7AA7B )
+)
+
+game (
+	name "Rocky Mountain Trophy Hunter (USA)"
+	genre "Sports > Individual > Nature > Hunting"
+	rom ( crc 9AA5B021 )
+)
+
+game (
+	name "Rokumon Tengai Mon-Colle-Knight GB (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc E48ADF8D )
+)
+
+game (
+	name "Roland Garros French Open (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Sports > General"
+	rom ( crc 10DBDE7C )
+)
+
+game (
+	name "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 49101556 )
+)
+
+game (
+	name "Roswell Conspiracies - Aliens, Myths & Legends (USA) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 1F5EC131 )
+)
+
+game (
+	name "RPG Tsukuru GB (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 0B614307 )
+)
+
+game (
+	name "Rugrats - Time Travelers (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 9C743F03 )
+)
+
+game (
+	name "Razmoket, Les - Voyage dans le Temps (France)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 2F8FEF3F )
+)
+
+game (
+	name "Rugrats - Totally Angelica (USA, Europe)"
+	genre "Action > General"
+	rom ( crc FC6195EF )
+)
+
+game (
+	name "Razmoket, Les - 100% Angelica (France)"
+	genre "Action > General"
+	rom ( crc 1D66CB29 )
+)
+
+game (
+	name "Rugrats - Typisch Angelica (Germany)"
+	genre "Action > General"
+	rom ( crc 026C4794 )
+)
+
+game (
+	name "Rugrats in Paris - The Movie (USA, Europe)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 8B195237 )
+)
+
+game (
+	name "Razmoket a Paris, Les - Le Film (France)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 094494E9 )
+)
+
+game (
+	name "Rugrats in Paris - The Movie (Europe) (En,Es)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 35323432 )
+)
+
+game (
+	name "Rugrats Movie, The (Europe) (SGB Enhanced)"
+	genre "Action > General"
+	rom ( crc B4091600 )
+)
+
+game (
+	name "Rugrats Movie, The (USA) (SGB Enhanced)"
+	genre "Action > General"
+	rom ( crc FEBE2606 )
+)
+
+game (
+	name "Sabrina - The Animated Series - Spooked! (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 2CF48188 )
+)
+
+game (
+	name "Sabrina - The Animated Series - Zapped! (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 5D39A9B0 )
+)
+
+game (
+	name "Sabrina - The Animated Series - Zapped! (Europe) (En,Fr,De)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 818F3AF6 )
+)
+
+game (
+	name "Sakata Gorou Kudan no Renju Kyoushitsu (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > General"
+	rom ( crc B5412C6F )
+)
+
+game (
+	name "Samurai Kid (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 44A9DDFB )
+)
+
+game (
+	name "San Francisco Rush 2049 (USA, Europe)"
+	genre "Racing > Arcade > Futuristic"
+	rom ( crc EF368F16 )
+)
+
+game (
+	name "Sangokushi - Game Boy Ban 2 (Japan) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > General"
+	rom ( crc E787B44C )
+)
+
+game (
+	name "Sanrio Timenet - Kako Hen (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 458B579D )
+)
+
+game (
+	name "Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc EFE51E17 )
+)
+
+game (
+	name "Santa Claus Junior (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc A744DF64 )
+)
+
+game (
+	name "Scooby-Doo! - Classic Creep Capers (USA, Europe)"
+	genre "Adventure > 3D > Third-Person"
+	rom ( crc E3704755 )
+)
+
+game (
+	name "Scrabble (Europe)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 998657B7 )
+)
+
+game (
+	name "SD Hiryuu no Ken EX (Japan) (SGB Enhanced)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 365BF43F )
+)
+
+game (
+	name "Sei Hai Densetsu (Japan) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 612F0529 )
+)
+
+game (
+	name "Seme COM Dungeon - Drururuaga (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 0B1B928C )
+)
+
+game (
+	name "Sesame Street Sports (Europe)"
+	genre "Sports > General"
+	rom ( crc 55BE1A6E )
+)
+
+game (
+	name "Sesame Street Sports (USA)"
+	genre "Sports > General"
+	rom ( crc 4ED4AAFA )
+)
+
+game (
+	name "Sgt. Rock - On the Frontline (USA)"
+	genre "Action > General"
+	rom ( crc 521A2F77 )
+)
+
+game (
+	name "Front Line - The Next Mission (Japan)"
+	genre "Action > General"
+	rom ( crc F48E1643 )
+)
+
+game (
+	name "Shaman King Card Game - Chou Senjiryakketsu - Funbari Hen (Japan)"
+	genre "Action Adventure > General"
+	rom ( crc EF10272E )
+)
+
+game (
+	name "Shaman King Card Game - Chou Senjiryakketsu - Meramera Hen (Japan)"
+	genre "Action Adventure > General"
+	rom ( crc 5730393D )
+)
+
+game (
+	name "Shamus (USA, Europe)"
+	genre "Action > General"
+	rom ( crc EFB9196D )
+)
+
+game (
+	name "Shanghai Pocket (USA, Europe) (Rev A) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc D8FAC36C )
+)
+
+game (
+	name "Shanghai Pocket (USA) (SGB Enhanced)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 9401BA47 )
+)
+
+game (
+	name "Shantae (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc E994B59B )
+)
+
+game (
+	name "Shaun Palmer's Pro Snowboarder (USA, Australia)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc 709CDA93 )
+)
+
+game (
+	name "Shin Megami Tensei Devil Children - Aka no Sho (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc F90C4977 )
+)
+
+game (
+	name "Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 55B9AF51 )
+)
+
+game (
+	name "Shin Megami Tensei Devil Children - Shiro no Sho (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 39A10855 )
+)
+
+game (
+	name "Shin Megami Tensei Trading Card - Card Summoner (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 85264877 )
+)
+
+game (
+	name "Shinseiki Evangelion - Mahjong Hokan Keikaku (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 5337FF55 )
+)
+
+game (
+	name "Shougi 2 (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc A7748D2B )
+)
+
+game (
+	name "Shougi 3 (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 64B479FA )
+)
+
+game (
+	name "Shrek - Fairy Tale Freakdown (USA, Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 387E6459 )
+)
+
+game (
+	name "Shutokou Racing, The (Japan) (SGB Enhanced)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 36E781CD )
+)
+
+game (
+	name "Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc EBAF4888 )
+)
+
+game (
+	name "Smurfs Nightmare, The (Europe) (En,Fr,De,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6F97B043 )
+)
+
+game (
+	name "Smurfs Nightmare, The (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc B50CAFE4 )
+)
+
+game (
+	name "Snobow Champion (Japan)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc 846FEA2B )
+)
+
+game (
+	name "Snoopy Tennis (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Sports > Individual > Tennis"
+	rom ( crc 8C2D9B43 )
+)
+
+game (
+	name "Snoopy Tennis (Japan)"
+	genre "Sports > Individual > Tennis"
+	rom ( crc D088EEFD )
+)
+
+game (
+	name "Snoopy Tennis (USA) (En,Fr,Es)"
+	genre "Sports > Individual > Tennis"
+	rom ( crc D882ECCC )
+)
+
+game (
+	name "Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)"
+	genre "Action > Platformer > 2D"
+	rom ( crc C9C68471 )
+)
+
+game (
+	name "Snow White and the Seven Dwarfs (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 8DD38534 )
+)
+
+game (
+	name "SnowCross (Europe) (En,Fr,De,Es,It,Pt)"
+	genre "Racing > Arcade > Other"
+	rom ( crc 4BA47DBC )
+)
+
+game (
+	name "Polaris SnoCross (USA) (Rumble Version)"
+	genre "Racing > Arcade > Other"
+	rom ( crc DD8B189E )
+)
+
+game (
+	name "Soccer Manager (Europe) (En,Fr,De,Es)"
+	genre "Sports > Team > Soccer > Management"
+	rom ( crc 237ECEF9 )
+)
+
+game (
+	name "Soreike! Anpanman - 5-tsu no Tou no Ousama (Japan)"
+	genre "Action > General"
+	rom ( crc C9A25B0C )
+)
+
+game (
+	name "Soreike! Anpanman - Fushigi na Nikoniko Album (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc A80EEEAD )
+)
+
+game (
+	name "Soukoban Densetsu - Hikari to Yami no Kuni (Japan) (SGB Enhanced)"
+	genre "Action > General"
+	rom ( crc 081D7FCB )
+)
+
+game (
+	name "Soul Getter - Houkago Bouken RPG (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 3FFCD45B )
+)
+
+game (
+	name "Space Invaders (USA, Europe)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc DAB7460C )
+)
+
+game (
+	name "Space Invaders X (Japan)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc C016BC79 )
+)
+
+game (
+	name "Space Invasion (Europe) (Unl)"
+	genre "Action > Shooter > Shoot-'Em-Up > Top-Down"
+	rom ( crc 2B2D9868 )
+)
+
+game (
+	name "Space Marauder (USA)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 4F83B35E )
+)
+
+game (
+	name "Burai Senshi Color (Japan)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc E52FBD12 )
+)
+
+game (
+	name "Space-Net - Cosmo Blue (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc F606D369 )
+)
+
+game (
+	name "Space-Net - Cosmo Red (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 01F96353 )
+)
+
+game (
+	name "Spacestation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 63353C0F )
+)
+
+game (
+	name "Spawn (USA)"
+	genre "Action > General"
+	rom ( crc 72FCB0AD )
+)
+
+game (
+	name "Speedy Gonzales - Aztec Adventure (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc AE82AFA4 )
+)
+
+game (
+	name "Spider-Man (USA, Europe)"
+	genre "Action Adventure > General"
+	rom ( crc 34E2B3BA )
+)
+
+game (
+	name "Spider-Man (France)"
+	genre "Action Adventure > General"
+	rom ( crc F6334DC5 )
+)
+
+game (
+	name "Spider-Man (Japan)"
+	genre "Action Adventure > General"
+	rom ( crc 5A83DFC4 )
+)
+
+game (
+	name "Spider-Man 2 - The Sinister Six (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc A7FAACCF )
+)
+
+game (
+	name "Spirou Robbedoes - The Robot Invasion (Europe) (En,Fr,De,Es,It,Nl,Da)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 3E9BC90B )
+)
+
+game (
+	name "SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 81230564 )
+)
+
+game (
+	name "Spy vs. Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	genre "Action > General"
+	rom ( crc 713C6C17 )
+)
+
+game (
+	name "Spy vs. Spy (Japan)"
+	genre "Action > General"
+	rom ( crc 0E783117 )
+)
+
+game (
+	name "Spy vs. Spy (USA)"
+	genre "Action > General"
+	rom ( crc F0463D51 )
+)
+
+game (
+	name "Star Ocean - Blue Sphere (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 8C7DDBDA )
+)
+
+game (
+	name "Star Wars Episode I - Obi-Wan's Adventures (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc E584DFC2 )
+)
+
+game (
+	name "Star Wars Episode I - Obi-Wan's Adventures (USA)"
+	genre "Action > General"
+	rom ( crc 0E697582 )
+)
+
+game (
+	name "Star Wars Episode I - Racer (USA, Europe) (Rumble Version)"
+	genre "Racing > Arcade > Futuristic"
+	rom ( crc 0EBC5758 )
+)
+
+game (
+	name "Street Fighter Alpha - Warriors' Dreams (Europe)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 28A3AB3A )
+)
+
+game (
+	name "Street Fighter Alpha - Warriors' Dreams (Japan)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 32739B34 )
+)
+
+game (
+	name "Street Fighter Alpha - Warriors' Dreams (USA)"
+	genre "Action > Fighting > 2D"
+	rom ( crc AA5F14D2 )
+)
+
+game (
+	name "Stuart Little - The Journey Home (USA, Europe)"
+	genre "Action > General"
+	rom ( crc EB273887 )
+)
+
+game (
+	name "Stuart Little - The Journey Home (Europe) (Fr,De)"
+	genre "Action > General"
+	rom ( crc ACB08666 )
+)
+
+game (
+	name "Super Black Bass - Real Fight (Japan) (Rumble Version)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc B7F77B6A )
+)
+
+game (
+	name "Super Bombliss DX (Japan) (En) (SGB Enhanced)"
+	genre "Action > General"
+	rom ( crc 34C8A4A5 )
+)
+
+game (
+	name "Super Breakout! (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Arcade"
+	rom ( crc 6833923D )
+)
+
+game (
+	name "Super Breakout! (USA)"
+	genre "Action > Arcade"
+	rom ( crc 52F51CB5 )
+)
+
+game (
+	name "Super Chinese Fighter EX (Japan)"
+	genre "Action > Fighting > 2D"
+	rom ( crc DCDAA333 )
+)
+
+game (
+	name "Super Doll Licca-chan - Kisekae Daisakusen (Japan)"
+	genre "Adventure > General"
+	rom ( crc DF50473F )
+)
+
+game (
+	name "Super Gals! Kotobuki Ran (Japan)"
+	genre "Adventure > General"
+	rom ( crc 90379C16 )
+)
+
+game (
+	name "Super Mario Bros. Deluxe (USA, Europe) (Rev B)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 62BBAE83 )
+)
+
+game (
+	name "Super Mario Bros. Deluxe (Japan) (NP)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 866B1212 )
+)
+
+game (
+	name "Super Mario Bros. Deluxe (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc A4CD26FF )
+)
+
+game (
+	name "Super Mario Bros. Deluxe (USA, Europe) (Rev A)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 90AB047B )
+)
+
+game (
+	name "Super Me-Mail GB - Me-Mail Bear no Happy Mail Town (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 315CAA18 )
+)
+
+game (
+	name "Super Real Fishing (Japan) (Rumble Version)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 00865161 )
+)
+
+game (
+	name "Super Robot Pinball (Japan)"
+	genre "Action > Pinball"
+	rom ( crc 6E330FCD )
+)
+
+game (
+	name "Super Robot Taisen - Link Battler (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc D24E592D )
+)
+
+game (
+	name "Supercross Freestyle (Europe) (En,Fr,De,Es,It)"
+	genre "Racing > Arcade > Other"
+	rom ( crc 4D3E0F51 )
+)
+
+game (
+	name "Supreme Snowboarding (Europe) (En,Fr,De)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc 53B1E661 )
+)
+
+game (
+	name "Boarder Zone (USA)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc A7152869 )
+)
+
+game (
+	name "Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc AB8B25D8 )
+)
+
+game (
+	name "Suzuki Alstare Extreme Racing (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 0F7264BA )
+)
+
+game (
+	name "Sweet Ange (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 4BE9B159 )
+)
+
+game (
+	name "Swing (Germany)"
+	genre "Puzzle > General"
+	rom ( crc 7041929D )
+)
+
+game (
+	name "SWIV (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 44D30B7A )
+)
+
+game (
+	name "Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc C6FE4497 )
+)
+
+game (
+	name "Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc F82D391F )
+)
+
+game (
+	name "Sylvanian Families 3 - Hoshi Furu Yoru no Sunadokei (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc ABF32B8B )
+)
+
+game (
+	name "Sylvanian Melodies - Mori no Nakama to Odori Masho! (Japan) (SGB Enhanced)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 6DD8AC91 )
+)
+
+game (
+	name "Sylvester and Tweety - Breakfast on the Run (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 6BB3B0DC )
+)
+
+game (
+	name "Looney Tunes - Twouble! (USA) (En,Fr,Es)"
+	genre "Action > General"
+	rom ( crc 698D7BE4 )
+)
+
+game (
+	name "Tabaluga (Germany)"
+	genre "Role-Playing > Action RPG"
+	rom ( crc F09F92D7 )
+)
+
+game (
+	name "Taisen Tsumeshougi (Japan) (NP)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 95310C8B )
+)
+
+game (
+	name "Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 725CF31C )
+)
+
+game (
+	name "Taxi 2 (France)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 0FD9FFF0 )
+)
+
+game (
+	name "Taxi 3 (France)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 2838996F )
+)
+
+game (
+	name "Tazmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 683752A0 )
+)
+
+game (
+	name "Tazmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 3611D0D8 )
+)
+
+game (
+	name "Tech Deck Skateboarding (USA, Europe)"
+	genre "Sports > Individual > Skate / Skateboard"
+	rom ( crc C07EBE70 )
+)
+
+game (
+	name "Test Drive 2001 (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc BB894EC7 )
+)
+
+game (
+	name "Test Drive 6 (Europe) (En,Fr,De,Es,It)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 13691CEB )
+)
+
+game (
+	name "Test Drive 6 (Europe) (En,Fr,De,Es,It) (Sample)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 2F179045 )
+)
+
+game (
+	name "Test Drive 6 (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 5CE00547 )
+)
+
+game (
+	name "Test Drive Cycles (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc E32BB06F )
+)
+
+game (
+	name "Thunderbirds (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 36536324 )
+)
+
+game (
+	name "Thunderbirds (Europe)"
+	genre "Action > General"
+	rom ( crc B5BECECF )
+)
+
+game (
+	name "Tiger Woods PGA Tour 2000 (USA, Europe)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc A6DFB1D9 )
+)
+
+game (
+	name "Tintin in Tibet (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6832F38A )
+)
+
+game (
+	name "Tiny Toon Adventures - Buster Saves the Day (Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 7AA371ED )
+)
+
+game (
+	name "Tiny Toon Adventures - Buster Saves the Day (USA)"
+	genre "Action > General"
+	rom ( crc 800EFB3D )
+)
+
+game (
+	name "Tiny Toon Adventures - Dizzy's Candy Quest (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc 5A0D41AA )
+)
+
+game (
+	name "TNN Outdoors Fishing Champ (USA) (SGB Enhanced)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 00A14D18 )
+)
+
+game (
+	name "Super Black Bass Pocket 3 (Japan) (SGB Enhanced)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc AE466545 )
+)
+
+game (
+	name "TOCA Touring Car Championship (USA, Europe)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc B509892B )
+)
+
+game (
+	name "Toki Tori (USA, Europe) (En,Ja,Fr,De,Es)"
+	genre "Puzzle > Action"
+	rom ( crc 0A0F9289 )
+)
+
+game (
+	name "Tokoro-san no Setagaya C.C. (Japan)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 9139E307 )
+)
+
+game (
+	name "Tom & Jerry (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc B97C0BD9 )
+)
+
+game (
+	name "Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Arcade"
+	rom ( crc 3E17D04A )
+)
+
+game (
+	name "Tom and Jerry - Mousehunt (USA) (En,Fr,Es)"
+	genre "Action > Arcade"
+	rom ( crc 5FC6BEC0 )
+)
+
+game (
+	name "Tom and Jerry in Mouse Attacks! (Europe) (En,Fr,De,Es,It,Nl,Da)"
+	genre "Action > General"
+	rom ( crc 9D9C84F4 )
+)
+
+game (
+	name "Tom and Jerry in Mouse Attacks! (USA)"
+	genre "Action > General"
+	rom ( crc 38CE3F76 )
+)
+
+game (
+	name "Tom Clancy's Rainbow Six (USA, Europe) (En,Fr,De)"
+	genre "Action > Shooter > Third-Person > Tactical"
+	rom ( crc E72F2683 )
+)
+
+game (
+	name "Tomb Raider - Curse of the Sword (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 02C1035A )
+)
+
+game (
+	name "Tonic Trouble (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Platformer > 3D"
+	rom ( crc A8628F7A )
+)
+
+game (
+	name "Tonka Construction Site (USA)"
+	genre "Strategy > General"
+	rom ( crc 8142A3E8 )
+)
+
+game (
+	name "Tonka Raceway (Europe)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc E108B2C2 )
+)
+
+game (
+	name "Tonka Raceway (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc BC07F4FB )
+)
+
+game (
+	name "Tonka Raceway (USA) (Rumble Version)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc A5AF4B28 )
+)
+
+game (
+	name "Tony Hawk's Pro Skater (USA, Europe)"
+	genre "Sports > Individual > Skate / Skateboard"
+	rom ( crc 8D8BB5C4 )
+)
+
+game (
+	name "Tony Hawk's Pro Skater 2 (USA, Europe)"
+	genre "Sports > Individual > Skate / Skateboard"
+	rom ( crc 2C27C61F )
+)
+
+game (
+	name "Tony Hawk's Pro Skater 3 (USA, Europe)"
+	genre "Sports > Individual > Skate / Skateboard"
+	rom ( crc FD5290A1 )
+)
+
+game (
+	name "Toobin' (USA)"
+	genre "Action > General"
+	rom ( crc 3D6B598C )
+)
+
+game (
+	name "Toonsylvania (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6573B88F )
+)
+
+game (
+	name "Toonsylvania (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 096D0C27 )
+)
+
+game (
+	name "Tootuff (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 1972CBF7 )
+)
+
+game (
+	name "Top Gear Rally (Europe) (Rumble Version)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 337E5DD3 )
+)
+
+game (
+	name "Top Gear Pocket (Japan) (Rumble Version)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc EBCCA3DA )
+)
+
+game (
+	name "Top Gear Pocket (USA) (Rumble Version)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 84499FC1 )
+)
+
+game (
+	name "Top Gun - Fire Storm (USA, Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc E2AD5A0F )
+)
+
+game (
+	name "Total Soccer 2000 (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc C25EE35A )
+)
+
+game (
+	name "Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc CD15ED36 )
+)
+
+game (
+	name "Totsugeki! Papparatai (Japan) (SGB Enhanced)"
+	genre "Strategy > General"
+	rom ( crc 0AEAE8FB )
+)
+
+game (
+	name "Towers - Lord Baniff's Deceit (USA, Europe)"
+	genre "Role-Playing > General"
+	rom ( crc 7B9B2468 )
+)
+
+game (
+	name "Trick Boarder (Europe)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc EFE3FC64 )
+)
+
+game (
+	name "Trick Boarder (USA)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc E856DC3D )
+)
+
+game (
+	name "Trickboarder GP (Japan)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc 31740097 )
+)
+
+game (
+	name "Triple Play 2001 (USA, Europe)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 74E04C07 )
+)
+
+game (
+	name "Trouballs (USA)"
+	genre "Puzzle > General"
+	rom ( crc 260EED04 )
+)
+
+game (
+	name "Tsuri Sensei 2 (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 1BE00A6E )
+)
+
+game (
+	name "Tsuriiko!! (Japan)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 6F2CBD1D )
+)
+
+game (
+	name "Turok - Rage Wars (USA, Europe) (En,Fr,De,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 786B5AB4 )
+)
+
+game (
+	name "Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 6EDA6A3A )
+)
+
+game (
+	name "Turok 2 - Seeds of Evil (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc F095B446 )
+)
+
+game (
+	name "Turok 3 - Shadow of Oblivion (USA, Europe) (En,Fr,De,Es)"
+	genre "Action > Shooter > First-Person > Arcade"
+	rom ( crc 6D48765E )
+)
+
+game (
+	name "Tweenies - Doodles' Bones (Europe) (En,De,Es,It)"
+	genre "Action > General"
+	rom ( crc 9306EDD0 )
+)
+
+game (
+	name "Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da)"
+	genre "Action > General"
+	rom ( crc C7B61220 )
+)
+
+game (
+	name "Tweety's High-Flying Adventure (Europe) (En,Fr,De)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 7361D6BC )
+)
+
+game (
+	name "Titi - Le Tour du Monde en 80 Chats (France)"
+	genre "Action > Platformer > 2D"
+	rom ( crc CE55ED18 )
+)
+
+game (
+	name "Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase! (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 147F427A )
+)
+
+game (
+	name "Tweety's High-Flying Adventure (Europe) (En,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc CA9E5385 )
+)
+
+game (
+	name "Tweety's High-Flying Adventure (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 4E226396 )
+)
+
+game (
+	name "Tyrannosaurus Tex (USA) (Proto)"
+	genre "Action > Shooter > First-Person > Arcade"
+	rom ( crc 1BD4E588 )
+)
+
+game (
+	name "Uchuujin Tanaka Tarou de RPG Tsuku-ru GB 2 (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 219E42E3 )
+)
+
+game (
+	name "Ultimate Fighting Championship (Europe)"
+	genre "Action > Fighting > 3D"
+	rom ( crc 92A5A1AD )
+)
+
+game (
+	name "Ultimate Fighting Championship (USA)"
+	genre "Action > Fighting > 3D"
+	rom ( crc D5F036CE )
+)
+
+game (
+	name "Ultimate Paint Ball (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 6DCFDFE2 )
+)
+
+game (
+	name "Ultimate Surfing (Europe)"
+	genre "Action > General"
+	rom ( crc B3398A9B )
+)
+
+game (
+	name "Naminori Yarou! (Japan) (NP)"
+	genre "Action > General"
+	rom ( crc AC5E477D )
+)
+
+game (
+	name "Ultimate Surfing (USA)"
+	genre "Action > General"
+	rom ( crc E84DF1F0 )
+)
+
+game (
+	name "Uno (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 70760CCE )
+)
+
+game (
+	name "Uno (USA)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc F026D509 )
+)
+
+game (
+	name "Vegas Games (Europe) (En,Fr,De)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 81B2BB8D )
+)
+
+game (
+	name "Vegas Games (USA)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 40B5EA96 )
+)
+
+game (
+	name "Vigilante 8 (USA) (Rumble Version)"
+	genre "Simulation > Vehicle > Combat"
+	rom ( crc D1A188DC )
+)
+
+game (
+	name "VIP (USA, Europe) (En,Fr,De,Es,It)"
+	genre "Action > General"
+	rom ( crc DBDD6D85 )
+)
+
+game (
+	name "VIP (USA) (En,Fr,Es)"
+	genre "Action > General"
+	rom ( crc 436C87D4 )
+)
+
+game (
+	name "Wacky Races (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 37EA6093 )
+)
+
+game (
+	name "Chiki Chiki Machine Mou Race (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 36C04BE0 )
+)
+
+game (
+	name "Wacky Races (USA) (En,Fr,Es)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 543ABB1B )
+)
+
+game (
+	name "Walt Disney World Quest - Magical Racing Tour (USA, Europe)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 56BEB694 )
+)
+
+game (
+	name "Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc E54B22B9 )
+)
+
+game (
+	name "Warau Inu no Bouken - Silly Go Lucky! (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc E93F1582 )
+)
+
+game (
+	name "Wario Land 3 (World) (En,Ja)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 480D0259 )
+)
+
+game (
+	name "Wario Land II (USA, Europe) (SGB Enhanced)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 047BDF80 )
+)
+
+game (
+	name "Wario Land 2 (Japan) (SGB Enhanced)"
+	genre "Action > Platformer > 2D"
+	rom ( crc B30FDBF5 )
+)
+
+game (
+	name "Warlocked (USA)"
+	genre "Strategy > Real-Time > General"
+	rom ( crc CFA0DF0F )
+)
+
+game (
+	name "Warriors of Might and Magic (USA) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc EF9F5BEA )
+)
+
+game (
+	name "Watashi no Kitchen (Japan) (Rev A)"
+	genre "Strategy > General"
+	rom ( crc 584669E4 )
+)
+
+game (
+	name "Watashi no Kitchen (Japan)"
+	genre "Strategy > General"
+	rom ( crc BC767B25 )
+)
+
+game (
+	name "Watashi no Restaurant (Japan)"
+	genre "Strategy > General"
+	rom ( crc 395003EF )
+)
+
+game (
+	name "WCW Mayhem (USA, Europe)"
+	genre "Sports > Individual > Combat > Wrestling"
+	rom ( crc 9F8620D1 )
+)
+
+game (
+	name "Wendy - Every Witch Way (USA, Europe)"
+	genre "Action > General"
+	rom ( crc 4AC6907B )
+)
+
+game (
+	name "Wetrix GB (Europe) (En,Fr,De)"
+	genre "Puzzle > General"
+	rom ( crc 9CBFAA3D )
+)
+
+game (
+	name "Wetrix GB (Japan) (SGB Enhanced)"
+	genre "Puzzle > General"
+	rom ( crc 6215C5B3 )
+)
+
+game (
+	name "Who Wants to Be a Millionaire - 2nd Edition (USA)"
+	genre "Miscellaneous > Trivia / Game Show"
+	rom ( crc 6830B7AF )
+)
+
+game (
+	name "Wild Thornberrys, The - Rambler (USA)"
+	genre "Action > General"
+	rom ( crc 0E1465CB )
+)
+
+game (
+	name "Wings of Fury (Europe) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 6D59104F )
+)
+
+game (
+	name "Wings of Fury (USA)"
+	genre "Action > General"
+	rom ( crc C94A413A )
+)
+
+game (
+	name "Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da)"
+	genre "Action > General"
+	rom ( crc 1DB0840C )
+)
+
+game (
+	name "Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan)"
+	genre "Action > General"
+	rom ( crc 476EDE93 )
+)
+
+game (
+	name "Winnie the Pooh - Adventures in the 100 Acre Wood (USA)"
+	genre "Action > General"
+	rom ( crc 066A2196 )
+)
+
+game (
+	name "Wizardry Empire (Japan) (Rev A)"
+	genre "Role-Playing > General"
+	rom ( crc FA82620F )
+)
+
+game (
+	name "Wizardry Empire (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 7ADC90E1 )
+)
+
+game (
+	name "Wizardry Empire - Fukkatsu no Tsue (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 1A10552B )
+)
+
+game (
+	name "Wizardry I - Proving Grounds of the Mad Overlord (Japan)"
+	genre "Role-Playing > Western-Style"
+	rom ( crc A99A33DC )
+)
+
+game (
+	name "Wizardry II - Llylgamyn no Isan (Japan)"
+	genre "Role-Playing > Western-Style"
+	rom ( crc DD727F1A )
+)
+
+game (
+	name "Wizardry III - Diamond no Kishi (Japan)"
+	genre "Role-Playing > Western-Style"
+	rom ( crc D44D3596 )
+)
+
+game (
+	name "Woody Woodpecker (Europe) (En,Fr,De,Es,It)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 2612F8C4 )
+)
+
+game (
+	name "Woody Woodpecker (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc BD2D1F8B )
+)
+
+game (
+	name "Woody Woodpecker Racing (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc B0F43498 )
+)
+
+game (
+	name "Woody Woodpecker no Go! Go! Racing (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc F59DAA99 )
+)
+
+game (
+	name "Woody Woodpecker Racing (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 0424CF43 )
+)
+
+game (
+	name "World Destruction League - Thunder Tanks (USA) (En,Fr,De)"
+	genre "Action > General"
+	rom ( crc 1A0BF4D7 )
+)
+
+game (
+	name "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Strategy > Turn-Based > Artillery"
+	rom ( crc CB04F34D )
+)
+
+game (
+	name "Worms Armageddon (USA) (En,Fr,Es)"
+	genre "Strategy > Turn-Based > Artillery"
+	rom ( crc E241EDDE )
+)
+
+game (
+	name "WWF Attitude (USA, Europe)"
+	genre "Sports > Individual > Combat > Wrestling"
+	rom ( crc D5FDF68A )
+)
+
+game (
+	name "WWF Betrayal (USA, Europe)"
+	genre "Sports > Individual > Combat > Wrestling"
+	rom ( crc 6C28BCB5 )
+)
+
+game (
+	name "WWF WrestleMania 2000 (USA, Europe)"
+	genre "Sports > Individual > Combat > Wrestling"
+	rom ( crc FCBA12AE )
+)
+
+game (
+	name "X-Men - Mutant Academy (USA, Europe) (Rev A)"
+	genre "Action > Fighting > 3D"
+	rom ( crc 234E1E9C )
+)
+
+game (
+	name "X-Men - Mutant Academy (Japan)"
+	genre "Action > Fighting > 3D"
+	rom ( crc 8162ADC1 )
+)
+
+game (
+	name "X-Men - Mutant Academy (USA, Europe)"
+	genre "Action > Fighting > 3D"
+	rom ( crc EC6278A3 )
+)
+
+game (
+	name "X-Men - Mutant Wars (USA, Europe)"
+	genre "Action > Beat-'Em-Up > 2D"
+	rom ( crc 921999E2 )
+)
+
+game (
+	name "X-Men - Wolverine's Rage (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 83AD5B99 )
+)
+
+game (
+	name "X-Men - Wolverine's Rage (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 12FC1A6E )
+)
+
+game (
+	name "Xena - Warrior Princess (USA, Europe) (En,Fr,De,Es,It,Nl)"
+	genre "Action > General"
+	rom ( crc F0DE3CE7 )
+)
+
+game (
+	name "Xtreme Sports (USA)"
+	genre "Sports > Individual > Other"
+	rom ( crc 19828751 )
+)
+
+game (
+	name "Xtreme Wheels (Europe)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc E101246F )
+)
+
+game (
+	name "Xtreme Wheels (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 129465DB )
+)
+
+game (
+	name "Yakouchuu GB (Japan)"
+	genre "Adventure > General"
+	rom ( crc AA05DAF1 )
+)
+
+game (
+	name "Yars' Revenge (USA, Europe)"
+	genre "Action > Shooter > Shoot-'Em-Up > Top-Down"
+	rom ( crc D6A26444 )
+)
+
+game (
+	name "Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 1371E872 )
+)
+
+game (
+	name "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc BA7182C3 )
+)
+
+game (
+	name "Zebco Fishing! (USA) (Rumble Version)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 3CC6B1F9 )
+)
+
+game (
+	name "Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi! (Japan)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc EFAD8B34 )
+)
+
+game (
+	name "Zidane Football Generation (Europe) (En,Fr,De,Es,It)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc E96DBFB5 )
+)
+
+game (
+	name "Zoboomafoo - Playtime in Zobooland (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 38D91885 )
+)
+
+game (
+	name "Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev A) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc 96461918 )
+)
+
+game (
+	name "Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (SGB Enhanced)"
+	genre "Role-Playing > General"
+	rom ( crc F36C874D )
+)
+
+game (
+	name "Zoids - Shirogane no Juukishin Liger Zero (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 530705A1 )
+)
+
+game (
+	name "Zok Zok Heroes (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc C09F9E1B )
+)
+

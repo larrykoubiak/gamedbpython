@@ -1,0 +1,149 @@
+clrmamepro (
+	name "Tiger - Game.com"
+	description "Tiger - Game.com"
+)
+
+game (
+	name "Wheel of Fortune (USA)"
+	origin "USA"
+	rom ( crc 048347A0 )
+)
+
+game (
+	name "Fighters Megamix (USA)"
+	origin "USA"
+	rom ( crc 061E943F )
+)
+
+game (
+	name "Resident Evil 2 (USA)"
+	origin "USA"
+	rom ( crc 0984C7F5 )
+)
+
+game (
+	name "Quiz Wiz - Cyber Trivia (USA)"
+	origin "USA"
+	rom ( crc 0E018F6A )
+)
+
+game (
+	name "Frogger (USA)"
+	origin "USA"
+	rom ( crc 10E4C5CD )
+)
+
+game (
+	name "Centipede (USA)"
+	origin "USA"
+	rom ( crc 1A041FF0 )
+)
+
+game (
+	name "Lights Out (USA)"
+	origin "USA"
+	rom ( crc 496EFA62 )
+)
+
+game (
+	name "Tiger Web Link (USA)"
+	origin "USA"
+	rom ( crc 4C13E65B )
+)
+
+game (
+	name "Scrabble (USA)"
+	origin "USA"
+	rom ( crc 4D4AD909 )
+)
+
+game (
+	name "Henry (USA)"
+	origin "USA"
+	rom ( crc 75D3C8D8 )
+)
+
+game (
+	name "Internet (USA)"
+	origin "USA"
+	rom ( crc 7E721A84 )
+)
+
+game (
+	name "Indy 500 (USA)"
+	origin "USA"
+	rom ( crc 845ED281 )
+)
+
+game (
+	name "Duke Nukem 3D (USA)"
+	origin "USA"
+	rom ( crc 884568D1 )
+)
+
+game (
+	name "Sonic Jam (USA)"
+	origin "USA"
+	rom ( crc 8B4A63F9 )
+)
+
+game (
+	name "Jeopardy! (USA)"
+	origin "USA"
+	rom ( crc 8C512912 )
+)
+
+game (
+	name "[BIOS] Tiger Game.com (USA) (Internal)"
+	origin "USA"
+	rom ( crc A0CEC361 )
+)
+
+game (
+	name "Batman & Robin (USA)"
+	origin "USA"
+	rom ( crc B336E530 )
+)
+
+game (
+	name "Jurassic Park - The Lost World (USA)"
+	origin "USA"
+	rom ( crc B422C5F8 )
+)
+
+game (
+	name "Wheel of Fortune 2 (USA)"
+	origin "USA"
+	rom ( crc B91E2E32 )
+)
+
+game (
+	name "Mortal Kombat Trilogy (USA)"
+	origin "USA"
+	rom ( crc BD29C844 )
+)
+
+game (
+	name "Monopoly (USA)"
+	origin "USA"
+	rom ( crc D6A65A07 )
+)
+
+game (
+	name "[BIOS] Tiger Game.com (USA) (External)"
+	origin "USA"
+	rom ( crc E235A589 )
+)
+
+game (
+	name "Tiger Casino (USA)"
+	origin "USA"
+	rom ( crc E7FB8FD9 )
+)
+
+game (
+	name "Williams Arcade Classics (USA)"
+	origin "USA"
+	rom ( crc F894065D )
+)
+

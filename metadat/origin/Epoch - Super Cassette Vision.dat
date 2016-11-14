@@ -1,0 +1,167 @@
+clrmamepro (
+	name "Epoch - Super Cassette Vision"
+	description "Epoch - Super Cassette Vision"
+)
+
+game (
+	name "Super Golf (Japan)"
+	origin "Japan"
+	rom ( crc 0C0581C9 )
+)
+
+game (
+	name "Lupin Sansei (Japan)"
+	origin "Japan"
+	rom ( crc 16D7EB4A )
+)
+
+game (
+	name "Astro Wars - Invaders from Space (Japan)"
+	origin "Japan"
+	rom ( crc 2DBDB166 )
+)
+
+game (
+	name "Astro Wars II - Battle in Galaxy (Japan)"
+	origin "Japan"
+	rom ( crc 34781DE1 )
+)
+
+game (
+	name "Punch Boy (Japan)"
+	origin "Japan"
+	rom ( crc 4107F03A )
+)
+
+game (
+	name "Super Baseball (Japan)"
+	origin "Japan"
+	rom ( crc 56F1C473 )
+)
+
+game (
+	name "Super Soccer (Japan)"
+	origin "Japan"
+	rom ( crc 590EEEFD )
+)
+
+game (
+	name "Professional Wrestling (Japan)"
+	origin "Japan"
+	rom ( crc 5B1FB2A8 )
+)
+
+game (
+	name "Nebula (Japan)"
+	origin "Japan"
+	rom ( crc 5E6A4CAF )
+)
+
+game (
+	name "Sansupyuta (Japan)"
+	origin "Japan"
+	rom ( crc 6E7E01B5 )
+)
+
+game (
+	name "Elevator Fight (Japan)"
+	origin "Japan"
+	rom ( crc 72DD6031 )
+)
+
+game (
+	name "Ton Ton Ball (Japan)"
+	origin "Japan"
+	rom ( crc 7F873BFA )
+)
+
+game (
+	name "Super Soccer (Europe)"
+	origin "Europe"
+	rom ( crc 8283907C )
+)
+
+game (
+	name "Shougi Nyuumon (Japan)"
+	origin "Japan"
+	rom ( crc 84005C4C )
+)
+
+game (
+	name "Kung Fu Road (Japan)"
+	origin "Japan"
+	rom ( crc 9CFC5A67 )
+)
+
+game (
+	name "Wheelie Racer (Japan)"
+	origin "Japan"
+	rom ( crc 9D9B29DB )
+)
+
+game (
+	name "Kung Fu Road (Japan)"
+	origin "Japan"
+	rom ( crc A895375A )
+)
+
+game (
+	name "Miner 2049er (Japan)"
+	origin "Japan"
+	rom ( crc B0FFC6E2 )
+)
+
+game (
+	name "Milky Princess (Japan)"
+	origin "Japan"
+	rom ( crc B2457990 )
+)
+
+game (
+	name "Pole Position II (Japan)"
+	origin "Japan"
+	rom ( crc CB69903D )
+)
+
+game (
+	name "Pop & Chips (Japan)"
+	origin "Japan"
+	rom ( crc CC4FB04D )
+)
+
+game (
+	name "Doraemon (Japan)"
+	origin "Japan"
+	rom ( crc D2DE91A6 )
+)
+
+game (
+	name "Real Graphic Mahjongg (Japan)"
+	origin "Japan"
+	rom ( crc D3D9106C )
+)
+
+game (
+	name "Boulder Dash (Japan)"
+	origin "Japan"
+	rom ( crc E045884C )
+)
+
+game (
+	name "Comic Circus (Japan)"
+	origin "Japan"
+	rom ( crc EA55FAED )
+)
+
+game (
+	name "Doraemon (Japan)"
+	origin "Japan"
+	rom ( crc EE0B874D )
+)
+
+game (
+	name "Nebula (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc EFB4BDCD )
+)
+

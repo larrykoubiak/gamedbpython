@@ -1,0 +1,41 @@
+clrmamepro (
+	name "RCA - Studio II"
+	description "RCA - Studio II"
+)
+
+game (
+	name "TV Casino I - Blackjack (USA)"
+	origin "USA"
+	rom ( crc 7D4ADF90 )
+)
+
+game (
+	name "TV Arcade III - Tennis + Squash (USA)"
+	origin "USA"
+	rom ( crc A0F4180E )
+)
+
+game (
+	name "[BIOS] RCA Studio II (USA)"
+	origin "USA"
+	rom ( crc A494B339 )
+)
+
+game (
+	name "TV Arcade I - Space War (USA)"
+	origin "USA"
+	rom ( crc B4879A92 )
+)
+
+game (
+	name "TV Arcade V - Speedway + Tag (USA)"
+	origin "USA"
+	rom ( crc C7C904AA )
+)
+
+game (
+	name "TV Arcade IV - Baseball (USA)"
+	origin "USA"
+	rom ( crc E196C7FC )
+)
+

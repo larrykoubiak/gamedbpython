@@ -1,0 +1,395 @@
+clrmamepro (
+	name "Atari - Jaguar"
+	description "Atari - Jaguar"
+)
+
+game (
+	name "Raiden (World)"
+	origin "World"
+	rom ( crc 0509C85E )
+)
+
+game (
+	name "Iron Soldier (World) (v1.04)"
+	origin "World"
+	rom ( crc 08F15576 )
+)
+
+game (
+	name "Kasumi Ninja (World)"
+	origin "World"
+	rom ( crc 0957A072 )
+)
+
+game (
+	name "NBA Jam - Tournament Edition (World)"
+	origin "World"
+	rom ( crc 0AC83D77 )
+)
+
+game (
+	name "Evolution - Dino Dudes (World)"
+	origin "World"
+	rom ( crc 0EC5369D )
+)
+
+game (
+	name "Ultra Vortek (World)"
+	origin "World"
+	rom ( crc 0F6A1C2C )
+)
+
+game (
+	name "White Men Can't Jump (World)"
+	origin "World"
+	rom ( crc 14915F20 )
+)
+
+game (
+	name "Power Drive Rally (World)"
+	origin "World"
+	rom ( crc 1660F070 )
+)
+
+game (
+	name "Trevor McFur in the Crescent Galaxy (World)"
+	origin "World"
+	rom ( crc 1E451446 )
+)
+
+game (
+	name "Defender 2000 (World)"
+	origin "World"
+	rom ( crc 27594C6A )
+)
+
+game (
+	name "Bubsy in Fractured Furry Tales (World)"
+	origin "World"
+	rom ( crc 2E17D5DA )
+)
+
+game (
+	name "Double Dragon V - The Shadow Falls (World)"
+	origin "World"
+	rom ( crc 348E6449 )
+)
+
+game (
+	name "Fever Pitch Soccer (World) (En,Fr,De,Es,It)"
+	origin "World"
+	rom ( crc 3615AF6A )
+)
+
+game (
+	name "Troy Aikman NFL Football (World)"
+	origin "World"
+	rom ( crc 38A130ED )
+)
+
+game (
+	name "Skyhammer (World)"
+	origin "World"
+	rom ( crc 3C044941 )
+)
+
+game (
+	name "Air Cars (World)"
+	origin "World"
+	rom ( crc 40E1A1D0 )
+)
+
+game (
+	name "Soccer Kid (World)"
+	origin "World"
+	rom ( crc 42A13EC5 )
+)
+
+game (
+	name "Theme Park (World)"
+	origin "World"
+	rom ( crc 47EBC158 )
+)
+
+game (
+	name "Hover Strike (World)"
+	origin "World"
+	rom ( crc 4899628F )
+)
+
+game (
+	name "Space War 2000 (World)"
+	origin "World"
+	rom ( crc 53DF6440 )
+)
+
+game (
+	name "[BIOS] Atari Jaguar Developer CD (World)"
+	origin "World"
+	rom ( crc 55A0669C )
+)
+
+game (
+	name "Syndicate (World)"
+	origin "World"
+	rom ( crc 58272540 )
+)
+
+game (
+	name "Sensible Soccer - International Edition (World)"
+	origin "World"
+	rom ( crc 5A101212 )
+)
+
+game (
+	name "Ruiner Pinball (World)"
+	origin "World"
+	rom ( crc 5B6BB205 )
+)
+
+game (
+	name "Pinball Fantasies (World)"
+	origin "World"
+	rom ( crc 5CFF14AB )
+)
+
+game (
+	name "Doom (World)"
+	origin "World"
+	rom ( crc 5E2CDBC0 )
+)
+
+game (
+	name "Zero 5 (World)"
+	origin "World"
+	rom ( crc 61C7EEC0 )
+)
+
+game (
+	name "Battle Sphere Gold (World)"
+	origin "World"
+	rom ( crc 67F9AB3A )
+)
+
+game (
+	name "[BIOS] Atari Jaguar CD (World)"
+	origin "World"
+	rom ( crc 687068D5 )
+)
+
+game (
+	name "Tempest 2000 (World)"
+	origin "World"
+	rom ( crc 6B2B95AD )
+)
+
+game (
+	name "Worms (World)"
+	origin "World"
+	rom ( crc 6EB774EB )
+)
+
+game (
+	name "Super Burnout (World)"
+	origin "World"
+	rom ( crc 6F8B2547 )
+)
+
+game (
+	name "Pitfall - The Mayan Adventure (World)"
+	origin "World"
+	rom ( crc 817A2273 )
+)
+
+game (
+	name "Zool 2 (World)"
+	origin "World"
+	rom ( crc 8975F48B )
+)
+
+game (
+	name "[BIOS] Atari Jaguar Stubulator '94 (World)"
+	origin "World"
+	rom ( crc 8D15DBC6 )
+)
+
+game (
+	name "Dragon - The Bruce Lee Story (World)"
+	origin "World"
+	rom ( crc 8FEA5AB0 )
+)
+
+game (
+	name "I-War (World)"
+	origin "World"
+	rom ( crc 97EB4651 )
+)
+
+game (
+	name "Ultra Vortek (World) (v0.94) (Beta)"
+	origin "World"
+	rom ( crc A27823D8 )
+)
+
+game (
+	name "Protector - Special Edition (World)"
+	origin "World"
+	rom ( crc A56D0798 )
+)
+
+game (
+	name "Rayman (World)"
+	origin "World"
+	rom ( crc A9F8A00E )
+)
+
+game (
+	name "Fight for Life (World)"
+	origin "World"
+	rom ( crc B14C4753 )
+)
+
+game (
+	name "Brutal Sports Football (World)"
+	origin "World"
+	rom ( crc BCB1A4BF )
+)
+
+game (
+	name "Cannon Fodder (World)"
+	origin "World"
+	rom ( crc BDA405C6 )
+)
+
+game (
+	name "Cybermorph (World) (Rev 1)"
+	origin "World"
+	rom ( crc BDE67498 )
+)
+
+game (
+	name "Zoop! (World)"
+	origin "World"
+	rom ( crc C5562581 )
+)
+
+game (
+	name "Total Carnage (World)"
+	origin "World"
+	rom ( crc C654681B )
+)
+
+game (
+	name "Fight for Life (World) (Alt 1)"
+	origin "World"
+	rom ( crc C6C7BA62 )
+)
+
+game (
+	name "Val d'Isere Skiing and Snowboarding (World)"
+	origin "World"
+	rom ( crc C9608717 )
+)
+
+game (
+	name "Towers II (World)"
+	origin "World"
+	rom ( crc CAF33BD6 )
+)
+
+game (
+	name "Air Cars (World)"
+	origin "World"
+	rom ( crc CBFD822A )
+)
+
+game (
+	name "Attack of the Mutant Penguins (World)"
+	origin "World"
+	rom ( crc CD5BF827 )
+)
+
+game (
+	name "Iron Soldier 2 (World)"
+	origin "World"
+	rom ( crc D6C19E34 )
+)
+
+game (
+	name "Missile Command 3D (World)"
+	origin "World"
+	rom ( crc DA9C4162 )
+)
+
+game (
+	name "Alien vs Predator (World)"
+	origin "World"
+	rom ( crc DC187F82 )
+)
+
+game (
+	name "Flashback - The Quest for Identity (World) (En,Fr)"
+	origin "World"
+	rom ( crc DE55DCC7 )
+)
+
+game (
+	name "Atari Karts (World)"
+	origin "World"
+	rom ( crc E28756DE )
+)
+
+game (
+	name "[BIOS] Atari Jaguar Stubulator '93 (World)"
+	origin "World"
+	rom ( crc E60277BB )
+)
+
+game (
+	name "Wolfenstein 3D (World)"
+	origin "World"
+	rom ( crc E91BD644 )
+)
+
+game (
+	name "SuperCross 3D (World)"
+	origin "World"
+	rom ( crc EC22F572 )
+)
+
+game (
+	name "Cybermorph (World) (Rev 2)"
+	origin "World"
+	rom ( crc ECF854E7 )
+)
+
+game (
+	name "Club Drive (World)"
+	origin "World"
+	rom ( crc EEE8D61D )
+)
+
+game (
+	name "Hyper Force (World)"
+	origin "World"
+	rom ( crc F0360DB3 )
+)
+
+game (
+	name "Checkered Flag (World)"
+	origin "World"
+	rom ( crc FA7775AE )
+)
+
+game (
+	name "Flip Out! (World)"
+	origin "World"
+	rom ( crc FAE31DD0 )
+)
+
+game (
+	name "[BIOS] Atari Jaguar (World)"
+	origin "World"
+	rom ( crc FB731AAA )
+)
+

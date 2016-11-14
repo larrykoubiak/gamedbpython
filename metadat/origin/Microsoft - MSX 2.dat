@@ -1,0 +1,1187 @@
+clrmamepro (
+	name "Microsoft - MSX 2"
+	description "Microsoft - MSX 2"
+)
+
+game (
+	name "Jansei (Japan)"
+	origin "Japan"
+	rom ( crc 00B8E82E )
+)
+
+game (
+	name "Arkanoid II - Revenge of Doh (Japan)"
+	origin "Japan"
+	rom ( crc 00D36AF6 )
+)
+
+game (
+	name "Hydlide 3 - The Space Memories (Japan)"
+	origin "Japan"
+	rom ( crc 00DB86C8 )
+)
+
+game (
+	name "Vampire Killer (Japan, Europe) (Alt 2)"
+	origin "Japan,Europe"
+	rom ( crc 038C250D )
+)
+
+game (
+	name "Kempelen Chess (Japan)"
+	origin "Japan"
+	rom ( crc 053AA66E )
+)
+
+game (
+	name "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)"
+	origin "Japan"
+	rom ( crc 075AB646 )
+)
+
+game (
+	name "Kitahei (Japan)"
+	origin "Japan"
+	rom ( crc 0767AF40 )
+)
+
+game (
+	name "Zanac Ex (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 089C8164 )
+)
+
+game (
+	name "Wizardry (Japan)"
+	origin "Japan"
+	rom ( crc 08A5CA60 )
+)
+
+game (
+	name "Out Run (Japan)"
+	origin "Japan"
+	rom ( crc 0A9F8D6C )
+)
+
+game (
+	name "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)"
+	origin "Japan"
+	rom ( crc 0AD36E2B )
+)
+
+game (
+	name "Vampire Killer (Japan, Europe) (Alt 1)"
+	origin "Japan,Europe"
+	rom ( crc 0AEDEA40 )
+)
+
+game (
+	name "Dragon Quest II (Japan)"
+	origin "Japan"
+	rom ( crc 0BF0C3F5 )
+)
+
+game (
+	name "Famicle Parodic (Japan)"
+	origin "Japan"
+	rom ( crc 0E03847B )
+)
+
+game (
+	name "Nobunaga no Yabou - Bushou Fuuun Roku (Japan)"
+	origin "Japan"
+	rom ( crc 0FF8E2C7 )
+)
+
+game (
+	name "High School! Kimengumi (Japan)"
+	origin "Japan"
+	rom ( crc 1123545C )
+)
+
+game (
+	name "Eidolon, The (Europe)"
+	origin "Europe"
+	rom ( crc 14913432 )
+)
+
+game (
+	name "Kisei (Japan)"
+	origin "Japan"
+	rom ( crc 167A53DA )
+)
+
+game (
+	name "Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)"
+	origin "Japan"
+	rom ( crc 17BAF3ED )
+)
+
+game (
+	name "[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan)"
+	origin "Japan"
+	rom ( crc 17E58926 )
+)
+
+game (
+	name "Dragon Slayer Jr. - Romancia (Japan)"
+	origin "Japan"
+	rom ( crc 17F9EE7F )
+)
+
+game (
+	name "Suikoden - Tenmei no Chikai (Japan)"
+	origin "Japan"
+	rom ( crc 187D3A21 )
+)
+
+game (
+	name "Metal Gear 2 - Solid Snake (Japan)"
+	origin "Japan"
+	rom ( crc 18B1F34B )
+)
+
+game (
+	name "Project A2 - Shijousaidai no Hyouteki (Japan)"
+	origin "Japan"
+	rom ( crc 1B285FE3 )
+)
+
+game (
+	name "Fantasy Zone II - The Tears of Opa-Opa (Japan)"
+	origin "Japan"
+	rom ( crc 1BDFAEEB )
+)
+
+game (
+	name "Hard Ball (Japan)"
+	origin "Japan"
+	rom ( crc 1D7040AF )
+)
+
+game (
+	name "Treasure of Usas, The (Japan, Europe) (Alt 1)"
+	origin "Japan,Europe"
+	rom ( crc 1F1F1F26 )
+)
+
+game (
+	name "Xevious - Fardraut Saga (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 21489E1D )
+)
+
+game (
+	name "Vampire Killer (Japan, Europe) (Alt 3)"
+	origin "Japan,Europe"
+	rom ( crc 217935D0 )
+)
+
+game (
+	name "Alges no Yoku (Japan)"
+	origin "Japan"
+	rom ( crc 225705CC )
+)
+
+game (
+	name "Scramble Formation (Japan)"
+	origin "Japan"
+	rom ( crc 226795E0 )
+)
+
+game (
+	name "King Kong 2 - Yomigaeru Densetsu (Japan)"
+	origin "Japan"
+	rom ( crc 23B78A2D )
+)
+
+game (
+	name "Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)"
+	origin "Japan"
+	rom ( crc 24238B21 )
+)
+
+game (
+	name "Pachi Pro Densetsu (Japan)"
+	origin "Japan"
+	rom ( crc 252798F6 )
+)
+
+game (
+	name "Zoids - Chuuou Tairiku no Tatakai (Japan)"
+	origin "Japan"
+	rom ( crc 2605031E )
+)
+
+game (
+	name "Space Manbow (Japan)"
+	origin "Japan"
+	rom ( crc 27405EED )
+)
+
+game (
+	name "Girly Block (Japan)"
+	origin "Japan"
+	rom ( crc 28094960 )
+)
+
+game (
+	name "Professional Mahjong Gokuu (Japan)"
+	origin "Japan"
+	rom ( crc 2ABB1EC4 )
+)
+
+game (
+	name "Jansei (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 2C2924ED )
+)
+
+game (
+	name "Garyuu Ou (Japan)"
+	origin "Japan"
+	rom ( crc 2FB0ED30 )
+)
+
+game (
+	name "Cheese 2 (Japan) (Program)"
+	origin "Japan"
+	rom ( crc 2FFB49C3 )
+)
+
+game (
+	name "Treasure of Usas, The (Japan, Europe)"
+	origin "Japan,Europe"
+	rom ( crc 30396650 )
+)
+
+game (
+	name "Garakuta (Japan)"
+	origin "Japan"
+	rom ( crc 33C37313 )
+)
+
+game (
+	name "Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 3459CE01 )
+)
+
+game (
+	name "AshGuine Story III - Fukushuu no Honoo (Japan)"
+	origin "Japan"
+	rom ( crc 353382CE )
+)
+
+game (
+	name "Pro Yakyuu Family Stadium - Pennant Race (Japan)"
+	origin "Japan"
+	rom ( crc 356B7D2A )
+)
+
+game (
+	name "Deep Forest (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 3615E623 )
+)
+
+game (
+	name "Ultima Exodus (Japan)"
+	origin "Japan"
+	rom ( crc 37B9E10F )
+)
+
+game (
+	name "Shiryou Sensen - War of the Dead (Japan)"
+	origin "Japan"
+	rom ( crc 39E1C37A )
+)
+
+game (
+	name "Hinotori - Houou Hen (Japan)"
+	origin "Japan"
+	rom ( crc 3AB5AE57 )
+)
+
+game (
+	name "Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)"
+	origin "Japan"
+	rom ( crc 3B5B3FD8 )
+)
+
+game (
+	name "Shanghai (Japan)"
+	origin "Japan"
+	rom ( crc 3B815DC6 )
+)
+
+game (
+	name "AshGuine - Densetsu no Seisenshi (Japan)"
+	origin "Japan"
+	rom ( crc 3CB34EFB )
+)
+
+game (
+	name "Mississippi Satsujinjiken (Japan)"
+	origin "Japan"
+	rom ( crc 3F69A464 )
+)
+
+game (
+	name "Hal Note (Japan) (Program)"
+	origin "Japan"
+	rom ( crc 40313FEC )
+)
+
+game (
+	name "Garyuu Ou (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 40D009FE )
+)
+
+game (
+	name "Ganbare Goemon! - Karakuri Douchuu (Japan)"
+	origin "Japan"
+	rom ( crc 40E53EA3 )
+)
+
+game (
+	name "Europe Sensen (Japan)"
+	origin "Japan"
+	rom ( crc 413D4700 )
+)
+
+game (
+	name "Star Virgin (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 441FC425 )
+)
+
+game (
+	name "Japanese MSX-Write II (Japan) (Program)"
+	origin "Japan"
+	rom ( crc 459478CB )
+)
+
+game (
+	name "Hole in One Special (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 4708BDD1 )
+)
+
+game (
+	name "AshGuine Story II - Kokuu no Gajou (Japan)"
+	origin "Japan"
+	rom ( crc 47A82D74 )
+)
+
+game (
+	name "Dragon Buster (Japan)"
+	origin "Japan"
+	rom ( crc 49252882 )
+)
+
+game (
+	name "Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 4968E84E )
+)
+
+game (
+	name "Strategic Mars (Japan)"
+	origin "Japan"
+	rom ( crc 4A3ABB65 )
+)
+
+game (
+	name "Contra (Japan)"
+	origin "Japan"
+	rom ( crc 4E82660D )
+)
+
+game (
+	name "Dragon Slayer IV - Drasle Family (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 53163CBC )
+)
+
+game (
+	name "F-15 Strike Eagle (Japan)"
+	origin "Japan"
+	rom ( crc 53CCE88D )
+)
+
+game (
+	name "Hinotori - Houou Hen (Japan) (Alt 2)"
+	origin "Japan"
+	rom ( crc 5928F406 )
+)
+
+game (
+	name "Vampire Killer (Japan, Europe)"
+	origin "Japan,Europe"
+	rom ( crc 5953D084 )
+)
+
+game (
+	name "Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 5A090675 )
+)
+
+game (
+	name "Super Runner (Japan)"
+	origin "Japan"
+	rom ( crc 5A5BE701 )
+)
+
+game (
+	name "Dires - Giger Loop (Japan)"
+	origin "Japan"
+	rom ( crc 5ACBD591 )
+)
+
+game (
+	name "Kikikai-kai (Japan)"
+	origin "Japan"
+	rom ( crc 5C859406 )
+)
+
+game (
+	name "Return of Jelda (Japan)"
+	origin "Japan"
+	rom ( crc 5CCC09AB )
+)
+
+game (
+	name "Cockpit, The (Japan)"
+	origin "Japan"
+	rom ( crc 5F354E65 )
+)
+
+game (
+	name "Arctic - Active Rail Playing (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 614554C4 )
+)
+
+game (
+	name "Bubble Bobble (Japan)"
+	origin "Japan"
+	rom ( crc 6524D9FC )
+)
+
+game (
+	name "Nobunaga no Yabou - Zenkoku Ban (Japan)"
+	origin "Japan"
+	rom ( crc 653F1C73 )
+)
+
+game (
+	name "Quarth (Korea)"
+	origin "Korea"
+	rom ( crc 6681D322 )
+)
+
+game (
+	name "Moero!! Nettou Yakyuu '88 (Japan)"
+	origin "Japan"
+	rom ( crc 68745C64 )
+)
+
+game (
+	name "Nobunaga no Yabou - Sengoku Gunyuuden (Japan)"
+	origin "Japan"
+	rom ( crc 69C11D81 )
+)
+
+game (
+	name "Replicart (Japan)"
+	origin "Japan"
+	rom ( crc 6EEE12C4 )
+)
+
+game (
+	name "Darwin 4078 (Japan) (Alt 2)"
+	origin "Japan"
+	rom ( crc 6FB05F43 )
+)
+
+game (
+	name "Family Boxing - MSX Title Match (Japan)"
+	origin "Japan"
+	rom ( crc 7030F2AB )
+)
+
+game (
+	name "Darwin 4078 (Japan)"
+	origin "Japan"
+	rom ( crc 7098FAF0 )
+)
+
+game (
+	name "Mirai (Japan)"
+	origin "Japan"
+	rom ( crc 70AA93CF )
+)
+
+game (
+	name "Penguin-kun Wars 2 (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 70DC14A6 )
+)
+
+game (
+	name "Synthe Saurus (Japan) (Program)"
+	origin "Japan"
+	rom ( crc 7122E8E3 )
+)
+
+game (
+	name "Yuurei-kun (Japan)"
+	origin "Japan"
+	rom ( crc 712AE3C6 )
+)
+
+game (
+	name "Nekketsu Juudou (Japan)"
+	origin "Japan"
+	rom ( crc 758C6087 )
+)
+
+game (
+	name "Dragon Quest (Japan)"
+	origin "Japan"
+	rom ( crc 7729E7A9 )
+)
+
+game (
+	name "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)"
+	origin "Japan"
+	rom ( crc 774C70FC )
+)
+
+game (
+	name "Family Billiards (Japan)"
+	origin "Japan"
+	rom ( crc 7C867D98 )
+)
+
+game (
+	name "Pac-Mania (Japan)"
+	origin "Japan"
+	rom ( crc 7DF16FC8 )
+)
+
+game (
+	name "Tengoku Yoitoko (Japan)"
+	origin "Japan"
+	rom ( crc 7E637801 )
+)
+
+game (
+	name "Super Load Runner (Japan)"
+	origin "Japan"
+	rom ( crc 80ECAC11 )
+)
+
+game (
+	name "Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 816ACEB5 )
+)
+
+game (
+	name "Rastan Saga (Japan)"
+	origin "Japan"
+	rom ( crc 84461E73 )
+)
+
+game (
+	name "Crimson (Japan)"
+	origin "Japan"
+	rom ( crc 8528A795 )
+)
+
+game (
+	name "Inindou - Datou Nobunaga (Japan)"
+	origin "Japan"
+	rom ( crc 881B3849 )
+)
+
+game (
+	name "Bubble Bobble (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 8B73F133 )
+)
+
+game (
+	name "Ishin no Arashi (Japan)"
+	origin "Japan"
+	rom ( crc 8BC34DCA )
+)
+
+game (
+	name "Quinpl (Japan)"
+	origin "Japan"
+	rom ( crc 8D94AF7D )
+)
+
+game (
+	name "Hacker (Japan)"
+	origin "Japan"
+	rom ( crc 8DF56D42 )
+)
+
+game (
+	name "Super Daisenryaku (Japan)"
+	origin "Japan"
+	rom ( crc 8DF9945A )
+)
+
+game (
+	name "Return of Ishtar, The (Japan)"
+	origin "Japan"
+	rom ( crc 8EE8212C )
+)
+
+game (
+	name "Ide Yousuke Meijin no Jissen Mahjong (Japan)"
+	origin "Japan"
+	rom ( crc 935F1BDE )
+)
+
+game (
+	name "Ikari (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc 93999A38 )
+)
+
+game (
+	name "Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)"
+	origin "Japan"
+	rom ( crc 94191AAE )
+)
+
+game (
+	name "Druid (Japan)"
+	origin "Japan"
+	rom ( crc 94982598 )
+)
+
+game (
+	name "Victorious Nine II - Koukou Yakyuu Hen (Japan)"
+	origin "Japan"
+	rom ( crc 94EBC319 )
+)
+
+game (
+	name "Heroes of the Lance (Japan)"
+	origin "Japan"
+	rom ( crc 95F2EB6D )
+)
+
+game (
+	name "Topple Zip (Japan)"
+	origin "Japan"
+	rom ( crc 96B33497 )
+)
+
+game (
+	name "Xevious - Fardraut Saga (Japan)"
+	origin "Japan"
+	rom ( crc 97591725 )
+)
+
+game (
+	name "Dragon Slayer IV - Drasle Family (Japan)"
+	origin "Japan"
+	rom ( crc 98095852 )
+)
+
+game (
+	name "Labyrinth (Japan)"
+	origin "Japan"
+	rom ( crc 9926F43C )
+)
+
+game (
+	name "Dynamite Bowl (Japan)"
+	origin "Japan"
+	rom ( crc 9935E9BD )
+)
+
+game (
+	name "Fleet Commander II - Koukon no Kaiiki (Japan)"
+	origin "Japan"
+	rom ( crc 9F152E9B )
+)
+
+game (
+	name "Quarth (Japan)"
+	origin "Japan"
+	rom ( crc A0014E7F )
+)
+
+game (
+	name "Labyrinth (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc A295E608 )
+)
+
+game (
+	name "Zombie Hunter (Japan)"
+	origin "Japan"
+	rom ( crc A29E6AB4 )
+)
+
+game (
+	name "Dynamite Bowl (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc A4996AAA )
+)
+
+game (
+	name "Elthlead (Japan)"
+	origin "Japan"
+	rom ( crc A8E9AC9B )
+)
+
+game (
+	name "Daisenryaku MSX2 (Japan)"
+	origin "Japan"
+	rom ( crc A987A0D8 )
+)
+
+game (
+	name "Ikari (Japan)"
+	origin "Japan"
+	rom ( crc A9A66075 )
+)
+
+game (
+	name "Tetris (Japan)"
+	origin "Japan"
+	rom ( crc AA598DFD )
+)
+
+game (
+	name "Arctic - Active Rail Playing (Japan)"
+	origin "Japan"
+	rom ( crc AE3167EE )
+)
+
+game (
+	name "Taiyou no Shinden - Asteka II (Japan)"
+	origin "Japan"
+	rom ( crc AE82A874 )
+)
+
+game (
+	name "Woody Poco (Japan)"
+	origin "Japan"
+	rom ( crc AEA8D064 )
+)
+
+game (
+	name "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc B0A7800F )
+)
+
+game (
+	name "Ogre (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc B19E88AA )
+)
+
+game (
+	name "Penguin-kun Wars 2 (Japan)"
+	origin "Japan"
+	rom ( crc B1B24DA1 )
+)
+
+game (
+	name "Ouke no Tani - El Giza no Fuuin (Japan)"
+	origin "Japan"
+	rom ( crc B1CB1052 )
+)
+
+game (
+	name "Super Rambo Special (Japan)"
+	origin "Japan"
+	rom ( crc B2392EF3 )
+)
+
+game (
+	name "Sangokushi (Japan)"
+	origin "Japan"
+	rom ( crc B83AA6F5 )
+)
+
+game (
+	name "Relics (Japan)"
+	origin "Japan"
+	rom ( crc BABC68F2 )
+)
+
+game (
+	name "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)"
+	origin "Japan"
+	rom ( crc BC1B1ACE )
+)
+
+game (
+	name "American Soccer (Japan)"
+	origin "Japan"
+	rom ( crc BCF03D8B )
+)
+
+game (
+	name "Lupin Sansei - Babylon no Ougon Densetsu (Japan)"
+	origin "Japan"
+	rom ( crc BFE150C4 )
+)
+
+game (
+	name "Pro Yakyuu Fan - Telenet Stadium (Japan)"
+	origin "Japan"
+	rom ( crc C065BC29 )
+)
+
+game (
+	name "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)"
+	origin "Japan"
+	rom ( crc C08FAF0E )
+)
+
+game (
+	name "Aleste (Japan)"
+	origin "Japan"
+	rom ( crc C29EDD84 )
+)
+
+game (
+	name "Teitoku no Ketsudan (Japan)"
+	origin "Japan"
+	rom ( crc C31F459C )
+)
+
+game (
+	name "Druid (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc C3242B0A )
+)
+
+game (
+	name "Lupin Sansei - Cagliostro no Shiro (Japan)"
+	origin "Japan"
+	rom ( crc C4096E6B )
+)
+
+game (
+	name "Gekitotsu Pennant Race 2 (Japan)"
+	origin "Japan"
+	rom ( crc C44C6330 )
+)
+
+game (
+	name "Quarth (Japan) (Demo)"
+	origin "Japan"
+	rom ( crc C4CCB75F )
+)
+
+game (
+	name "Han Seimei Senki Andorogynus (Japan)"
+	origin "Japan"
+	rom ( crc C6F74489 )
+)
+
+game (
+	name "Empereur, L' (Japan)"
+	origin "Japan"
+	rom ( crc C7521809 )
+)
+
+game (
+	name "Sangokushi II (Japan)"
+	origin "Japan"
+	rom ( crc C89B93B5 )
+)
+
+game (
+	name "Janyuu (Japan)"
+	origin "Japan"
+	rom ( crc C8FF3829 )
+)
+
+game (
+	name "A Ressha de Ikou MSX (Japan)"
+	origin "Japan"
+	rom ( crc C956E1DF )
+)
+
+game (
+	name "1942 (Japan)"
+	origin "Japan"
+	rom ( crc C99E5601 )
+)
+
+game (
+	name "Super Tritorn (Japan)"
+	origin "Japan"
+	rom ( crc CBB00EF1 )
+)
+
+game (
+	name "Star Virgin (Japan)"
+	origin "Japan"
+	rom ( crc CBDFCC35 )
+)
+
+game (
+	name "Fire Ball (Japan)"
+	origin "Japan"
+	rom ( crc CDCDC6C0 )
+)
+
+game (
+	name "Darwin 4078 (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc CE86A52F )
+)
+
+game (
+	name "Zukkoke Yajikita Onmitsu Douchuu (Japan)"
+	origin "Japan"
+	rom ( crc D0ECECC6 )
+)
+
+game (
+	name "Zanac Ex (Japan)"
+	origin "Japan"
+	rom ( crc D153B2F2 )
+)
+
+game (
+	name "Woody Poco (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc D1621BAE )
+)
+
+game (
+	name "AcroJet (Japan)"
+	origin "Japan"
+	rom ( crc D2EE4051 )
+)
+
+game (
+	name "Hinotori - Houou Hen (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc D95116B0 )
+)
+
+game (
+	name "Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)"
+	origin "Japan"
+	rom ( crc DCB1A61E )
+)
+
+game (
+	name "Metal Gear 2 - Solid Snake (Japan) (Demo)"
+	origin "Japan"
+	rom ( crc DCEE5080 )
+)
+
+game (
+	name "Mad Rider (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc DFC2A720 )
+)
+
+game (
+	name "Dragon Quest II (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc E012EE7A )
+)
+
+game (
+	name "Hai no Majutsushi (Japan)"
+	origin "Japan"
+	rom ( crc E0E72736 )
+)
+
+game (
+	name "Double Vision (Japan)"
+	origin "Japan"
+	rom ( crc E1148738 )
+)
+
+game (
+	name "Seikima II Special - Akuma no Gyakushuu (Japan)"
+	origin "Japan"
+	rom ( crc E37B681E )
+)
+
+game (
+	name "Urusei Yatsura - Koi no Survival Birthday (Japan)"
+	origin "Japan"
+	rom ( crc E564A25F )
+)
+
+game (
+	name "Rick to Mick no Daibouken (Japan)"
+	origin "Japan"
+	rom ( crc E79AA962 )
+)
+
+game (
+	name "Predator (Japan)"
+	origin "Japan"
+	rom ( crc E85A4A6B )
+)
+
+game (
+	name "Metal Gear (Europe)"
+	origin "Europe"
+	rom ( crc E85C5731 )
+)
+
+game (
+	name "Gekitotsu Pennant Race 2 (Japan) (English Menu)"
+	origin "Japan"
+	rom ( crc E92FC432 )
+)
+
+game (
+	name "Han Seimei Senki Andorogynus (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc EAF2BFCD )
+)
+
+game (
+	name "Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)"
+	origin "Japan"
+	rom ( crc EB67D4D6 )
+)
+
+game (
+	name "Monmon Kaibutsu (Japan)"
+	origin "Japan"
+	rom ( crc EBCCB796 )
+)
+
+game (
+	name "Daikoukai Jidai (Japan)"
+	origin "Japan"
+	rom ( crc EC7A8012 )
+)
+
+game (
+	name "Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc F12BEC91 )
+)
+
+game (
+	name "Deep Forest (Japan)"
+	origin "Japan"
+	rom ( crc F221B845 )
+)
+
+game (
+	name "Ogre (Japan)"
+	origin "Japan"
+	rom ( crc F2544E2E )
+)
+
+game (
+	name "Hole in One Special (Japan)"
+	origin "Japan"
+	rom ( crc F35DF283 )
+)
+
+game (
+	name "Maison Ikkoku - Omoide no Photograph (Japan)"
+	origin "Japan"
+	rom ( crc F4D127C0 )
+)
+
+game (
+	name "Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)"
+	origin "Japan"
+	rom ( crc F5174422 )
+)
+
+game (
+	name "Ninja-kun - Asura no Shou (Japan)"
+	origin "Japan"
+	rom ( crc F56A00E6 )
+)
+
+game (
+	name "Tanikawa Hiroshi no Shougi Shinan 2 (Japan)"
+	origin "Japan"
+	rom ( crc F640670C )
+)
+
+game (
+	name "Malaya no Hibou (Japan)"
+	origin "Japan"
+	rom ( crc F7A9591D )
+)
+
+game (
+	name "Mad Rider (Japan)"
+	origin "Japan"
+	rom ( crc F87BD172 )
+)
+
+game (
+	name "Metal Gear (Japan)"
+	origin "Japan"
+	rom ( crc FAFE1303 )
+)
+
+game (
+	name "Koronis Rift (Europe)"
+	origin "Europe"
+	rom ( crc FB348DE6 )
+)
+
+game (
+	name "Royal Blood (Japan)"
+	origin "Japan"
+	rom ( crc FB9E42E1 )
+)
+
+game (
+	name "Gakuen Monogatari - High School Story (Japan)"
+	origin "Japan"
+	rom ( crc FBDAFE4E )
+)
+
+game (
+	name "Nekketsu Juudou (Japan) (Alt 1)"
+	origin "Japan"
+	rom ( crc FDA1977A )
+)
+
+game (
+	name "Final Mystery Murder Club - Satsujin Club (Japan)"
+	origin "Japan"
+	rom ( crc FE797D88 )
+)
+
+game (
+	name "Tsurikichi Sanpei - Blue Marine Hen (Japan)"
+	origin "Japan"
+	rom ( crc FF7395A3 )
+)
+
+game (
+	name "Yaksa (Japan)"
+	origin "Japan"
+	rom ( crc FF974EE3 )
+)
+

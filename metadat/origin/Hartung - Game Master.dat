@@ -1,0 +1,77 @@
+clrmamepro (
+	name "Hartung - Game Master"
+	description "Hartung - Game Master"
+)
+
+game (
+	name "[BIOS] Hartung Game Master (Germany)"
+	origin "Germany"
+	rom ( crc 05CC45E5 )
+)
+
+game (
+	name "Space Castle (Germany)"
+	origin "Germany"
+	rom ( crc 11D734F1 )
+)
+
+game (
+	name "Kung Fu Challenge (Germany)"
+	origin "Germany"
+	rom ( crc 3EA0670B )
+)
+
+game (
+	name "Tennis Master (Germany)"
+	origin "Germany"
+	rom ( crc 48D425CF )
+)
+
+game (
+	name "Falling Block! (Germany)"
+	origin "Germany"
+	rom ( crc 58E409FB )
+)
+
+game (
+	name "Dungeon Adventure (Germany)"
+	origin "Germany"
+	rom ( crc 60AFB4B5 )
+)
+
+game (
+	name "Hyper Space (Germany)"
+	origin "Germany"
+	rom ( crc 95E0CEAC )
+)
+
+game (
+	name "Urban Champion (Germany)"
+	origin "Germany"
+	rom ( crc D53E6CAC )
+)
+
+game (
+	name "Bubble Boy (Germany)"
+	origin "Germany"
+	rom ( crc EDD0679D )
+)
+
+game (
+	name "Pin Ball (Germany)"
+	origin "Germany"
+	rom ( crc F5FFC768 )
+)
+
+game (
+	name "Go Bang (Germany)"
+	origin "Germany"
+	rom ( crc FDA2C4E6 )
+)
+
+game (
+	name "Continental Galaxy 2020 (Germany)"
+	origin "Germany"
+	rom ( crc FEDEC9D5 )
+)
+

@@ -1,0 +1,35 @@
+clrmamepro (
+	name "Casio - PV-1000"
+	description "Casio - PV-1000"
+)
+
+game (
+	name "Excite Mahjong (Japan)"
+	origin "Japan"
+	rom ( crc 0D2F829C )
+)
+
+game (
+	name "Pachinko-UFO (Japan)"
+	origin "Japan"
+	rom ( crc 9EE981AB )
+)
+
+game (
+	name "Pooyan (Japan)"
+	origin "Japan"
+	rom ( crc BD6EDC48 )
+)
+
+game (
+	name "Amidar (Japan)"
+	origin "Japan"
+	rom ( crc C82628CC )
+)
+
+game (
+	name "Super Cobra (Japan)"
+	origin "Japan"
+	rom ( crc CDFFC2CD )
+)
+

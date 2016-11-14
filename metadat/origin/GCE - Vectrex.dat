@@ -1,0 +1,275 @@
+clrmamepro (
+	name "GCE - Vectrex"
+	description "GCE - Vectrex"
+)
+
+game (
+	name "Spin ball (USA)"
+	origin "USA"
+	rom ( crc 02F41733 )
+)
+
+game (
+	name "3D Narrow Escape (USA)"
+	origin "USA"
+	rom ( crc 050BD949 )
+)
+
+game (
+	name "Mail Plane (USA) (Proto)"
+	origin "USA"
+	rom ( crc 05838962 )
+)
+
+game (
+	name "Blitz! - Action Football (USA, Europe) (0F11CE0C)"
+	origin "USA,Europe"
+	rom ( crc 0F11CE0C )
+)
+
+game (
+	name "Fortress of Narzod (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 13A35C8A )
+)
+
+game (
+	name "RA+A Spectrum I+ Stress Tester (USA) (Proto)"
+	origin "USA"
+	rom ( crc 20AF7F3F )
+)
+
+game (
+	name "Berzerk Debugged (USA)"
+	origin "USA"
+	rom ( crc 2ADC4EAA )
+)
+
+game (
+	name "WebWars (USA)"
+	origin "USA"
+	rom ( crc 2EE20103 )
+)
+
+game (
+	name "Rip Off (World)"
+	origin "World"
+	rom ( crc 34A98132 )
+)
+
+game (
+	name "Star Trek - The Motion Picture (USA)"
+	origin "USA"
+	rom ( crc 3768D8C3 )
+)
+
+game (
+	name "HyperChase - Auto Race (World)"
+	origin "World"
+	rom ( crc 4BB13472 )
+)
+
+game (
+	name "StarHawk (World)"
+	origin "World"
+	rom ( crc 4DE1F06B )
+)
+
+game (
+	name "WebWarp (Europe)"
+	origin "Europe"
+	rom ( crc 521107C3 )
+)
+
+game (
+	name "Star Trek Debugged (USA)"
+	origin "USA"
+	rom ( crc 563F846B )
+)
+
+game (
+	name "Solar Quest (World)"
+	origin "World"
+	rom ( crc 5C4611C8 )
+)
+
+game (
+	name "Spike (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 62A61843 )
+)
+
+game (
+	name "Cosmic Chasm (World)"
+	origin "World"
+	rom ( crc 6C1AFA52 )
+)
+
+game (
+	name "Mine Storm (World)"
+	origin "World"
+	rom ( crc 6D509566 )
+)
+
+game (
+	name "Scramble (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 707C8FFE )
+)
+
+game (
+	name "Test Cartridge (USA) (Rev 4) (Proto)"
+	origin "USA"
+	rom ( crc 7297E815 )
+)
+
+game (
+	name "Star Ship (Europe)"
+	origin "Europe"
+	rom ( crc 7967A8CB )
+)
+
+game (
+	name "Sledge 3D (USA) (Sample)"
+	origin "USA"
+	rom ( crc 863B89E8 )
+)
+
+game (
+	name "Blitz! - Action Football (USA, Europe) (881B27C5)"
+	origin "USA,Europe"
+	rom ( crc 881B27C5 )
+)
+
+game (
+	name "3D Crazy Coaster (USA)"
+	origin "USA"
+	rom ( crc 92709B11 )
+)
+
+game (
+	name "Dark Tower (USA) (Proto)"
+	origin "USA"
+	rom ( crc 9DCFD5B7 )
+)
+
+game (
+	name "AnimAction - Advanced Animation (USA)"
+	origin "USA"
+	rom ( crc 9F62E167 )
+)
+
+game (
+	name "Pole Position (USA) (A00ED3D6)"
+	origin "USA"
+	rom ( crc A00ED3D6 )
+)
+
+game (
+	name "Bedlam (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc A2FA649B )
+)
+
+game (
+	name "Space Wars (World)"
+	origin "World"
+	rom ( crc A3BE5AFF )
+)
+
+game (
+	name "Polar Rescue (USA)"
+	origin "USA"
+	rom ( crc A7471784 )
+)
+
+game (
+	name "Polar Rescue (USA) (Beta)"
+	origin "USA"
+	rom ( crc AD844645 )
+)
+
+game (
+	name "Melody Master - Music Composition and Entertainment (USA)"
+	origin "USA"
+	rom ( crc AFEFA29C )
+)
+
+game (
+	name "3D Mine Storm (USA)"
+	origin "USA"
+	rom ( crc B2313487 )
+)
+
+game (
+	name "Armor..Attack (World)"
+	origin "World"
+	rom ( crc B7510971 )
+)
+
+game (
+	name "[BIOS] GCE Vectrex (World)"
+	origin "World"
+	rom ( crc BA13FB57 )
+)
+
+game (
+	name "Tour De France (USA) (Proto)"
+	origin "USA"
+	rom ( crc BB4791F1 )
+)
+
+game (
+	name "Pole Position (USA) (C10F37D8)"
+	origin "USA"
+	rom ( crc C10F37D8 )
+)
+
+game (
+	name "Pitcher's Duel (USA) (Proto)"
+	origin "USA"
+	rom ( crc C25F2E0E )
+)
+
+game (
+	name "Art Master (USA)"
+	origin "USA"
+	rom ( crc C8E2F247 )
+)
+
+game (
+	name "Star Castle (USA)"
+	origin "USA"
+	rom ( crc C9039623 )
+)
+
+game (
+	name "Heads-Up - Action Soccer (USA)"
+	origin "USA"
+	rom ( crc E61A7DE3 )
+)
+
+game (
+	name "Berzerk (World)"
+	origin "World"
+	rom ( crc EAFE2455 )
+)
+
+game (
+	name "Clean Sweep (World)"
+	origin "World"
+	rom ( crc F1B1DE78 )
+)
+
+game (
+	name "Mine Storm II (USA) (Rev 2)"
+	origin "USA"
+	rom ( crc F5B3B374 )
+)
+
+game (
+	name "Engine Analyzer (USA) (Proto)"
+	origin "USA"
+	rom ( crc FE9A501A )
+)
+

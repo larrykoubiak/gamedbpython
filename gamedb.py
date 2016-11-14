@@ -21,6 +21,7 @@ class GameDB:
         self.cur = self.con.cursor()
         self.dats = []
         self.scrapers = []
+        self.exporter = Exporter()
         self.init_database()
 
     def init_database(self):
@@ -496,8 +497,7 @@ class GameDB:
                 self.getSoftwareMatch(software[0],scraperGameId)
         self.con.commit()
 
-    def export_metadata(self):
-        exporter = Exporter()
+    def export_softwareflags(self):
         for flagname in ['developer','franchise','genre']:
             flag = {}
             flag['name'] = flagname
@@ -539,15 +539,61 @@ class GameDB:
                     rom['crc'] = romrow[0]
                     system['roms'].append(rom)
                 flag['systems'].append(system)
-            print "Exporting flag " + flagname
-            exporter.export_rdb_dat(flag)            
-        
+            print "Exporting software flag " + flagname
+            self.exporter.export_rdb_dat(flag)
+    def export_releaseflags(self):
+        for flagname in ['origin']:
+            flag = {}
+            flag['name'] = flagname
+            if flagname == 'origin':
+                flag['releaseFlagName'] = 'Region'
+            flag['systems'] = []
+            query ="""SELECT DISTINCT rf.releaseFlagName, s.systemManufacturer || ' - ' || s.systemName systemName, s.systemId
+                    FROM tblReleaseFlags rf INNER JOIN
+                    tblReleaseFlagValues rfv ON rfv.releaseFlagId = rf.releaseFlagId INNER JOIN
+                    tblReleases r ON r.releaseId = rfv.releaseId INNER JOIN
+                    tblSoftwares so ON so.softwareId = r.softwareId INNER JOIN 
+                    tblSystems s ON s.systemId = so.systemId
+                    WHERE rf.releaseFlagName = ?"""
+            self.cur.execute(query,(flag['releaseFlagName'],))
+            systemrows = self.cur.fetchall()
+            for systemrow in systemrows:
+                system = {}
+                system['name'] = systemrow[1]
+                system['roms'] = []
+                query = """SELECT ro.crc32, r.releaseName, GROUP_CONCAT(DISTINCT rfv.releaseFlagValue) flagValue
+                        FROM tblROMs ro INNER JOIN 
+                        tblReleases r ON r.releaseId = ro.releaseId INNER JOIN
+                        tblSoftwares so ON so.softwareId = r.softwareId INNER JOIN
+                        tblReleaseFlagValues rfv ON rfv.releaseId = r.releaseId INNER JOIN
+                        tblReleaseFlags rf ON rf.releaseFlagId = rfv.releaseFlagId
+                        WHERE so.systemId = ? AND rf.releaseFlagName = ?
+                        GROUP BY ro.crc32, r.releaseName"""
+                self.cur.execute(query,(systemrow[2],flag['releaseFlagName']))
+                romrows = self.cur.fetchall()
+                for romrow in romrows:
+                    rom = {}
+                    rom['name'] = romrow[1]
+                    rom['flagvalue'] = romrow[2]
+                    rom['crc'] = romrow[0]
+                    system['roms'].append(rom)
+                flag['systems'].append(system)
+            print "Exporting release flag " + flagname
+            self.exporter.export_rdb_dat(flag)
+    def export_rdbs(self):
+        query = "SELECT systemManufacturer || ' - ' || systemName systemName FROM tblSystems"
+        self.cur.execute(query)
+        systemrows = self.cur.fetchall()
+        for systemrow in systemrows:
+            self.exporter.create_rdb(systemrow[0])
 if __name__ == '__main__':
     gamedb = GameDB()
-    #gamedb.import_dats()
-    #gamedb.import_scrapers()
-    #gamedb.match_systems()
-    #gamedb.match_softwares()
-    gamedb.export_metadata()
+    gamedb.import_dats()
+    gamedb.import_scrapers()
+    gamedb.match_systems()
+    gamedb.match_softwares()
+    gamedb.export_softwareflags()
+    gamedb.export_releaseflags()
+    gamedb.export_rdbs()
     gamedb.con.close()
     print "\nJob done."

@@ -1,0 +1,599 @@
+clrmamepro (
+	name "Bandai - WonderSwan"
+	description "Bandai - WonderSwan"
+)
+
+game (
+	name "Anchorz Field (Japan)"
+	genre "Strategy > General"
+	rom ( crc 425EB893 )
+)
+
+game (
+	name "Armored Unit (Japan)"
+	genre "Strategy > General"
+	rom ( crc C11639AF )
+)
+
+game (
+	name "Bakusou Dekotora Densetsu for WonderSwan (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 392DD813 )
+)
+
+game (
+	name "Beatmania for WonderSwan (Japan)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 324622C9 )
+)
+
+game (
+	name "Buffers Evolution (Japan)"
+	genre "Action > General"
+	rom ( crc B25A0635 )
+)
+
+game (
+	name "Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 7F3A14C0 )
+)
+
+game (
+	name "Chaos Gear - Michibikareshi Mono (Japan)"
+	genre "Strategy > General"
+	rom ( crc 27B3CC18 )
+)
+
+game (
+	name "Chou Aniki - Otoko no Tamafuda (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 7FFF2520 )
+)
+
+game (
+	name "Clock Tower for WonderSwan (Japan)"
+	genre "Adventure > Point-and-Click"
+	rom ( crc A9936941 )
+)
+
+game (
+	name "Crazy Climber (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc C995274B )
+)
+
+game (
+	name "Densha de Go! (Japan)"
+	genre "Simulation > Vehicle > Train"
+	rom ( crc B62E5DD0 )
+)
+
+game (
+	name "Densha de Go! 2 (Japan)"
+	genre "Simulation > Vehicle > Train"
+	rom ( crc AF9D8F42 )
+)
+
+game (
+	name "Digimon Adventure - Anode Tamer (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 6E9DD148 )
+)
+
+game (
+	name "Digimon Adventure - Cathode Tamer (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 42AD238B )
+)
+
+game (
+	name "Digimon Adventure 02 - Tag Tamers (Japan)"
+	genre "Adventure > General"
+	rom ( crc 6EDEDAF8 )
+)
+
+game (
+	name "Digital Monster - Ver. WonderSwan (Japan)"
+	genre "Strategy > General"
+	rom ( crc AB59DE2E )
+)
+
+game (
+	name "Digimon - Ver. WonderSwan (Asia)"
+	genre "Strategy > General"
+	rom ( crc 94EA6FFC )
+)
+
+game (
+	name "Dokodemo Hamster (Japan)"
+	genre "Strategy > General"
+	rom ( crc 89E7D950 )
+)
+
+game (
+	name "Engacho! for WonderSwan (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 4E467626 )
+)
+
+game (
+	name "Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 8922DD0B )
+)
+
+game (
+	name "Final Lap 2000 (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc CE2F1A1D )
+)
+
+game (
+	name "Fire Pro Wrestling for WonderSwan (Japan)"
+	genre "Sports > Individual > Combat > Wrestling"
+	rom ( crc F246A68E )
+)
+
+game (
+	name "Fishing Freaks - Bass Rise for WonderSwan (Japan)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc A1FB16FC )
+)
+
+game (
+	name "From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)"
+	genre "Adventure > General"
+	rom ( crc F2E362B8 )
+)
+
+game (
+	name "Ganso Jajamaru-kun (Japan)"
+	genre "Action > General"
+	rom ( crc A193458C )
+)
+
+game (
+	name "Glocal Hexcite (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 8FCD6D2C )
+)
+
+game (
+	name "Gomoku Narabe & Reversi - Touryuumon (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 6CD1411E )
+)
+
+game (
+	name "Goraku Ou Tango! (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 00137E86 )
+)
+
+game (
+	name "Hanafuda Shiyouyo (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 8E027330 )
+)
+
+game (
+	name "Harobots (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc AA525C04 )
+)
+
+game (
+	name "Hunter X Hunter - Ishi o Tsugu Mono (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 70AA800E )
+)
+
+game (
+	name "Itou Junji Uzumaki - Noroi Simulation (Japan)"
+	genre "Strategy > General"
+	rom ( crc CA3F0B00 )
+)
+
+game (
+	name "Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)"
+	genre "Strategy > General"
+	rom ( crc 4D103236 )
+)
+
+game (
+	name "Kaze no Klonoa - Moonlight Museum (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 80C6EF12 )
+)
+
+game (
+	name "Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)"
+	genre "Sports > Individual > Horse Racing"
+	rom ( crc 945FC213 )
+)
+
+game (
+	name "Kiss Yori... - Seaside Serenade (Japan)"
+	genre "Adventure > General"
+	rom ( crc 3B4C60C6 )
+)
+
+game (
+	name "Kosodate Quiz Dokodemo - My Angel (Japan)"
+	genre "Miscellaneous > Trivia / Game Show"
+	rom ( crc 4C48624C )
+)
+
+game (
+	name "Kyousouba Ikusei Simulation - Keiba (Japan)"
+	genre "Sports > Individual > Horse Racing"
+	rom ( crc ECFBCB1D )
+)
+
+game (
+	name "Langrisser Millennium WS - The Last Century (Japan)"
+	genre "Strategy > Turn-Based > Tactics"
+	rom ( crc 9E0854E2 )
+)
+
+game (
+	name "Last Stand (Japan)"
+	genre "Strategy > General"
+	rom ( crc CCCAF8A1 )
+)
+
+game (
+	name "Lode Runner for WonderSwan (Japan)"
+	genre "Puzzle > Action"
+	rom ( crc E407CABF )
+)
+
+game (
+	name "Macross - True Love Song (Japan)"
+	genre "Strategy > General"
+	rom ( crc 62D419CD )
+)
+
+game (
+	name "Magical Drop for WonderSwan (Japan)"
+	genre "Puzzle > Matching"
+	rom ( crc 637ADA93 )
+)
+
+game (
+	name "Mahjong Touryuumon (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc E7E7FD4C )
+)
+
+game (
+	name "Makai Mura for WonderSwan (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 00B31FBB )
+)
+
+game (
+	name "Medarot Perfect Edition - Kabuto Version (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 12FB8B28 )
+)
+
+game (
+	name "Medarot Perfect Edition - Kuwagata Version (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 2B40745D )
+)
+
+game (
+	name "Meitantei Conan - Majutsushi no Chousenjou! (Japan)"
+	genre "Adventure > General"
+	rom ( crc 92FBF7FB )
+)
+
+game (
+	name "Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)"
+	genre "Adventure > General"
+	rom ( crc E226863B )
+)
+
+game (
+	name "Mingle Magnet (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 9BAAC7BB )
+)
+
+game (
+	name "Moero!! Pro Yakyuu Rookies (Japan)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc EB995E86 )
+)
+
+game (
+	name "Morita Shougi for WonderSwan (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc B159C30D )
+)
+
+game (
+	name "Nazo Ou Pocket (Japan)"
+	genre "Adventure > General"
+	rom ( crc 4ED8820C )
+)
+
+game (
+	name "Neon Genesis Evangelion - Shito Ikusei (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc BF8D9212 )
+)
+
+game (
+	name "Nice On (Japan)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc B5DBCF12 )
+)
+
+game (
+	name "Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 44B3E67C )
+)
+
+game (
+	name "Nobunaga no Yabou for WonderSwan (Japan)"
+	genre "Strategy > General"
+	rom ( crc C1734309 )
+)
+
+game (
+	name "Ou-chan no Oekaki Logic (Japan)"
+	genre "Puzzle > Logic"
+	rom ( crc 631BD97A )
+)
+
+game (
+	name "Pocket Fighter (Japan)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 35361250 )
+)
+
+game (
+	name "Pro Mahjong Kiwame for WonderSwan (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 90F7E6D6 )
+)
+
+game (
+	name "Puyo Puyo Tsuu (Japan)"
+	genre "Puzzle > Matching"
+	rom ( crc 5A41A7BA )
+)
+
+game (
+	name "Puzzle Bobble (Japan)"
+	genre "Puzzle > Matching"
+	rom ( crc 302499B9 )
+)
+
+game (
+	name "Rainbow Islands - Putty's Party (Japan)"
+	genre "Action > General"
+	rom ( crc 8F8608AD )
+)
+
+game (
+	name "Robot Works (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 6ADF0E32 )
+)
+
+game (
+	name "Robot Works (Asia) (En,Ja)"
+	genre "Miscellaneous > General"
+	rom ( crc BE6BE690 )
+)
+
+game (
+	name "Rockman & Forte - Mirai Kara no Chousensha (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc CD206A9E )
+)
+
+game (
+	name "Sangokushi for WonderSwan (Japan)"
+	genre "Strategy > Turn-Based > General"
+	rom ( crc E385EE88 )
+)
+
+game (
+	name "Sangokushi II for WonderSwan (Japan)"
+	genre "Strategy > Turn-Based > General"
+	rom ( crc 812B720D )
+)
+
+game (
+	name "SD Gundam G Generation - Gather Beat (Japan)"
+	genre "Strategy > General"
+	rom ( crc E4EB3AB1 )
+)
+
+game (
+	name "SD Gundam Gashapon Senki - Episode 1 (Japan)"
+	genre "Strategy > General"
+	rom ( crc 21EB4C59 )
+)
+
+game (
+	name "Sennou Millennium (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 301436AC )
+)
+
+game (
+	name "Shanghai Pocket (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 1C489351 )
+)
+
+game (
+	name "Shin Nihon Pro Wrestling - Toukon Retsuden (Japan)"
+	genre "Sports > Individual > Combat > Wrestling"
+	rom ( crc 5B76F901 )
+)
+
+game (
+	name "Shougi Touryuumon (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc FFF1C0D6 )
+)
+
+game (
+	name "Side Pocket for WonderSwan (Japan)"
+	genre "Sports > Individual > Billiards"
+	rom ( crc 8655269E )
+)
+
+game (
+	name "Slither Link (Japan)"
+	genre "Puzzle > General"
+	rom ( crc F00A0330 )
+)
+
+game (
+	name "Soccer Yarou! - Challenge the World (Japan)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc D7438E58 )
+)
+
+game (
+	name "Sotsugyou for WonderSwan (Japan)"
+	genre "Adventure > General"
+	rom ( crc F016DFE1 )
+)
+
+game (
+	name "Space Invaders (Japan)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 8D83014F )
+)
+
+game (
+	name "Super Robot Taisen Compact (Japan)"
+	genre "Strategy > Turn-Based > Tactics"
+	rom ( crc 7021D54F )
+)
+
+game (
+	name "Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)"
+	genre "Strategy > Turn-Based > Tactics"
+	rom ( crc 782877BC )
+)
+
+game (
+	name "Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan)"
+	genre "Strategy > Turn-Based > Tactics"
+	rom ( crc ECBB46DE )
+)
+
+game (
+	name "Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan)"
+	genre "Strategy > Turn-Based > Tactics"
+	rom ( crc 0B0F8981 )
+)
+
+game (
+	name "Taikyoku Igo - Heisei Kiin (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 9597F37F )
+)
+
+game (
+	name "Tanjou Debut for WonderSwan (Japan)"
+	genre "Strategy > General"
+	rom ( crc 8B74F59A )
+)
+
+game (
+	name "Tare Panda no GunPey (Japan)"
+	genre "Puzzle > General"
+	rom ( crc A5643AA3 )
+)
+
+game (
+	name "Tekken Card Challenge (Japan)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc E7C608E5 )
+)
+
+game (
+	name "Tetsujin 28 Gou (Japan)"
+	genre "Adventure > General"
+	rom ( crc 6F304DCA )
+)
+
+game (
+	name "Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 7DA6ACB9 )
+)
+
+game (
+	name "Tokyo Majin Gakuen - Fuju Houroku (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 91117D1B )
+)
+
+game (
+	name "Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 07A3B862 )
+)
+
+game (
+	name "Turntablist - DJ Battle (Japan)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 0D5171F0 )
+)
+
+game (
+	name "Umizuri ni Ikou! (Japan)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 86B56511 )
+)
+
+game (
+	name "Uzumaki - Denshi Kaiki Hen (Japan)"
+	genre "Action > General"
+	rom ( crc 812020EF )
+)
+
+game (
+	name "Vaitz Blade (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 8FC9E145 )
+)
+
+game (
+	name "Wasabi Produce - Street Dancer (Japan)"
+	genre "Action > Rhythm > Dancing"
+	rom ( crc 1860B655 )
+)
+
+game (
+	name "Wonder Stadium (Japan)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 23BC0309 )
+)
+
+game (
+	name "Wonder Stadium '99 (Japan)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc E252919D )
+)
+
+game (
+	name "WonderSwan Handy Sonar (Japan)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 2AB9852D )
+)
+

@@ -1,0 +1,227 @@
+clrmamepro (
+	name "Fairchild - Channel F"
+	description "Fairchild - Channel F"
+)
+
+game (
+	name "Baseball (USA)"
+	origin "USA"
+	rom ( crc 01129BCD )
+)
+
+game (
+	name "[BIOS] Fairchild Channel F (USA) (SL90025)"
+	origin "USA"
+	rom ( crc 015C1E38 )
+)
+
+game (
+	name "[BIOS] Fairchild Channel F (USA) (SL31253)"
+	origin "USA"
+	rom ( crc 04694ED9 )
+)
+
+game (
+	name "Schach (Germany)"
+	origin "Germany"
+	rom ( crc 04FB6DCE )
+)
+
+game (
+	name "Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt 1)"
+	origin "USA"
+	rom ( crc 0A948B61 )
+)
+
+game (
+	name "Memory Match 1 & 2 (USA)"
+	origin "USA"
+	rom ( crc 104B5E18 )
+)
+
+game (
+	name "Desert Fox, Shooting Gallery (USA)"
+	origin "USA"
+	rom ( crc 1570934B )
+)
+
+game (
+	name "Space War (USA)"
+	origin "USA"
+	rom ( crc 22EF49E8 )
+)
+
+game (
+	name "Magic Numbers - Mind Reader + Nim (USA)"
+	origin "USA"
+	rom ( crc 24DA0529 )
+)
+
+game (
+	name "Robot War, Torpedo Alley (USA)"
+	origin "USA"
+	rom ( crc 38241E4F )
+)
+
+game (
+	name "Ordtaevling (Sweden)"
+	origin "Sweden"
+	rom ( crc 3A386E79 )
+)
+
+game (
+	name "Demonstration Cartridge (USA)"
+	origin "USA"
+	rom ( crc 42727AD5 )
+)
+
+game (
+	name "Demonstration Cartridge 2 (USA)"
+	origin "USA"
+	rom ( crc 44CF1D89 )
+)
+
+game (
+	name "Math Quiz II - Multiplication + Division (USA)"
+	origin "USA"
+	rom ( crc 4AA7EA97 )
+)
+
+game (
+	name "Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)"
+	origin "USA"
+	rom ( crc 4D42B296 )
+)
+
+game (
+	name "Spitfire (USA)"
+	origin "USA"
+	rom ( crc 5357C5F6 )
+)
+
+game (
+	name "Casino Poker (USA)"
+	origin "USA"
+	rom ( crc 5AA30C12 )
+)
+
+game (
+	name "Video Whizball (USA)"
+	origin "USA"
+	rom ( crc 65FDFE49 )
+)
+
+game (
+	name "Drag Race (USA)"
+	origin "USA"
+	rom ( crc 6A64DDA3 )
+)
+
+game (
+	name "Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)"
+	origin "Germany"
+	rom ( crc 7124DC59 )
+)
+
+game (
+	name "Pinball Challenge (USA) (Alt 1)"
+	origin "USA"
+	rom ( crc 7CADF0FD )
+)
+
+game (
+	name "Alien Invasion (USA)"
+	origin "USA"
+	rom ( crc 85E00865 )
+)
+
+game (
+	name "Rat' Mal (Germany)"
+	origin "Germany"
+	rom ( crc 87752425 )
+)
+
+game (
+	name "Hangman (USA)"
+	origin "USA"
+	rom ( crc 9238D6CE )
+)
+
+game (
+	name "Bowling (USA)"
+	origin "USA"
+	rom ( crc 94322C79 )
+)
+
+game (
+	name "[BIOS] Fairchild Channel F (USA) (SL31254)"
+	origin "USA"
+	rom ( crc 9C047BA3 )
+)
+
+game (
+	name "Backgammon, Acey-Deucey (USA)"
+	origin "USA"
+	rom ( crc A1731B52 )
+)
+
+game (
+	name "Pro Football (USA)"
+	origin "USA"
+	rom ( crc A1AE99BE )
+)
+
+game (
+	name "Slot Machine (USA)"
+	origin "USA"
+	rom ( crc B7EABD08 )
+)
+
+game (
+	name "Math Quiz I - Addition + Subtraction (USA)"
+	origin "USA"
+	rom ( crc BB4C24A2 )
+)
+
+game (
+	name "Pinball Challenge (USA)"
+	origin "USA"
+	rom ( crc C610B330 )
+)
+
+game (
+	name "Galactic Space Wars, Lunar Lander (USA)"
+	origin "USA"
+	rom ( crc C8EF3410 )
+)
+
+game (
+	name "Sonar Search (USA)"
+	origin "USA"
+	rom ( crc DBDC56BF )
+)
+
+game (
+	name "Dodge It (USA)"
+	origin "USA"
+	rom ( crc E3C1811C )
+)
+
+game (
+	name "Video Blackjack (USA)"
+	origin "USA"
+	rom ( crc E98D4456 )
+)
+
+game (
+	name "Checkers (USA)"
+	origin "USA"
+	rom ( crc FDAE7044 )
+)
+
+game (
+	name "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)"
+	origin "USA"
+	rom ( crc FF4768B0 )
+)
+

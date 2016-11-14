@@ -1,0 +1,35 @@
+clrmamepro (
+	name "Entex - Adventure Vision"
+	description "Entex - Adventure Vision"
+)
+
+game (
+	name "[BIOS] Entex Adventure Vision (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 279E33D1 )
+)
+
+game (
+	name "Turtles (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 33A23EBA )
+)
+
+game (
+	name "Defender (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc 3E280096 )
+)
+
+game (
+	name "Super Cobra (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc B6045C9E )
+)
+
+game (
+	name "Space Force (USA, Europe)"
+	origin "USA,Europe"
+	rom ( crc C70D4028 )
+)
+

@@ -1,0 +1,437 @@
+clrmamepro (
+	name "SNK - Neo Geo Pocket Color"
+	description "SNK - Neo Geo Pocket Color"
+)
+
+game (
+	name "Baseball Stars Color (World) (En,Ja)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc FFA7E88D )
+)
+
+game (
+	name "Bikkuriman 2000 - Viva! Pocket Festiva! (Japan)"
+	genre "Action > General"
+	rom ( crc 7A2D7635 )
+)
+
+game (
+	name "Biomotor Unitron (USA, Europe)"
+	genre "Strategy > General"
+	rom ( crc 3807DF4F )
+)
+
+game (
+	name "Biomotor Unitron (Japan)"
+	genre "Strategy > General"
+	rom ( crc ECEE99F3 )
+)
+
+game (
+	name "Biomotor Unitron (Japan) (Demo)"
+	genre "Strategy > General"
+	rom ( crc C6FB900F )
+)
+
+game (
+	name "Cool Boarders Pocket (Japan, Europe) (En,Ja)"
+	genre "Sports > Individual > Ski / Snowboard"
+	rom ( crc 833F9C22 )
+)
+
+game (
+	name "Cool Cool Jam (USA, Europe) (Sample)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 4D8D27F0 )
+)
+
+game (
+	name "Cool Cool Jam (Japan)"
+	genre "Action > Rhythm > Music"
+	rom ( crc 4FDA5D8A )
+)
+
+game (
+	name "Crush Roller (World) (En,Ja)"
+	genre "Action > Arcade"
+	rom ( crc F20FF9F2 )
+)
+
+game (
+	name "Delta Warp (Japan) (En,Ja)"
+	genre "Puzzle > General"
+	rom ( crc ADD4FDFF )
+)
+
+game (
+	name "Delta Warp (Japan) (Demo)"
+	genre "Puzzle > General"
+	rom ( crc A3C89788 )
+)
+
+game (
+	name "Dive Alert - Becky's Version (USA, Europe)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 83DB5772 )
+)
+
+game (
+	name "Dive Alert - Rebecca Hen (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc 3C4AF4F5 )
+)
+
+game (
+	name "Dive Alert - Matt's Version (USA, Europe)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc EF75081B )
+)
+
+game (
+	name "Dive Alert - Burn Hen (Japan)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc C213941D )
+)
+
+game (
+	name "Dive Alert - Burn Hen (Japan) (Proto)"
+	genre "Role-Playing > Japanese-Style"
+	rom ( crc D9817A88 )
+)
+
+game (
+	name "Dokodemo Mahjong (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 78C21B5E )
+)
+
+game (
+	name "Dynamite Slugger (Japan, Europe) (En,Ja)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 7F1779CD )
+)
+
+game (
+	name "Faselei! (Europe)"
+	genre "Strategy > General"
+	rom ( crc E705E30E )
+)
+
+game (
+	name "Faselei! (Japan)"
+	genre "Strategy > General"
+	rom ( crc 8F585838 )
+)
+
+game (
+	name "Ganbare Neo Poke-kun (Ka) (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 6DF986A3 )
+)
+
+game (
+	name "Infinity Cure (Japan)"
+	genre "Adventure > Visual Novel"
+	rom ( crc 32DC2AA2 )
+)
+
+game (
+	name "King of Fighters, The - Battle de Paradise (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 77E37BAC )
+)
+
+game (
+	name "Koi Koi Mahjong (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc B51C3EBA )
+)
+
+game (
+	name "Last Blade, The - Beyond the Destiny (Europe)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 94FCFD1E )
+)
+
+game (
+	name "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)"
+	genre "Action > Fighting > 2D"
+	rom ( crc 12AFACB0 )
+)
+
+game (
+	name "Magical Drop Pocket (USA, Europe)"
+	genre "Puzzle > Matching"
+	rom ( crc 7712F82D )
+)
+
+game (
+	name "Magical Drop Pocket (Japan)"
+	genre "Puzzle > Matching"
+	rom ( crc 694CE2DC )
+)
+
+game (
+	name "Magical Drop Pocket (Japan) (Demo)"
+	genre "Puzzle > Matching"
+	rom ( crc D76F1A47 )
+)
+
+game (
+	name "Memories Off - Pure (Japan)"
+	genre "Adventure > Visual Novel"
+	rom ( crc A7926E90 )
+)
+
+game (
+	name "Mezase! Kanji Ou (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc A52E1C82 )
+)
+
+game (
+	name "Mizuki Shigeru no Youkai Shashinkan (Japan)"
+	genre "Strategy > General"
+	rom ( crc DDE08335 )
+)
+
+game (
+	name "Neo Derby Champ Daiyosou (Japan)"
+	genre "Sports > Individual > Horse Racing"
+	rom ( crc 5A053559 )
+)
+
+game (
+	name "Neo Geo Cup '98 Plus (World) (En,Ja)"
+	genre "Sports > Team > Soccer > Arcade"
+	rom ( crc C0DA4FE9 )
+)
+
+game (
+	name "Neo Poke Pro Yakyuu (Japan)"
+	genre "Sports > Team > Baseball > Arcade"
+	rom ( crc F4D78F12 )
+)
+
+game (
+	name "Neo Turf Masters (World) (En,Ja)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 317A66D2 )
+)
+
+game (
+	name "Neo Turf Masters (World) (En,Ja) (Demo)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 9DCA6ED6 )
+)
+
+game (
+	name "Nigeronpa (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc 3CC3E269 )
+)
+
+game (
+	name "Pac-Man (World) (En,Ja)"
+	genre "Action > Arcade"
+	rom ( crc 21E8CC15 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc C56EF8C3 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 346F3C46 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 1EA69DB1 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 0A7C32DF )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.04)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc A0C26F9B )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.02)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc CFD1C8F2 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 8A88C50F )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc 96DDFBE3 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc D46CBC54 )
+)
+
+game (
+	name "Pachinko Hisshou Guide - Pocket Parlor (Japan)"
+	genre "Miscellaneous > Gambling"
+	rom ( crc C3D6B28B )
+)
+
+game (
+	name "Party Mail (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 4DA8A1C0 )
+)
+
+game (
+	name "Party Mail (Japan) (Proto)"
+	genre "Miscellaneous > General"
+	rom ( crc F2284A95 )
+)
+
+game (
+	name "Picture Puzzle (USA, Europe)"
+	genre "Puzzle > General"
+	rom ( crc 67E6DC56 )
+)
+
+game (
+	name "Pocket Love if (Japan)"
+	genre "Adventure > General"
+	rom ( crc C2EE1EE5 )
+)
+
+game (
+	name "Pocket Reversi (Europe)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 20F09880 )
+)
+
+game (
+	name "Pocket Reversi (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc FB0B55B8 )
+)
+
+game (
+	name "Rockman - Battle & Fighters (Japan)"
+	genre "Action > General"
+	rom ( crc 9C861E49 )
+)
+
+game (
+	name "Rockman - Battle & Fighters (Japan) (Demo)"
+	genre "Action > General"
+	rom ( crc 16A98AC4 )
+)
+
+game (
+	name "Shanghai Mini (World) (En,Ja)"
+	genre "Puzzle > General"
+	rom ( crc 90732D53 )
+)
+
+game (
+	name "Shanghai Mini (World) (En,Ja) (Proto 1)"
+	genre "Puzzle > General"
+	rom ( crc 79620C3F )
+)
+
+game (
+	name "Shanghai Mini (World) (En,Ja) (Proto 2)"
+	genre "Puzzle > General"
+	rom ( crc 920AF0ED )
+)
+
+game (
+	name "Shougi no Tatsujin Color (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc 1F2872ED )
+)
+
+game (
+	name "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc CCBCFDA7 )
+)
+
+game (
+	name "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 80CE137B )
+)
+
+game (
+	name "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 9217159B )
+)
+
+game (
+	name "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 94B63A97 )
+)
+
+game (
+	name "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc 7065295C )
+)
+
+game (
+	name "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)"
+	genre "Strategy > Turn-Based > Card Battle"
+	rom ( crc E70E3F1A )
+)
+
+game (
+	name "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)"
+	genre "Action > Fighting > 2D"
+	rom ( crc B173030A )
+)
+
+game (
+	name "Sonic The Hedgehog - Pocket Adventure (World)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 356F0849 )
+)
+
+game (
+	name "Sonic The Hedgehog - Pocket Adventure (World) (Demo)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 622176CE )
+)
+
+game (
+	name "Soreike!! Hanafuda Doujou (Japan)"
+	genre "Miscellaneous > General"
+	rom ( crc 05FA3EB0 )
+)
+
+game (
+	name "Super Real Mahjong - Premium Collection (Japan)"
+	genre "Miscellaneous > Board / Card Game"
+	rom ( crc C6E620C3 )
+)
+
