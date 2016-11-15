@@ -22,9 +22,33 @@ game (
 )
 
 game (
+	name "Golf (USA)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 2199AF41 )
+)
+
+game (
+	name "T&E Virtual Golf (Japan)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 6BA07915 )
+)
+
+game (
 	name "Innsmouth no Yakata (Japan)"
 	genre "Action > General"
 	rom ( crc 83CB6A00 )
+)
+
+game (
+	name "Jack Bros. (USA)"
+	genre "Action > General"
+	rom ( crc A44DE03C )
+)
+
+game (
+	name "Jack Bros. no Meiro de Hiihoo! (Japan)"
+	genre "Action > General"
+	rom ( crc CAB61E8B )
 )
 
 game (
@@ -49,6 +73,18 @@ game (
 	name "Niko-chan Battle (Japan) (Proto)"
 	genre "Action > Shooter > First-Person > Arcade"
 	rom ( crc F3CD40DD )
+)
+
+game (
+	name "Panic Bomber (USA)"
+	genre "Puzzle > Stacking"
+	rom ( crc 19BB2DFB )
+)
+
+game (
+	name "Tobidase! Panibon (Japan)"
+	genre "Puzzle > Stacking"
+	rom ( crc 40498F5E )
 )
 
 game (
@@ -121,6 +157,18 @@ game (
 	name "Virtual Lab (Japan)"
 	genre "Puzzle > General"
 	rom ( crc 8989FE0A )
+)
+
+game (
+	name "Virtual League Baseball (USA)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 736B40D6 )
+)
+
+game (
+	name "Virtual Pro Yakyuu '95 (Japan)"
+	genre "Sports > Team > Baseball > Sim"
+	rom ( crc 9BA8BB5E )
 )
 
 game (

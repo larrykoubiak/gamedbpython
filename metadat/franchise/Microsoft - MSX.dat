@@ -172,6 +172,12 @@ game (
 )
 
 game (
+	name "Championship Lode Runner (Japan)"
+	franchise "Lode Runner"
+	rom ( crc 2F75E79C )
+)
+
+game (
 	name "Choplifter (Japan)"
 	franchise "Choplifter"
 	rom ( crc 1F5EAFC8 )
@@ -580,24 +586,6 @@ game (
 )
 
 game (
-	name "Nemesis 3 - The Eve of Destruction (Japan, Europe)"
-	franchise "Gradius"
-	rom ( crc 4B61AE91 )
-)
-
-game (
-	name "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1)"
-	franchise "Gradius"
-	rom ( crc 0DB7132F )
-)
-
-game (
-	name "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2)"
-	franchise "Gradius"
-	rom ( crc 329987BC )
-)
-
-game (
 	name "Nobunaga no Yabou - Zenkoku Ban (Japan)"
 	franchise "Nobunaga's Ambition"
 	rom ( crc 3AA33A30 )
@@ -631,18 +619,6 @@ game (
 	name "Parodius (Japan) (Alt 1)"
 	franchise "Parodius"
 	rom ( crc CA21CDE4 )
-)
-
-game (
-	name "Pitfall II - Lost Caverns (Japan)"
-	franchise "Pitfall"
-	rom ( crc D307A7B8 )
-)
-
-game (
-	name "Pitfall II - Lost Caverns (Japan) (Alt 1)"
-	franchise "Pitfall"
-	rom ( crc 71C59868 )
 )
 
 game (

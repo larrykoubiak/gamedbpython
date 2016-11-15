@@ -17,7 +17,7 @@ game (
 
 game (
 	name "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
-	genre "Sports > Team > Soccer > Arcade"
+	genre "Sports > Team > Soccer > Sim"
 	rom ( crc 33ADD5BD )
 )
 

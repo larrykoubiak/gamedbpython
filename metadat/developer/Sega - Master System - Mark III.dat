@@ -106,6 +106,18 @@ game (
 )
 
 game (
+	name "Alex Kidd - High-Tech World (USA, Europe)"
+	developer "Sega"
+	rom ( crc 013C0A94 )
+)
+
+game (
+	name "Anmitsu Hime (Japan)"
+	developer "Sega"
+	rom ( crc FFF63B0B )
+)
+
+game (
 	name "Alex Kidd - The Lost Stars (World)"
 	developer "Sega"
 	rom ( crc C13896D5 )
@@ -178,6 +190,30 @@ game (
 )
 
 game (
+	name "American Baseball (Europe)"
+	developer "Sega"
+	rom ( crc 7B27202F )
+)
+
+game (
+	name "Reggie Jackson Baseball (USA)"
+	developer "Sega"
+	rom ( crc 6D94BB0E )
+)
+
+game (
+	name "American Pro Football (Europe)"
+	developer "Sega"
+	rom ( crc 3727D8B2 )
+)
+
+game (
+	name "Walter Payton Football (USA)"
+	developer "Sega"
+	rom ( crc 3D55759B )
+)
+
+game (
 	name "Andre Agassi Tennis (Europe)"
 	developer "TecMagik"
 	rom ( crc F499034D )
@@ -217,18 +253,6 @@ game (
 	name "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)"
 	developer "Core Design Ltd."
 	rom ( crc F9B7D26B )
-)
-
-game (
-	name "Asterix and the Secret Mission (Europe) (En,Fr,De)"
-	developer "Sega"
-	rom ( crc DEF9B14E )
-)
-
-game (
-	name "TV Colosso (Brazil)"
-	developer "Sega"
-	rom ( crc E1714A88 )
 )
 
 game (
@@ -310,30 +334,6 @@ game (
 )
 
 game (
-	name "Bubble Bobble (Europe)"
-	developer "Taito Corporation"
-	rom ( crc E843BA7E )
-)
-
-game (
-	name "Bobble Bobble (Korea)"
-	developer "Taito Corporation"
-	rom ( crc 25EB9F80 )
-)
-
-game (
-	name "Final Bubble Bobble (Japan)"
-	developer "Taito Corporation"
-	rom ( crc 3EBB7457 )
-)
-
-game (
-	name "Super Bubble Bobble (Korea) (Unl)"
-	developer "Taito Corporation"
-	rom ( crc 22C09CFD )
-)
-
-game (
 	name "Buggy Run (Europe)"
 	developer "Sims"
 	rom ( crc B0FC4577 )
@@ -365,19 +365,19 @@ game (
 
 game (
 	name "Castle of Illusion Starring Mickey Mouse (Europe)"
-	developer "Sega"
+	developer "Aspect"
 	rom ( crc 953F42E1 )
 )
 
 game (
 	name "Castle of Illusion Starring Mickey Mouse (USA)"
-	developer "Sega"
+	developer "Aspect"
 	rom ( crc B9DB4282 )
 )
 
 game (
 	name "Castle of Illusion Starring Mickey Mouse (Unknown) (Sample)"
-	developer "Sega"
+	developer "Aspect"
 	rom ( crc BD610939 )
 )
 
@@ -526,21 +526,9 @@ game (
 )
 
 game (
-	name "Danan - The Jungle Fighter (Europe)"
-	developer "Sega"
-	rom ( crc AE4A28D7 )
-)
-
-game (
 	name "Dead Angle (USA, Europe)"
 	developer "Sega"
 	rom ( crc E2F7193E )
-)
-
-game (
-	name "Deep Duck Trouble Starring Donald Duck (Europe)"
-	developer "Aspect"
-	rom ( crc 42FC3A6E )
 )
 
 game (
@@ -661,6 +649,30 @@ game (
 	name "F-1 Spirit - The Way to Formula-1 (Korea) (Unl) (Pirate)"
 	developer "Konami"
 	rom ( crc 06965ED9 )
+)
+
+game (
+	name "F-16 Fighter (USA, Europe)"
+	developer "Nexa"
+	rom ( crc EAEBF323 )
+)
+
+game (
+	name "F-16 Fighting Falcon (Japan)"
+	developer "Nexa"
+	rom ( crc 7CE06FCE )
+)
+
+game (
+	name "F-16 Fighting Falcon (USA)"
+	developer "Nexa"
+	rom ( crc 184C23B7 )
+)
+
+game (
+	name "F-16 Fighting Falcon (Taiwan)"
+	developer "Nexa"
+	rom ( crc C4C53226 )
 )
 
 game (
@@ -853,6 +865,24 @@ game (
 	name "Ghouls'n Ghosts (Unknown) (Sample)"
 	developer "Capcom"
 	rom ( crc 96CA6902 )
+)
+
+game (
+	name "Global Defense (USA, Europe)"
+	developer "Sega"
+	rom ( crc B746A6F5 )
+)
+
+game (
+	name "Global Defense (USA, Europe) (Beta)"
+	developer "Sega"
+	rom ( crc 91A0FC4E )
+)
+
+game (
+	name "SDI (Japan)"
+	developer "Sega"
+	rom ( crc 1DE2C2D0 )
 )
 
 game (
@@ -1120,24 +1150,6 @@ game (
 )
 
 game (
-	name "Kenseiden (USA, Europe)"
-	developer "Sega"
-	rom ( crc 516ED32E )
-)
-
-game (
-	name "Hwarang Ui Geom (Korea)"
-	developer "Sega"
-	rom ( crc E4B7C56A )
-)
-
-game (
-	name "Kenseiden (Japan)"
-	developer "Sega"
-	rom ( crc 05EA5353 )
-)
-
-game (
 	name "King's Quest - Quest for the Crown (USA)"
 	developer "Microsmiths Inc."
 	rom ( crc F8D33BC4 )
@@ -1163,7 +1175,7 @@ game (
 
 game (
 	name "Land of Illusion Starring Mickey Mouse (Europe)"
-	developer "Sega"
+	developer "Aspect"
 	rom ( crc 24E97200 )
 )
 
@@ -1222,6 +1234,18 @@ game (
 )
 
 game (
+	name "Lucky Dime Caper Starring Donald Duck, The (Europe)"
+	developer "Sega"
+	rom ( crc A1710F13 )
+)
+
+game (
+	name "Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta)"
+	developer "Sega"
+	rom ( crc 7F6D0DF6 )
+)
+
+game (
 	name "Mahjong Sengoku Jidai (Japan)"
 	developer "Sanritsu"
 	rom ( crc BCFBFC67 )
@@ -1267,6 +1291,18 @@ game (
 	name "Masters of Combat (Europe)"
 	developer "Sims"
 	rom ( crc 93141463 )
+)
+
+game (
+	name "Maze Hunter 3-D (USA, Europe)"
+	developer "Sega"
+	rom ( crc 31B8040B )
+)
+
+game (
+	name "Maze Walker (Japan)"
+	developer "Sega"
+	rom ( crc 871562B0 )
 )
 
 game (
@@ -1621,18 +1657,6 @@ game (
 	name "Psychic World (Europe)"
 	developer "Sanritsu"
 	rom ( crc 5C0B1F0F )
-)
-
-game (
-	name "Putt & Putter (Europe)"
-	developer "Sanritsu"
-	rom ( crc 357D4F78 )
-)
-
-game (
-	name "Putt & Putter (Europe) (Beta)"
-	developer "Sanritsu"
-	rom ( crc 8167CCC4 )
 )
 
 game (
@@ -2086,18 +2110,6 @@ game (
 )
 
 game (
-	name "Summer Games (Europe)"
-	developer "Zap"
-	rom ( crc 8DA5C93F )
-)
-
-game (
-	name "Summer Games (Europe) (Beta)"
-	developer "Zap"
-	rom ( crc 80EB1FFF )
-)
-
-game (
 	name "Super Monaco GP (Europe)"
 	developer "Sega"
 	rom ( crc 55BF81A0 )
@@ -2146,6 +2158,24 @@ game (
 )
 
 game (
+	name "Super Tennis (USA, Europe)"
+	developer "Sanritsu"
+	rom ( crc 914514E3 )
+)
+
+game (
+	name "Great Tennis (Japan)"
+	developer "Sanritsu"
+	rom ( crc 95CBF3DD )
+)
+
+game (
+	name "Super Tetris (Korea) (Pirate)"
+	developer "Sanritsu"
+	rom ( crc BD1CC7DF )
+)
+
+game (
 	name "Superman - The Man of Steel (Europe)"
 	developer "Graftgold"
 	rom ( crc 6F9AC98F )
@@ -2185,12 +2215,6 @@ game (
 	name "Tecmo World Cup '92 (Europe) (Beta)"
 	developer "Sims"
 	rom ( crc 96E75F48 )
-)
-
-game (
-	name "Tennis Ace (Europe)"
-	developer "Sanritsu"
-	rom ( crc 1A390B93 )
 )
 
 game (
@@ -2338,42 +2362,6 @@ game (
 )
 
 game (
-	name "Wonder Boy III - The Dragon's Trap (USA, Europe)"
-	developer "West One"
-	rom ( crc 679E1676 )
-)
-
-game (
-	name "Turma da Monica em O Resgate (Brazil)"
-	developer "West One"
-	rom ( crc 22CCA9BB )
-)
-
-game (
-	name "Wonder Boy in Monster Land (USA, Europe)"
-	developer "West One"
-	rom ( crc 8CBEF0C1 )
-)
-
-game (
-	name "Monica no Castelo do Dragao (Brazil)"
-	developer "West One"
-	rom ( crc 01D67C0B )
-)
-
-game (
-	name "Super Wonder Boy - Monster World (Japan)"
-	developer "West One"
-	rom ( crc B1DA6A30 )
-)
-
-game (
-	name "Wonder Boy in Monster Land (USA, Europe) (Beta)"
-	developer "West One"
-	rom ( crc 8312C429 )
-)
-
-game (
 	name "Wonder Boy in Monster World (Europe)"
 	developer "West One"
 	rom ( crc 7D7CE80B )
@@ -2401,18 +2389,6 @@ game (
 	name "World Class Leader Board (Europe)"
 	developer "Tiertex Design Studios"
 	rom ( crc C9A449B7 )
-)
-
-game (
-	name "World Cup Italia '90 (Europe)"
-	developer "Mastertronic"
-	rom ( crc 6E1AD6FD )
-)
-
-game (
-	name "World Cup Italia '90 (Europe) (Sample)"
-	developer "Mastertronic"
-	rom ( crc A0CF8B15 )
 )
 
 game (
@@ -2455,18 +2431,6 @@ game (
 	name "World Grand Prix (USA) (Beta)"
 	developer "Sega"
 	rom ( crc B5A9F824 )
-)
-
-game (
-	name "World Soccer (World)"
-	developer "Sega"
-	rom ( crc 72112B75 )
-)
-
-game (
-	name "Sports Pad Soccer (Japan)"
-	developer "Sega"
-	rom ( crc 41C948BF )
 )
 
 game (
@@ -2539,12 +2503,6 @@ game (
 	name "Zillion (USA) (Rev 1)"
 	developer "Sega"
 	rom ( crc 5718762C )
-)
-
-game (
-	name "Zillion II - The Tri Formation (World)"
-	developer "Sega"
-	rom ( crc 2F2E3BC9 )
 )
 
 game (

@@ -34,6 +34,36 @@ game (
 )
 
 game (
+	name "Bust-A-Move Pocket (USA)"
+	genre "Puzzle > Matching"
+	rom ( crc 85FE6AE3 )
+)
+
+game (
+	name "Bust-A-Move Pocket (USA) (Proto)"
+	genre "Puzzle > Matching"
+	rom ( crc 78A1361D )
+)
+
+game (
+	name "Puzzle Bobble Mini (Japan, Europe) (v1.09)"
+	genre "Puzzle > Matching"
+	rom ( crc C94B173A )
+)
+
+game (
+	name "Puzzle Bobble Mini (Japan, Europe) (v1.10)"
+	genre "Puzzle > Matching"
+	rom ( crc E69EAE3E )
+)
+
+game (
+	name "Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo)"
+	genre "Puzzle > Matching"
+	rom ( crc E3D9F38E )
+)
+
+game (
 	name "Cool Boarders Pocket (Japan, Europe) (En,Ja)"
 	genre "Sports > Individual > Ski / Snowboard"
 	rom ( crc 833F9C22 )
@@ -112,6 +142,18 @@ game (
 )
 
 game (
+	name "Evolution - Eternal Dungeons (Europe)"
+	genre "Role-Playing > General"
+	rom ( crc BE47E531 )
+)
+
+game (
+	name "Shinki Sekai Evolution - Hateshinai Dungeon (Japan)"
+	genre "Role-Playing > General"
+	rom ( crc E006F42F )
+)
+
+game (
 	name "Faselei! (Europe)"
 	genre "Strategy > General"
 	rom ( crc E705E30E )
@@ -145,18 +187,6 @@ game (
 	name "Koi Koi Mahjong (Japan)"
 	genre "Miscellaneous > Board / Card Game"
 	rom ( crc B51C3EBA )
-)
-
-game (
-	name "Last Blade, The - Beyond the Destiny (Europe)"
-	genre "Action > Fighting > 2D"
-	rom ( crc 94FCFD1E )
-)
-
-game (
-	name "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)"
-	genre "Action > Fighting > 2D"
-	rom ( crc 12AFACB0 )
 )
 
 game (
@@ -203,7 +233,7 @@ game (
 
 game (
 	name "Neo Geo Cup '98 Plus (World) (En,Ja)"
-	genre "Sports > Team > Soccer > Arcade"
+	genre "Sports > Team > Soccer > Sim"
 	rom ( crc C0DA4FE9 )
 )
 
@@ -334,6 +364,42 @@ game (
 )
 
 game (
+	name "Puyo Pop (World) (En,Ja) (v1.06)"
+	genre "Puzzle > Matching"
+	rom ( crc 5C649D1E )
+)
+
+game (
+	name "Puyo Pop (World) (En,Ja) (v1.05)"
+	genre "Puzzle > Matching"
+	rom ( crc 3090B2FD )
+)
+
+game (
+	name "Puzzle Link (Europe)"
+	genre "Puzzle > General"
+	rom ( crc 8D0610AC )
+)
+
+game (
+	name "Renketsu Puzzle Tsunagete Pon! Color (Japan)"
+	genre "Puzzle > General"
+	rom ( crc C3F3E83C )
+)
+
+game (
+	name "Puzzle Link 2 (USA, Europe)"
+	genre "Puzzle > General"
+	rom ( crc BA9CA21C )
+)
+
+game (
+	name "Tsunagete Pon! 2 (Japan)"
+	genre "Puzzle > General"
+	rom ( crc 129091BB )
+)
+
+game (
 	name "Rockman - Battle & Fighters (Japan)"
 	genre "Action > General"
 	rom ( crc 9C861E49 )
@@ -373,42 +439,6 @@ game (
 	name "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)"
 	genre "Miscellaneous > General"
 	rom ( crc CCBCFDA7 )
-)
-
-game (
-	name "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)"
-	genre "Strategy > Turn-Based > Card Battle"
-	rom ( crc 80CE137B )
-)
-
-game (
-	name "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)"
-	genre "Strategy > Turn-Based > Card Battle"
-	rom ( crc 9217159B )
-)
-
-game (
-	name "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)"
-	genre "Strategy > Turn-Based > Card Battle"
-	rom ( crc 94B63A97 )
-)
-
-game (
-	name "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)"
-	genre "Strategy > Turn-Based > Card Battle"
-	rom ( crc 7065295C )
-)
-
-game (
-	name "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)"
-	genre "Strategy > Turn-Based > Card Battle"
-	rom ( crc E70E3F1A )
-)
-
-game (
-	name "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)"
-	genre "Action > Fighting > 2D"
-	rom ( crc B173030A )
 )
 
 game (

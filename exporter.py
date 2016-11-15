@@ -1,12 +1,13 @@
 import os
 import io
 import subprocess
+import platform
 
 class Exporter:
 
     def export_rdb_dat(self,flag):
-        if not os.path.exists("metadat\\" + flag['name']):
-            os.makedirs("metadat\\" + flag['name'])
+        if not os.path.exists("metadat/" + flag['name']):
+            os.makedirs("metadat/" + flag['name'])
         for system in flag['systems']:
             print "Exporting flag " + flag['name'] + " for system " + system['name']
             filename = os.path.join("metadat",flag['name'],system['name'] + ".dat")
@@ -25,7 +26,10 @@ class Exporter:
             os.makedirs("rdb")
         commands = []
         if os.path.exists("metadat/no-intro/" + systemName + ".dat"):
-            commands.append("c_converter.exe")
+            if platform.system()=="Windows":
+                commands.append("c_converter.exe")
+            else:
+                commands.append("./c_converter")
             commands.append("rdb/" + systemName + ".rdb")
             commands.append("rom.crc")
             commands.append("metadat/no-intro/" + systemName + ".dat")
@@ -38,8 +42,8 @@ class Exporter:
             if os.path.exists("metadat/origin/" + systemName + ".dat"):
                 commands.append("metadat/origin/" + systemName + ".dat")
             print "Command: \"" + '" "'.join(commands) + "\""
-            print subprocess.check_output(commands,shell=True)
+            subprocess.Popen(commands).wait()
 
 if __name__ == '__main__':
     exporter = Exporter()
-    exporter.create_rdb("Entex - Adventure Vision")
+    exporter.create_rdb("Nintendo - Game Boy")

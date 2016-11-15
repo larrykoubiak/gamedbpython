@@ -4,18 +4,6 @@ clrmamepro (
 )
 
 game (
-	name "After Burner Complete (Europe)"
-	developer "Rutubo Games"
-	rom ( crc 029106F5 )
-)
-
-game (
-	name "After Burner Complete ~ After Burner (Japan, USA)"
-	developer "Rutubo Games"
-	rom ( crc 204044C4 )
-)
-
-game (
 	name "Amazing Spider-Man, The - Web of Fire (USA)"
 	developer "Blue Sky Software"
 	rom ( crc 29DCE257 )
@@ -76,18 +64,6 @@ game (
 )
 
 game (
-	name "Knuckles' Chaotix (Europe)"
-	developer "Sega"
-	rom ( crc 41D63572 )
-)
-
-game (
-	name "Chaotix ~ Knuckles' Chaotix (Japan, USA)"
-	developer "Sega"
-	rom ( crc D0B0B842 )
-)
-
-game (
 	name "Kolibri (USA, Europe)"
 	developer "Novotrade"
 	rom ( crc 20CA53EF )
@@ -127,12 +103,6 @@ game (
 	name "NFL Quarterback Club (World)"
 	developer "Iguana Entertainment"
 	rom ( crc 0BC7018D )
-)
-
-game (
-	name "Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)"
-	developer "Sega"
-	rom ( crc 447D44BE )
 )
 
 game (

@@ -208,12 +208,6 @@ game (
 )
 
 game (
-	name "Super Aleste (Japan) (BS)"
-	franchise "Aleste"
-	rom ( crc 75993866 )
-)
-
-game (
 	name "Super Bomber Man (Japan) (En) (BS)"
 	franchise "Bomberman"
 	rom ( crc 9B1B125B )
@@ -271,11 +265,5 @@ game (
 	name "Super Puyo Puyo Tsuu Remix (Japan) (BS)"
 	franchise "Puyo Puyo"
 	rom ( crc 5FC1FD18 )
-)
-
-game (
-	name "Zelda no Densetsu - Kamigami no Triforce (Japan) (BS)"
-	franchise "Legend of Zelda"
-	rom ( crc 45507EC3 )
 )
 

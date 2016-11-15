@@ -46,6 +46,24 @@ game (
 )
 
 game (
+	name "Ax Battler - A Legend of Golden Axe (USA, Europe)"
+	franchise "Golden Axe"
+	rom ( crc 663BCF8A )
+)
+
+game (
+	name "Ax Battler - A Legend of Golden Axe (USA, Europe) (v2.0) (Beta)"
+	franchise "Golden Axe"
+	rom ( crc 3435AB54 )
+)
+
+game (
+	name "Ax Battler - Golden Axe Densetsu (Japan)"
+	franchise "Golden Axe"
+	rom ( crc DFCF555F )
+)
+
+game (
 	name "Barbie Super Model (Unknown) (Proto)"
 	franchise "Barbie"
 	rom ( crc 03A0CE9E )
@@ -202,6 +220,24 @@ game (
 )
 
 game (
+	name "Defenders of Oasis (USA, Europe)"
+	franchise "Oasis"
+	rom ( crc E2791CC1 )
+)
+
+game (
+	name "Defenders of Oasis (USA, Europe) (Beta)"
+	franchise "Oasis"
+	rom ( crc C674ECCC )
+)
+
+game (
+	name "Shadam Crusader - Harukanaru Oukoku (Japan)"
+	franchise "Oasis"
+	rom ( crc 09F9ED60 )
+)
+
+game (
 	name "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)"
 	franchise "Road Runner"
 	rom ( crc EC808026 )
@@ -211,6 +247,18 @@ game (
 	name "Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA)"
 	franchise "Road Runner"
 	rom ( crc C2E111AC )
+)
+
+game (
+	name "Desert Strike (Europe) (En,Fr,De,Es)"
+	franchise "Desert Strike"
+	rom ( crc 3E44ECA3 )
+)
+
+game (
+	name "Desert Strike - Return to the Gulf (USA)"
+	franchise "Desert Strike"
+	rom ( crc F6C400DA )
 )
 
 game (
@@ -295,6 +343,24 @@ game (
 	name "Fantastic Dizzy (Europe) (En,Fr,De,Es,It)"
 	franchise "Dizzy"
 	rom ( crc C888222B )
+)
+
+game (
+	name "Fatal Fury Special (Europe)"
+	franchise "Fatal Fury"
+	rom ( crc FBD76387 )
+)
+
+game (
+	name "Fatal Fury Special (USA)"
+	franchise "Fatal Fury"
+	rom ( crc 449787E2 )
+)
+
+game (
+	name "Garou Densetsu Special (Japan)"
+	franchise "Fatal Fury"
+	rom ( crc 9AFB6F33 )
 )
 
 game (
@@ -499,6 +565,18 @@ game (
 	name "Krusty's Fun House (USA, Europe)"
 	franchise "Simpsons"
 	rom ( crc D01E784F )
+)
+
+game (
+	name "Legend of Illusion Starring Mickey Mouse (USA, Europe)"
+	franchise "Mickey Mouse"
+	rom ( crc CE5AD8B7 )
+)
+
+game (
+	name "Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)"
+	franchise "Mickey Mouse"
+	rom ( crc FE12A92F )
 )
 
 game (
@@ -970,6 +1048,18 @@ game (
 )
 
 game (
+	name "Samurai Shodown (USA)"
+	franchise "Samurai Shodown"
+	rom ( crc 98171DEB )
+)
+
+game (
+	name "Samurai Spirits (Japan)"
+	franchise "Samurai Shodown"
+	rom ( crc 93FD73DC )
+)
+
+game (
 	name "SD Gundam - Winner's History (Japan)"
 	franchise "SD Gundam"
 	rom ( crc 5E2B39B8 )
@@ -1039,12 +1129,6 @@ game (
 	name "Smurfs, The (Europe) (En,Fr,De,Es)"
 	franchise "Smurfs"
 	rom ( crc 354E1CBD )
-)
-
-game (
-	name "Sonic Blast (World)"
-	franchise "Sonic the Hedgehog"
-	rom ( crc 031B9DA9 )
 )
 
 game (
@@ -1162,27 +1246,9 @@ game (
 )
 
 game (
-	name "Super Monaco GP (USA, Europe)"
-	franchise "Monaco Grand Prix"
-	rom ( crc FCF12547 )
-)
-
-game (
-	name "Super Monaco GP (Japan)"
-	franchise "Monaco Grand Prix"
-	rom ( crc 4F686C4A )
-)
-
-game (
 	name "Super Return of the Jedi (USA, Europe)"
 	franchise "Star Wars"
 	rom ( crc 4A38B6B6 )
-)
-
-game (
-	name "Super Smash T.V. (World)"
-	franchise "Smash T.V."
-	rom ( crc 1006E4E3 )
 )
 
 game (
@@ -1225,30 +1291,6 @@ game (
 	name "Tails no Skypatrol (Japan)"
 	franchise "Sonic the Hedgehog"
 	rom ( crc 88618AFA )
-)
-
-game (
-	name "Taisen-gata Daisenryaku G (Japan)"
-	franchise "Daisenryaku"
-	rom ( crc 7B7717B8 )
-)
-
-game (
-	name "Taito Chase H.Q. (USA)"
-	franchise "Chase H.Q."
-	rom ( crc C8381DEF )
-)
-
-game (
-	name "Taito Chase H.Q. (Japan)"
-	franchise "Chase H.Q."
-	rom ( crc 7BB81E3D )
-)
-
-game (
-	name "Tarzan - Lord of the Jungle (Europe)"
-	franchise "Tarzan"
-	rom ( crc EF3AFE8B )
 )
 
 game (
@@ -1318,21 +1360,15 @@ game (
 )
 
 game (
-	name "Wonder Boy (Europe)"
-	franchise "Wonder Boy"
-	rom ( crc EA2DD3A7 )
+	name "Winter Olympics - Lillehammer '94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
+	franchise "Olympics"
+	rom ( crc D15D335B )
 )
 
 game (
-	name "Revenge of Drancon (USA)"
-	franchise "Wonder Boy"
-	rom ( crc 03E9C607 )
-)
-
-game (
-	name "Wonder Boy (Japan)"
-	franchise "Wonder Boy"
-	rom ( crc 9977FCB3 )
+	name "Winter Olympics - Lillehammer '94 (Japan) (En,Fr,De,Es,It,Pt,Sv,No)"
+	franchise "Olympics"
+	rom ( crc D5195A39 )
 )
 
 game (
@@ -1363,6 +1399,18 @@ game (
 	name "World Series Baseball (USA)"
 	franchise "World Baseball"
 	rom ( crc 3D8D0DD6 )
+)
+
+game (
+	name "World Series Baseball '95 (USA)"
+	franchise "World Baseball"
+	rom ( crc 578A8A38 )
+)
+
+game (
+	name "Nomo Hideo no World Series Baseball (Japan)"
+	franchise "World Baseball"
+	rom ( crc 4ED45BDA )
 )
 
 game (

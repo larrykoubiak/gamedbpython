@@ -76,6 +76,12 @@ game (
 )
 
 game (
+	name "Arena (USA, Europe)"
+	developer "Eden Entertainment Software"
+	rom ( crc 7CB3FACF )
+)
+
+game (
 	name "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)"
 	developer "Core Design Ltd."
 	rom ( crc 328C5CC8 )
@@ -91,6 +97,24 @@ game (
 	name "Asterix and the Secret Mission (Europe) (En,Fr,De)"
 	developer "Sega"
 	rom ( crc C01A8051 )
+)
+
+game (
+	name "Ax Battler - A Legend of Golden Axe (USA, Europe)"
+	developer "Aspect"
+	rom ( crc 663BCF8A )
+)
+
+game (
+	name "Ax Battler - A Legend of Golden Axe (USA, Europe) (v2.0) (Beta)"
+	developer "Aspect"
+	rom ( crc 3435AB54 )
+)
+
+game (
+	name "Ax Battler - Golden Axe Densetsu (Japan)"
+	developer "Aspect"
+	rom ( crc DFCF555F )
 )
 
 game (
@@ -115,6 +139,18 @@ game (
 	name "Batman Returns (World)"
 	developer "Aspect"
 	rom ( crc 7AC4A3CA )
+)
+
+game (
+	name "Batter Up (USA, Europe)"
+	developer "Namco"
+	rom ( crc 16448209 )
+)
+
+game (
+	name "Gear Stadium (Japan)"
+	developer "Namco"
+	rom ( crc 0E300223 )
 )
 
 game (
@@ -217,6 +253,18 @@ game (
 	name "Casino Funpak (USA)"
 	developer "Beam Software"
 	rom ( crc 2B732056 )
+)
+
+game (
+	name "Castle of Illusion Starring Mickey Mouse (USA, Europe)"
+	developer "Sega"
+	rom ( crc 59840FD6 )
+)
+
+game (
+	name "Mickey Mouse no Castle Illusion (Japan)"
+	developer "Sega"
+	rom ( crc 9942B69B )
 )
 
 game (
@@ -358,6 +406,36 @@ game (
 )
 
 game (
+	name "Deep Duck Trouble Starring Donald Duck (USA, Europe)"
+	developer "Aspect"
+	rom ( crc 5A136D7E )
+)
+
+game (
+	name "Donald Duck no 4-Tsu no Hihou (Japan)"
+	developer "Aspect"
+	rom ( crc 4457E7C0 )
+)
+
+game (
+	name "Defenders of Oasis (USA, Europe)"
+	developer "Sega"
+	rom ( crc E2791CC1 )
+)
+
+game (
+	name "Defenders of Oasis (USA, Europe) (Beta)"
+	developer "Sega"
+	rom ( crc C674ECCC )
+)
+
+game (
+	name "Shadam Crusader - Harukanaru Oukoku (Japan)"
+	developer "Sega"
+	rom ( crc 09F9ED60 )
+)
+
+game (
 	name "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)"
 	developer "Probe Entertainment Limited"
 	rom ( crc EC808026 )
@@ -367,6 +445,18 @@ game (
 	name "Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA)"
 	developer "Probe Entertainment Limited"
 	rom ( crc C2E111AC )
+)
+
+game (
+	name "Desert Strike (Europe) (En,Fr,De,Es)"
+	developer "Electronic Arts"
+	rom ( crc 3E44ECA3 )
+)
+
+game (
+	name "Desert Strike - Return to the Gulf (USA)"
+	developer "Electronic Arts"
+	rom ( crc F6C400DA )
 )
 
 game (
@@ -397,6 +487,18 @@ game (
 	name "Dragon - The Bruce Lee Story (USA)"
 	developer "Virgin Interactive"
 	rom ( crc 17F588E8 )
+)
+
+game (
+	name "Dragon Crystal (USA, Europe)"
+	developer "Sega"
+	rom ( crc 0EF2ED93 )
+)
+
+game (
+	name "Dragon Crystal - Tsurani no Meikyuu (Japan)"
+	developer "Sega"
+	rom ( crc 89F12E1E )
 )
 
 game (
@@ -502,6 +604,24 @@ game (
 )
 
 game (
+	name "Fatal Fury Special (Europe)"
+	developer "Gaibrain"
+	rom ( crc FBD76387 )
+)
+
+game (
+	name "Fatal Fury Special (USA)"
+	developer "Gaibrain"
+	rom ( crc 449787E2 )
+)
+
+game (
+	name "Garou Densetsu Special (Japan)"
+	developer "Gaibrain"
+	rom ( crc 9AFB6F33 )
+)
+
+game (
 	name "FIFA International Soccer (USA, Europe)"
 	developer "Tiertex Design Studios"
 	rom ( crc E632A3A2 )
@@ -562,24 +682,6 @@ game (
 )
 
 game (
-	name "G-LOC - Air Battle (USA, Europe)"
-	developer "Sega AM2"
-	rom ( crc 18DE59ED )
-)
-
-game (
-	name "G-LOC - Air Battle (Japan)"
-	developer "Sega AM2"
-	rom ( crc 2333F615 )
-)
-
-game (
-	name "G-LOC - Air Battle (Japan) (Rev 1)"
-	developer "Sega AM2"
-	rom ( crc 33237F50 )
-)
-
-game (
 	name "Galaga 2 (Europe)"
 	developer "Namco"
 	rom ( crc 95ECECE2 )
@@ -619,6 +721,18 @@ game (
 	name "Gear Works (USA)"
 	developer "Teque Interactive"
 	rom ( crc E9A2EFB4 )
+)
+
+game (
+	name "George Foreman's KO Boxing (USA, Europe)"
+	developer "Sims"
+	rom ( crc 58B44585 )
+)
+
+game (
+	name "Heavy Weight Champ (Japan)"
+	developer "Sims"
+	rom ( crc BEED9150 )
 )
 
 game (
@@ -910,9 +1024,33 @@ game (
 )
 
 game (
+	name "Land of Illusion Starring Mickey Mouse (USA, Europe)"
+	developer "Sega"
+	rom ( crc 52DBF3E1 )
+)
+
+game (
+	name "Mickey Mouse no Mahou no Crystal (Japan)"
+	developer "Sega"
+	rom ( crc 0117C3DF )
+)
+
+game (
 	name "Last Action Hero (USA)"
 	developer "Bits Studios"
 	rom ( crc 2D367C43 )
+)
+
+game (
+	name "Legend of Illusion Starring Mickey Mouse (USA, Europe)"
+	developer "Aspect"
+	rom ( crc CE5AD8B7 )
+)
+
+game (
+	name "Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)"
+	developer "Aspect"
+	rom ( crc FE12A92F )
 )
 
 game (
@@ -1528,18 +1666,6 @@ game (
 )
 
 game (
-	name "Putt & Putter (USA, Europe)"
-	developer "Sims"
-	rom ( crc ECC301DD )
-)
-
-game (
-	name "Putt & Putter (Japan)"
-	developer "Sims"
-	rom ( crc 407AC070 )
-)
-
-game (
 	name "Puyo Puyo (Japan)"
 	developer "Compile"
 	rom ( crc D173A06F )
@@ -1606,12 +1732,6 @@ game (
 )
 
 game (
-	name "Ristar - The Shooting Star (World)"
-	developer "Biox"
-	rom ( crc EFE65B3B )
-)
-
-game (
 	name "Road Rash (Europe)"
 	developer "Probe Entertainment Limited"
 	rom ( crc 176505D4 )
@@ -1639,6 +1759,18 @@ game (
 	name "Royal Stone - Hirakareshi Toki no Tobira (Japan)"
 	developer "Sega"
 	rom ( crc 445D7CD2 )
+)
+
+game (
+	name "Samurai Shodown (USA)"
+	developer "Takara"
+	rom ( crc 98171DEB )
+)
+
+game (
+	name "Samurai Spirits (Japan)"
+	developer "Takara"
+	rom ( crc 93FD73DC )
 )
 
 game (
@@ -1777,12 +1909,6 @@ game (
 	name "Ryuukyuu (Japan)"
 	developer "Sankindo"
 	rom ( crc 95EFD52B )
-)
-
-game (
-	name "Sonic Blast (World)"
-	developer "Aspect"
-	rom ( crc 031B9DA9 )
 )
 
 game (
@@ -1942,18 +2068,6 @@ game (
 )
 
 game (
-	name "Super Monaco GP (USA, Europe)"
-	developer "Sega"
-	rom ( crc FCF12547 )
-)
-
-game (
-	name "Super Monaco GP (Japan)"
-	developer "Sega"
-	rom ( crc 4F686C4A )
-)
-
-game (
 	name "Super Off Road (USA, Europe)"
 	developer "Graftgold"
 	rom ( crc E8B42B1F )
@@ -1963,12 +2077,6 @@ game (
 	name "Super Return of the Jedi (USA, Europe)"
 	developer "Realtime Associates"
 	rom ( crc 4A38B6B6 )
-)
-
-game (
-	name "Super Smash T.V. (World)"
-	developer "Probe Entertainment Limited"
-	rom ( crc 1006E4E3 )
 )
 
 game (
@@ -2038,24 +2146,6 @@ game (
 )
 
 game (
-	name "Taisen-gata Daisenryaku G (Japan)"
-	developer "SystemSoft"
-	rom ( crc 7B7717B8 )
-)
-
-game (
-	name "Taito Chase H.Q. (USA)"
-	developer "Taito Corporation"
-	rom ( crc C8381DEF )
-)
-
-game (
-	name "Taito Chase H.Q. (Japan)"
-	developer "Taito Corporation"
-	rom ( crc 7BB81E3D )
-)
-
-game (
 	name "Tama & Friends 3 Choume Kouen - Tamalympic (Japan)"
 	developer "Aspect"
 	rom ( crc DD1D2EBF )
@@ -2065,12 +2155,6 @@ game (
 	name "Tarot no Yakata (Japan)"
 	developer "Japan System Supply"
 	rom ( crc 57834C03 )
-)
-
-game (
-	name "Tarzan - Lord of the Jungle (Europe)"
-	developer "Eurocom Entertainment Software"
-	rom ( crc EF3AFE8B )
 )
 
 game (
@@ -2194,6 +2278,18 @@ game (
 )
 
 game (
+	name "Winter Olympics - Lillehammer '94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
+	developer "Sega"
+	rom ( crc D15D335B )
+)
+
+game (
+	name "Winter Olympics - Lillehammer '94 (Japan) (En,Fr,De,Es,It,Pt,Sv,No)"
+	developer "Sega"
+	rom ( crc D5195A39 )
+)
+
+game (
 	name "Wizard Pinball (Europe)"
 	developer "Teque Interactive"
 	rom ( crc 9E03F96C )
@@ -2203,24 +2299,6 @@ game (
 	name "Wolfchild (Europe)"
 	developer "Core Design Ltd."
 	rom ( crc 840A8F8E )
-)
-
-game (
-	name "Wonder Boy (Europe)"
-	developer "West One"
-	rom ( crc EA2DD3A7 )
-)
-
-game (
-	name "Revenge of Drancon (USA)"
-	developer "West One"
-	rom ( crc 03E9C607 )
-)
-
-game (
-	name "Wonder Boy (Japan)"
-	developer "West One"
-	rom ( crc 9977FCB3 )
 )
 
 game (
@@ -2347,24 +2425,6 @@ game (
 	name "Zan Gear (Japan)"
 	developer "Wolf Team"
 	rom ( crc 141AAF96 )
-)
-
-game (
-	name "Zool - Ninja of the 'Nth' Dimension (Europe)"
-	developer "Gremlin Interactive"
-	rom ( crc 23904898 )
-)
-
-game (
-	name "Zool - Ninja of the 'Nth' Dimension (USA)"
-	developer "Gremlin Interactive"
-	rom ( crc B287C695 )
-)
-
-game (
-	name "Zool no Yume Bouken (Japan)"
-	developer "Gremlin Interactive"
-	rom ( crc E35EF7ED )
 )
 
 game (

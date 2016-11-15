@@ -106,12 +106,6 @@ game (
 )
 
 game (
-	name "Conquest of the World (USA, Europe)"
-	developer "Magnavox"
-	rom ( crc AFC093FD )
-)
-
-game (
 	name "Cosmic Conflict (Europe)"
 	developer "Magnavox"
 	rom ( crc F4C2075E )
@@ -184,6 +178,18 @@ game (
 )
 
 game (
+	name "Gunfighter (Europe)"
+	developer "Magnavox"
+	rom ( crc ABE368BF )
+)
+
+game (
+	name "Showdown in 2100 A.D. (USA)"
+	developer "Magnavox"
+	rom ( crc 9487C920 )
+)
+
+game (
 	name "Hockey + Soccer (USA, Europe)"
 	developer "Magnavox"
 	rom ( crc 39989464 )
@@ -196,33 +202,9 @@ game (
 )
 
 game (
-	name "K.C.'s Krazy Chase (USA, Europe)"
-	developer "Magnavox"
-	rom ( crc A6909A8B )
-)
-
-game (
-	name "Killer Bees (USA)"
-	developer "Magnavox"
-	rom ( crc B096654E )
-)
-
-game (
 	name "Labyrinth Game, A + Supermind (Europe)"
 	developer "Philips"
 	rom ( crc D158EEBA )
-)
-
-game (
-	name "Las Vegas Blackjack (USA, Europe)"
-	developer "Magnavox"
-	rom ( crc 6F66B1F7 )
-)
-
-game (
-	name "Blackjack (France)"
-	developer "Magnavox"
-	rom ( crc 6381E402 )
 )
 
 game (
@@ -244,12 +226,6 @@ game (
 )
 
 game (
-	name "Monkeyshines (USA, Europe)"
-	developer "Magnavox"
-	rom ( crc FEE664F3 )
-)
-
-game (
 	name "Munchkin (Europe)"
 	developer "Magnavox"
 	rom ( crc 4A3E2DC8 )
@@ -268,12 +244,6 @@ game (
 )
 
 game (
-	name "Out of this World + Helicopter Rescue (USA)"
-	developer "Magnavox"
-	rom ( crc 0C2E4811 )
-)
-
-game (
 	name "Pachinko (USA, Europe)"
 	developer "Magnavox"
 	rom ( crc 239DF97D )
@@ -283,24 +253,6 @@ game (
 	name "Pairs + Space Rendezvous + Logic (Europe)"
 	developer "Magnavox"
 	rom ( crc A69C2C93 )
-)
-
-game (
-	name "Pick Axe Pete (USA, Europe)"
-	developer "Magnavox"
-	rom ( crc D62814A3 )
-)
-
-game (
-	name "Pocket Billiards (USA, Europe)"
-	developer "Magnavox"
-	rom ( crc 24D53E2C )
-)
-
-game (
-	name "Billiard Americain (France)"
-	developer "Magnavox"
-	rom ( crc A674EA27 )
 )
 
 game (
@@ -328,18 +280,6 @@ game (
 )
 
 game (
-	name "Quest for the Rings (USA, Europe)"
-	developer "Magnavox"
-	rom ( crc 9451BE1E )
-)
-
-game (
-	name "La Quete des Anneaux (France)"
-	developer "Magnavox"
-	rom ( crc A21DA732 )
-)
-
-game (
 	name "Samurai (Europe)"
 	developer "Magnavox"
 	rom ( crc 7810BAD5 )
@@ -355,18 +295,6 @@ game (
 	name "Sid the Spellbinder (USA)"
 	developer "Magnavox"
 	rom ( crc 1B9F2F16 )
-)
-
-game (
-	name "Speedway + Spin-out + Crypto-logic (USA, Europe)"
-	developer "Magnavox"
-	rom ( crc 4EDA4917 )
-)
-
-game (
-	name "Course de Voitures + Autodrome + Cryptogramme (France)"
-	developer "Magnavox"
-	rom ( crc 3B24E1EE )
 )
 
 game (

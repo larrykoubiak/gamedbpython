@@ -724,6 +724,12 @@ game (
 )
 
 game (
+	name "Championship Lode Runner (Japan)"
+	developer "Compile"
+	rom ( crc 2F75E79C )
+)
+
+game (
 	name "Checkers in Tantan Tanuki (Japan)"
 	developer "Pony Canyon"
 	rom ( crc D2B8C058 )
@@ -1024,6 +1030,18 @@ game (
 )
 
 game (
+	name "Decathlon (Japan)"
+	developer "Activision"
+	rom ( crc CD016B93 )
+)
+
+game (
+	name "Decathlon (Japan) (Alt 1)"
+	developer "Activision"
+	rom ( crc F99B1C22 )
+)
+
+game (
 	name "Demon Crystal, The (Japan)"
 	developer "Dempa Shinbunsha"
 	rom ( crc 11DE4DFD )
@@ -1109,13 +1127,13 @@ game (
 
 game (
 	name "Dragon Quest II (Japan)"
-	developer "Enix Corporation"
+	developer "ChunSoft"
 	rom ( crc 8076FEC6 )
 )
 
 game (
 	name "Dragon Quest II (Japan) (Alt 1)"
-	developer "Enix Corporation"
+	developer "ChunSoft"
 	rom ( crc D44165A3 )
 )
 
@@ -1595,26 +1613,38 @@ game (
 
 game (
 	name "Game Master (Europe)"
-	developer "Eurosoft"
+	developer "Konami"
 	rom ( crc 160CFBD2 )
 )
 
 game (
 	name "Game Master (Europe) (Alt 1)"
-	developer "Eurosoft"
+	developer "Konami"
 	rom ( crc 5BB30E2B )
 )
 
 game (
 	name "Game Master (Japan)"
-	developer "Eurosoft"
+	developer "Konami"
 	rom ( crc 8F1A102E )
 )
 
 game (
 	name "Game Master (Japan) (Alt 1)"
-	developer "Eurosoft"
+	developer "Konami"
 	rom ( crc BD1C5A59 )
+)
+
+game (
+	name "Game Master II (Japan)"
+	developer "Konami"
+	rom ( crc 084C5803 )
+)
+
+game (
+	name "Game Master II (Japan) (Alt 1)"
+	developer "Konami"
+	rom ( crc 2D93F9CC )
 )
 
 game (
@@ -1669,24 +1699,6 @@ game (
 	name "Golvellius (Japan)"
 	developer "Compile"
 	rom ( crc 5EAC55DF )
-)
-
-game (
-	name "Goonies, The (Japan)"
-	developer "Konami"
-	rom ( crc DB327847 )
-)
-
-game (
-	name "Goonies, The (Japan) (Alt 1)"
-	developer "Konami"
-	rom ( crc C6445F82 )
-)
-
-game (
-	name "Goonies, The (Japan) (Alt 2)"
-	developer "Konami"
-	rom ( crc 38F04741 )
 )
 
 game (
@@ -1921,6 +1933,30 @@ game (
 	name "Hydlide II - Shine of Darkness (Japan) (Alt 1)"
 	developer "T&E; Soft"
 	rom ( crc B886D7F5 )
+)
+
+game (
+	name "Hyper Rally (Japan)"
+	developer "Konami"
+	rom ( crc F94D452E )
+)
+
+game (
+	name "Hyper Rally (Japan) (Alt 1)"
+	developer "Konami"
+	rom ( crc C575CEC6 )
+)
+
+game (
+	name "Hyper Rally (Japan) (Alt 2)"
+	developer "Konami"
+	rom ( crc 75CBB75D )
+)
+
+game (
+	name "Hyper Rally (Japan) (Alt 3)"
+	developer "Konami"
+	rom ( crc 0C5957AA )
 )
 
 game (
@@ -2368,18 +2404,6 @@ game (
 )
 
 game (
-	name "Magical Tree (Japan)"
-	developer "Konami"
-	rom ( crc 827038A2 )
-)
-
-game (
-	name "Magical Tree (Japan) (Alt 1)"
-	developer "Konami"
-	rom ( crc F3606C66 )
-)
-
-game (
 	name "Manes (Japan)"
 	developer "Zap"
 	rom ( crc B7002F08 )
@@ -2419,12 +2443,6 @@ game (
 	name "Marchen Veil I (Japan)"
 	developer "System Sacom"
 	rom ( crc 44AA5422 )
-)
-
-game (
-	name "Marine Battle (Japan)"
-	developer "ASCII Entertainment"
-	rom ( crc 24923BDB )
 )
 
 game (
@@ -2515,6 +2533,30 @@ game (
 	name "Mole Mole 2 (Japan)"
 	developer "Cross Media Soft"
 	rom ( crc 309F886B )
+)
+
+game (
+	name "Monkey Academy (Japan)"
+	developer "Konami"
+	rom ( crc 98CD6912 )
+)
+
+game (
+	name "Monkey Academy (Japan) (Alt 1)"
+	developer "Konami"
+	rom ( crc E73C12E6 )
+)
+
+game (
+	name "Monkey Academy (Japan) (Alt 2)"
+	developer "Konami"
+	rom ( crc 3DDCAC18 )
+)
+
+game (
+	name "Monkey Academy (Japan) (Alt 3)"
+	developer "Konami"
+	rom ( crc D1896F6E )
 )
 
 game (
@@ -2665,24 +2707,6 @@ game (
 	name "Nemesis 2 (Japan, Europe) (Alt 1)"
 	developer "Konami"
 	rom ( crc 32ABA4E3 )
-)
-
-game (
-	name "Nemesis 3 - The Eve of Destruction (Japan, Europe)"
-	developer "Konami"
-	rom ( crc 4B61AE91 )
-)
-
-game (
-	name "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1)"
-	developer "Konami"
-	rom ( crc 0DB7132F )
-)
-
-game (
-	name "Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2)"
-	developer "Konami"
-	rom ( crc 329987BC )
 )
 
 game (
@@ -2848,6 +2872,12 @@ game (
 )
 
 game (
+	name "Penguin Adventure (Japan, Europe)"
+	developer "Konami"
+	rom ( crc 0F6418D3 )
+)
+
+game (
 	name "Penguin-kun Wars (Japan)"
 	developer "ASCII Entertainment"
 	rom ( crc 6D2B3E0C )
@@ -2923,18 +2953,6 @@ game (
 	name "Pippols (Japan) (Alt 3)"
 	developer "Konami"
 	rom ( crc EAB63F24 )
-)
-
-game (
-	name "Pitfall II - Lost Caverns (Japan)"
-	developer "Activision"
-	rom ( crc D307A7B8 )
-)
-
-game (
-	name "Pitfall II - Lost Caverns (Japan) (Alt 1)"
-	developer "Activision"
-	rom ( crc 71C59868 )
 )
 
 game (
@@ -3269,7 +3287,7 @@ game (
 
 game (
 	name "Sky Jaguar (Japan)"
-	developer "Konami"
+	developer "Magical Zoo"
 	rom ( crc E4F725FD )
 )
 
@@ -3385,18 +3403,6 @@ game (
 	name "Square Dancer (Japan)"
 	developer "Toshiba EMI"
 	rom ( crc DD5CF5C8 )
-)
-
-game (
-	name "Squish'em (Japan)"
-	developer "ASCII Entertainment"
-	rom ( crc F3B22C91 )
-)
-
-game (
-	name "Squish'em (Japan) (Alt 1)"
-	developer "ASCII Entertainment"
-	rom ( crc DA50254F )
 )
 
 game (
@@ -3889,18 +3895,6 @@ game (
 	name "Yellow Submarine (Japan)"
 	developer "Brother Kougyou"
 	rom ( crc 71E6605F )
-)
-
-game (
-	name "Yie Ar Kung-Fu (Japan)"
-	developer "Konami"
-	rom ( crc 8A12EC4F )
-)
-
-game (
-	name "Yie Ar Kung-Fu (Japan) (Alt 1)"
-	developer "Konami"
-	rom ( crc 0E197B49 )
 )
 
 game (

@@ -15,3 +15,21 @@ game (
 	rom ( crc C10F37D8 )
 )
 
+game (
+	name "Star Ship (Europe)"
+	franchise "Star Trek"
+	rom ( crc 7967A8CB )
+)
+
+game (
+	name "Star Trek - The Motion Picture (USA)"
+	franchise "Star Trek"
+	rom ( crc 3768D8C3 )
+)
+
+game (
+	name "Star Trek Debugged (USA)"
+	franchise "Star Trek"
+	rom ( crc 563F846B )
+)
+

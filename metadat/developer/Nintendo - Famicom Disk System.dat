@@ -4,12 +4,6 @@ clrmamepro (
 )
 
 game (
-	name "[BIOS] Sharp Twin Famicom (Japan)"
-	developer "Nintendo"
-	rom ( crc 4DF24A6C )
-)
-
-game (
 	name "Adian no Tsue (Japan)"
 	developer "SunSoft"
 	rom ( crc DCC7A8D6 )

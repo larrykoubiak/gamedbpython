@@ -16,6 +16,24 @@ game (
 )
 
 game (
+	name "Air Zonk (USA)"
+	franchise "Bonk"
+	rom ( crc 933D5BCC )
+)
+
+game (
+	name "PC Denjin - Punkic Cyborgs (Japan)"
+	franchise "Bonk"
+	rom ( crc 740491C2 )
+)
+
+game (
+	name "PC Denjin - Punkic Cyborgs (Japan) (Alt 1)"
+	franchise "Bonk"
+	rom ( crc 8FB4F228 )
+)
+
+game (
 	name "Alien Crush (Japan)"
 	franchise "Crush Pinball"
 	rom ( crc 60EDF4E1 )
@@ -94,6 +112,48 @@ game (
 )
 
 game (
+	name "Bonk's Adventure (USA)"
+	franchise "Bonk"
+	rom ( crc 599EAD9B )
+)
+
+game (
+	name "PC Genjin - Pithecanthropus Computerurus (Japan)"
+	franchise "Bonk"
+	rom ( crc 2CB5CD55 )
+)
+
+game (
+	name "PC Genjin - Pithecanthropus Computerurus (Japan) (Alt 1)"
+	franchise "Bonk"
+	rom ( crc 67B35E6E )
+)
+
+game (
+	name "Bonk's Revenge (USA)"
+	franchise "Bonk"
+	rom ( crc 14250F9A )
+)
+
+game (
+	name "PC Genjin 2 - Pithecanthropus Computerurus (Japan)"
+	franchise "Bonk"
+	rom ( crc 3028F7CA )
+)
+
+game (
+	name "Boxyboy (USA)"
+	franchise "Soukoban"
+	rom ( crc 605BE213 )
+)
+
+game (
+	name "Soukoban World (Japan)"
+	franchise "Soukoban"
+	rom ( crc FB37DDC4 )
+)
+
+game (
 	name "Chibi Maruko-chan - Quiz de Piihyara (Japan)"
 	franchise "Chibi Maruko-Chan"
 	rom ( crc 951ED380 )
@@ -103,6 +163,18 @@ game (
 	name "Columns (Japan)"
 	franchise "Columns"
 	rom ( crc 99F7A572 )
+)
+
+game (
+	name "Cratermaze (USA)"
+	franchise "Doraemon"
+	rom ( crc 9033E83A )
+)
+
+game (
+	name "Doraemon - Meikyuu Daisakusen (Japan)"
+	franchise "Doraemon"
+	rom ( crc DC760A07 )
 )
 
 game (
@@ -310,6 +382,18 @@ game (
 )
 
 game (
+	name "Military Madness (USA)"
+	franchise "Nectaris / Military Madness"
+	rom ( crc 93F316F7 )
+)
+
+game (
+	name "Nectaris (Japan)"
+	franchise "Nectaris / Military Madness"
+	rom ( crc 0243453B )
+)
+
+game (
 	name "Momotarou Densetsu Gaiden - Dai-1-shuu (Japan)"
 	franchise "Momotarou Densetsu"
 	rom ( crc F860455C )
@@ -337,6 +421,18 @@ game (
 	name "Nekketsu Koukou Dodgeball-bu - Soccer PC Hen (Japan)"
 	franchise "River City Ransom / Kunio-kun"
 	rom ( crc F2285C6D )
+)
+
+game (
+	name "New Adventure Island (USA)"
+	franchise "Adventure Island"
+	rom ( crc 756A1802 )
+)
+
+game (
+	name "Takahashi Meijin no Shin Bouken-jima (Japan)"
+	franchise "Adventure Island"
+	rom ( crc E415EA19 )
 )
 
 game (
@@ -547,18 +643,6 @@ game (
 	name "Super Star Soldier (Japan)"
 	franchise "Star Soldier"
 	rom ( crc 5D0E3105 )
-)
-
-game (
-	name "Taito Chase H.Q. (USA)"
-	franchise "Chase H.Q."
-	rom ( crc 9298254C )
-)
-
-game (
-	name "Taito Chase H.Q. (Japan)"
-	franchise "Chase H.Q."
-	rom ( crc 6F4FD790 )
 )
 
 game (

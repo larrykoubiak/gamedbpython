@@ -214,54 +214,6 @@ game (
 )
 
 game (
-	name "Banjo-Kazooie (Europe) (En,Fr,De)"
-	developer "Rare Ltd."
-	rom ( crc 4AF7C16B )
-)
-
-game (
-	name "Banjo to Kazooie no Daibouken (Japan)"
-	developer "Rare Ltd."
-	rom ( crc 11AD432C )
-)
-
-game (
-	name "Banjo-Kazooie (USA)"
-	developer "Rare Ltd."
-	rom ( crc 4FD43199 )
-)
-
-game (
-	name "Banjo-Kazooie (USA) (Rev A)"
-	developer "Rare Ltd."
-	rom ( crc 90B38651 )
-)
-
-game (
-	name "Banjo-Tooie (Europe) (En,Fr,De,Es)"
-	developer "Rare Ltd."
-	rom ( crc 5EE620FB )
-)
-
-game (
-	name "Banjo to Kazooie no Daibouken 2 (Japan)"
-	developer "Rare Ltd."
-	rom ( crc 8A3D8792 )
-)
-
-game (
-	name "Banjo-Tooie (Australia)"
-	developer "Rare Ltd."
-	rom ( crc 38EC4A6E )
-)
-
-game (
-	name "Banjo-Tooie (USA)"
-	developer "Rare Ltd."
-	rom ( crc 0E0DC5A5 )
-)
-
-game (
 	name "Bass Rush - ECOGEAR PowerWorm Championship (Japan)"
 	developer "Visco"
 	rom ( crc 0E388FAE )
@@ -307,6 +259,18 @@ game (
 	name "Battlezone - Rise of the Black Dogs (USA)"
 	developer "Climax Studios"
 	rom ( crc 18CCCCFD )
+)
+
+game (
+	name "Big Mountain 2000 (USA)"
+	developer "Natsume"
+	rom ( crc FF44020C )
+)
+
+game (
+	name "Snow Speeder (Japan)"
+	developer "Natsume"
+	rom ( crc 5C98F900 )
 )
 
 game (
@@ -454,6 +418,24 @@ game (
 )
 
 game (
+	name "Bust-A-Move 3 DX (Europe)"
+	developer "Distinctive Developments Ltd"
+	rom ( crc 9F3F484B )
+)
+
+game (
+	name "Bust-A-Move '99 (USA)"
+	developer "Distinctive Developments Ltd"
+	rom ( crc 2A95290F )
+)
+
+game (
+	name "Puzzle Bobble 64 (Japan)"
+	developer "Distinctive Developments Ltd"
+	rom ( crc 30238199 )
+)
+
+game (
 	name "California Speed (USA)"
 	developer "Atari Games (Midway)"
 	rom ( crc 387B0C4C )
@@ -484,51 +466,15 @@ game (
 )
 
 game (
-	name "Castlevania (Europe) (En,Fr,De)"
-	developer "KCEK"
-	rom ( crc D1D4D306 )
+	name "Centre Court Tennis (Europe)"
+	developer "Hudson"
+	rom ( crc 2573171A )
 )
 
 game (
-	name "Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)"
-	developer "KCEK"
-	rom ( crc CA79D5A0 )
-)
-
-game (
-	name "Castlevania (USA)"
-	developer "KCEK"
-	rom ( crc 84E815F3 )
-)
-
-game (
-	name "Castlevania (USA) (Rev B)"
-	developer "KCEK"
-	rom ( crc 7F50E637 )
-)
-
-game (
-	name "Castlevania (USA) (Rev A)"
-	developer "KCEK"
-	rom ( crc BF911B10 )
-)
-
-game (
-	name "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)"
-	developer "KCEK"
-	rom ( crc A12BF3DE )
-)
-
-game (
-	name "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)"
-	developer "KCEK"
-	rom ( crc 420CE37B )
-)
-
-game (
-	name "Castlevania - Legacy of Darkness (USA)"
-	developer "KCEK"
-	rom ( crc 1F147376 )
+	name "Let's Smash (Japan)"
+	developer "Hudson"
+	rom ( crc 33543946 )
 )
 
 game (
@@ -583,6 +529,24 @@ game (
 	name "Charlie Blast's Territory (USA)"
 	developer "Realtime Associates"
 	rom ( crc 928A2968 )
+)
+
+game (
+	name "Chopper Attack (Europe)"
+	developer "Seta Corporation"
+	rom ( crc 30CA7DBE )
+)
+
+game (
+	name "Chopper Attack (USA)"
+	developer "Seta Corporation"
+	rom ( crc 2C22147D )
+)
+
+game (
+	name "Wild Choppers (Japan)"
+	developer "Seta Corporation"
+	rom ( crc FED21F49 )
 )
 
 game (
@@ -706,6 +670,24 @@ game (
 )
 
 game (
+	name "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)"
+	developer "Paradigm Entertainment"
+	rom ( crc 6CB4B600 )
+)
+
+game (
+	name "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)"
+	developer "Paradigm Entertainment"
+	rom ( crc B67BBC15 )
+)
+
+game (
+	name "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta)"
+	developer "Paradigm Entertainment"
+	rom ( crc 0829B87A )
+)
+
+game (
 	name "Dance Dance Revolution - Disney Dancing Museum (Japan)"
 	developer "KCEK"
 	rom ( crc E085AFA0 )
@@ -742,18 +724,6 @@ game (
 )
 
 game (
-	name "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)"
-	developer "Disney Interactive Studios"
-	rom ( crc 5F67A191 )
-)
-
-game (
-	name "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)"
-	developer "Disney Interactive Studios"
-	rom ( crc 6D48B64E )
-)
-
-game (
 	name "Doom 64 (Europe)"
 	developer "Midway Studios - San Diego"
 	rom ( crc 0227DB4B )
@@ -775,12 +745,6 @@ game (
 	name "Doom 64 (USA) (Rev A)"
 	developer "Midway Studios - San Diego"
 	rom ( crc 0F080D06 )
-)
-
-game (
-	name "Doraemon - Nobita to 3tsu no Seireiseki (Japan)"
-	developer "Epoch"
-	rom ( crc CAD0A2C2 )
 )
 
 game (
@@ -1006,6 +970,24 @@ game (
 )
 
 game (
+	name "F1 Pole Position 64 (Europe) (En,Fr,De)"
+	developer "Human Entertainment"
+	rom ( crc EC8B6DB6 )
+)
+
+game (
+	name "F1 Pole Position 64 (USA) (En,Fr,De)"
+	developer "Human Entertainment"
+	rom ( crc 873BC45A )
+)
+
+game (
+	name "Human Grand Prix - The New Generation (Japan)"
+	developer "Human Entertainment"
+	rom ( crc A3FC9AEA )
+)
+
+game (
 	name "F1 Racing Championship (Europe) (En,Fr,De,Es,It)"
 	developer "Ubisoft"
 	rom ( crc 0605E5AC )
@@ -1036,15 +1018,45 @@ game (
 )
 
 game (
-	name "FIFA Soccer 64 (Europe) (En,Fr,De)"
-	developer "EA Canada"
-	rom ( crc 26F52456 )
+	name "Fighter Destiny 2 (USA)"
+	developer "Opus"
+	rom ( crc 7FC19103 )
 )
 
 game (
-	name "FIFA Soccer 64 (USA) (En,Fr,De)"
-	developer "EA Canada"
-	rom ( crc 3B22F9F2 )
+	name "Kakutou Denshou - F-Cup Maniax (Japan)"
+	developer "Opus"
+	rom ( crc 1E967AC0 )
+)
+
+game (
+	name "Fighters Destiny (Europe)"
+	developer "Opus"
+	rom ( crc 83F9299E )
+)
+
+game (
+	name "Fighters Destiny (France)"
+	developer "Opus"
+	rom ( crc 80D968B1 )
+)
+
+game (
+	name "Fighters Destiny (Germany)"
+	developer "Opus"
+	rom ( crc 0A89CA02 )
+)
+
+game (
+	name "Fighters Destiny (USA)"
+	developer "Opus"
+	rom ( crc A625973F )
+)
+
+game (
+	name "Fighting Cup (Japan)"
+	developer "Opus"
+	rom ( crc A9740235 )
 )
 
 game (
@@ -1057,6 +1069,24 @@ game (
 	name "Fighting Force 64 (USA)"
 	developer "Core Design Ltd."
 	rom ( crc ADE7DCA4 )
+)
+
+game (
+	name "Flying Dragon (Europe)"
+	developer "Culture Brain"
+	rom ( crc 00FFF973 )
+)
+
+game (
+	name "Flying Dragon (USA)"
+	developer "Culture Brain"
+	rom ( crc 87E4E352 )
+)
+
+game (
+	name "Hiryuu no Ken Twin (Japan)"
+	developer "Culture Brain"
+	rom ( crc 4A07511C )
 )
 
 game (
@@ -1087,24 +1117,6 @@ game (
 	name "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)"
 	developer "ChunSoft"
 	rom ( crc AF0A22EF )
-)
-
-game (
-	name "G.A.S.P!! Fighters' NEXTream (Europe)"
-	developer "Konami Computer Entertainment Osaka"
-	rom ( crc B0D256B8 )
-)
-
-game (
-	name "Deadly Arts (USA)"
-	developer "Konami Computer Entertainment Osaka"
-	rom ( crc B4AFBF51 )
-)
-
-game (
-	name "G.A.S.P!! Fighters' NEXTream (Japan)"
-	developer "Konami Computer Entertainment Osaka"
-	rom ( crc 0E05EA3A )
 )
 
 game (
@@ -1204,24 +1216,6 @@ game (
 )
 
 game (
-	name "GT64 - Championship Edition (Europe) (En,Fr,De)"
-	developer "Imagineer"
-	rom ( crc B06D0D85 )
-)
-
-game (
-	name "City-Tour GP - Zen-Nihon GT Senshuken (Japan)"
-	developer "Imagineer"
-	rom ( crc 7A59354B )
-)
-
-game (
-	name "GT64 - Championship Edition (USA)"
-	developer "Imagineer"
-	rom ( crc B6DC4CFD )
-)
-
-game (
 	name "Hamster Monogatari 64 (Japan)"
 	developer "Culture Brain"
 	rom ( crc 689191C6 )
@@ -1300,6 +1294,18 @@ game (
 )
 
 game (
+	name "Hey You, Pikachu! (USA)"
+	developer "Ambrella"
+	rom ( crc 0149E9F6 )
+)
+
+game (
+	name "Pikachuu Genki de Chuu (Japan)"
+	developer "Ambrella"
+	rom ( crc 2AE884CD )
+)
+
+game (
 	name "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)"
 	developer "Stormfront Studios"
 	rom ( crc EF63C780 )
@@ -1354,18 +1360,6 @@ game (
 )
 
 game (
-	name "In-Fisherman - Bass Hunter 64 (Europe)"
-	developer "Gear Head Entertainment"
-	rom ( crc 930E6F44 )
-)
-
-game (
-	name "In-Fisherman - Bass Hunter 64 (USA)"
-	developer "Gear Head Entertainment"
-	rom ( crc 88279F19 )
-)
-
-game (
 	name "Indiana Jones and the Infernal Machine (USA)"
 	developer "Factor 5"
 	rom ( crc A8F86EB6 )
@@ -1384,21 +1378,81 @@ game (
 )
 
 game (
-	name "International Track & Field - Summer Games (Europe) (En,Fr,De)"
+	name "International Superstar Soccer '98 (Europe)"
 	developer "Konami Computer Entertainment Osaka"
-	rom ( crc 73073EC2 )
+	rom ( crc 463FE8B7 )
 )
 
 game (
-	name "Ganbare! Nippon! Olympics 2000 (Japan)"
+	name "International Superstar Soccer '98 (USA)"
 	developer "Konami Computer Entertainment Osaka"
-	rom ( crc 1C7E5D6E )
+	rom ( crc D685F2EC )
 )
 
 game (
-	name "International Track & Field 2000 (USA)"
+	name "Jikkyou World Soccer - World Cup France '98 (Japan)"
 	developer "Konami Computer Entertainment Osaka"
-	rom ( crc F93868A3 )
+	rom ( crc 970A3C24 )
+)
+
+game (
+	name "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev A)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc 7576897D )
+)
+
+game (
+	name "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev B)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc 55551947 )
+)
+
+game (
+	name "International Superstar Soccer 2000 (Europe) (En,De)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc 61799242 )
+)
+
+game (
+	name "International Superstar Soccer 2000 (Europe) (Fr,It)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc 7D7DCD46 )
+)
+
+game (
+	name "International Superstar Soccer 2000 (USA) (En,Es)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc BB1824B8 )
+)
+
+game (
+	name "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc 8E2F8322 )
+)
+
+game (
+	name "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev A)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc B4131606 )
+)
+
+game (
+	name "International Superstar Soccer 64 (Europe)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc 662DA098 )
+)
+
+game (
+	name "International Superstar Soccer 64 (USA)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc 91CB6803 )
+)
+
+game (
+	name "Jikkyou World Soccer 3 (Japan)"
+	developer "Konami Computer Entertainment Osaka"
+	rom ( crc 8755DE1F )
 )
 
 game (
@@ -1648,39 +1702,33 @@ game (
 )
 
 game (
-	name "Knife Edge - Nose Gunner (Europe)"
-	developer "Kemco"
-	rom ( crc 35B61293 )
-)
-
-game (
-	name "Knife Edge - Nose Gunner (Japan)"
-	developer "Kemco"
-	rom ( crc 2FF68ED9 )
-)
-
-game (
-	name "Knife Edge - Nose Gunner (USA)"
-	developer "Kemco"
-	rom ( crc CF204405 )
-)
-
-game (
-	name "Knockout Kings 2000 (Europe)"
-	developer "Black Ops Entertainment"
-	rom ( crc 3C38BA4A )
-)
-
-game (
-	name "Knockout Kings 2000 (USA)"
-	developer "Black Ops Entertainment"
-	rom ( crc A26533FC )
-)
-
-game (
 	name "Last Legion UX (Japan)"
 	developer "Yuke's"
 	rom ( crc C3DAF1AA )
+)
+
+game (
+	name "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube Edition)"
+	developer "Nintendo"
+	rom ( crc 177FA73A )
+)
+
+game (
+	name "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Version)"
+	developer "Nintendo"
+	rom ( crc 2EE3E247 )
+)
+
+game (
+	name "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)"
+	developer "Nintendo"
+	rom ( crc 7B89B13F )
+)
+
+game (
+	name "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube Edition)"
+	developer "Nintendo"
+	rom ( crc D97C20BA )
 )
 
 game (
@@ -1765,6 +1813,36 @@ game (
 	name "Madden NFL 99 (USA)"
 	developer "EA Tiburon"
 	rom ( crc AC21A5BF )
+)
+
+game (
+	name "Magical Tetris Challenge (Europe)"
+	developer "Capcom"
+	rom ( crc BF53BF3D )
+)
+
+game (
+	name "Defi au Tetris Magique (France)"
+	developer "Capcom"
+	rom ( crc EB304709 )
+)
+
+game (
+	name "Magical Tetris Challenge (Germany)"
+	developer "Capcom"
+	rom ( crc 16995CF8 )
+)
+
+game (
+	name "Magical Tetris Challenge (USA)"
+	developer "Capcom"
+	rom ( crc 167C60E6 )
+)
+
+game (
+	name "Magical Tetris Challenge featuring Mickey (Japan)"
+	developer "Capcom"
+	rom ( crc 6D3EBA8B )
 )
 
 game (
@@ -1900,21 +1978,21 @@ game (
 )
 
 game (
-	name "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)"
-	developer "Rare Ltd."
-	rom ( crc DDF28F6B )
+	name "Mega Man 64 (USA)"
+	developer "Capcom"
+	rom ( crc B57DD0E4 )
 )
 
 game (
-	name "Mickey no Racing Challenge USA (Japan)"
-	developer "Rare Ltd."
-	rom ( crc 915A43EE )
+	name "Mega Man 64 (USA) (Beta)"
+	developer "Capcom"
+	rom ( crc 421D2A09 )
 )
 
 game (
-	name "Mickey's Speedway USA (USA)"
-	developer "Rare Ltd."
-	rom ( crc 6E589C47 )
+	name "Rockman Dash - Hagane no Boukenshin (Japan)"
+	developer "Capcom"
+	rom ( crc E1919C66 )
 )
 
 game (
@@ -1963,6 +2041,30 @@ game (
 	name "Tamiya Racing 64 (USA) (Proto)"
 	developer "Looking Glass Studios"
 	rom ( crc 7EA56078 )
+)
+
+game (
+	name "Mischief Makers (Europe)"
+	developer "Treasure"
+	rom ( crc 12529953 )
+)
+
+game (
+	name "Mischief Makers (USA)"
+	developer "Treasure"
+	rom ( crc AF7B3820 )
+)
+
+game (
+	name "Mischief Makers (USA) (Rev A)"
+	developer "Treasure"
+	rom ( crc C454E245 )
+)
+
+game (
+	name "Yuke Yuke!! Trouble Makers (Japan)"
+	developer "Treasure"
+	rom ( crc F8BB860C )
 )
 
 game (
@@ -2536,6 +2638,30 @@ game (
 )
 
 game (
+	name "Operation WinBack (Europe) (En,Fr,De,Es,It)"
+	developer "Omega Force"
+	rom ( crc 15F1C325 )
+)
+
+game (
+	name "WinBack (Japan)"
+	developer "Omega Force"
+	rom ( crc A5364D80 )
+)
+
+game (
+	name "WinBack (Japan) (Rev A)"
+	developer "Omega Force"
+	rom ( crc 9FBD5973 )
+)
+
+game (
+	name "WinBack - Covert Operations (USA)"
+	developer "Omega Force"
+	rom ( crc 1A6334D0 )
+)
+
+game (
 	name "Pachinko 365 Nichi (Japan)"
 	developer "Seta Corporation"
 	rom ( crc 41363874 )
@@ -2653,6 +2779,114 @@ game (
 	name "Pokemon Puzzle League (USA)"
 	developer "Nintendo"
 	rom ( crc 281AFB0D )
+)
+
+game (
+	name "Pokemon Stadium (Japan)"
+	developer "HAL Labs"
+	rom ( crc 3B2A3F7A )
+)
+
+game (
+	name "Pokemon Stadium (Europe) (Rev A)"
+	developer "HAL Labs"
+	rom ( crc 60F6BE65 )
+)
+
+game (
+	name "Pokemon Stadium (Europe)"
+	developer "HAL Labs"
+	rom ( crc 7A8BF040 )
+)
+
+game (
+	name "Pokemon Stadium (France)"
+	developer "HAL Labs"
+	rom ( crc 476848F6 )
+)
+
+game (
+	name "Pokemon Stadium (Germany)"
+	developer "HAL Labs"
+	rom ( crc 3243A2A7 )
+)
+
+game (
+	name "Pokemon Stadium (Italy)"
+	developer "HAL Labs"
+	rom ( crc 77A59419 )
+)
+
+game (
+	name "Pokemon Stadium (Spain)"
+	developer "HAL Labs"
+	rom ( crc 7ADFB7E0 )
+)
+
+game (
+	name "Pokemon Stadium (USA)"
+	developer "HAL Labs"
+	rom ( crc 3003E90C )
+)
+
+game (
+	name "Pokemon Stadium (USA) (Rev A)"
+	developer "HAL Labs"
+	rom ( crc 7BB7489F )
+)
+
+game (
+	name "Pokemon Stadium (USA) (Rev B)"
+	developer "HAL Labs"
+	rom ( crc D2E2EC6D )
+)
+
+game (
+	name "Pokemon Stadium 2 (Japan)"
+	developer "HAL Labs"
+	rom ( crc C876BE9C )
+)
+
+game (
+	name "Pokemon Stadium 2 (Europe)"
+	developer "HAL Labs"
+	rom ( crc 85F53D6C )
+)
+
+game (
+	name "Pokemon Stadium 2 (France)"
+	developer "HAL Labs"
+	rom ( crc A72C55AF )
+)
+
+game (
+	name "Pokemon Stadium 2 (Germany)"
+	developer "HAL Labs"
+	rom ( crc B0A291FC )
+)
+
+game (
+	name "Pokemon Stadium 2 (Italy)"
+	developer "HAL Labs"
+	rom ( crc C849C481 )
+)
+
+game (
+	name "Pokemon Stadium 2 (Spain)"
+	developer "HAL Labs"
+	rom ( crc 391119B5 )
+)
+
+game (
+	name "Pokemon Stadium 2 (USA)"
+	developer "HAL Labs"
+	rom ( crc FBFF058A )
+)
+
+game (
+	name "Pokemon Stadium Kin Gin (Japan)"
+	developer "HAL Labs"
+	rom ( crc 16701567 )
 )
 
 game (
@@ -2833,30 +3067,6 @@ game (
 	name "Ready 2 Rumble Boxing - Round 2 (USA)"
 	developer "Point of View"
 	rom ( crc A64FDF28 )
-)
-
-game (
-	name "Resident Evil 2 (Europe) (En,Fr)"
-	developer "Angel Studios"
-	rom ( crc A9936CEC )
-)
-
-game (
-	name "Biohazard 2 (Japan)"
-	developer "Angel Studios"
-	rom ( crc 31A3B913 )
-)
-
-game (
-	name "Resident Evil 2 (USA) (Rev A)"
-	developer "Angel Studios"
-	rom ( crc 6A0D64BB )
-)
-
-game (
-	name "Resident Evil 2 (USA)"
-	developer "Angel Studios"
-	rom ( crc D890979F )
 )
 
 game (
@@ -3371,19 +3581,19 @@ game (
 
 game (
 	name "Superman (Europe) (En,Fr,De,Es,It,Nl)"
-	developer "Edge of Reality"
+	developer "Titus Software"
 	rom ( crc 9CEF1753 )
 )
 
 game (
 	name "Superman (USA) (Beta)"
-	developer "Edge of Reality"
+	developer "Titus Software"
 	rom ( crc 8644CD9A )
 )
 
 game (
 	name "Superman - The New Superman Aventures (USA) (En,Fr,Es)"
-	developer "Edge of Reality"
+	developer "Titus Software"
 	rom ( crc F10D66F0 )
 )
 
@@ -3988,18 +4198,6 @@ game (
 )
 
 game (
-	name "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
-	developer "EA Canada"
-	rom ( crc 163481D0 )
-)
-
-game (
-	name "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)"
-	developer "EA Canada"
-	rom ( crc B875CD94 )
-)
-
-game (
 	name "World Driver Championship (Europe) (En,Fr,De,Es,It)"
 	developer "Boss Game Studios"
 	rom ( crc 74FAD5AA )
@@ -4093,18 +4291,6 @@ game (
 	name "WWF WrestleMania 2000 (USA)"
 	developer "Aki Corp."
 	rom ( crc D514E83C )
-)
-
-game (
-	name "Xena - Warrior Princess - The Talisman of Fate (Europe)"
-	developer "Saffire"
-	rom ( crc 2BB18EB6 )
-)
-
-game (
-	name "Xena - Warrior Princess - The Talisman of Fate (USA)"
-	developer "Saffire"
-	rom ( crc 7CB26725 )
 )
 
 game (

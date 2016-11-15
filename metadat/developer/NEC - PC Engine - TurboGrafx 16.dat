@@ -34,6 +34,24 @@ game (
 )
 
 game (
+	name "Air Zonk (USA)"
+	developer "RED Entertainment"
+	rom ( crc 933D5BCC )
+)
+
+game (
+	name "PC Denjin - Punkic Cyborgs (Japan)"
+	developer "RED Entertainment"
+	rom ( crc 740491C2 )
+)
+
+game (
+	name "PC Denjin - Punkic Cyborgs (Japan) (Alt 1)"
+	developer "RED Entertainment"
+	rom ( crc 8FB4F228 )
+)
+
+game (
 	name "Alien Crush (Japan)"
 	developer "Compile"
 	rom ( crc 60EDF4E1 )
@@ -148,6 +166,18 @@ game (
 )
 
 game (
+	name "Bloody Wolf (USA)"
+	developer "Data East"
+	rom ( crc 37BAF6BC )
+)
+
+game (
+	name "Narazumono Sentou Butai - Bloody Wolf (Japan)"
+	developer "Data East"
+	rom ( crc B01F70C2 )
+)
+
+game (
 	name "Bodycon Quest II (Japan)"
 	developer "Hacker International"
 	rom ( crc FFD92458 )
@@ -196,9 +226,63 @@ game (
 )
 
 game (
+	name "Bonk's Adventure (USA)"
+	developer "Hudson"
+	rom ( crc 599EAD9B )
+)
+
+game (
+	name "PC Genjin - Pithecanthropus Computerurus (Japan)"
+	developer "Hudson"
+	rom ( crc 2CB5CD55 )
+)
+
+game (
+	name "PC Genjin - Pithecanthropus Computerurus (Japan) (Alt 1)"
+	developer "Hudson"
+	rom ( crc 67B35E6E )
+)
+
+game (
+	name "Bonk's Revenge (USA)"
+	developer "Mutech"
+	rom ( crc 14250F9A )
+)
+
+game (
+	name "PC Genjin 2 - Pithecanthropus Computerurus (Japan)"
+	developer "Mutech"
+	rom ( crc 3028F7CA )
+)
+
+game (
 	name "Bouken Danshaku Don - The Lost Sunheart (Japan)"
 	developer "Manjyudo"
 	rom ( crc 8F4D9F94 )
+)
+
+game (
+	name "Boxyboy (USA)"
+	developer "Media Rings"
+	rom ( crc 605BE213 )
+)
+
+game (
+	name "Soukoban World (Japan)"
+	developer "Media Rings"
+	rom ( crc FB37DDC4 )
+)
+
+game (
+	name "Bravoman (USA)"
+	developer "Now Production"
+	rom ( crc CCA08B02 )
+)
+
+game (
+	name "Chouzetsu Rinjin - Bravoman (Japan)"
+	developer "Now Production"
+	rom ( crc 0DF57C90 )
 )
 
 game (
@@ -275,13 +359,13 @@ game (
 
 game (
 	name "China Warrior (USA)"
-	developer "Taito Corporation"
+	developer "Hudson"
 	rom ( crc A2EE361D )
 )
 
 game (
 	name "Kung Fu, The (Japan)"
-	developer "Taito Corporation"
+	developer "Hudson"
 	rom ( crc B552C906 )
 )
 
@@ -301,6 +385,18 @@ game (
 	name "Columns (Japan)"
 	developer "Laser Soft"
 	rom ( crc 99F7A572 )
+)
+
+game (
+	name "Cratermaze (USA)"
+	developer "Hudson"
+	rom ( crc 9033E83A )
+)
+
+game (
+	name "Doraemon - Meikyuu Daisakusen (Japan)"
+	developer "Hudson"
+	rom ( crc DC760A07 )
 )
 
 game (
@@ -361,6 +457,30 @@ game (
 	name "Davis Cup Tennis (USA)"
 	developer "Loriciels"
 	rom ( crc 9EDAB596 )
+)
+
+game (
+	name "Dead Moon (USA)"
+	developer "Zap"
+	rom ( crc F5D98B0B )
+)
+
+game (
+	name "Dead Moon - Getsu Sekai no Akumu (Japan)"
+	developer "Zap"
+	rom ( crc 56739BC7 )
+)
+
+game (
+	name "Deep Blue (USA)"
+	developer "Pack-In-Video"
+	rom ( crc 16B40B44 )
+)
+
+game (
+	name "Deep Blue - Kaitei Shinwa (Japan)"
+	developer "Pack-In-Video"
+	rom ( crc 053A0F83 )
 )
 
 game (
@@ -451,6 +571,24 @@ game (
 	name "Adventure Island (Japan)"
 	developer "Hudson"
 	rom ( crc 8E71D4F3 )
+)
+
+game (
+	name "Drop.Off (USA)"
+	developer "Cream"
+	rom ( crc FEA27B32 )
+)
+
+game (
+	name "Drop Rock Hora Hora (Japan)"
+	developer "Cream"
+	rom ( crc 67EC5EC4 )
+)
+
+game (
+	name "Drop Rock Hora Hora (Japan) (Alt 1)"
+	developer "Cream"
+	rom ( crc 8E81FCAC )
 )
 
 game (
@@ -712,6 +850,18 @@ game (
 )
 
 game (
+	name "J.J. & Jeff (USA)"
+	developer "Hudson"
+	rom ( crc E01C5127 )
+)
+
+game (
+	name "Kato-chan & Ken-chan (Japan)"
+	developer "Hudson"
+	rom ( crc 6069C5E7 )
+)
+
+game (
 	name "Jack Nicklaus' Turbo Golf (USA)"
 	developer "Accolade"
 	rom ( crc 83384572 )
@@ -781,6 +931,18 @@ game (
 	name "Kattobi! Takuhai-kun (Japan)"
 	developer "Advance Communication Company"
 	rom ( crc 4F2844B0 )
+)
+
+game (
+	name "Keith Courage in Alpha Zones (USA)"
+	developer "Hudson"
+	rom ( crc 474D7A72 )
+)
+
+game (
+	name "Mashin Eiyuu Den Wataru (Japan)"
+	developer "Hudson"
+	rom ( crc 2F8935AA )
 )
 
 game (
@@ -970,6 +1132,18 @@ game (
 )
 
 game (
+	name "Military Madness (USA)"
+	developer "Hudson"
+	rom ( crc 93F316F7 )
+)
+
+game (
+	name "Nectaris (Japan)"
+	developer "Hudson"
+	rom ( crc 0243453B )
+)
+
+game (
 	name "Momotarou Densetsu Gaiden - Dai-1-shuu (Japan)"
 	developer "Hudson"
 	rom ( crc F860455C )
@@ -1102,6 +1276,18 @@ game (
 )
 
 game (
+	name "New Adventure Island (USA)"
+	developer "Now Production"
+	rom ( crc 756A1802 )
+)
+
+game (
+	name "Takahashi Meijin no Shin Bouken-jima (Japan)"
+	developer "Now Production"
+	rom ( crc E415EA19 )
+)
+
+game (
 	name "New Zealand Story, The (Japan)"
 	developer "Aisystem Tokyo"
 	rom ( crc 8E4D75A8 )
@@ -1129,6 +1315,18 @@ game (
 	name "Ninja Ryuuken Den (Japan) (En,Ja,Zh)"
 	developer "Tecmo"
 	rom ( crc 67573BAC )
+)
+
+game (
+	name "Ninja Spirit (USA)"
+	developer "Irem"
+	rom ( crc DE8AF1C1 )
+)
+
+game (
+	name "Saigo no Nindou - Ninja Spirit (Japan)"
+	developer "Irem"
+	rom ( crc 0590A156 )
 )
 
 game (
@@ -1510,6 +1708,18 @@ game (
 )
 
 game (
+	name "Sinistron (USA)"
+	developer "Alfa System"
+	rom ( crc 4F6E2DBD )
+)
+
+game (
+	name "Violent Soldier (Japan)"
+	developer "Alfa System"
+	rom ( crc 1BC36B36 )
+)
+
+game (
 	name "Skweek (Japan)"
 	developer "Loriciels"
 	rom ( crc 4D539C9F )
@@ -1654,18 +1864,6 @@ game (
 )
 
 game (
-	name "Taito Chase H.Q. (USA)"
-	developer "Daiei Seisakusho"
-	rom ( crc 9298254C )
-)
-
-game (
-	name "Taito Chase H.Q. (Japan)"
-	developer "Daiei Seisakusho"
-	rom ( crc 6F4FD790 )
-)
-
-game (
 	name "Takeda Shingen (Japan)"
 	developer "Aicom"
 	rom ( crc F022BE13 )
@@ -1675,6 +1873,18 @@ game (
 	name "Takeda Shingen (Japan) (Alt 1)"
 	developer "Aicom"
 	rom ( crc DF7AF71C )
+)
+
+game (
+	name "Takin' It to the Hoop (USA)"
+	developer "NEC"
+	rom ( crc E9D51797 )
+)
+
+game (
+	name "USA Pro Basketball (Japan)"
+	developer "NEC"
+	rom ( crc 1CAD4B7F )
 )
 
 game (
@@ -1711,6 +1921,18 @@ game (
 	name "Thunder Blade (Japan)"
 	developer "NEC Interchannel"
 	rom ( crc DDC3E809 )
+)
+
+game (
+	name "Tiger Road (USA)"
+	developer "Advance Communication Company"
+	rom ( crc 985D492D )
+)
+
+game (
+	name "Tora e no Michi (Japan)"
+	developer "Advance Communication Company"
+	rom ( crc 82AE3B16 )
 )
 
 game (
@@ -1753,18 +1975,6 @@ game (
 	name "Toy Shop Boys (Japan)"
 	developer "Mutech"
 	rom ( crc 97C5EE9A )
-)
-
-game (
-	name "Tricky Kick (USA)"
-	developer "Alfa System"
-	rom ( crc 48E6FD34 )
-)
-
-game (
-	name "Tricky (Japan)"
-	developer "Alfa System"
-	rom ( crc 3AEA2F8F )
 )
 
 game (
@@ -1837,6 +2047,18 @@ game (
 	name "Veigues - Tactical Gladiator (Japan)"
 	developer "Bits Laboratory"
 	rom ( crc 04188C5C )
+)
+
+game (
+	name "Victory Run (USA)"
+	developer "Hudson"
+	rom ( crc 85CBD045 )
+)
+
+game (
+	name "Victory Run (Japan)"
+	developer "Hudson"
+	rom ( crc 03E28CFF )
 )
 
 game (

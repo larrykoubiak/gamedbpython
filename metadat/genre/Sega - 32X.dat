@@ -4,18 +4,6 @@ clrmamepro (
 )
 
 game (
-	name "After Burner Complete (Europe)"
-	genre "Simulation > Flight > Combat"
-	rom ( crc 029106F5 )
-)
-
-game (
-	name "After Burner Complete ~ After Burner (Japan, USA)"
-	genre "Simulation > Flight > Combat"
-	rom ( crc 204044C4 )
-)
-
-game (
 	name "Amazing Spider-Man, The - Web of Fire (USA)"
 	genre "Action > Platformer > 2D"
 	rom ( crc 29DCE257 )
@@ -76,18 +64,6 @@ game (
 )
 
 game (
-	name "Knuckles' Chaotix (Europe)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 41D63572 )
-)
-
-game (
-	name "Chaotix ~ Knuckles' Chaotix (Japan, USA)"
-	genre "Action > Platformer > 2D"
-	rom ( crc D0B0B842 )
-)
-
-game (
 	name "Kolibri (USA, Europe)"
 	genre "Action > Shooter > Shoot-'Em-Up > Horizontal"
 	rom ( crc 20CA53EF )
@@ -127,12 +103,6 @@ game (
 	name "NFL Quarterback Club (World)"
 	genre "Sports > Team > Football > Sim"
 	rom ( crc 0BC7018D )
-)
-
-game (
-	name "Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)"
-	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
-	rom ( crc 447D44BE )
 )
 
 game (

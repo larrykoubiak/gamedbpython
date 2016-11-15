@@ -322,6 +322,12 @@ game (
 )
 
 game (
+	name "New 3D Golf Simulation - Waialae no Kiseki (Japan) (BS)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 87C888B8 )
+)
+
+game (
 	name "New Yatterman - Nandai Kandai Yajirobee (Japan) (BS) [b]"
 	genre "Action > General"
 	rom ( crc E6A44A5F )
@@ -377,7 +383,7 @@ game (
 
 game (
 	name "Super Aleste (Japan) (BS)"
-	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	genre "Strategy > General"
 	rom ( crc 75993866 )
 )
 
@@ -460,12 +466,6 @@ game (
 )
 
 game (
-	name "Super Volley II (Japan) (BS)"
-	genre "Sports > Team > Volleyball"
-	rom ( crc 83A3781A )
-)
-
-game (
 	name "Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (BS)"
 	genre "Miscellaneous > Board / Card Game"
 	rom ( crc 425F8747 )
@@ -481,11 +481,5 @@ game (
 	name "Undake 30 Same Game Daisakusen - Mario Version (Japan) (BS)"
 	genre "Puzzle > General"
 	rom ( crc 15E27754 )
-)
-
-game (
-	name "Zelda no Densetsu - Kamigami no Triforce (Japan) (BS)"
-	genre "Action Adventure > Open-World"
-	rom ( crc 45507EC3 )
 )
 
