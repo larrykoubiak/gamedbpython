@@ -142,27 +142,15 @@ game (
 )
 
 game (
+	name "Spin ball (USA)"
+	genre "Action > Pinball"
+	rom ( crc 02F41733 )
+)
+
+game (
 	name "Star Castle (USA)"
 	genre "Action > General"
 	rom ( crc C9039623 )
-)
-
-game (
-	name "Star Ship (Europe)"
-	genre "Action > General"
-	rom ( crc 7967A8CB )
-)
-
-game (
-	name "Star Trek - The Motion Picture (USA)"
-	genre "Action > General"
-	rom ( crc 3768D8C3 )
-)
-
-game (
-	name "Star Trek Debugged (USA)"
-	genre "Action > General"
-	rom ( crc 563F846B )
 )
 
 game (

@@ -1,5 +1,4 @@
-﻿key,value
-5200,Atari 5200
+﻿5200,Atari 5200
 7800,Atari 7800
 Jaguar,Jaguar CD
 Jaguar,Jaguar
@@ -32,9 +31,9 @@ Game Boy Color,Game Boy Color
 Game Boy,Game Boy
 Nintendo 64,Nintendo 64
 Nintendo 64DD,Nintendo 64DD
-Nintendo 64DD,Nintendo 3DS
-Nintendo 64DD,Nintendo DSi
-Nintendo 64DD,Nintendo DS
+Nintendo 3DS,Nintendo 3DS
+Nintendo DSi,Nintendo DSi
+Nintendo DS,Nintendo DS
 Nintendo Entertainment System,NES
 Pokemon Mini,Pokémon Mini
 Satellaview,SNES
@@ -64,3 +63,25 @@ Game.com,Game.com
 Game.com,Game.Com
 CreatiVision,CreatiVision
 Supervision,SuperVision
+Asia,AS
+Australia,AU
+Brazil,SA
+Canada,US
+China,AS
+Denmark,EU
+Europe,EU
+France,EU
+Germany,EU
+Greece,EU
+Hong Kong,AS
+Italy,EU
+Japan,JP
+Korea,KO
+Netherlands,EU
+Norway,EU
+Russia,EU
+Spain,EU
+Sweden,EU
+Taiwan,AS
+USA,US
+World,US

@@ -161,13 +161,13 @@ game (
 
 game (
 	name "Dragon Quest II (Japan)"
-	developer "ChunSoft"
+	developer "Enix Corporation"
 	rom ( crc 0BF0C3F5 )
 )
 
 game (
 	name "Dragon Quest II (Japan) (Alt 1)"
-	developer "ChunSoft"
+	developer "Enix Corporation"
 	rom ( crc E012EE7A )
 )
 

@@ -22,33 +22,9 @@ game (
 )
 
 game (
-	name "Golf (USA)"
-	developer "T&E; Soft"
-	rom ( crc 2199AF41 )
-)
-
-game (
-	name "T&E Virtual Golf (Japan)"
-	developer "T&E; Soft"
-	rom ( crc 6BA07915 )
-)
-
-game (
 	name "Innsmouth no Yakata (Japan)"
 	developer "Betop"
 	rom ( crc 83CB6A00 )
-)
-
-game (
-	name "Jack Bros. (USA)"
-	developer "Atlus"
-	rom ( crc A44DE03C )
-)
-
-game (
-	name "Jack Bros. no Meiro de Hiihoo! (Japan)"
-	developer "Atlus"
-	rom ( crc CAB61E8B )
 )
 
 game (
@@ -73,18 +49,6 @@ game (
 	name "Niko-chan Battle (Japan) (Proto)"
 	developer "Bullet Proof Software"
 	rom ( crc F3CD40DD )
-)
-
-game (
-	name "Panic Bomber (USA)"
-	developer "Raizing"
-	rom ( crc 19BB2DFB )
-)
-
-game (
-	name "Tobidase! Panibon (Japan)"
-	developer "Raizing"
-	rom ( crc 40498F5E )
 )
 
 game (
@@ -157,18 +121,6 @@ game (
 	name "Virtual Lab (Japan)"
 	developer "J-Wing"
 	rom ( crc 8989FE0A )
-)
-
-game (
-	name "Virtual League Baseball (USA)"
-	developer "Kemco"
-	rom ( crc 736B40D6 )
-)
-
-game (
-	name "Virtual Pro Yakyuu '95 (Japan)"
-	developer "Kemco"
-	rom ( crc 9BA8BB5E )
 )
 
 game (

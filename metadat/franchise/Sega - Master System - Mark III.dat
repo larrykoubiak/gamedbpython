@@ -46,18 +46,6 @@ game (
 )
 
 game (
-	name "Alex Kidd - High-Tech World (USA, Europe)"
-	franchise "Alex Kidd"
-	rom ( crc 013C0A94 )
-)
-
-game (
-	name "Anmitsu Hime (Japan)"
-	franchise "Alex Kidd"
-	rom ( crc FFF63B0B )
-)
-
-game (
 	name "Alex Kidd - The Lost Stars (World)"
 	franchise "Alex Kidd"
 	rom ( crc C13896D5 )
@@ -130,6 +118,18 @@ game (
 )
 
 game (
+	name "Asterix and the Secret Mission (Europe) (En,Fr,De)"
+	franchise "Asterix"
+	rom ( crc DEF9B14E )
+)
+
+game (
+	name "TV Colosso (Brazil)"
+	franchise "Asterix"
+	rom ( crc E1714A88 )
+)
+
+game (
 	name "Ayrton Senna's Super Monaco GP II (Europe)"
 	franchise "Monaco Grand Prix"
 	rom ( crc E890331D )
@@ -157,6 +157,30 @@ game (
 	name "Bonanza Bros. (Europe)"
 	franchise "Bonanza Bros. / Puzzle & Action"
 	rom ( crc CAEA8002 )
+)
+
+game (
+	name "Bubble Bobble (Europe)"
+	franchise "Bubble Bobble"
+	rom ( crc E843BA7E )
+)
+
+game (
+	name "Bobble Bobble (Korea)"
+	franchise "Bubble Bobble"
+	rom ( crc 25EB9F80 )
+)
+
+game (
+	name "Final Bubble Bobble (Japan)"
+	franchise "Bubble Bobble"
+	rom ( crc 3EBB7457 )
+)
+
+game (
+	name "Super Bubble Bobble (Korea) (Unl)"
+	franchise "Bubble Bobble"
+	rom ( crc 22C09CFD )
 )
 
 game (
@@ -253,6 +277,12 @@ game (
 	name "Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)"
 	franchise "Daffy Duck"
 	rom ( crc 71ABEF27 )
+)
+
+game (
+	name "Deep Duck Trouble Starring Donald Duck (Europe)"
+	franchise "Donald Duck"
+	rom ( crc 42FC3A6E )
 )
 
 game (
@@ -547,18 +577,6 @@ game (
 	name "Lion King, The (Europe)"
 	franchise "The Lion King"
 	rom ( crc C352C7EB )
-)
-
-game (
-	name "Lucky Dime Caper Starring Donald Duck, The (Europe)"
-	franchise "Donald Duck"
-	rom ( crc A1710F13 )
-)
-
-game (
-	name "Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta)"
-	franchise "Donald Duck"
-	rom ( crc 7F6D0DF6 )
 )
 
 game (
@@ -1231,6 +1249,42 @@ game (
 	name "Super Wonder Boy (Japan, Europe)"
 	franchise "Wonder Boy"
 	rom ( crc E2FCB6F3 )
+)
+
+game (
+	name "Wonder Boy III - The Dragon's Trap (USA, Europe)"
+	franchise "Wonder Boy"
+	rom ( crc 679E1676 )
+)
+
+game (
+	name "Turma da Monica em O Resgate (Brazil)"
+	franchise "Wonder Boy"
+	rom ( crc 22CCA9BB )
+)
+
+game (
+	name "Wonder Boy in Monster Land (USA, Europe)"
+	franchise "Wonder Boy"
+	rom ( crc 8CBEF0C1 )
+)
+
+game (
+	name "Monica no Castelo do Dragao (Brazil)"
+	franchise "Wonder Boy"
+	rom ( crc 01D67C0B )
+)
+
+game (
+	name "Super Wonder Boy - Monster World (Japan)"
+	franchise "Wonder Boy"
+	rom ( crc B1DA6A30 )
+)
+
+game (
+	name "Wonder Boy in Monster Land (USA, Europe) (Beta)"
+	franchise "Wonder Boy"
+	rom ( crc 8312C429 )
 )
 
 game (

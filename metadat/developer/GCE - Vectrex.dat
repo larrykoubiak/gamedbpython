@@ -142,27 +142,15 @@ game (
 )
 
 game (
+	name "Spin ball (USA)"
+	developer "GCE"
+	rom ( crc 02F41733 )
+)
+
+game (
 	name "Star Castle (USA)"
 	developer "Cinematronics"
 	rom ( crc C9039623 )
-)
-
-game (
-	name "Star Ship (Europe)"
-	developer "GCE"
-	rom ( crc 7967A8CB )
-)
-
-game (
-	name "Star Trek - The Motion Picture (USA)"
-	developer "GCE"
-	rom ( crc 3768D8C3 )
-)
-
-game (
-	name "Star Trek Debugged (USA)"
-	developer "GCE"
-	rom ( crc 563F846B )
 )
 
 game (

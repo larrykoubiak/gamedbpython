@@ -4,6 +4,18 @@ clrmamepro (
 )
 
 game (
+	name "After Burner Complete (Europe)"
+	franchise "After Burner"
+	rom ( crc 029106F5 )
+)
+
+game (
+	name "After Burner Complete ~ After Burner (Japan, USA)"
+	franchise "After Burner"
+	rom ( crc 204044C4 )
+)
+
+game (
 	name "Amazing Spider-Man, The - Web of Fire (USA)"
 	franchise "Spider-Man"
 	rom ( crc 29DCE257 )
@@ -34,6 +46,18 @@ game (
 )
 
 game (
+	name "Knuckles' Chaotix (Europe)"
+	franchise "Sonic the Hedgehog"
+	rom ( crc 41D63572 )
+)
+
+game (
+	name "Chaotix ~ Knuckles' Chaotix (Japan, USA)"
+	franchise "Sonic the Hedgehog"
+	rom ( crc D0B0B842 )
+)
+
+game (
 	name "NBA Jam - Tournament Edition (World)"
 	franchise "NBA Jam"
 	rom ( crc 6B7994AA )
@@ -43,6 +67,12 @@ game (
 	name "NFL Quarterback Club (World)"
 	franchise "NFL Quarterback Club"
 	rom ( crc 0BC7018D )
+)
+
+game (
+	name "Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)"
+	franchise "Zaxxon"
+	rom ( crc 447D44BE )
 )
 
 game (

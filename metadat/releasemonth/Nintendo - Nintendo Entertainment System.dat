@@ -1,0 +1,10673 @@
+clrmamepro (
+	name "Nintendo - Nintendo Entertainment System"
+	description "Nintendo - Nintendo Entertainment System"
+)
+
+game (
+	name "'89 Dennou Kyuusei Uranai (Japan)"
+	releasemonth "12"
+	rom ( crc BA58ED29 )
+)
+
+game (
+	name "10-Yard Fight (Japan)"
+	releasemonth "8"
+	rom ( crc 836C4FA7 )
+)
+
+game (
+	name "10-Yard Fight (Japan) (Rev 1)"
+	releasemonth "8"
+	rom ( crc 44D21F83 )
+)
+
+game (
+	name "1999 - Hore, Mitakotoka! Seikimatsu (Japan)"
+	releasemonth "9"
+	rom ( crc 29EC0FD1 )
+)
+
+game (
+	name "3-D WorldRunner (USA)"
+	releasemonth "9"
+	rom ( crc E6A477B2 )
+)
+
+game (
+	name "4 Nin Uchi Mahjong (Japan) (Rev A)"
+	releasemonth "11"
+	rom ( crc 84BE00E9 )
+)
+
+game (
+	name "4 Nin Uchi Mahjong (Japan)"
+	releasemonth "11"
+	rom ( crc D91104F1 )
+)
+
+game (
+	name "720 Degrees (USA)"
+	releasemonth "11"
+	rom ( crc 49F745E0 )
+)
+
+game (
+	name "8 Eyes (USA)"
+	releasemonth "1"
+	rom ( crc 326AB3B6 )
+)
+
+game (
+	name "8 Eyes (Japan)"
+	releasemonth "9"
+	rom ( crc F8D53171 )
+)
+
+game (
+	name "A Ressha de Ikou (Japan)"
+	releasemonth "8"
+	rom ( crc 6377CB75 )
+)
+
+game (
+	name "Aa Yakyuu Jinsei Icchokusen (Japan)"
+	releasemonth "12"
+	rom ( crc B7773A07 )
+)
+
+game (
+	name "Abadox - The Deadly Inner War (USA)"
+	releasemonth "3"
+	rom ( crc B134D713 )
+)
+
+game (
+	name "Abadox (Japan)"
+	releasemonth "12"
+	rom ( crc 14CD576E )
+)
+
+game (
+	name "Addams Family, The (Europe) (En,Fr,De)"
+	releasemonth "12"
+	rom ( crc BF700470 )
+)
+
+game (
+	name "Addams Family, The (USA)"
+	releasemonth "1"
+	rom ( crc 65518EAE )
+)
+
+game (
+	name "Addams Family, The - Pugsley's Scavenger Hunt (Europe)"
+	releasemonth "1"
+	rom ( crc 9632C470 )
+)
+
+game (
+	name "Addams Family, The - Pugsley's Scavenger Hunt (USA)"
+	releasemonth "8"
+	rom ( crc 063E5653 )
+)
+
+game (
+	name "Advanced Dungeons & Dragons - Dragons of Flame (Japan)"
+	releasemonth "2"
+	rom ( crc E616FF0A )
+)
+
+game (
+	name "Advanced Dungeons & Dragons - DragonStrike (USA)"
+	releasemonth "7"
+	rom ( crc 2C5908A7 )
+)
+
+game (
+	name "Advanced Dungeons & Dragons - Heroes of the Lance (USA)"
+	releasemonth "1"
+	rom ( crc B17574F3 )
+)
+
+game (
+	name "Advanced Dungeons & Dragons - Heroes of the Lance (Japan)"
+	releasemonth "3"
+	rom ( crc 1E472E7A )
+)
+
+game (
+	name "Advanced Dungeons & Dragons - Hillsfar (USA)"
+	releasemonth "2"
+	rom ( crc 5DE61639 )
+)
+
+game (
+	name "Advanced Dungeons & Dragons - Hillsfar (Japan)"
+	releasemonth "3"
+	rom ( crc 2C33161D )
+)
+
+game (
+	name "Advanced Dungeons & Dragons - Pool of Radiance (USA)"
+	releasemonth "4"
+	rom ( crc 25952141 )
+)
+
+game (
+	name "Advanced Dungeons & Dragons - Pool of Radiance (Japan)"
+	releasemonth "6"
+	rom ( crc CA730971 )
+)
+
+game (
+	name "Adventure Island 3 (USA)"
+	releasemonth "2"
+	rom ( crc BFBFD25D )
+)
+
+game (
+	name "Takahashi Meijin no Bouken-jima III (Japan)"
+	releasemonth "4"
+	rom ( crc 626ABD49 )
+)
+
+game (
+	name "Adventure Island Part II, The (Europe)"
+	releasemonth "7"
+	rom ( crc 7E4BA78F )
+)
+
+game (
+	name "Adventure Island II (USA)"
+	releasemonth "2"
+	rom ( crc 771C8855 )
+)
+
+game (
+	name "Takahashi Meijin no Bouken-jima II (Japan)"
+	releasemonth "4"
+	rom ( crc 701B1ADF )
+)
+
+game (
+	name "Adventures in the Magic Kingdom (Europe)"
+	releasemonth "12"
+	rom ( crc 6B761858 )
+)
+
+game (
+	name "Adventures in the Magic Kingdom (USA)"
+	releasemonth "6"
+	rom ( crc 5DBD6099 )
+)
+
+game (
+	name "Adventures of Bayou Billy, The (Europe)"
+	releasemonth "1"
+	rom ( crc BC9BFFCB )
+)
+
+game (
+	name "Adventures of Bayou Billy, The (USA)"
+	releasemonth "6"
+	rom ( crc 67751094 )
+)
+
+game (
+	name "Mad City (Japan)"
+	releasemonth "8"
+	rom ( crc DF3E45D2 )
+)
+
+game (
+	name "Adventures of Dino Riki (USA)"
+	releasemonth "9"
+	rom ( crc 9BDE3267 )
+)
+
+game (
+	name "Shin Jinrui - The New Type (Japan)"
+	releasemonth "12"
+	rom ( crc 43B0944B )
+)
+
+game (
+	name "Adventures of Gilligan's Island, The (USA)"
+	releasemonth "7"
+	rom ( crc 55773880 )
+)
+
+game (
+	name "Adventures of Lolo (Europe)"
+	releasemonth "2"
+	rom ( crc DF4EDC13 )
+)
+
+game (
+	name "Adventures of Lolo (USA)"
+	releasemonth "4"
+	rom ( crc 71BF075F )
+)
+
+game (
+	name "Adventures of Lolo 2 (Europe)"
+	releasemonth "1"
+	rom ( crc 853FEEA4 )
+)
+
+game (
+	name "Adventures of Lolo (Japan)"
+	releasemonth "1"
+	rom ( crc 297198B9 )
+)
+
+game (
+	name "Adventures of Lolo 2 (USA)"
+	releasemonth "3"
+	rom ( crc 1992D163 )
+)
+
+game (
+	name "Adventures of Lolo 3 (Europe)"
+	releasemonth "2"
+	rom ( crc 37397194 )
+)
+
+game (
+	name "Adventures of Lolo 3 (USA)"
+	releasemonth "4"
+	rom ( crc 8DD92725 )
+)
+
+game (
+	name "Adventures of Rad Gravity, The (Europe)"
+	releasemonth "5"
+	rom ( crc A31142FF )
+)
+
+game (
+	name "Adventures of Rad Gravity, The (USA)"
+	releasemonth "12"
+	rom ( crc D8EE7669 )
+)
+
+game (
+	name "Adventures of Rocky and Bullwinkle and Friends, The (USA)"
+	releasemonth "12"
+	rom ( crc 227CF577 )
+)
+
+game (
+	name "Ai Sensei no Oshiete - Watashi no Hoshi (Japan)"
+	releasemonth "3"
+	rom ( crc 283AD224 )
+)
+
+game (
+	name "Aigina no Yogen - Balubalouk no Densetsu Yori (Japan)"
+	releasemonth "11"
+	rom ( crc 37F59450 )
+)
+
+game (
+	name "Air Fortress (Europe)"
+	releasemonth "1"
+	rom ( crc A1F90826 )
+)
+
+game (
+	name "Air Fortress (Japan)"
+	releasemonth "8"
+	rom ( crc 3E785DC3 )
+)
+
+game (
+	name "Air Fortress (USA)"
+	releasemonth "9"
+	rom ( crc 35C41CD4 )
+)
+
+game (
+	name "Airwolf (Europe)"
+	releasemonth "1"
+	rom ( crc 4D345422 )
+)
+
+game (
+	name "Airwolf (USA)"
+	releasemonth "6"
+	rom ( crc 489EF6A2 )
+)
+
+game (
+	name "Akagawa Jirou no Yuurei Ressha (Japan)"
+	releasemonth "2"
+	rom ( crc 9D976153 )
+)
+
+game (
+	name "Akira (Japan)"
+	releasemonth "12"
+	rom ( crc 8A7D0ABE )
+)
+
+game (
+	name "Akuma-kun - Makai no Wana (Japan)"
+	releasemonth "2"
+	rom ( crc 2C4421B2 )
+)
+
+game (
+	name "Akumajou Special - Boku Dracula-kun (Japan)"
+	releasemonth "10"
+	rom ( crc C1FBF659 )
+)
+
+game (
+	name "Alfred Chicken (Europe)"
+	releasemonth "1"
+	rom ( crc 759418D2 )
+)
+
+game (
+	name "Alfred Chicken (USA)"
+	releasemonth "2"
+	rom ( crc 63E992AC )
+)
+
+game (
+	name "Alien 3 (Europe)"
+	releasemonth "1"
+	rom ( crc DDC6D9C9 )
+)
+
+game (
+	name "Alien 3 (USA)"
+	releasemonth "3"
+	rom ( crc C527C297 )
+)
+
+game (
+	name "Alien Syndrome (Japan)"
+	releasemonth "12"
+	rom ( crc 5B837E8D )
+)
+
+game (
+	name "Alpha Mission (Europe)"
+	releasemonth "1"
+	rom ( crc 976893D2 )
+)
+
+game (
+	name "Alpha Mission (USA)"
+	releasemonth "10"
+	rom ( crc DBF90772 )
+)
+
+game (
+	name "ASO - Armored Scrum Object (Japan)"
+	releasemonth "9"
+	rom ( crc E3E2C3BF )
+)
+
+game (
+	name "America Oudan Ultra Quiz - Shijou Saidai no Tatakai (Japan)"
+	releasemonth "11"
+	rom ( crc 3256114C )
+)
+
+game (
+	name "American Dream (Japan)"
+	releasemonth "9"
+	rom ( crc 3FFA5762 )
+)
+
+game (
+	name "American Gladiators (USA)"
+	releasemonth "10"
+	rom ( crc 1973AEA8 )
+)
+
+game (
+	name "Ankoku Shinwa - Yamato Takeru Densetsu (Japan)"
+	releasemonth "3"
+	rom ( crc 644E312B )
+)
+
+game (
+	name "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)"
+	releasemonth "3"
+	rom ( crc 6F4E4312 )
+)
+
+game (
+	name "Arch Rivals - A Basketbrawl! (Europe)"
+	releasemonth "1"
+	rom ( crc DB9C072D )
+)
+
+game (
+	name "Arch Rivals - A Basketbrawl! (USA)"
+	releasemonth "11"
+	rom ( crc C740EB46 )
+)
+
+game (
+	name "Archon (USA)"
+	releasemonth "12"
+	rom ( crc F304F1B9 )
+)
+
+game (
+	name "Arctic (Japan)"
+	releasemonth "2"
+	rom ( crc 1F74EA6C )
+)
+
+game (
+	name "Argus (Japan)"
+	releasemonth "4"
+	rom ( crc 656FA3B5 )
+)
+
+game (
+	name "Arkanoid (Japan)"
+	releasemonth "12"
+	rom ( crc D89E5A67 )
+)
+
+game (
+	name "Arkanoid (USA)"
+	releasemonth "8"
+	rom ( crc 32FB0583 )
+)
+
+game (
+	name "Arkanoid II (Japan)"
+	releasemonth "3"
+	rom ( crc 0F141525 )
+)
+
+game (
+	name "Arkista's Ring (USA)"
+	releasemonth "6"
+	rom ( crc 1425D7F4 )
+)
+
+game (
+	name "Armadillo (Japan)"
+	releasemonth "8"
+	rom ( crc 78B657AC )
+)
+
+game (
+	name "Artelius (Japan)"
+	releasemonth "11"
+	rom ( crc 093E845F )
+)
+
+game (
+	name "Asmik-kun Land (Japan)"
+	releasemonth "12"
+	rom ( crc 15141401 )
+)
+
+game (
+	name "Astro Fang - Super Machine (Japan)"
+	releasemonth "10"
+	rom ( crc E949EF8A )
+)
+
+game (
+	name "Astro Robo Sasa (Japan)"
+	releasemonth "8"
+	rom ( crc 2DC05A6F )
+)
+
+game (
+	name "Athena (USA)"
+	releasemonth "8"
+	rom ( crc 27DDF227 )
+)
+
+game (
+	name "Athena (Japan)"
+	releasemonth "6"
+	rom ( crc 8BCDE59A )
+)
+
+game (
+	name "Attack Animal Gakuen (Japan)"
+	releasemonth "12"
+	rom ( crc 7D55CF29 )
+)
+
+game (
+	name "Attack of the Killer Tomatoes (Europe)"
+	releasemonth "1"
+	rom ( crc A6153536 )
+)
+
+game (
+	name "Attack of the Killer Tomatoes (USA)"
+	releasemonth "1"
+	rom ( crc 7C6F615F )
+)
+
+game (
+	name "Aussie Rules Footy (Australia)"
+	releasemonth "1"
+	rom ( crc D630EE8F )
+)
+
+game (
+	name "B-Wings (Japan)"
+	releasemonth "6"
+	rom ( crc 74F0A89F )
+)
+
+game (
+	name "Babel no Tou (Japan)"
+	releasemonth "7"
+	rom ( crc 8AF25130 )
+)
+
+game (
+	name "Back to the Future (USA)"
+	releasemonth "9"
+	rom ( crc A55FA397 )
+)
+
+game (
+	name "Back to the Future Part II & III (USA)"
+	releasemonth "9"
+	rom ( crc 37BA3261 )
+)
+
+game (
+	name "Bad Street Brawler (USA)"
+	releasemonth "9"
+	rom ( crc 1AE7B933 )
+)
+
+game (
+	name "Baken Hisshou Gaku - Gate In (Japan)"
+	releasemonth "5"
+	rom ( crc 27C16011 )
+)
+
+game (
+	name "Bakushou! Star Monomane Shitennou (Japan)"
+	releasemonth "9"
+	rom ( crc 6CD9CC23 )
+)
+
+game (
+	name "Bakushou!! Ai no Gekijou (Japan)"
+	releasemonth "12"
+	rom ( crc DCD8D6F4 )
+)
+
+game (
+	name "Bakushou!! Jinsei Gekijou (Japan)"
+	releasemonth "3"
+	rom ( crc ADF606F6 )
+)
+
+game (
+	name "Bakushou!! Jinsei Gekijou 2 (Japan)"
+	releasemonth "3"
+	rom ( crc BC7B1D0F )
+)
+
+game (
+	name "Bakushou!! Jinsei Gekijou 3 (Japan)"
+	releasemonth "12"
+	rom ( crc AEBD6549 )
+)
+
+game (
+	name "Ballblazer (Japan)"
+	releasemonth "3"
+	rom ( crc 484A60DB )
+)
+
+game (
+	name "Balloon Fight (Europe)"
+	releasemonth "3"
+	rom ( crc E54138A9 )
+)
+
+game (
+	name "Balloon Fight (Japan)"
+	releasemonth "1"
+	rom ( crc 2B462010 )
+)
+
+game (
+	name "Balloon Fight (USA)"
+	releasemonth "6"
+	rom ( crc 401349A8 )
+)
+
+game (
+	name "Baltron (Japan)"
+	releasemonth "3"
+	rom ( crc 1F2D9DB7 )
+)
+
+game (
+	name "Banana (Japan)"
+	releasemonth "9"
+	rom ( crc 86ACB36B )
+)
+
+game (
+	name "Bananan Ouji no Daibouken (Japan)"
+	releasemonth "12"
+	rom ( crc 66ED9C00 )
+)
+
+game (
+	name "Banana Prince (Germany)"
+	releasemonth "2"
+	rom ( crc 8A65E57C )
+)
+
+game (
+	name "Bandai Golf - Challenge Pebble Beach (USA)"
+	releasemonth "2"
+	rom ( crc 6CD46979 )
+)
+
+game (
+	name "Barbie (Europe)"
+	releasemonth "1"
+	rom ( crc D364F816 )
+)
+
+game (
+	name "Barbie (USA)"
+	releasemonth "12"
+	rom ( crc 5B6CA654 )
+)
+
+game (
+	name "Barbie (USA) (Rev A)"
+	releasemonth "12"
+	rom ( crc 18B249E5 )
+)
+
+game (
+	name "Barcode World (Japan)"
+	releasemonth "12"
+	rom ( crc 48CA0EE1 )
+)
+
+game (
+	name "Bard's Tale II, The - The Destiny Knight (Japan)"
+	releasemonth "1"
+	rom ( crc C4E1886F )
+)
+
+game (
+	name "Bard's Tale, The (USA)"
+	releasemonth "11"
+	rom ( crc 9B821A83 )
+)
+
+game (
+	name "Bard's Tale, The (Japan)"
+	releasemonth "12"
+	rom ( crc 7EE02CA2 )
+)
+
+game (
+	name "Barker Bill's Trick Shooting (Europe)"
+	releasemonth "6"
+	rom ( crc 1F6660E6 )
+)
+
+game (
+	name "Barker Bill's Trick Shooting (USA)"
+	releasemonth "8"
+	rom ( crc 4318A2F8 )
+)
+
+game (
+	name "Baseball (Japan)"
+	releasemonth "12"
+	rom ( crc 78A48B23 )
+)
+
+game (
+	name "Baseball (USA) (GameCube Edition)"
+	releasemonth "10"
+	rom ( crc 67861A27 )
+)
+
+game (
+	name "Baseball Fighter (Japan)"
+	releasemonth "7"
+	rom ( crc BF7F54B4 )
+)
+
+game (
+	name "Baseball Stars (USA)"
+	releasemonth "7"
+	rom ( crc 40D159B6 )
+)
+
+game (
+	name "Baseball Star - Mezase Sankanou!! (Japan)"
+	releasemonth "5"
+	rom ( crc AE5C3D94 )
+)
+
+game (
+	name "Baseball Stars II (USA)"
+	releasemonth "7"
+	rom ( crc 18A9F0D9 )
+)
+
+game (
+	name "Batman - The Video Game (Europe)"
+	releasemonth "9"
+	rom ( crc D0F70E36 )
+)
+
+game (
+	name "Batman (Japan)"
+	releasemonth "12"
+	rom ( crc 4D7859A9 )
+)
+
+game (
+	name "Batman - The Video Game (USA)"
+	releasemonth "2"
+	rom ( crc 13C6617E )
+)
+
+game (
+	name "Batman Returns (Europe)"
+	releasemonth "1"
+	rom ( crc 79D48F34 )
+)
+
+game (
+	name "Batman Returns (USA)"
+	releasemonth "1"
+	rom ( crc C247A23D )
+)
+
+game (
+	name "Battle Baseball (Japan)"
+	releasemonth "2"
+	rom ( crc 83EA7B04 )
+)
+
+game (
+	name "Battle Chess (USA)"
+	releasemonth "7"
+	rom ( crc 2C2DDFB4 )
+)
+
+game (
+	name "Battle Fleet (Japan)"
+	releasemonth "6"
+	rom ( crc B5FF71AB )
+)
+
+game (
+	name "Battle of Olympus, The (Europe)"
+	releasemonth "9"
+	rom ( crc A97567A4 )
+)
+
+game (
+	name "Battle of Olympus, The (USA)"
+	releasemonth "12"
+	rom ( crc 6B53006A )
+)
+
+game (
+	name "Olympus no Tatakai (Japan)"
+	releasemonth "3"
+	rom ( crc 03D56CF7 )
+)
+
+game (
+	name "Battle Stadium - Senbatsu Pro Yakyuu (Japan)"
+	releasemonth "12"
+	rom ( crc 61A852EA )
+)
+
+game (
+	name "Battle Storm (Japan)"
+	releasemonth "12"
+	rom ( crc 8E373118 )
+)
+
+game (
+	name "BattleCity (Japan)"
+	releasemonth "9"
+	rom ( crc 7E053E64 )
+)
+
+game (
+	name "Battleship (Europe) (En,Fr,De,Es)"
+	releasemonth "1"
+	rom ( crc FC5026EE )
+)
+
+game (
+	name "Battleship (USA)"
+	releasemonth "9"
+	rom ( crc 50CCC8ED )
+)
+
+game (
+	name "Battletoads (Europe)"
+	releasemonth "2"
+	rom ( crc 524A5A32 )
+)
+
+game (
+	name "Battletoads (Japan)"
+	releasemonth "12"
+	rom ( crc 9806CB84 )
+)
+
+game (
+	name "Battletoads (USA)"
+	releasemonth "6"
+	rom ( crc 279710DC )
+)
+
+game (
+	name "Battletoads-Double Dragon (Europe)"
+	releasemonth "1"
+	rom ( crc 23D7D48F )
+)
+
+game (
+	name "Battletoads-Double Dragon (USA)"
+	releasemonth "6"
+	rom ( crc CEB65B06 )
+)
+
+game (
+	name "Be-Bop-Highschool - Koukousei Gokuraku Densetsu (Japan)"
+	releasemonth "3"
+	rom ( crc 2BFB1186 )
+)
+
+game (
+	name "Beauty and the Beast (Europe)"
+	releasemonth "1"
+	rom ( crc C4E81924 )
+)
+
+game (
+	name "Beetlejuice (USA)"
+	releasemonth "5"
+	rom ( crc EB84C54C )
+)
+
+game (
+	name "Best Keiba - Derby Stallion (Japan) (Rev A)"
+	releasemonth "12"
+	rom ( crc 83EAF3B1 )
+)
+
+game (
+	name "Best Keiba - Derby Stallion (Japan)"
+	releasemonth "12"
+	rom ( crc A1A33B85 )
+)
+
+game (
+	name "Best of the Best - Championship Karate (Europe)"
+	releasemonth "1"
+	rom ( crc BD339E75 )
+)
+
+game (
+	name "Best of the Best - Championship Karate (USA)"
+	releasemonth "12"
+	rom ( crc A6A725B8 )
+)
+
+game (
+	name "Best Play Pro Yakyuu '90 (Japan)"
+	releasemonth "12"
+	rom ( crc 974E8840 )
+)
+
+game (
+	name "Best Play Pro Yakyuu - Shin Data (Japan)"
+	releasemonth "10"
+	rom ( crc E19293A2 )
+)
+
+game (
+	name "Best Play Pro Yakyuu (Japan)"
+	releasemonth "7"
+	rom ( crc 3BBFF3A6 )
+)
+
+game (
+	name "Best Play Pro Yakyuu II (Japan)"
+	releasemonth "3"
+	rom ( crc C2EF3422 )
+)
+
+game (
+	name "Best Play Pro Yakyuu Special (Japan) (Rev A)"
+	releasemonth "10"
+	rom ( crc C3DE7C69 )
+)
+
+game (
+	name "Best Play Pro Yakyuu Special (Japan)"
+	releasemonth "10"
+	rom ( crc B8747ABF )
+)
+
+game (
+	name "Bigfoot (Europe)"
+	releasemonth "1"
+	rom ( crc 34C1E893 )
+)
+
+game (
+	name "Bigfoot (USA)"
+	releasemonth "7"
+	rom ( crc C42E648A )
+)
+
+game (
+	name "Bikkuriman World - Gekitou Sei Senshi (Japan)"
+	releasemonth "7"
+	rom ( crc C6224026 )
+)
+
+game (
+	name "Bill & Ted's Excellent Video Game Adventure (USA)"
+	releasemonth "8"
+	rom ( crc C4B6ED3C )
+)
+
+game (
+	name "Bill Elliott's NASCAR Challenge (USA)"
+	releasemonth "4"
+	rom ( crc 847D672D )
+)
+
+game (
+	name "Binary Land (Japan)"
+	releasemonth "12"
+	rom ( crc F5F435B1 )
+)
+
+game (
+	name "Bio Miracle Bokutte Upa (Japan)"
+	releasemonth "2"
+	rom ( crc 6DC28B5A )
+)
+
+game (
+	name "Bird Week (Japan)"
+	releasemonth "6"
+	rom ( crc A8A9B982 )
+)
+
+game (
+	name "Black Bass II, The (Japan)"
+	releasemonth "2"
+	rom ( crc 99A62E47 )
+)
+
+game (
+	name "Black Bass, The (Japan)"
+	releasemonth "2"
+	rom ( crc B04BA659 )
+)
+
+game (
+	name "Blodia Land - Puzzle Quest (Japan)"
+	releasemonth "8"
+	rom ( crc 008E2D30 )
+)
+
+game (
+	name "Bloody Warriors - Shan-Go no Gyakushuu (Japan)"
+	releasemonth "10"
+	rom ( crc 391AA1B8 )
+)
+
+game (
+	name "Blue Marlin, The (USA)"
+	releasemonth "7"
+	rom ( crc F37BEFD5 )
+)
+
+game (
+	name "Blue Marlin, The (Japan)"
+	releasemonth "12"
+	rom ( crc F927FA43 )
+)
+
+game (
+	name "Blues Brothers, The (Europe)"
+	releasemonth "1"
+	rom ( crc E4776A2B )
+)
+
+game (
+	name "Blues Brothers, The (USA)"
+	releasemonth "9"
+	rom ( crc 9F2EEF20 )
+)
+
+game (
+	name "Bo Jackson Baseball (USA)"
+	releasemonth "10"
+	rom ( crc 5FD2AAB1 )
+)
+
+game (
+	name "Bokosuka Wars (Japan)"
+	releasemonth "12"
+	rom ( crc FE18E6B6 )
+)
+
+game (
+	name "Bomberman (USA)"
+	releasemonth "1"
+	rom ( crc DB9DCF89 )
+)
+
+game (
+	name "Bomber Man (Japan)"
+	releasemonth "12"
+	rom ( crc F2FC8212 )
+)
+
+game (
+	name "Booby Kids (Japan)"
+	releasemonth "7"
+	rom ( crc 4178497A )
+)
+
+game (
+	name "Boulder Dash (Europe)"
+	releasemonth "1"
+	rom ( crc E5FCC4C1 )
+)
+
+game (
+	name "Boulder Dash (Japan)"
+	releasemonth "3"
+	rom ( crc 89567668 )
+)
+
+game (
+	name "Boulder Dash (USA)"
+	releasemonth "6"
+	rom ( crc A8F4D99E )
+)
+
+game (
+	name "Bram Stoker's Dracula (Europe)"
+	releasemonth "1"
+	rom ( crc 89A45446 )
+)
+
+game (
+	name "Bram Stoker's Dracula (USA)"
+	releasemonth "9"
+	rom ( crc DFA111F1 )
+)
+
+game (
+	name "Break Time - The National Pool Tour (USA)"
+	releasemonth "1"
+	rom ( crc 5F0BCE2A )
+)
+
+game (
+	name "BreakThru (USA)"
+	releasemonth "11"
+	rom ( crc A5E8D2CD )
+)
+
+game (
+	name "Bubble Bobble Part 2 (USA)"
+	releasemonth "8"
+	rom ( crc E095C3F2 )
+)
+
+game (
+	name "Bubble Bobble 2 (Japan)"
+	releasemonth "3"
+	rom ( crc 6CDC0CD9 )
+)
+
+game (
+	name "Bucky O'Hare (Europe)"
+	releasemonth "2"
+	rom ( crc 6720ABAC )
+)
+
+game (
+	name "Bucky O'Hare (Japan)"
+	releasemonth "1"
+	rom ( crc 26E82008 )
+)
+
+game (
+	name "Bucky O'Hare (USA)"
+	releasemonth "1"
+	rom ( crc E19EE99C )
+)
+
+game (
+	name "Bugs Bunny Blowout, The (Europe)"
+	releasemonth "1"
+	rom ( crc 9BD3F3C2 )
+)
+
+game (
+	name "Bugs Bunny Birthday Blowout, The (USA)"
+	releasemonth "9"
+	rom ( crc 126EBF66 )
+)
+
+game (
+	name "Happy Birthday Bugs (Japan)"
+	releasemonth "8"
+	rom ( crc B47569E2 )
+)
+
+game (
+	name "Bugs Bunny Crazy Castle, The (USA)"
+	releasemonth "8"
+	rom ( crc E50A9130 )
+)
+
+game (
+	name "Bump'n'Jump (USA)"
+	releasemonth "12"
+	rom ( crc A0A095C4 )
+)
+
+game (
+	name "Buggy Popper (Japan)"
+	releasemonth "10"
+	rom ( crc 9FD35802 )
+)
+
+game (
+	name "Burai Fighter (Europe)"
+	releasemonth "1"
+	rom ( crc 28492586 )
+)
+
+game (
+	name "Burai Fighter (Japan)"
+	releasemonth "7"
+	rom ( crc E9176129 )
+)
+
+game (
+	name "Burai Fighter (USA)"
+	releasemonth "3"
+	rom ( crc CE228874 )
+)
+
+game (
+	name "BurgerTime (USA)"
+	releasemonth "5"
+	rom ( crc DAF9D7E3 )
+)
+
+game (
+	name "BurgerTime (Japan)"
+	releasemonth "11"
+	rom ( crc CE67507A )
+)
+
+game (
+	name "Business Wars (Japan)"
+	releasemonth "1"
+	rom ( crc 8D77E5E6 )
+)
+
+game (
+	name "Cabal (USA)"
+	releasemonth "6"
+	rom ( crc BDF046EF )
+)
+
+game (
+	name "Cadillac (Japan)"
+	releasemonth "2"
+	rom ( crc 0719260C )
+)
+
+game (
+	name "Caesars Palace (USA)"
+	releasemonth "12"
+	rom ( crc DB1D03E5 )
+)
+
+game (
+	name "California Games (Europe)"
+	releasemonth "1"
+	rom ( crc B400172A )
+)
+
+game (
+	name "California Games (USA)"
+	releasemonth "6"
+	rom ( crc 2F66E302 )
+)
+
+game (
+	name "Capcom's Gold Medal Challenge '92 (Europe)"
+	releasemonth "6"
+	rom ( crc 1590CF62 )
+)
+
+game (
+	name "Capcom Barcelona '92 (Japan)"
+	releasemonth "6"
+	rom ( crc CB5ACB49 )
+)
+
+game (
+	name "Capcom's Gold Medal Challenge '92 (USA)"
+	releasemonth "8"
+	rom ( crc BE250388 )
+)
+
+game (
+	name "Captain America and the Avengers (USA)"
+	releasemonth "12"
+	rom ( crc 58C7DDAF )
+)
+
+game (
+	name "Captain ED (Japan)"
+	releasemonth "8"
+	rom ( crc 3F56A392 )
+)
+
+game (
+	name "Captain Planet and the Planeteers (Europe)"
+	releasemonth "8"
+	rom ( crc 8D901FAD )
+)
+
+game (
+	name "Captain Planet and the Planeteers (USA)"
+	releasemonth "9"
+	rom ( crc 0B404915 )
+)
+
+game (
+	name "Captain Silver (Japan)"
+	releasemonth "12"
+	rom ( crc CB0A3AF4 )
+)
+
+game (
+	name "Captain Skyhawk (Europe)"
+	releasemonth "5"
+	rom ( crc 1EFE38EB )
+)
+
+game (
+	name "Captain Skyhawk (USA)"
+	releasemonth "6"
+	rom ( crc F518DD58 )
+)
+
+game (
+	name "Captain Skyhawk (USA) (Rev A)"
+	releasemonth "6"
+	rom ( crc EFD26E37 )
+)
+
+game (
+	name "Captain Tsubasa Vol. II - Super Striker (Japan)"
+	releasemonth "7"
+	rom ( crc 31B44C65 )
+)
+
+game (
+	name "Casino Kid (USA)"
+	releasemonth "10"
+	rom ( crc 05A688C8 )
+)
+
+game (
+	name "100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)"
+	releasemonth "1"
+	rom ( crc 73E41AC7 )
+)
+
+game (
+	name "Casino Kid II (USA)"
+	releasemonth "4"
+	rom ( crc 7329118D )
+)
+
+game (
+	name "Castle Quest (Japan)"
+	releasemonth "5"
+	rom ( crc BF4F4BA6 )
+)
+
+game (
+	name "Castlequest (USA)"
+	releasemonth "9"
+	rom ( crc 12906664 )
+)
+
+game (
+	name "Castle Excellent (Japan)"
+	releasemonth "11"
+	rom ( crc 7FA2CC55 )
+)
+
+game (
+	name "Castlevania (Europe)"
+	releasemonth "12"
+	rom ( crc A93527E2 )
+)
+
+game (
+	name "Akumajou Dracula (Japan)"
+	releasemonth "2"
+	rom ( crc A0F99BB8 )
+)
+
+game (
+	name "Castlevania (USA)"
+	releasemonth "5"
+	rom ( crc 0AC1AA8F )
+)
+
+game (
+	name "Castlevania (USA) (Rev A)"
+	releasemonth "5"
+	rom ( crc B668C7FC )
+)
+
+game (
+	name "Castlevania II - Simon's Quest (Europe)"
+	releasemonth "4"
+	rom ( crc D6F7383E )
+)
+
+game (
+	name "Castlevania II - Simon's Quest (USA)"
+	releasemonth "12"
+	rom ( crc C471E42D )
+)
+
+game (
+	name "Castlevania III - Dracula's Curse (Europe)"
+	releasemonth "12"
+	rom ( crc 671F23A8 )
+)
+
+game (
+	name "Akumajou Densetsu (Japan)"
+	releasemonth "12"
+	rom ( crc E349AF38 )
+)
+
+game (
+	name "Castlevania III - Dracula's Curse (USA)"
+	releasemonth "9"
+	rom ( crc ED2465BE )
+)
+
+game (
+	name "Cat Ninden Teyandee (Japan)"
+	releasemonth "7"
+	rom ( crc 45878D7F )
+)
+
+game (
+	name "Caveman Games (USA)"
+	releasemonth "10"
+	rom ( crc D1EA84C3 )
+)
+
+game (
+	name "Chack'n Pop (Japan)"
+	releasemonth "5"
+	rom ( crc 622F059D )
+)
+
+game (
+	name "Challenger (Japan)"
+	releasemonth "10"
+	rom ( crc 73418721 )
+)
+
+game (
+	name "Championship Bowling (USA)"
+	releasemonth "12"
+	rom ( crc EAC38105 )
+)
+
+game (
+	name "Championship Bowling (Japan)"
+	releasemonth "2"
+	rom ( crc 9992F445 )
+)
+
+game (
+	name "Championship Lode Runner (Japan)"
+	releasemonth "4"
+	rom ( crc ADB5D0B3 )
+)
+
+game (
+	name "Championship Pool (USA)"
+	releasemonth "10"
+	rom ( crc CDC641FC )
+)
+
+game (
+	name "Chaos World (Japan)"
+	releasemonth "10"
+	rom ( crc E0CBC2BA )
+)
+
+game (
+	name "Chessmaster, The (Europe)"
+	releasemonth "3"
+	rom ( crc E3027EBE )
+)
+
+game (
+	name "Chessmaster, The (USA)"
+	releasemonth "1"
+	rom ( crc D7F6320C )
+)
+
+game (
+	name "Chessmaster, The (USA) (Rev A)"
+	releasemonth "1"
+	rom ( crc 19F4CA6B )
+)
+
+game (
+	name "Chester Field - Ankoku Shin e no Chousen (Japan)"
+	releasemonth "7"
+	rom ( crc 6C70A17B )
+)
+
+game (
+	name "Chibi Maruko-chan - Uki Uki Shopping (Japan)"
+	releasemonth "10"
+	rom ( crc 0C47946D )
+)
+
+game (
+	name "Chiisana Obake - Acchi Socchi Kocchi (Japan)"
+	releasemonth "12"
+	rom ( crc 5DEC84F8 )
+)
+
+game (
+	name "Chip 'n Dale - Rescue Rangers (Europe)"
+	releasemonth "12"
+	rom ( crc 84F7FC31 )
+)
+
+game (
+	name "Chip 'n Dale - Rescue Rangers (USA)"
+	releasemonth "6"
+	rom ( crc 8BF29CB6 )
+)
+
+game (
+	name "Chip to Dale no Daisakusen (Japan)"
+	releasemonth "6"
+	rom ( crc D923EB5B )
+)
+
+game (
+	name "Chip 'n Dale - Rescue Rangers 2 (Europe)"
+	releasemonth "12"
+	rom ( crc F83E0D2D )
+)
+
+game (
+	name "Chip 'n Dale - Rescue Rangers 2 (USA)"
+	releasemonth "6"
+	rom ( crc FC5783A7 )
+)
+
+game (
+	name "Chip to Dale no Daisakusen 2 (Japan)"
+	releasemonth "6"
+	rom ( crc 99686DAD )
+)
+
+game (
+	name "Chiyonofuji no Ooichou (Japan)"
+	releasemonth "12"
+	rom ( crc F32748A1 )
+)
+
+game (
+	name "Choplifter (Japan) (En) (Rev 1)"
+	releasemonth "6"
+	rom ( crc 38EF66B5 )
+)
+
+game (
+	name "Choplifter (Japan)"
+	releasemonth "6"
+	rom ( crc 883454EA )
+)
+
+game (
+	name "Choujikuu Yousai - Macross (Japan)"
+	releasemonth "12"
+	rom ( crc C1D7AB1D )
+)
+
+game (
+	name "Choujin Sentai Jetman (Japan)"
+	releasemonth "12"
+	rom ( crc 952A9E77 )
+)
+
+game (
+	name "Chuugoku Janshi Story - Tonfuu (Japan)"
+	releasemonth "12"
+	rom ( crc 5AB54795 )
+)
+
+game (
+	name "Chuugoku Senseijutsu (Japan)"
+	releasemonth "11"
+	rom ( crc F64CB545 )
+)
+
+game (
+	name "Chuuka Taisen (Japan)"
+	releasemonth "9"
+	rom ( crc 8E0D9179 )
+)
+
+game (
+	name "Circus Charlie (Japan)"
+	releasemonth "3"
+	rom ( crc B87AB35A )
+)
+
+game (
+	name "City Adventure Touch - Mystery of Triangle (Japan)"
+	releasemonth "3"
+	rom ( crc B834EB30 )
+)
+
+game (
+	name "City Connection (Europe)"
+	releasemonth "1"
+	rom ( crc 681798A8 )
+)
+
+game (
+	name "City Connection (Japan)"
+	releasemonth "9"
+	rom ( crc 20F98977 )
+)
+
+game (
+	name "City Connection (USA)"
+	releasemonth "5"
+	rom ( crc AE8666B4 )
+)
+
+game (
+	name "Classic Concentration (USA)"
+	releasemonth "9"
+	rom ( crc A3C0D49F )
+)
+
+game (
+	name "Cliffhanger (USA)"
+	releasemonth "11"
+	rom ( crc 57C2AE4E )
+)
+
+game (
+	name "Clu Clu Land (World)"
+	releasemonth "10"
+	rom ( crc 48F68D40 )
+)
+
+game (
+	name "Clu Clu Land (USA) (GameCube Edition)"
+	releasemonth "10"
+	rom ( crc DFEFE8CD )
+)
+
+game (
+	name "Cobra Command (USA)"
+	releasemonth "11"
+	rom ( crc 2D75C7A9 )
+)
+
+game (
+	name "Cobra Command (Japan)"
+	releasemonth "10"
+	rom ( crc 24BA90CA )
+)
+
+game (
+	name "Cobra Triangle (Europe)"
+	releasemonth "1"
+	rom ( crc 898E4232 )
+)
+
+game (
+	name "Cobra Triangle (USA)"
+	releasemonth "7"
+	rom ( crc C8AD4F32 )
+)
+
+game (
+	name "Cocoron (Japan)"
+	releasemonth "5"
+	rom ( crc 78C4460D )
+)
+
+game (
+	name "Color a Dinosaur (USA)"
+	releasemonth "7"
+	rom ( crc 0123BFFE )
+)
+
+game (
+	name "Columbus - Ougon no Yoake (Japan)"
+	releasemonth "11"
+	rom ( crc 30A225A8 )
+)
+
+game (
+	name "Conan (USA)"
+	releasemonth "2"
+	rom ( crc C6000085 )
+)
+
+game (
+	name "Conflict (USA)"
+	releasemonth "3"
+	rom ( crc 32CF4307 )
+)
+
+game (
+	name "Conflict (Japan)"
+	releasemonth "12"
+	rom ( crc A6648353 )
+)
+
+game (
+	name "Cool World (USA)"
+	releasemonth "6"
+	rom ( crc D73AA04C )
+)
+
+game (
+	name "Cosmic Epsilon (Japan)"
+	releasemonth "11"
+	rom ( crc DC75732F )
+)
+
+game (
+	name "Cosmic Wars (Japan)"
+	releasemonth "8"
+	rom ( crc 9F2712DF )
+)
+
+game (
+	name "Cosmo Police Galivan (Japan)"
+	releasemonth "6"
+	rom ( crc E53F7A55 )
+)
+
+game (
+	name "Crackout (Europe)"
+	releasemonth "1"
+	rom ( crc 81AF4AF9 )
+)
+
+game (
+	name "Crash 'n' the Boys - Street Challenge (USA)"
+	releasemonth "10"
+	rom ( crc C7F0C457 )
+)
+
+game (
+	name "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)"
+	releasemonth "6"
+	rom ( crc 4E99CEA4 )
+)
+
+game (
+	name "Crayon Shin-chan - Ora to Poi Poi (Japan)"
+	releasemonth "8"
+	rom ( crc DB05106E )
+)
+
+game (
+	name "Datach - Crayon Shin-chan - Ora to Poi Poi (Japan)"
+	releasemonth "8"
+	rom ( crc 894EFDBC )
+)
+
+game (
+	name "Crazy Climber (Japan)"
+	releasemonth "12"
+	rom ( crc C68363F6 )
+)
+
+game (
+	name "Crisis Force (Japan)"
+	releasemonth "8"
+	rom ( crc FCBF28B1 )
+)
+
+game (
+	name "Cross Fire (Japan)"
+	releasemonth "11"
+	rom ( crc E95454FC )
+)
+
+game (
+	name "Crystalis (USA)"
+	releasemonth "1"
+	rom ( crc 1335CB05 )
+)
+
+game (
+	name "Cyber Stadium Series - Base Wars (USA)"
+	releasemonth "6"
+	rom ( crc F00584B6 )
+)
+
+game (
+	name "Cyberball (USA)"
+	releasemonth "1"
+	rom ( crc 88338ED5 )
+)
+
+game (
+	name "Cybernoid - The Fighting Machine (USA)"
+	releasemonth "12"
+	rom ( crc AC8DCDEA )
+)
+
+game (
+	name "Cycle Race - Road Man (Japan)"
+	releasemonth "12"
+	rom ( crc E429F0D3 )
+)
+
+game (
+	name "Dai-2-ji Super Robot Taisen (Japan)"
+	releasemonth "12"
+	rom ( crc C48363B4 )
+)
+
+game (
+	name "Daikaijuu Deburas (Japan)"
+	releasemonth "12"
+	rom ( crc 956E3D90 )
+)
+
+game (
+	name "Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)"
+	releasemonth "10"
+	rom ( crc 93B2CEC4 )
+)
+
+game (
+	name "Daisenryaku (Japan)"
+	releasemonth "10"
+	rom ( crc 5A5A0CD9 )
+)
+
+game (
+	name "Daiva - Imperial of Nirsartia (Japan)"
+	releasemonth "12"
+	rom ( crc 721B5217 )
+)
+
+game (
+	name "Danny Sullivan's Indy Heat (Europe)"
+	releasemonth "1"
+	rom ( crc 27CA0679 )
+)
+
+game (
+	name "Danny Sullivan's Indy Heat (USA)"
+	releasemonth "8"
+	rom ( crc C1B43207 )
+)
+
+game (
+	name "Dark Lord (Japan)"
+	releasemonth "2"
+	rom ( crc 3EFF62E4 )
+)
+
+game (
+	name "Darkman (Europe)"
+	releasemonth "1"
+	rom ( crc CFE02ADA )
+)
+
+game (
+	name "Darkman (USA)"
+	releasemonth "10"
+	rom ( crc 398B8182 )
+)
+
+game (
+	name "Dash Galaxy in the Alien Asylum (USA)"
+	releasemonth "2"
+	rom ( crc 67811DA6 )
+)
+
+game (
+	name "Datach - Battle Rush - Build Up Robot Tournament (Japan)"
+	releasemonth "11"
+	rom ( crc 983D8175 )
+)
+
+game (
+	name "Datach - J League Super Top Players (Japan)"
+	releasemonth "4"
+	rom ( crc BE06853F )
+)
+
+game (
+	name "Datach - Yu Yu Hakusho - Bakutou Ankoku Bujutsukai (Japan)"
+	releasemonth "10"
+	rom ( crc F51A7F46 )
+)
+
+game (
+	name "Day Dreamin' Davey (USA)"
+	releasemonth "6"
+	rom ( crc E145B441 )
+)
+
+game (
+	name "Days of Thunder (Europe)"
+	releasemonth "4"
+	rom ( crc FA73D3A2 )
+)
+
+game (
+	name "Days of Thunder (USA)"
+	releasemonth "10"
+	rom ( crc 12748678 )
+)
+
+game (
+	name "Deblock (Japan)"
+	releasemonth "8"
+	rom ( crc 3FC1DC19 )
+)
+
+game (
+	name "Deep Dungeon III - Yuushi e no Tabi (Japan)"
+	releasemonth "5"
+	rom ( crc 73F7E5D8 )
+)
+
+game (
+	name "Deep Dungeon IV - Kuro no Youjutsushi (Japan)"
+	releasemonth "4"
+	rom ( crc FE364BE5 )
+)
+
+game (
+	name "Defender of the Crown (Europe)"
+	releasemonth "7"
+	rom ( crc 68F9B5F5 )
+)
+
+game (
+	name "Defender of the Crown (France)"
+	releasemonth "7"
+	rom ( crc 2FD2E632 )
+)
+
+game (
+	name "Defender of the Crown (USA)"
+	releasemonth "7"
+	rom ( crc 28FB71AE )
+)
+
+game (
+	name "Defenders of Dynatron City (USA)"
+	releasemonth "7"
+	rom ( crc A725B2D3 )
+)
+
+game (
+	name "Derby Stallion - Zenkoku Ban (Japan)"
+	releasemonth "8"
+	rom ( crc 8C4D59D6 )
+)
+
+game (
+	name "Sensha Senryaku - Sabaku no Kitsune (Japan)"
+	releasemonth "3"
+	rom ( crc 828F8F1F )
+)
+
+game (
+	name "Destination Earthstar (USA)"
+	releasemonth "2"
+	rom ( crc EB9960EE )
+)
+
+game (
+	name "Devil Man (Japan)"
+	releasemonth "4"
+	rom ( crc D1691028 )
+)
+
+game (
+	name "Devil World (Europe)"
+	releasemonth "7"
+	rom ( crc 0C783F0C )
+)
+
+game (
+	name "Devil World (Japan)"
+	releasemonth "10"
+	rom ( crc 5FAB6BCE )
+)
+
+game (
+	name "Devil World (Japan) (Rev A)"
+	releasemonth "10"
+	rom ( crc 145A9A6C )
+)
+
+game (
+	name "Dick Tracy (USA)"
+	releasemonth "8"
+	rom ( crc D738C059 )
+)
+
+game (
+	name "Die Hard (Europe)"
+	releasemonth "1"
+	rom ( crc 607BD020 )
+)
+
+game (
+	name "Die Hard (Japan)"
+	releasemonth "7"
+	rom ( crc 28C2DFCE )
+)
+
+game (
+	name "Die Hard (USA)"
+	releasemonth "1"
+	rom ( crc 085DE7C9 )
+)
+
+game (
+	name "Dig Dug (Japan)"
+	releasemonth "6"
+	rom ( crc B174B680 )
+)
+
+game (
+	name "Dig Dug II - Trouble in Paradise (USA)"
+	releasemonth "12"
+	rom ( crc DBB06A25 )
+)
+
+game (
+	name "Dig Dug II (Japan)"
+	releasemonth "4"
+	rom ( crc 2BE254E9 )
+)
+
+game (
+	name "Digger T. Rock - The Legend of the Lost City (Europe)"
+	releasemonth "1"
+	rom ( crc 96CFB4D8 )
+)
+
+game (
+	name "Digger - The Legend of the Lost City (USA)"
+	releasemonth "12"
+	rom ( crc 1CEE0C21 )
+)
+
+game (
+	name "Digital Devil Story - Megami Tensei (Japan)"
+	releasemonth "9"
+	rom ( crc 5393D949 )
+)
+
+game (
+	name "Digital Devil Story - Megami Tensei II (Japan) (Rev A)"
+	releasemonth "4"
+	rom ( crc 10C9A789 )
+)
+
+game (
+	name "Digital Devil Story - Megami Tensei II (Japan)"
+	releasemonth "4"
+	rom ( crc 96773F32 )
+)
+
+game (
+	name "Dirty Harry (USA)"
+	releasemonth "12"
+	rom ( crc 0C2E7863 )
+)
+
+game (
+	name "Dokuganryuu Masamune (Japan)"
+	releasemonth "4"
+	rom ( crc 10C8F2FA )
+)
+
+game (
+	name "Don Doko Don (Japan)"
+	releasemonth "3"
+	rom ( crc 7A497AE3 )
+)
+
+game (
+	name "Don Doko Don 2 (Japan)"
+	releasemonth "1"
+	rom ( crc A7B0536C )
+)
+
+game (
+	name "Donald Land (Japan)"
+	releasemonth "1"
+	rom ( crc D17B76DA )
+)
+
+game (
+	name "Donkey Kong (World) (Rev A)"
+	releasemonth "6"
+	rom ( crc 6F97C721 )
+)
+
+game (
+	name "Donkey Kong (Japan)"
+	releasemonth "7"
+	rom ( crc F863D5BB )
+)
+
+game (
+	name "Donkey Kong (USA) (GameCube Edition)"
+	releasemonth "6"
+	rom ( crc 9D779B08 )
+)
+
+game (
+	name "Donkey Kong 3 (World)"
+	releasemonth "6"
+	rom ( crc B3D74C0D )
+)
+
+game (
+	name "Donkey Kong Jr. (World) (Rev A)"
+	releasemonth "6"
+	rom ( crc 4864C304 )
+)
+
+game (
+	name "Donkey Kong Jr. (Japan)"
+	releasemonth "7"
+	rom ( crc E211B93A )
+)
+
+game (
+	name "Donkey Kong Jr. (USA) (GameCube Edition)"
+	releasemonth "6"
+	rom ( crc A69A1F2A )
+)
+
+game (
+	name "Donkey Kong Jr. no Sansuu Asobi (Japan)"
+	releasemonth "7"
+	rom ( crc 63AEA200 )
+)
+
+game (
+	name "Door Door (Japan)"
+	releasemonth "7"
+	rom ( crc 12E6CB79 )
+)
+
+game (
+	name "Doraemon (Japan) (Rev A)"
+	releasemonth "12"
+	rom ( crc 336093EF )
+)
+
+game (
+	name "Doraemon (Japan)"
+	releasemonth "12"
+	rom ( crc BDE3AE9B )
+)
+
+game (
+	name "Doraemon - Giga Zombie no Gyakushuu (Japan)"
+	releasemonth "9"
+	rom ( crc D7215873 )
+)
+
+game (
+	name "Double Dare (USA)"
+	releasemonth "4"
+	rom ( crc 2B378D11 )
+)
+
+game (
+	name "Double Dragon (Europe)"
+	releasemonth "1"
+	rom ( crc A1A0C13F )
+)
+
+game (
+	name "Double Dragon (USA)"
+	releasemonth "6"
+	rom ( crc 0F1CC048 )
+)
+
+game (
+	name "Sou Setsu Ryuu - Double Dragon (Japan)"
+	releasemonth "4"
+	rom ( crc 6DCE4B23 )
+)
+
+game (
+	name "Double Dragon II - The Revenge (Europe)"
+	releasemonth "1"
+	rom ( crc AEB2D754 )
+)
+
+game (
+	name "Double Dragon II - The Revenge (USA)"
+	releasemonth "1"
+	rom ( crc 13C774DD )
+)
+
+game (
+	name "Double Dragon II - The Revenge (USA) (Rev A)"
+	releasemonth "1"
+	rom ( crc 8A640AEF )
+)
+
+game (
+	name "Sou Setsu Ryuu II - The Revenge (Japan)"
+	releasemonth "12"
+	rom ( crc A66596D9 )
+)
+
+game (
+	name "Double Dragon III - The Sacred Stones (Europe)"
+	releasemonth "1"
+	rom ( crc E9D352EB )
+)
+
+game (
+	name "Double Dragon III - The Sacred Stones (USA)"
+	releasemonth "2"
+	rom ( crc 50FD0CC6 )
+)
+
+game (
+	name "Sou Setsu Ryuu III - The Rosetta Stone (Japan)"
+	releasemonth "2"
+	rom ( crc 6AE69227 )
+)
+
+game (
+	name "Double Dribble (Europe)"
+	releasemonth "12"
+	rom ( crc 7F4CB1B4 )
+)
+
+game (
+	name "Double Dribble (USA)"
+	releasemonth "9"
+	rom ( crc 437E7B69 )
+)
+
+game (
+	name "Double Dribble (USA) (Rev A)"
+	releasemonth "9"
+	rom ( crc D0E96F6B )
+)
+
+game (
+	name "Double Moon Densetsu (Japan)"
+	releasemonth "10"
+	rom ( crc A60FBA51 )
+)
+
+game (
+	name "Dough Boy (Japan)"
+	releasemonth "12"
+	rom ( crc F760F1CB )
+)
+
+game (
+	name "Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)"
+	releasemonth "10"
+	rom ( crc 3E470FE0 )
+)
+
+game (
+	name "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)"
+	releasemonth "7"
+	rom ( crc DC45A886 )
+)
+
+game (
+	name "Dr. Chaos (USA)"
+	releasemonth "11"
+	rom ( crc 73620901 )
+)
+
+game (
+	name "Dr. Mario (Europe)"
+	releasemonth "6"
+	rom ( crc 9735D267 )
+)
+
+game (
+	name "Dragon Ball - Daimaou Fukkatsu (Japan)"
+	releasemonth "8"
+	rom ( crc 33B899C9 )
+)
+
+game (
+	name "Dragon Ball 3 - Gokuu Den (Japan) (Rev 1)"
+	releasemonth "10"
+	rom ( crc BFC7A2E9 )
+)
+
+game (
+	name "Dragon Ball 3 - Gokuu Den (Japan)"
+	releasemonth "10"
+	rom ( crc 6E68E31A )
+)
+
+game (
+	name "Dragon Ball Z - Kyoushuu! Saiya Jin (Japan)"
+	releasemonth "10"
+	rom ( crc 183859D2 )
+)
+
+game (
+	name "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)"
+	releasemonth "8"
+	rom ( crc 136CA449 )
+)
+
+game (
+	name "Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1)"
+	releasemonth "8"
+	rom ( crc A9541452 )
+)
+
+game (
+	name "Dragon Ball Z II - Gekishin Freeza!! (Japan)"
+	releasemonth "8"
+	rom ( crc 99240573 )
+)
+
+game (
+	name "Dragon Ball Z III - Ressen Jinzou Ningen (Japan)"
+	releasemonth "8"
+	rom ( crc DC52BF0C )
+)
+
+game (
+	name "Dragon Buster (Japan)"
+	releasemonth "1"
+	rom ( crc 7B6DC772 )
+)
+
+game (
+	name "Dragon Buster II - Yami no Fuuin (Japan)"
+	releasemonth "4"
+	rom ( crc D7AA0B6D )
+)
+
+game (
+	name "Dragon Fighter (USA)"
+	releasemonth "1"
+	rom ( crc A166548F )
+)
+
+game (
+	name "Dragon Fighter (Japan)"
+	releasemonth "8"
+	rom ( crc 4B0DACCE )
+)
+
+game (
+	name "Dragon Power (USA)"
+	releasemonth "3"
+	rom ( crc 811F06D9 )
+)
+
+game (
+	name "Dragon Ball - Le Secret du Dragon (France)"
+	releasemonth "1"
+	rom ( crc 4F3B2E57 )
+)
+
+game (
+	name "Dragon Ball - Le Secret du Dragon (France) (Rev A)"
+	releasemonth "1"
+	rom ( crc B0BC46D1 )
+)
+
+game (
+	name "Dragon Ball - Shen Long no Nazo (Japan)"
+	releasemonth "11"
+	rom ( crc 9552E8DF )
+)
+
+game (
+	name "Dragon Scroll - Yomigaerishi Maryuu (Japan)"
+	releasemonth "12"
+	rom ( crc AC9895CC )
+)
+
+game (
+	name "Dragon Spirit - The New Legend (USA)"
+	releasemonth "6"
+	rom ( crc D7E29C03 )
+)
+
+game (
+	name "Dragon Spirit - Aratanaru Densetsu (Japan)"
+	releasemonth "4"
+	rom ( crc D2699893 )
+)
+
+game (
+	name "Dragon Warrior (USA) (Rev A)"
+	releasemonth "8"
+	rom ( crc 2545214C )
+)
+
+game (
+	name "Dragon Quest (Japan)"
+	releasemonth "5"
+	rom ( crc 88053D25 )
+)
+
+game (
+	name "Dragon Warrior (USA)"
+	releasemonth "8"
+	rom ( crc 3B3F88F0 )
+)
+
+game (
+	name "Dragon Warrior II (USA)"
+	releasemonth "9"
+	rom ( crc 8C5A784E )
+)
+
+game (
+	name "Dragon Quest II - Akuryou no Kamigami (Japan)"
+	releasemonth "1"
+	rom ( crc 48349B0B )
+)
+
+game (
+	name "Dragon Warrior III (USA)"
+	releasemonth "3"
+	rom ( crc A86A5318 )
+)
+
+game (
+	name "Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 0A)"
+	releasemonth "2"
+	rom ( crc A49B48B8 )
+)
+
+game (
+	name "Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B)"
+	releasemonth "2"
+	rom ( crc 869501CA )
+)
+
+game (
+	name "Dragon Warrior IV (USA)"
+	releasemonth "10"
+	rom ( crc 506E259D )
+)
+
+game (
+	name "Dragon Quest IV - Michibikareshi Monotachi (Japan)"
+	releasemonth "2"
+	rom ( crc 2DD71ACB )
+)
+
+game (
+	name "Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev A)"
+	releasemonth "2"
+	rom ( crc 0794F2A5 )
+)
+
+game (
+	name "Dragon Wars (Japan)"
+	releasemonth "8"
+	rom ( crc 87CE3F34 )
+)
+
+game (
+	name "Dropzone (Europe)"
+	releasemonth "1"
+	rom ( crc E402B134 )
+)
+
+game (
+	name "Druaga no Tou (Japan)"
+	releasemonth "8"
+	rom ( crc EB764567 )
+)
+
+game (
+	name "Duck Hunt (World)"
+	releasemonth "10"
+	rom ( crc 24598791 )
+)
+
+game (
+	name "Dungeon Kid (Japan)"
+	releasemonth "8"
+	rom ( crc D68A6F33 )
+)
+
+game (
+	name "Dungeon Magic - Sword of the Elements (USA)"
+	releasemonth "7"
+	rom ( crc 23C3FB2D )
+)
+
+game (
+	name "Dungeon & Magic - Swords of Element (Japan)"
+	releasemonth "11"
+	rom ( crc 459D0C2A )
+)
+
+game (
+	name "Dynablaster (Europe)"
+	releasemonth "1"
+	rom ( crc 34BB757B )
+)
+
+game (
+	name "Bomber Man II (Japan)"
+	releasemonth "6"
+	rom ( crc 0C401790 )
+)
+
+game (
+	name "Bomberman II (USA)"
+	releasemonth "2"
+	rom ( crc 1EBB5B42 )
+)
+
+game (
+	name "Dynamite Bowl (Japan) (Rev A)"
+	releasemonth "5"
+	rom ( crc 9E66A66B )
+)
+
+game (
+	name "Dynamite Bowl (Japan)"
+	releasemonth "5"
+	rom ( crc B786AB95 )
+)
+
+game (
+	name "Dynowarz - Destruction of Spondylus (USA)"
+	releasemonth "4"
+	rom ( crc BDE93999 )
+)
+
+game (
+	name "Eggerland - Meikyuu no Fukkatsu (Japan)"
+	releasemonth "8"
+	rom ( crc 77DCBBA3 )
+)
+
+game (
+	name "Egypt (Japan)"
+	releasemonth "5"
+	rom ( crc E1C03EB6 )
+)
+
+game (
+	name "Elevator Action (USA)"
+	releasemonth "8"
+	rom ( crc 2AC87283 )
+)
+
+game (
+	name "Elevator Action (Japan)"
+	releasemonth "6"
+	rom ( crc FCDACA80 )
+)
+
+game (
+	name "Elevator Action (Japan) (Rev A)"
+	releasemonth "6"
+	rom ( crc 7A3A49ED )
+)
+
+game (
+	name "Eliminator Boat Duel (Europe)"
+	releasemonth "4"
+	rom ( crc 924CDE0B )
+)
+
+game (
+	name "Eliminator Boat Duel (USA)"
+	releasemonth "11"
+	rom ( crc 059E0CDF )
+)
+
+game (
+	name "Elite (Europe) (En,Fr,De)"
+	releasemonth "1"
+	rom ( crc A4BDCC1D )
+)
+
+game (
+	name "Elnark no Zaihou (Japan)"
+	releasemonth "8"
+	rom ( crc F450DB3A )
+)
+
+game (
+	name "Elysion (Japan)"
+	releasemonth "4"
+	rom ( crc 240C6DE8 )
+)
+
+game (
+	name "Emoyan no 10 Bai Pro Yakyuu (Japan)"
+	releasemonth "12"
+	rom ( crc 9D45D8EC )
+)
+
+game (
+	name "Erika to Satoru no Yume Bouken (Japan)"
+	releasemonth "9"
+	rom ( crc EF7996BF )
+)
+
+game (
+	name "Esper Bouken Tai (Japan)"
+	releasemonth "10"
+	rom ( crc 7B0A41B9 )
+)
+
+game (
+	name "Esper Dream 2 - Aratanaru Tatakai (Japan)"
+	releasemonth "6"
+	rom ( crc 209B4BED )
+)
+
+game (
+	name "Excitebike (Europe)"
+	releasemonth "9"
+	rom ( crc 8A0C7337 )
+)
+
+game (
+	name "Excitebike (USA) (GameCube Edition)"
+	releasemonth "10"
+	rom ( crc 662B8C9C )
+)
+
+game (
+	name "Exciting Boxing (Japan)"
+	releasemonth "12"
+	rom ( crc AC4BF9DC )
+)
+
+game (
+	name "Exerion (Japan) (En)"
+	releasemonth "2"
+	rom ( crc BEB30478 )
+)
+
+game (
+	name "F-1 Race (Japan)"
+	releasemonth "11"
+	rom ( crc E0604F76 )
+)
+
+game (
+	name "F-117A - Stealth Fighter (USA)"
+	releasemonth "12"
+	rom ( crc 0A7E62D4 )
+)
+
+game (
+	name "F-15 Strike Eagle (Europe)"
+	releasemonth "2"
+	rom ( crc 989C1019 )
+)
+
+game (
+	name "F-15 Strike Eagle (France) (En,Fr,Nl)"
+	releasemonth "2"
+	rom ( crc BBB710D9 )
+)
+
+game (
+	name "F-15 Strike Eagle (Italy)"
+	releasemonth "2"
+	rom ( crc FA74F656 )
+)
+
+game (
+	name "F-15 Strike Eagle (Sweden) (Sv,Da,Fi)"
+	releasemonth "2"
+	rom ( crc 872DE7A2 )
+)
+
+game (
+	name "F-15 Strike Eagle (USA)"
+	releasemonth "2"
+	rom ( crc 0BCAA4D7 )
+)
+
+game (
+	name "F-15 Strike Eagle (Germany)"
+	releasemonth "2"
+	rom ( crc D353D351 )
+)
+
+game (
+	name "F1 Circus (Japan)"
+	releasemonth "2"
+	rom ( crc ECBF33CE )
+)
+
+game (
+	name "Famicom Doubutsu Seitai Zukan! - Katte ni Shirokuma - Mori o Sukue no Maki! (Japan)"
+	releasemonth "12"
+	rom ( crc F8C1A690 )
+)
+
+game (
+	name "Famicom Igo Nyuumon (Japan)"
+	releasemonth "11"
+	rom ( crc 2470402B )
+)
+
+game (
+	name "Famicom Jump - Eiyuu Retsuden (Japan)"
+	releasemonth "2"
+	rom ( crc D343C66A )
+)
+
+game (
+	name "Famicom Jump II - Saikyou no 7 Nin (Japan)"
+	releasemonth "12"
+	rom ( crc 3F15D20D )
+)
+
+game (
+	name "Famicom Meijin Sen (Japan) (Rev A)"
+	releasemonth "9"
+	rom ( crc 821F2F9F )
+)
+
+game (
+	name "Famicom Meijin Sen (Japan)"
+	releasemonth "9"
+	rom ( crc 9CFA55E7 )
+)
+
+game (
+	name "Famicom Shougi - Ryuuousen (Japan)"
+	releasemonth "2"
+	rom ( crc 149C0EC3 )
+)
+
+game (
+	name "Famicom Top Management (Japan)"
+	releasemonth "12"
+	rom ( crc 58507BC9 )
+)
+
+game (
+	name "Famicom Wars (Japan) (Rev 0B)"
+	releasemonth "8"
+	rom ( crc 9B547E05 )
+)
+
+game (
+	name "Famicom Yakyuu Ban (Japan)"
+	releasemonth "12"
+	rom ( crc D0A9F4E1 )
+)
+
+game (
+	name "Family BASIC (Japan) (v3.0)"
+	releasemonth "6"
+	rom ( crc B2530AFC )
+)
+
+game (
+	name "Family BASIC (Japan) (v2.0a)"
+	releasemonth "6"
+	rom ( crc F7606810 )
+)
+
+game (
+	name "Family BASIC (Japan) (v2.1a)"
+	releasemonth "6"
+	rom ( crc 895037BC )
+)
+
+game (
+	name "Family Circuit (Japan)"
+	releasemonth "1"
+	rom ( crc 9CBC8253 )
+)
+
+game (
+	name "Family Circuit '91 (Japan)"
+	releasemonth "7"
+	rom ( crc C247CC80 )
+)
+
+game (
+	name "Family Feud (USA)"
+	releasemonth "5"
+	rom ( crc 51BEE3EA )
+)
+
+game (
+	name "Family Jockey (Japan)"
+	releasemonth "4"
+	rom ( crc 3719A26D )
+)
+
+game (
+	name "Family Mahjong (Japan) (Rev A)"
+	releasemonth "8"
+	rom ( crc F5CEEF8F )
+)
+
+game (
+	name "Family Mahjong (Japan)"
+	releasemonth "8"
+	rom ( crc C6557E02 )
+)
+
+game (
+	name "Family Mahjong II - Shanghai e no Michi (Japan)"
+	releasemonth "11"
+	rom ( crc DD29FD59 )
+)
+
+game (
+	name "Family Quiz - 4-nin wa Rival (Japan)"
+	releasemonth "11"
+	rom ( crc 07910BF9 )
+)
+
+game (
+	name "Family Tennis (Japan)"
+	releasemonth "12"
+	rom ( crc A49253C6 )
+)
+
+game (
+	name "Family Trainer 4 - Jogging Race (Japan)"
+	releasemonth "5"
+	rom ( crc 2F128512 )
+)
+
+game (
+	name "Family Trainer 5 - Meiro Daisakusen (Japan)"
+	releasemonth "7"
+	rom ( crc 370CEB65 )
+)
+
+game (
+	name "Family Trainer 8 - Totsugeki! Fuuun Takeshi-jou (Japan)"
+	releasemonth "12"
+	rom ( crc 8A12A7D9 )
+)
+
+game (
+	name "Family Trainer 9 - Fuuun Takeshi-jou 2 (Japan)"
+	releasemonth "12"
+	rom ( crc 5CD5FDA4 )
+)
+
+game (
+	name "Famista '89 - Kaimaku Ban!! (Japan)"
+	releasemonth "7"
+	rom ( crc 4F2F1846 )
+)
+
+game (
+	name "Famista '90 (Japan)"
+	releasemonth "12"
+	rom ( crc 0C1792DA )
+)
+
+game (
+	name "Famista '91 (Japan)"
+	releasemonth "12"
+	rom ( crc 808606F0 )
+)
+
+game (
+	name "Famista '92 (Japan)"
+	releasemonth "12"
+	rom ( crc 6EC51DE5 )
+)
+
+game (
+	name "Famista '93 (Japan)"
+	releasemonth "12"
+	rom ( crc ADFFD64F )
+)
+
+game (
+	name "Famista '94 (Japan)"
+	releasemonth "12"
+	rom ( crc 429103C9 )
+)
+
+game (
+	name "Fantasy Zone (Japan)"
+	releasemonth "7"
+	rom ( crc 10119E6B )
+)
+
+game (
+	name "Fantasy Zone II - Opa-Opa no Namida (Japan)"
+	releasemonth "12"
+	rom ( crc 0C5A6297 )
+)
+
+game (
+	name "Faxanadu (Europe)"
+	releasemonth "12"
+	rom ( crc 76C161E3 )
+)
+
+game (
+	name "Faxanadu (Japan)"
+	releasemonth "11"
+	rom ( crc A80FA181 )
+)
+
+game (
+	name "Faxanadu (USA)"
+	releasemonth "8"
+	rom ( crc 57DD23D1 )
+)
+
+game (
+	name "Faxanadu (USA) (Rev A)"
+	releasemonth "8"
+	rom ( crc E71DB268 )
+)
+
+game (
+	name "Felix the Cat (Europe)"
+	releasemonth "1"
+	rom ( crc FBD48274 )
+)
+
+game (
+	name "Felix the Cat (USA)"
+	releasemonth "10"
+	rom ( crc 2CAAE01C )
+)
+
+game (
+	name "Ferrari Grand Prix Challenge (Europe)"
+	releasemonth "1"
+	rom ( crc 53A9B53A )
+)
+
+game (
+	name "Ferrari (Japan)"
+	releasemonth "11"
+	rom ( crc A485ABED )
+)
+
+game (
+	name "Ferrari Grand Prix Challenge (USA)"
+	releasemonth "6"
+	rom ( crc CE77B4BE )
+)
+
+game (
+	name "Fester's Quest (Europe)"
+	releasemonth "9"
+	rom ( crc 68CF9B78 )
+)
+
+game (
+	name "Fester's Quest (USA)"
+	releasemonth "9"
+	rom ( crc B6BF5137 )
+)
+
+game (
+	name "Field Combat (Japan)"
+	releasemonth "7"
+	rom ( crc 1B45A73E )
+)
+
+game (
+	name "Fighting Road (Japan)"
+	releasemonth "12"
+	rom ( crc 974D0745 )
+)
+
+game (
+	name "Final Fantasy (USA)"
+	releasemonth "5"
+	rom ( crc CEBD2A31 )
+)
+
+game (
+	name "Final Fantasy (Japan) (Rev 0A)"
+	releasemonth "12"
+	rom ( crc 466EFDC2 )
+)
+
+game (
+	name "Final Fantasy (Japan) (Rev B)"
+	releasemonth "12"
+	rom ( crc F71E7EDD )
+)
+
+game (
+	name "Final Fantasy I, II (Japan)"
+	releasemonth "2"
+	rom ( crc C9556B36 )
+)
+
+game (
+	name "Final Fantasy II (Japan)"
+	releasemonth "12"
+	rom ( crc D29DB3C7 )
+)
+
+game (
+	name "Final Fantasy III (Japan)"
+	releasemonth "4"
+	rom ( crc 57E220D0 )
+)
+
+game (
+	name "Final Lap (Japan)"
+	releasemonth "8"
+	rom ( crc 5746A461 )
+)
+
+game (
+	name "Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (Japan)"
+	releasemonth "4"
+	rom ( crc 97CAD370 )
+)
+
+game (
+	name "Fire Emblem Gaiden (Japan)"
+	releasemonth "3"
+	rom ( crc A98046B8 )
+)
+
+game (
+	name "Fisher-Price - Firehouse Rescue (USA)"
+	releasemonth "3"
+	rom ( crc 38946C43 )
+)
+
+game (
+	name "Fisher-Price - I Can Remember (USA)"
+	releasemonth "3"
+	rom ( crc 267DE4CC )
+)
+
+game (
+	name "Fisher-Price - Perfect Fit (USA)"
+	releasemonth "3"
+	rom ( crc B9762DA8 )
+)
+
+game (
+	name "Flappy (Japan)"
+	releasemonth "6"
+	rom ( crc CF701DA4 )
+)
+
+game (
+	name "Fleet Commander (Japan)"
+	releasemonth "3"
+	rom ( crc B811C054 )
+)
+
+game (
+	name "Flintstones, The - The Rescue of Dino & Hoppy (Europe)"
+	releasemonth "4"
+	rom ( crc AC609320 )
+)
+
+game (
+	name "Flintstones, The - The Rescue of Dino & Hoppy (Japan)"
+	releasemonth "8"
+	rom ( crc 40C0AD47 )
+)
+
+game (
+	name "Flintstones, The - The Rescue of Dino & Hoppy (USA)"
+	releasemonth "12"
+	rom ( crc 2FE20D79 )
+)
+
+game (
+	name "Flintstones, The - The Surprise at Dinosaur Peak (Europe)"
+	releasemonth "2"
+	rom ( crc 4B750880 )
+)
+
+game (
+	name "Flintstones, The - The Surprise at Dinosaur Peak! (USA)"
+	releasemonth "8"
+	rom ( crc DAB84A9C )
+)
+
+game (
+	name "Flipull - An Exciting Cube Game (Japan) (En) (Rev 1)"
+	releasemonth "12"
+	rom ( crc 69FEECB2 )
+)
+
+game (
+	name "Flipull - An Exciting Cube Game (Japan) (En)"
+	releasemonth "12"
+	rom ( crc 1773F76D )
+)
+
+game (
+	name "Flying Hero (Japan)"
+	releasemonth "2"
+	rom ( crc F6751D3D )
+)
+
+game (
+	name "Flying Warriors (USA)"
+	releasemonth "2"
+	rom ( crc 10180072 )
+)
+
+game (
+	name "Formation Z (Japan) (Rev A)"
+	releasemonth "4"
+	rom ( crc E9023072 )
+)
+
+game (
+	name "Formation Z (Japan)"
+	releasemonth "4"
+	rom ( crc 63338C3C )
+)
+
+game (
+	name "Formula One - Built to Win (USA)"
+	releasemonth "11"
+	rom ( crc 5A8B4DA8 )
+)
+
+game (
+	name "Fox's Peter Pan & the Pirates - The Revenge of Captain Hook (USA)"
+	releasemonth "1"
+	rom ( crc 20353E63 )
+)
+
+game (
+	name "Frankenstein - The Monster Returns (USA)"
+	releasemonth "7"
+	rom ( crc E943EC4D )
+)
+
+game (
+	name "Freedom Force (USA)"
+	releasemonth "4"
+	rom ( crc 3E58A87E )
+)
+
+game (
+	name "Friday the 13th (USA)"
+	releasemonth "2"
+	rom ( crc BEB15855 )
+)
+
+game (
+	name "Front Line (Japan)"
+	releasemonth "8"
+	rom ( crc CF4DBDBE )
+)
+
+game (
+	name "Fun House (USA)"
+	releasemonth "1"
+	rom ( crc 576A0DE8 )
+)
+
+game (
+	name "Fuzzical Fighter (Japan)"
+	releasemonth "5"
+	rom ( crc 5E24EEDA )
+)
+
+game (
+	name "G.I. Joe - A Real American Hero (USA)"
+	releasemonth "1"
+	rom ( crc 1D2D93FF )
+)
+
+game (
+	name "G.I. Joe - The Atlantis Factor (USA)"
+	releasemonth "3"
+	rom ( crc 8C8DEDB6 )
+)
+
+game (
+	name "Galaxian (Japan) (Rev A)"
+	releasemonth "9"
+	rom ( crc 76A6A813 )
+)
+
+game (
+	name "Galaxian (Japan)"
+	releasemonth "9"
+	rom ( crc 084F61CD )
+)
+
+game (
+	name "Gambler Jiko Chuushinha 2 (Japan)"
+	releasemonth "12"
+	rom ( crc 85F12D37 )
+)
+
+game (
+	name "Game Party (Japan)"
+	releasemonth "8"
+	rom ( crc F1C76AED )
+)
+
+game (
+	name "Ganbare Goemon 2 (Japan)"
+	releasemonth "1"
+	rom ( crc 0CC9FFEC )
+)
+
+game (
+	name "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan)"
+	releasemonth "1"
+	rom ( crc EB92B32A )
+)
+
+game (
+	name "Ganbare Goemon Gaiden 2 - Tenka no Zaihou (Japan)"
+	releasemonth "1"
+	rom ( crc 286FCD20 )
+)
+
+game (
+	name "Ganbare Goemon! - Karakuri Douchuu (Japan)"
+	releasemonth "7"
+	rom ( crc 4FC2F673 )
+)
+
+game (
+	name "Ganbare Pennant Race! (Japan)"
+	releasemonth "2"
+	rom ( crc 90F6FA33 )
+)
+
+game (
+	name "Ganso Saiyuuki - Super Monkey Daibouken (Japan)"
+	releasemonth "11"
+	rom ( crc 3BF55966 )
+)
+
+game (
+	name "Garfield - A Week of Garfield (Japan)"
+	releasemonth "4"
+	rom ( crc B4FF91E7 )
+)
+
+game (
+	name "Garry Kitchen's BattleTank (USA)"
+	releasemonth "9"
+	rom ( crc 90D68A43 )
+)
+
+game (
+	name "Gauntlet (USA)"
+	releasemonth "9"
+	rom ( crc EC968C51 )
+)
+
+game (
+	name "Gauntlet II (Europe)"
+	releasemonth "4"
+	rom ( crc 79F688BC )
+)
+
+game (
+	name "Gauntlet II (USA)"
+	releasemonth "9"
+	rom ( crc 1B71CCDB )
+)
+
+game (
+	name "Gegege no Kitarou 2 - Youkai Gundan no Chousen (Japan)"
+	releasemonth "12"
+	rom ( crc BDA8F8E4 )
+)
+
+game (
+	name "Geimos (Japan)"
+	releasemonth "8"
+	rom ( crc 1DBD1D2B )
+)
+
+game (
+	name "Gekitotsu Yonku Battle (Japan)"
+	releasemonth "11"
+	rom ( crc 04109355 )
+)
+
+game (
+	name "Genghis Khan (USA)"
+	releasemonth "1"
+	rom ( crc 2225C20F )
+)
+
+game (
+	name "Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)"
+	releasemonth "4"
+	rom ( crc FB69743A )
+)
+
+game (
+	name "George Foreman's KO Boxing (Europe)"
+	releasemonth "1"
+	rom ( crc 8C88536F )
+)
+
+game (
+	name "George Foreman's KO Boxing (USA)"
+	releasemonth "12"
+	rom ( crc AF05F37E )
+)
+
+game (
+	name "Getsu Fuuma Den (Japan)"
+	releasemonth "7"
+	rom ( crc 49123146 )
+)
+
+game (
+	name "Ghostbusters (USA)"
+	releasemonth "10"
+	rom ( crc 6A154B68 )
+)
+
+game (
+	name "Ghostbusters (Japan)"
+	releasemonth "9"
+	rom ( crc 4057C51B )
+)
+
+game (
+	name "Ghostbusters II (Europe)"
+	releasemonth "12"
+	rom ( crc 7B55D481 )
+)
+
+game (
+	name "Ghostbusters II (USA)"
+	releasemonth "4"
+	rom ( crc 2AE97660 )
+)
+
+game (
+	name "Ghoul School (USA)"
+	releasemonth "3"
+	rom ( crc 2BC25D5A )
+)
+
+game (
+	name "Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen (Japan)"
+	releasemonth "12"
+	rom ( crc D9F45BE9 )
+)
+
+game (
+	name "Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan)"
+	releasemonth "8"
+	rom ( crc 1545BD13 )
+)
+
+game (
+	name "Ginga Eiyuu Densetsu (Japan)"
+	releasemonth "12"
+	rom ( crc 8D5B77C0 )
+)
+
+game (
+	name "Ginga no Sannin (Japan)"
+	releasemonth "12"
+	rom ( crc 8A368744 )
+)
+
+game (
+	name "Goal! (USA)"
+	releasemonth "11"
+	rom ( crc 84148F73 )
+)
+
+game (
+	name "Moero!! Pro Soccer (Japan)"
+	releasemonth "9"
+	rom ( crc 7F45CFF5 )
+)
+
+game (
+	name "Godzilla - Monster of Monsters! (Europe)"
+	releasemonth "1"
+	rom ( crc 46480432 )
+)
+
+game (
+	name "Godzilla - Monster of Monsters! (USA)"
+	releasemonth "10"
+	rom ( crc 74386F15 )
+)
+
+game (
+	name "Gojira (Japan)"
+	releasemonth "12"
+	rom ( crc 8A36D2B7 )
+)
+
+game (
+	name "Godzilla 2 - War of the Monsters (USA)"
+	releasemonth "2"
+	rom ( crc 9FB32923 )
+)
+
+game (
+	name "Golf (Europe)"
+	releasemonth "11"
+	rom ( crc 565B1BDB )
+)
+
+game (
+	name "Golf (Japan)"
+	releasemonth "5"
+	rom ( crc 5C9063E0 )
+)
+
+game (
+	name "Golf (USA)"
+	releasemonth "10"
+	rom ( crc E7D2C49D )
+)
+
+game (
+	name "Golf '92, The (Japan)"
+	releasemonth "7"
+	rom ( crc 139B15BA )
+)
+
+game (
+	name "Golf Club - Birdy Rush (Japan)"
+	releasemonth "12"
+	rom ( crc FCB13110 )
+)
+
+game (
+	name "Golf Grand Slam (Japan)"
+	releasemonth "1"
+	rom ( crc 3F0C8136 )
+)
+
+game (
+	name "Golf Grand Slam (USA)"
+	releasemonth "12"
+	rom ( crc CF5F8AF0 )
+)
+
+game (
+	name "Golfkko Open (Japan)"
+	releasemonth "11"
+	rom ( crc BACA10A9 )
+)
+
+game (
+	name "Golgo 13 - Top Secret Episode (USA)"
+	releasemonth "9"
+	rom ( crc F532F09A )
+)
+
+game (
+	name "Golgo 13 - Daiisshou - Kamigami no Tasogare (Japan)"
+	releasemonth "3"
+	rom ( crc A0006B26 )
+)
+
+game (
+	name "Gomoku Narabe (Japan)"
+	releasemonth "8"
+	rom ( crc 4A99B47E )
+)
+
+game (
+	name "Goonies (Japan)"
+	releasemonth "2"
+	rom ( crc E6DF6616 )
+)
+
+game (
+	name "Goonies 2 - Fratelli Saigo no Chousen (Japan)"
+	releasemonth "2"
+	rom ( crc 92F04530 )
+)
+
+game (
+	name "Gorby no Pipeline Daisakusen (Japan)"
+	releasemonth "4"
+	rom ( crc 1829616A )
+)
+
+game (
+	name "Gorilla Man, The (Japan)"
+	releasemonth "4"
+	rom ( crc 9FD718FD )
+)
+
+game (
+	name "Gotcha! - The Sport! (USA)"
+	releasemonth "11"
+	rom ( crc 4E959173 )
+)
+
+game (
+	name "Gozonji - Yaji Kita Chin Douchuu (Japan)"
+	releasemonth "11"
+	rom ( crc 0DA00298 )
+)
+
+game (
+	name "Gradius (Europe)"
+	releasemonth "11"
+	rom ( crc 51C51C35 )
+)
+
+game (
+	name "Gradius (Japan) (ArchiMENdes Hen)"
+	releasemonth "4"
+	rom ( crc DE395EFD )
+)
+
+game (
+	name "Gradius (Japan)"
+	releasemonth "4"
+	rom ( crc D8EFF0DF )
+)
+
+game (
+	name "Gradius (USA)"
+	releasemonth "12"
+	rom ( crc 350D835E )
+)
+
+game (
+	name "Gradius II (Japan)"
+	releasemonth "12"
+	rom ( crc 5ADBF660 )
+)
+
+game (
+	name "Grand Master (Japan)"
+	releasemonth "2"
+	rom ( crc C060ED0A )
+)
+
+game (
+	name "Great Battle Cyber (Japan)"
+	releasemonth "12"
+	rom ( crc 1D89610E )
+)
+
+game (
+	name "Great Deal (Japan)"
+	releasemonth "10"
+	rom ( crc BCF68611 )
+)
+
+game (
+	name "Great Waldo Search, The (USA)"
+	releasemonth "12"
+	rom ( crc 2DFF7FDC )
+)
+
+game (
+	name "Greg Norman's Golf Power (USA)"
+	releasemonth "7"
+	rom ( crc 1352F1B9 )
+)
+
+game (
+	name "Gremlins 2 - The New Batch (Europe)"
+	releasemonth "2"
+	rom ( crc 2B20B022 )
+)
+
+game (
+	name "Gremlin 2 - Shinshu Tanjou (Japan)"
+	releasemonth "12"
+	rom ( crc 0897021B )
+)
+
+game (
+	name "Gremlins 2 - The New Batch (USA)"
+	releasemonth "10"
+	rom ( crc 0ED96F42 )
+)
+
+game (
+	name "Guardian Legend, The (Europe)"
+	releasemonth "1"
+	rom ( crc FE907015 )
+)
+
+game (
+	name "Guardian Legend, The (USA)"
+	releasemonth "4"
+	rom ( crc FA43146B )
+)
+
+game (
+	name "Guardic Gaiden (Japan)"
+	releasemonth "2"
+	rom ( crc DAD88CC5 )
+)
+
+game (
+	name "Gun Nac (USA)"
+	releasemonth "9"
+	rom ( crc D19DCB2B )
+)
+
+game (
+	name "Gun Nac (Japan)"
+	releasemonth "10"
+	rom ( crc D9084936 )
+)
+
+game (
+	name "Gun.Smoke (Europe)"
+	releasemonth "2"
+	rom ( crc B79C320D )
+)
+
+game (
+	name "Gun.Smoke (USA)"
+	releasemonth "2"
+	rom ( crc A8784932 )
+)
+
+game (
+	name "Gunhed - Aratanaru Tatakai (Japan)"
+	releasemonth "4"
+	rom ( crc E8BAA782 )
+)
+
+game (
+	name "Gyrodine (Japan)"
+	releasemonth "3"
+	rom ( crc 29E173FF )
+)
+
+game (
+	name "Gyruss (USA)"
+	releasemonth "2"
+	rom ( crc 1D41CC8C )
+)
+
+game (
+	name "Haja no Fuuin (Japan)"
+	releasemonth "10"
+	rom ( crc 21DD2174 )
+)
+
+game (
+	name "Hammerin' Harry (Europe)"
+	releasemonth "1"
+	rom ( crc 67CBC0A0 )
+)
+
+game (
+	name "Daiku no Gen-san (Japan)"
+	releasemonth "11"
+	rom ( crc 78211EBF )
+)
+
+game (
+	name "Hana no Star Kaidou (Japan)"
+	releasemonth "3"
+	rom ( crc 6A6B7239 )
+)
+
+game (
+	name "Hanjuku Hero (Japan)"
+	releasemonth "12"
+	rom ( crc CD7A2FD7 )
+)
+
+game (
+	name "Harlem Globetrotters (USA)"
+	releasemonth "3"
+	rom ( crc 2E6EE98D )
+)
+
+game (
+	name "Hatris (USA)"
+	releasemonth "4"
+	rom ( crc 841B69B6 )
+)
+
+game (
+	name "Hayauchi Super Igo (Japan)"
+	releasemonth "3"
+	rom ( crc FA7E02FA )
+)
+
+game (
+	name "Heavy Barrel (USA)"
+	releasemonth "3"
+	rom ( crc 34EAB034 )
+)
+
+game (
+	name "Heavy Barrel (Japan)"
+	releasemonth "3"
+	rom ( crc 2BCF2132 )
+)
+
+game (
+	name "Heisei Tensai Bakabon (Japan)"
+	releasemonth "12"
+	rom ( crc 81B7F1A8 )
+)
+
+game (
+	name "Hello Kitty no Ohanabatake (Japan)"
+	releasemonth "12"
+	rom ( crc 26BB1C8C )
+)
+
+game (
+	name "Hello Kitty World (Japan)"
+	releasemonth "3"
+	rom ( crc 67D5C3F9 )
+)
+
+game (
+	name "Heracles no Eikou - Toujin Makyou Den (Japan)"
+	releasemonth "6"
+	rom ( crc B15653BD )
+)
+
+game (
+	name "Heracles no Eikou II - Titan no Metsubou (Japan)"
+	releasemonth "12"
+	rom ( crc BA766EC6 )
+)
+
+game (
+	name "High Speed (Europe)"
+	releasemonth "4"
+	rom ( crc 1C212E9D )
+)
+
+game (
+	name "High Speed (USA)"
+	releasemonth "7"
+	rom ( crc 383CABBF )
+)
+
+game (
+	name "Hirake! Ponkikki (Japan)"
+	releasemonth "4"
+	rom ( crc 64BD6CDB )
+)
+
+game (
+	name "Hiryuu no Ken II - Dragon no Tsubasa (Japan)"
+	releasemonth "7"
+	rom ( crc 74663267 )
+)
+
+game (
+	name "Hiryuu no Ken III - 5 Nin no Dragon (Japan)"
+	releasemonth "7"
+	rom ( crc 8F628D51 )
+)
+
+game (
+	name "Hiryuu no Ken Special - Fighting Wars (Japan)"
+	releasemonth "6"
+	rom ( crc 07977186 )
+)
+
+game (
+	name "Hissatsu Doujou Yaburi (Japan)"
+	releasemonth "7"
+	rom ( crc 565A4681 )
+)
+
+game (
+	name "Hissatsu Shigoto Nin (Japan)"
+	releasemonth "12"
+	rom ( crc 5D105C10 )
+)
+
+game (
+	name "Hogan's Alley (World)"
+	releasemonth "10"
+	rom ( crc FF24D794 )
+)
+
+game (
+	name "Hokkaidou Rensa Satsujin - Okhotsk ni Kiyu (Japan)"
+	releasemonth "6"
+	rom ( crc 992AF039 )
+)
+
+game (
+	name "Hokuto no Ken (Japan)"
+	releasemonth "8"
+	rom ( crc 60A3B803 )
+)
+
+game (
+	name "Hokuto no Ken 3 - Shin Seiki Souzou Seiken Restuden (Japan)"
+	releasemonth "10"
+	rom ( crc 771CE357 )
+)
+
+game (
+	name "Hokuto no Ken 4 - Shichisei Haken Den - Hokuto Shinken no Kanata e (Japan)"
+	releasemonth "3"
+	rom ( crc 63469396 )
+)
+
+game (
+	name "Hollywood Squares (USA)"
+	releasemonth "9"
+	rom ( crc 3869E598 )
+)
+
+game (
+	name "Holy Diver (Japan)"
+	releasemonth "4"
+	rom ( crc BA51AC6F )
+)
+
+game (
+	name "Home Alone (USA) (Rev A)"
+	releasemonth "10"
+	rom ( crc F31D36A3 )
+)
+
+game (
+	name "Home Alone (USA)"
+	releasemonth "10"
+	rom ( crc CA5EDBFC )
+)
+
+game (
+	name "Home Alone 2 - Lost in New York (Europe)"
+	releasemonth "1"
+	rom ( crc 68C62E50 )
+)
+
+game (
+	name "Home Alone 2 - Lost in New York (USA)"
+	releasemonth "10"
+	rom ( crc 2E0741B6 )
+)
+
+game (
+	name "Honoo no Toukyuuji - Dodge Danpei (Japan)"
+	releasemonth "3"
+	rom ( crc 4C049CFE )
+)
+
+game (
+	name "Honoo no Toukyuuji - Dodge Danpei 2 (Japan)"
+	releasemonth "3"
+	rom ( crc A4E935DF )
+)
+
+game (
+	name "Honshougi - Naitou 9 Dan Shougi Hiden (Japan)"
+	releasemonth "8"
+	rom ( crc FFD9DB04 )
+)
+
+game (
+	name "Hook (Europe)"
+	releasemonth "1"
+	rom ( crc BF888B75 )
+)
+
+game (
+	name "Hook (Japan)"
+	releasemonth "3"
+	rom ( crc 2DB7C31E )
+)
+
+game (
+	name "Hook (USA)"
+	releasemonth "4"
+	rom ( crc D8230D0E )
+)
+
+game (
+	name "Hoshi o Miru Hito (Japan)"
+	releasemonth "10"
+	rom ( crc 3DCADA42 )
+)
+
+game (
+	name "Hototogisu (Japan)"
+	releasemonth "8"
+	rom ( crc 9EBDC94E )
+)
+
+game (
+	name "Hottarman no Chitei Tanken (Japan)"
+	releasemonth "12"
+	rom ( crc 3275FD7E )
+)
+
+game (
+	name "Hudson Hawk (Europe)"
+	releasemonth "1"
+	rom ( crc AC3E5677 )
+)
+
+game (
+	name "Hudson Hawk (Japan)"
+	releasemonth "12"
+	rom ( crc 2FC1ABAE )
+)
+
+game (
+	name "Hudson Hawk (USA)"
+	releasemonth "2"
+	rom ( crc 5A4F156D )
+)
+
+game (
+	name "Hunt for Red October, The (Europe)"
+	releasemonth "1"
+	rom ( crc 9C304DEC )
+)
+
+game (
+	name "Hunt for Red October, The (USA)"
+	releasemonth "1"
+	rom ( crc 03F899CD )
+)
+
+game (
+	name "Hunt for Red October, The (USA) (Rev A)"
+	releasemonth "1"
+	rom ( crc 4E77733A )
+)
+
+game (
+	name "Hyakkiyagyou (Japan)"
+	releasemonth "2"
+	rom ( crc DC1E07D2 )
+)
+
+game (
+	name "Hyaku no Sekai no Monogatari - The Tales on a Watery Wilderness (Japan)"
+	releasemonth "8"
+	rom ( crc E95E51E0 )
+)
+
+game (
+	name "Hydlide 3 - Yami kara no Houmonsha (Japan)"
+	releasemonth "2"
+	rom ( crc 47C2020B )
+)
+
+game (
+	name "Hyokkori Hyoutan-jima - Nazo no Kaizokusen (Japan)"
+	releasemonth "4"
+	rom ( crc 0B13658B )
+)
+
+game (
+	name "Hyper Sports (Japan) (Rev 1)"
+	releasemonth "9"
+	rom ( crc 6AE762AE )
+)
+
+game (
+	name "Hyper Sports (Japan)"
+	releasemonth "9"
+	rom ( crc 915A53A7 )
+)
+
+game (
+	name "I Love Softball (Japan)"
+	releasemonth "12"
+	rom ( crc AA4318AE )
+)
+
+game (
+	name "Ice Climber (Japan)"
+	releasemonth "1"
+	rom ( crc 0B58880C )
+)
+
+game (
+	name "Ice Hockey (Europe)"
+	releasemonth "4"
+	rom ( crc 92924548 )
+)
+
+game (
+	name "Ice Hockey (USA)"
+	releasemonth "3"
+	rom ( crc AE64CA77 )
+)
+
+game (
+	name "Ide Yousuke Meijin no Jissen Mahjong (Japan) (Rev A)"
+	releasemonth "9"
+	rom ( crc 9FAE4D46 )
+)
+
+game (
+	name "Ide Yousuke Meijin no Jissen Mahjong (Japan)"
+	releasemonth "9"
+	rom ( crc 8E066CCB )
+)
+
+game (
+	name "Ide Yousuke Meijin no Jissen Mahjong II (Japan)"
+	releasemonth "2"
+	rom ( crc 7B44FB2A )
+)
+
+game (
+	name "Idol Hakkenden (Japan)"
+	releasemonth "9"
+	rom ( crc 8DA4E539 )
+)
+
+game (
+	name "Igo - Kyuu Roban Taikyoku (Japan)"
+	releasemonth "8"
+	rom ( crc 9B208AB1 )
+)
+
+game (
+	name "Igo Meikan (Japan)"
+	releasemonth "1"
+	rom ( crc 455CA7DE )
+)
+
+game (
+	name "Igo Shinan (Japan)"
+	releasemonth "7"
+	rom ( crc 89550500 )
+)
+
+game (
+	name "Igo Shinan '91 (Japan)"
+	releasemonth "7"
+	rom ( crc E333FFA1 )
+)
+
+game (
+	name "Igo Shinan '92 (Japan)"
+	releasemonth "3"
+	rom ( crc 7A11D2C9 )
+)
+
+game (
+	name "Igo Shinan '93 (Japan)"
+	releasemonth "11"
+	rom ( crc 9C053F24 )
+)
+
+game (
+	name "Igo Shinan '94 (Japan)"
+	releasemonth "12"
+	rom ( crc A7E784ED )
+)
+
+game (
+	name "Ikari Warriors (Europe)"
+	releasemonth "8"
+	rom ( crc 538218B2 )
+)
+
+game (
+	name "Ikari (Japan)"
+	releasemonth "11"
+	rom ( crc AB47A50E )
+)
+
+game (
+	name "Ikari Warriors (USA)"
+	releasemonth "5"
+	rom ( crc 655EFEED )
+)
+
+game (
+	name "Ikari Warriors (USA) (Rev A)"
+	releasemonth "5"
+	rom ( crc 2D273AA4 )
+)
+
+game (
+	name "Ikari Warriors II - Victory Road (USA)"
+	releasemonth "4"
+	rom ( crc 4F467410 )
+)
+
+game (
+	name "Ikari II - Dogosoken (Japan)"
+	releasemonth "4"
+	rom ( crc D2BC86F3 )
+)
+
+game (
+	name "Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan)"
+	releasemonth "2"
+	rom ( crc 4F032933 )
+)
+
+game (
+	name "Ikinari Musician (Japan)"
+	releasemonth "3"
+	rom ( crc 092EC15C )
+)
+
+game (
+	name "Ikki (Japan)"
+	releasemonth "11"
+	rom ( crc 821FEB7A )
+)
+
+game (
+	name "Image Fight (USA)"
+	releasemonth "7"
+	rom ( crc 058F23A2 )
+)
+
+game (
+	name "Image Fight (Japan)"
+	releasemonth "3"
+	rom ( crc D2038FC5 )
+)
+
+game (
+	name "Immortal, The (USA)"
+	releasemonth "11"
+	rom ( crc 8889C564 )
+)
+
+game (
+	name "Incredible Crash Dummies, The (Europe)"
+	releasemonth "9"
+	rom ( crc C8228B54 )
+)
+
+game (
+	name "Incredible Crash Dummies, The (USA)"
+	releasemonth "8"
+	rom ( crc A80A0F01 )
+)
+
+game (
+	name "Indiana Jones and the Last Crusade (Europe)"
+	releasemonth "1"
+	rom ( crc 8D9AD3BF )
+)
+
+game (
+	name "Indiana Jones and the Last Crusade (USA) (UBI Soft)"
+	releasemonth "12"
+	rom ( crc 2EA8CC16 )
+)
+
+game (
+	name "Indiana Jones and the Last Crusade (USA) (Taito)"
+	releasemonth "12"
+	rom ( crc 8BCA5146 )
+)
+
+game (
+	name "Indiana Jones and the Temple of Doom (USA) (Rev A)"
+	releasemonth "12"
+	rom ( crc B4C81ADB )
+)
+
+game (
+	name "Indiana Jones and the Temple of Doom (USA) (Rev A)"
+	releasemonth "1"
+	rom ( crc B4C81ADB )
+)
+
+game (
+	name "Indiana Jones and the Temple of Doom (USA)"
+	releasemonth "12"
+	rom ( crc A0C31A57 )
+)
+
+game (
+	name "Indiana Jones and the Temple of Doom (USA)"
+	releasemonth "1"
+	rom ( crc A0C31A57 )
+)
+
+game (
+	name "Indora no Hikari (Japan)"
+	releasemonth "10"
+	rom ( crc 174F860A )
+)
+
+game (
+	name "Infiltrator (USA)"
+	releasemonth "1"
+	rom ( crc DF64963B )
+)
+
+game (
+	name "Insector X (Japan)"
+	releasemonth "9"
+	rom ( crc F80BDC50 )
+)
+
+game (
+	name "International Cricket (Australia)"
+	releasemonth "1"
+	rom ( crc A66D5150 )
+)
+
+game (
+	name "Iron Tank - The Invasion of Normandy (Europe)"
+	releasemonth "1"
+	rom ( crc DF6D0CE8 )
+)
+
+game (
+	name "Great Tank (Japan)"
+	releasemonth "7"
+	rom ( crc D09B74DC )
+)
+
+game (
+	name "Iron Tank - The Invasion of Normandy (USA)"
+	releasemonth "7"
+	rom ( crc B14EA4D2 )
+)
+
+game (
+	name "IronSword - Wizards & Warriors II (Europe)"
+	releasemonth "3"
+	rom ( crc 694C801F )
+)
+
+game (
+	name "IronSword - Wizards & Warriors II (USA)"
+	releasemonth "12"
+	rom ( crc 2328046E )
+)
+
+game (
+	name "Isaki Shuugorou no Keiba Hisshou Gaku (Japan)"
+	releasemonth "3"
+	rom ( crc 18D44BBA )
+)
+
+game (
+	name "Ishin no Arashi (Japan)"
+	releasemonth "9"
+	rom ( crc 1CED086F )
+)
+
+game (
+	name "Itadaki Street - Watashi no Omise ni Yottette (Japan)"
+	releasemonth "3"
+	rom ( crc CA503F32 )
+)
+
+game (
+	name "Ivan 'Ironman' Stewart's Super Off Road (Europe)"
+	releasemonth "3"
+	rom ( crc 05104517 )
+)
+
+game (
+	name "Ivan 'Ironman' Stewart's Super Off Road (USA)"
+	releasemonth "4"
+	rom ( crc 4B041B6B )
+)
+
+game (
+	name "J.League Fighting Soccer - The King of Ace Strikers (Japan)"
+	releasemonth "6"
+	rom ( crc 803B9979 )
+)
+
+game (
+	name "J.League Winning Goal (Japan)"
+	releasemonth "5"
+	rom ( crc 3D4B64F1 )
+)
+
+game (
+	name "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Europe)"
+	releasemonth "6"
+	rom ( crc 836FE2C2 )
+)
+
+game (
+	name "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA)"
+	releasemonth "3"
+	rom ( crc C313EF54 )
+)
+
+game (
+	name "Jackal (USA)"
+	releasemonth "9"
+	rom ( crc 1D5B03A5 )
+)
+
+game (
+	name "Jackie Chan's Action Kung Fu (Europe)"
+	releasemonth "1"
+	rom ( crc 7AE5C002 )
+)
+
+game (
+	name "Jackie Chan (Japan)"
+	releasemonth "1"
+	rom ( crc 59280BEC )
+)
+
+game (
+	name "Jackie Chan's Action Kung Fu (USA)"
+	releasemonth "12"
+	rom ( crc 45A41784 )
+)
+
+game (
+	name "Jajamaru Gekimaden - Maboroshi no Kinmajou (Japan)"
+	releasemonth "5"
+	rom ( crc 0F1BABE7 )
+)
+
+game (
+	name "Jajamaru no Daibouken (Japan)"
+	releasemonth "8"
+	rom ( crc 61B4295A )
+)
+
+game (
+	name "James Bond Jr (Europe)"
+	releasemonth "1"
+	rom ( crc A0A5A0B9 )
+)
+
+game (
+	name "James Bond Jr (USA)"
+	releasemonth "9"
+	rom ( crc F6898A59 )
+)
+
+game (
+	name "Jangou (Japan)"
+	releasemonth "8"
+	rom ( crc 0973F714 )
+)
+
+game (
+	name "Jarinko Chie - Bakudan Musume no Shiawase Sagashi (Japan)"
+	releasemonth "7"
+	rom ( crc 39B68AA3 )
+)
+
+game (
+	name "Jaws (USA)"
+	releasemonth "11"
+	rom ( crc 27D14A54 )
+)
+
+game (
+	name "Jeopardy! (USA) (Rev A)"
+	releasemonth "9"
+	rom ( crc 2A662AC7 )
+)
+
+game (
+	name "Jeopardy! (USA)"
+	releasemonth "9"
+	rom ( crc B5D10D5C )
+)
+
+game (
+	name "Jeopardy! 25th Anniversary Edition (USA)"
+	releasemonth "6"
+	rom ( crc 0BDD8DD9 )
+)
+
+game (
+	name "Jeopardy! Junior Edition (USA)"
+	releasemonth "10"
+	rom ( crc 6A88579F )
+)
+
+game (
+	name "Jesus - Kyoufu no Bio Monster (Japan)"
+	releasemonth "3"
+	rom ( crc 0DC53188 )
+)
+
+game (
+	name "Jetsons, The - Cogswell's Caper (Europe)"
+	releasemonth "8"
+	rom ( crc 65D1AB64 )
+)
+
+game (
+	name "Jetsons, The - Cogswell's Caper (Japan)"
+	releasemonth "4"
+	rom ( crc 1500E835 )
+)
+
+game (
+	name "Jetsons, The - Cogswell's Caper (USA)"
+	releasemonth "12"
+	rom ( crc 2BF61C53 )
+)
+
+game (
+	name "Jikuu Yuuden - Debias (Japan)"
+	releasemonth "11"
+	rom ( crc 22D6D5BD )
+)
+
+game (
+	name "Jimmy Connors Tennis (Europe)"
+	releasemonth "1"
+	rom ( crc B80192B7 )
+)
+
+game (
+	name "Jimmy Connors Tennis (USA)"
+	releasemonth "11"
+	rom ( crc 00E95D86 )
+)
+
+game (
+	name "John Elway's Quarterback (USA)"
+	releasemonth "3"
+	rom ( crc CF322BB3 )
+)
+
+game (
+	name "Jongbou (Japan)"
+	releasemonth "7"
+	rom ( crc A56208A0 )
+)
+
+game (
+	name "Jordan vs Bird - One On One (USA)"
+	releasemonth "8"
+	rom ( crc 303D4371 )
+)
+
+game (
+	name "Joust (USA)"
+	releasemonth "10"
+	rom ( crc BE387AF0 )
+)
+
+game (
+	name "Joust (Japan)"
+	releasemonth "10"
+	rom ( crc 927C7A3A )
+)
+
+game (
+	name "Joy Mech Fight (Japan)"
+	releasemonth "5"
+	rom ( crc 708EA2BE )
+)
+
+game (
+	name "Jumbo Ozaki no Hole in One Professional (Japan)"
+	releasemonth "2"
+	rom ( crc 8DCD9486 )
+)
+
+game (
+	name "Jumpin' Kid - Jack to Mame no Ki Monogatari (Japan)"
+	releasemonth "12"
+	rom ( crc B976219A )
+)
+
+game (
+	name "Jungle Book, The (Europe)"
+	releasemonth "8"
+	rom ( crc 7DA77F11 )
+)
+
+game (
+	name "Jungle Book, The (USA)"
+	releasemonth "8"
+	rom ( crc 61179BFA )
+)
+
+game (
+	name "Jurassic Park (Europe)"
+	releasemonth "12"
+	rom ( crc 6C1AB645 )
+)
+
+game (
+	name "Jurassic Park (USA)"
+	releasemonth "6"
+	rom ( crc 3B7F5B3B )
+)
+
+game (
+	name "Just Breed (Japan)"
+	releasemonth "12"
+	rom ( crc 9CBADC25 )
+)
+
+game (
+	name "Juuouki (Japan)"
+	releasemonth "7"
+	rom ( crc 6772CA86 )
+)
+
+game (
+	name "Juvei Quest (Japan) (Rev 1)"
+	releasemonth "1"
+	rom ( crc 716DAEA5 )
+)
+
+game (
+	name "Juvei Quest (Japan)"
+	releasemonth "1"
+	rom ( crc CF23290F )
+)
+
+game (
+	name "Kabuki - Quantum Fighter (Europe)"
+	releasemonth "2"
+	rom ( crc BCCFEF1C )
+)
+
+game (
+	name "Jigoku Gokuraku Maru (Japan)"
+	releasemonth "12"
+	rom ( crc 045E8CD8 )
+)
+
+game (
+	name "Kabuki - Quantum Fighter (USA)"
+	releasemonth "1"
+	rom ( crc 7474AC92 )
+)
+
+game (
+	name "Kaettekita! Gunjin Shougi - Nanya Sore! (Japan)"
+	releasemonth "5"
+	rom ( crc E74AA15A )
+)
+
+game (
+	name "Kagerou Densetsu (Japan)"
+	releasemonth "5"
+	rom ( crc C9187B43 )
+)
+
+game (
+	name "Kaguya Hime Densetsu (Japan)"
+	releasemonth "12"
+	rom ( crc 26CEC726 )
+)
+
+game (
+	name "Kaijuu Monogatari (Japan)"
+	releasemonth "11"
+	rom ( crc BC11E61A )
+)
+
+game (
+	name "Kaiketsu Yancha Maru 2 - Karakuri Land (Japan)"
+	releasemonth "8"
+	rom ( crc B979CAD5 )
+)
+
+game (
+	name "Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan)"
+	releasemonth "3"
+	rom ( crc 9E898385 )
+)
+
+game (
+	name "Kamen no Ninja - Akakage (Japan)"
+	releasemonth "5"
+	rom ( crc 28C1D3D5 )
+)
+
+game (
+	name "Kamen no Ninja - Hanamaru (Japan)"
+	releasemonth "5"
+	rom ( crc E6B30BB3 )
+)
+
+game (
+	name "Kamen Rider SD - Granshocker no Yabou (Japan)"
+	releasemonth "1"
+	rom ( crc 2A1919FE )
+)
+
+game (
+	name "Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi (Japan)"
+	releasemonth "7"
+	rom ( crc F635C594 )
+)
+
+game (
+	name "Karakuri Kengou Den - Musashi Lord - Karakuri Jin Hashiru (Japan)"
+	releasemonth "10"
+	rom ( crc 9D9A4A26 )
+)
+
+game (
+	name "Karaoke Studio (Japan)"
+	releasemonth "7"
+	rom ( crc ADFAD6B6 )
+)
+
+game (
+	name "Karaoke Studio Senyou Cassette Vol. 1 (Japan)"
+	releasemonth "10"
+	rom ( crc 4B6EF399 )
+)
+
+game (
+	name "Karaoke Studio Senyou Cassette Vol. 2 (Japan)"
+	releasemonth "2"
+	rom ( crc 50F3E338 )
+)
+
+game (
+	name "Karate Champ (USA) (Rev A)"
+	releasemonth "11"
+	rom ( crc F42B0DBD )
+)
+
+game (
+	name "Karate Champ (USA)"
+	releasemonth "11"
+	rom ( crc ACA145D8 )
+)
+
+game (
+	name "Karate Kid, The (USA)"
+	releasemonth "11"
+	rom ( crc 983948A5 )
+)
+
+game (
+	name "Karateka (Japan)"
+	releasemonth "12"
+	rom ( crc 8BA75848 )
+)
+
+game (
+	name "Karnov (USA)"
+	releasemonth "1"
+	rom ( crc 548A2C3C )
+)
+
+game (
+	name "Karnov (Japan)"
+	releasemonth "12"
+	rom ( crc 267E592F )
+)
+
+game (
+	name "Karnov (Japan) (Rev 1)"
+	releasemonth "12"
+	rom ( crc 276237B3 )
+)
+
+game (
+	name "Kawa no Nushi Tsuri (Japan)"
+	releasemonth "8"
+	rom ( crc F4E5DF0E )
+)
+
+game (
+	name "Keiba Simulation - Honmei (Japan)"
+	releasemonth "4"
+	rom ( crc 93A7D26C )
+)
+
+game (
+	name "Kekkyoku Nankyoku Daibouken (Japan) (Rev 1)"
+	releasemonth "4"
+	rom ( crc 0C918A65 )
+)
+
+game (
+	name "Kekkyoku Nankyoku Daibouken (Japan)"
+	releasemonth "4"
+	rom ( crc 163ECCAE )
+)
+
+game (
+	name "Kero Kero Keroppi no Daibouken (Japan)"
+	releasemonth "3"
+	rom ( crc EB465156 )
+)
+
+game (
+	name "Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi! (Japan)"
+	releasemonth "2"
+	rom ( crc 41F5D38D )
+)
+
+game (
+	name "Keroppi to Keroriinu no Splash Bomb! (Japan)"
+	releasemonth "12"
+	rom ( crc 4156A3CD )
+)
+
+game (
+	name "Ki no Bouken - The Quest of Ki (Japan)"
+	releasemonth "7"
+	rom ( crc E1526228 )
+)
+
+game (
+	name "Kick Master (USA)"
+	releasemonth "1"
+	rom ( crc 5104833E )
+)
+
+game (
+	name "Kick Off (Europe)"
+	releasemonth "7"
+	rom ( crc D161888B )
+)
+
+game (
+	name "Kid Icarus (Europe) (Rev A)"
+	releasemonth "2"
+	rom ( crc D67FD6A6 )
+)
+
+game (
+	name "Kid Kool and the Quest for the Seven Wonder Herbs (USA)"
+	releasemonth "3"
+	rom ( crc AA6BB985 )
+)
+
+game (
+	name "Kakefu-kun no Jump Tengoku - Speed Jigoku (Japan)"
+	releasemonth "7"
+	rom ( crc 8324A464 )
+)
+
+game (
+	name "Kid Niki - Radical Ninja (USA) (Rev A)"
+	releasemonth "11"
+	rom ( crc A9415562 )
+)
+
+game (
+	name "Kaiketsu Yancha Maru (Japan)"
+	releasemonth "10"
+	rom ( crc D1397940 )
+)
+
+game (
+	name "Kid Niki - Radical Ninja (USA)"
+	releasemonth "11"
+	rom ( crc 8192D2E7 )
+)
+
+game (
+	name "Kidou Senshi Z Gundam - Hot Scramble (Japan) (Final Version)"
+	releasemonth "8"
+	rom ( crc B9582F60 )
+)
+
+game (
+	name "Kidou Senshi Z Gundam - Hot Scramble (Japan)"
+	releasemonth "8"
+	rom ( crc CE07194F )
+)
+
+game (
+	name "King Kong 2 - Ikari no Megaton Punch (Japan)"
+	releasemonth "12"
+	rom ( crc B06C0674 )
+)
+
+game (
+	name "King of Kings (Japan)"
+	releasemonth "12"
+	rom ( crc 369DA42D )
+)
+
+game (
+	name "King's Knight (USA)"
+	releasemonth "9"
+	rom ( crc 01B4CA89 )
+)
+
+game (
+	name "King's Knight (Japan)"
+	releasemonth "9"
+	rom ( crc AC136F2D )
+)
+
+game (
+	name "King's Quest V (USA)"
+	releasemonth "6"
+	rom ( crc 00837960 )
+)
+
+game (
+	name "Kirby's Adventure (Europe)"
+	releasemonth "12"
+	rom ( crc 2C088DC5 )
+)
+
+game (
+	name "Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)"
+	releasemonth "3"
+	rom ( crc E4A7D436 )
+)
+
+game (
+	name "Kirby's Adventure (Canada)"
+	releasemonth "5"
+	rom ( crc 37088EFF )
+)
+
+game (
+	name "Kirby's Adventure (France)"
+	releasemonth "12"
+	rom ( crc B2EF7F4B )
+)
+
+game (
+	name "Kirby's Adventure (Germany)"
+	releasemonth "12"
+	rom ( crc 127D76F4 )
+)
+
+game (
+	name "Kirby's Adventure (USA)"
+	releasemonth "5"
+	rom ( crc D7794AFC )
+)
+
+game (
+	name "Kirby's Adventure (USA) (Rev A)"
+	releasemonth "5"
+	rom ( crc 5ED6F221 )
+)
+
+game (
+	name "Kiteretsu Daihyakka (Japan)"
+	releasemonth "2"
+	rom ( crc DB479677 )
+)
+
+game (
+	name "KlashBall (USA)"
+	releasemonth "7"
+	rom ( crc F4DFDB14 )
+)
+
+game (
+	name "Klax (Japan)"
+	releasemonth "12"
+	rom ( crc 3CCB5D57 )
+)
+
+game (
+	name "Knight Rider (Europe)"
+	releasemonth "7"
+	rom ( crc 280AD3C5 )
+)
+
+game (
+	name "Knight Rider (Japan)"
+	releasemonth "9"
+	rom ( crc 66F4D9F5 )
+)
+
+game (
+	name "Knight Rider (USA)"
+	releasemonth "12"
+	rom ( crc EBCFE7C5 )
+)
+
+game (
+	name "Konami Hyper Soccer (Europe)"
+	releasemonth "1"
+	rom ( crc D7B35F7D )
+)
+
+game (
+	name "Kouryuu Densetsu Villgust Gaiden (Japan)"
+	releasemonth "7"
+	rom ( crc 5318CDB9 )
+)
+
+game (
+	name "Krion Conquest, The (USA)"
+	releasemonth "1"
+	rom ( crc 03272E9B )
+)
+
+game (
+	name "Magical Kid's Doropie (Japan)"
+	releasemonth "12"
+	rom ( crc 7EC6F75B )
+)
+
+game (
+	name "Krusty's Fun House (Europe)"
+	releasemonth "1"
+	rom ( crc 585BA83D )
+)
+
+game (
+	name "Krusty's Fun House (USA)"
+	releasemonth "9"
+	rom ( crc A0DF4B8F )
+)
+
+game (
+	name "Kujaku Ou (Japan)"
+	releasemonth "9"
+	rom ( crc 71C9ED1E )
+)
+
+game (
+	name "Kujaku Ou II (Japan)"
+	releasemonth "8"
+	rom ( crc A4DCDF28 )
+)
+
+game (
+	name "Kunio-kun no Nekketsu Soccer League (Japan)"
+	releasemonth "4"
+	rom ( crc 4B5177E9 )
+)
+
+game (
+	name "Kurogane Hiroshi no Yosou Daisuki! - Kachiuma Densetsu (Japan)"
+	releasemonth "4"
+	rom ( crc 8F011713 )
+)
+
+game (
+	name "Kyouryuu Sentai Zyuranger (Japan)"
+	releasemonth "11"
+	rom ( crc 516B2412 )
+)
+
+game (
+	name "Kyuukyoku Harikiri Koushien (Japan)"
+	releasemonth "3"
+	rom ( crc 8CA72D80 )
+)
+
+game (
+	name "Kyuukyoku Harikiri Stadium - '88 Senshu Shin Data Version (Japan)"
+	releasemonth "12"
+	rom ( crc D0E53454 )
+)
+
+game (
+	name "Kyuukyoku Harikiri Stadium (Japan)"
+	releasemonth "12"
+	rom ( crc CEA35D5A )
+)
+
+game (
+	name "Kyuukyoku Harikiri Stadium - Heisei Gannen Ban (Japan)"
+	releasemonth "7"
+	rom ( crc 0BBF80CB )
+)
+
+game (
+	name "Kyuukyoku Harikiri Stadium III (Japan)"
+	releasemonth "3"
+	rom ( crc 2BB3DABE )
+)
+
+game (
+	name "Lagrange Point (Japan)"
+	releasemonth "4"
+	rom ( crc 743387FF )
+)
+
+game (
+	name "Lasalle Ishii no Child's Quest (Japan)"
+	releasemonth "6"
+	rom ( crc D97C31B0 )
+)
+
+game (
+	name "Laser Invasion (USA)"
+	releasemonth "6"
+	rom ( crc B0480AE9 )
+)
+
+game (
+	name "Gun Sight (Japan)"
+	releasemonth "3"
+	rom ( crc 0AFB395E )
+)
+
+game (
+	name "Last Action Hero (USA)"
+	releasemonth "10"
+	rom ( crc E7DA8A04 )
+)
+
+game (
+	name "Last Armageddon (Japan)"
+	releasemonth "11"
+	rom ( crc 8EEF8B76 )
+)
+
+game (
+	name "Last Ninja, The (USA)"
+	releasemonth "2"
+	rom ( crc E353969F )
+)
+
+game (
+	name "Last Starfighter, The (USA)"
+	releasemonth "6"
+	rom ( crc 6997F5E1 )
+)
+
+game (
+	name "Law of the West (Japan)"
+	releasemonth "3"
+	rom ( crc AE128FAC )
+)
+
+game (
+	name "Layla (Japan)"
+	releasemonth "12"
+	rom ( crc EA31CCD3 )
+)
+
+game (
+	name "Lee Trevino's Fighting Golf (Europe)"
+	releasemonth "5"
+	rom ( crc 9630A7E5 )
+)
+
+game (
+	name "Fighting Golf (Japan)"
+	releasemonth "3"
+	rom ( crc 8308FED7 )
+)
+
+game (
+	name "Lee Trevino's Fighting Golf (USA)"
+	releasemonth "9"
+	rom ( crc 88E1A5F4 )
+)
+
+game (
+	name "Legacy of the Wizard (USA)"
+	releasemonth "4"
+	rom ( crc F181C021 )
+)
+
+game (
+	name "Dragon Slayer 4 - Drasle Family (Japan)"
+	releasemonth "7"
+	rom ( crc A5E6BAF9 )
+)
+
+game (
+	name "Legend of Kage, The (USA)"
+	releasemonth "8"
+	rom ( crc BBED6E6E )
+)
+
+game (
+	name "Kage no Densetsu (Japan)"
+	releasemonth "4"
+	rom ( crc BDA7925E )
+)
+
+game (
+	name "Legend of Prince Valiant, The (Europe)"
+	releasemonth "1"
+	rom ( crc FD7E9A7E )
+)
+
+game (
+	name "Legendary Wings (USA)"
+	releasemonth "7"
+	rom ( crc A2194CAD )
+)
+
+game (
+	name "Legends of the Diamond - The Baseball Championship Game (USA)"
+	releasemonth "1"
+	rom ( crc 05CE560C )
+)
+
+game (
+	name "Lemmings (Europe)"
+	releasemonth "5"
+	rom ( crc 9B568CC4 )
+)
+
+game (
+	name "Lemmings (USA)"
+	releasemonth "11"
+	rom ( crc A69F29FA )
+)
+
+game (
+	name "Lethal Weapon (Europe)"
+	releasemonth "1"
+	rom ( crc E043C6A5 )
+)
+
+game (
+	name "Lethal Weapon (USA)"
+	releasemonth "4"
+	rom ( crc 7077B075 )
+)
+
+game (
+	name "Lion King, The (Europe)"
+	releasemonth "5"
+	rom ( crc 89984244 )
+)
+
+game (
+	name "Lipple Island (Japan)"
+	releasemonth "1"
+	rom ( crc A38857EB )
+)
+
+game (
+	name "Little League Baseball - Championship Series (USA)"
+	releasemonth "7"
+	rom ( crc 859C65E1 )
+)
+
+game (
+	name "Little Magic (Japan)"
+	releasemonth "9"
+	rom ( crc C9EDF585 )
+)
+
+game (
+	name "Lode Runner (USA)"
+	releasemonth "1"
+	rom ( crc AF5676DE )
+)
+
+game (
+	name "Lone Ranger, The (USA)"
+	releasemonth "8"
+	rom ( crc 23D17F5E )
+)
+
+game (
+	name "Loopz (USA)"
+	releasemonth "10"
+	rom ( crc FD8D6C75 )
+)
+
+game (
+	name "Lost Word of Jenny - Ushinawareta Message (Japan)"
+	releasemonth "3"
+	rom ( crc 3CD6BB0E )
+)
+
+game (
+	name "Lot Lot (Japan)"
+	releasemonth "12"
+	rom ( crc 75A7E399 )
+)
+
+game (
+	name "Low G Man - The Low Gravity Man (Europe)"
+	releasemonth "1"
+	rom ( crc AF65AA84 )
+)
+
+game (
+	name "Low G Man - The Low Gravity Man (USA)"
+	releasemonth "9"
+	rom ( crc 93991433 )
+)
+
+game (
+	name "Lunar Pool (Europe)"
+	releasemonth "1"
+	rom ( crc C3A0A3E0 )
+)
+
+game (
+	name "Lunar Ball (Japan)"
+	releasemonth "12"
+	rom ( crc 2F55BE88 )
+)
+
+game (
+	name "Lunar Pool (USA)"
+	releasemonth "10"
+	rom ( crc 988B446D )
+)
+
+game (
+	name "Lupin Sansei - Pandora no Isan (Japan)"
+	releasemonth "11"
+	rom ( crc 9D21FE96 )
+)
+
+game (
+	name "M.U.L.E. (USA)"
+	releasemonth "9"
+	rom ( crc 0939852F )
+)
+
+game (
+	name "M.U.S.C.L.E. - Tag Team Match (USA)"
+	releasemonth "10"
+	rom ( crc 8FF31896 )
+)
+
+game (
+	name "Kinnikuman - Muscle Tag Match (Japan)"
+	releasemonth "11"
+	rom ( crc A08B4701 )
+)
+
+game (
+	name "Kinnikuman - Muscle Tag Match (Japan) (Rev 1)"
+	releasemonth "11"
+	rom ( crc A07C1F81 )
+)
+
+game (
+	name "Mach Rider (Europe)"
+	releasemonth "3"
+	rom ( crc E57E5384 )
+)
+
+game (
+	name "Mad Max (USA)"
+	releasemonth "7"
+	rom ( crc 026E41C5 )
+)
+
+game (
+	name "Mafat Conspiracy, The (USA)"
+	releasemonth "6"
+	rom ( crc 8A043CD6 )
+)
+
+game (
+	name "Golgo 13 - Dainishou - Icarus no Nazo (Japan)"
+	releasemonth "7"
+	rom ( crc 27D34A57 )
+)
+
+game (
+	name "Magic Candle, The (Japan)"
+	releasemonth "3"
+	rom ( crc 4942BDA8 )
+)
+
+game (
+	name "Magic Darts (Japan)"
+	releasemonth "4"
+	rom ( crc E02133AC )
+)
+
+game (
+	name "Magic Darts (USA)"
+	releasemonth "9"
+	rom ( crc 5EB8E707 )
+)
+
+game (
+	name "Magic Johnson's Fast Break (USA)"
+	releasemonth "3"
+	rom ( crc C6C2EDB5 )
+)
+
+game (
+	name "Magic of Scheherazade, The (USA)"
+	releasemonth "12"
+	rom ( crc 92197173 )
+)
+
+game (
+	name "Arabian Dream Scheherazade (Japan)"
+	releasemonth "9"
+	rom ( crc 074EC424 )
+)
+
+game (
+	name "Magical Taruruuto-kun - Fantastic World!! (Japan) (Rev 1)"
+	releasemonth "3"
+	rom ( crc DCB972CE )
+)
+
+game (
+	name "Magical Taruruuto-kun - Fantastic World!! (Japan)"
+	releasemonth "3"
+	rom ( crc 0CF42E69 )
+)
+
+game (
+	name "Magical Taruruuto-kun 2 - Mahou Daibouken (Japan)"
+	releasemonth "6"
+	rom ( crc B7F28915 )
+)
+
+game (
+	name "Magician (USA)"
+	releasemonth "2"
+	rom ( crc 91E2E863 )
+)
+
+game (
+	name "Magmax (Japan)"
+	releasemonth "3"
+	rom ( crc 5E345B6D )
+)
+
+game (
+	name "Magmax (USA)"
+	releasemonth "10"
+	rom ( crc 81389607 )
+)
+
+game (
+	name "Magnum Kikiippatsu - Empire City - 1931 (Japan)"
+	releasemonth "12"
+	rom ( crc 8E7ABDFC )
+)
+
+game (
+	name "Maharaja (Japan)"
+	releasemonth "9"
+	rom ( crc 98CCC9AB )
+)
+
+game (
+	name "Mahjong (Japan) (Rev B)"
+	releasemonth "8"
+	rom ( crc 23D91BC6 )
+)
+
+game (
+	name "Mahjong (Japan) (Rev A)"
+	releasemonth "8"
+	rom ( crc A9842027 )
+)
+
+game (
+	name "Mahjong Club Nagatachou - Sousaisen (Japan)"
+	releasemonth "4"
+	rom ( crc 85BC0777 )
+)
+
+game (
+	name "Mahjong Taikai (Japan)"
+	releasemonth "10"
+	rom ( crc F714FAE3 )
+)
+
+game (
+	name "Mahjong Taisen (Japan)"
+	releasemonth "5"
+	rom ( crc 59449E3B )
+)
+
+game (
+	name "Mahou no Princess Minky Momo - Remember Dream (Japan)"
+	releasemonth "7"
+	rom ( crc 2D2F91B8 )
+)
+
+game (
+	name "Maison Ikkoku (Japan)"
+	releasemonth "7"
+	rom ( crc 46F30F2D )
+)
+
+game (
+	name "Majaventure - Mahjong Senki (Japan)"
+	releasemonth "10"
+	rom ( crc 8531C166 )
+)
+
+game (
+	name "Major League (Japan)"
+	releasemonth "10"
+	rom ( crc 243A8735 )
+)
+
+game (
+	name "Major League Baseball (USA) (Rev A)"
+	releasemonth "4"
+	rom ( crc 96E6C1CE )
+)
+
+game (
+	name "Major League Baseball (USA)"
+	releasemonth "4"
+	rom ( crc A03A422B )
+)
+
+game (
+	name "Majou Densetsu II - Daimashikyou Galious (Japan)"
+	releasemonth "8"
+	rom ( crc 4536FE1C )
+)
+
+game (
+	name "Higemaru - Makai-jima - Nanatsu no Shima Daibouken (Japan)"
+	releasemonth "4"
+	rom ( crc F7893859 )
+)
+
+game (
+	name "Maniac Mansion (Europe)"
+	releasemonth "10"
+	rom ( crc F59CFC3D )
+)
+
+game (
+	name "Maniac Mansion (France)"
+	releasemonth "10"
+	rom ( crc F4B70BFE )
+)
+
+game (
+	name "Maniac Mansion (Germany)"
+	releasemonth "10"
+	rom ( crc 60EA98A0 )
+)
+
+game (
+	name "Maniac Mansion (Italy)"
+	releasemonth "10"
+	rom ( crc DC529482 )
+)
+
+game (
+	name "Maniac Mansion (Spain)"
+	releasemonth "10"
+	rom ( crc F5B2AFCA )
+)
+
+game (
+	name "Maniac Mansion (Sweden)"
+	releasemonth "10"
+	rom ( crc 3F2BDA65 )
+)
+
+game (
+	name "Maniac Mansion (USA)"
+	releasemonth "9"
+	rom ( crc 0D9F5BD1 )
+)
+
+game (
+	name "Mappy (Japan)"
+	releasemonth "11"
+	rom ( crc 5D1301C5 )
+)
+
+game (
+	name "Mappy Kids (Japan)"
+	releasemonth "12"
+	rom ( crc 35D8C961 )
+)
+
+game (
+	name "Mappy-Land (Japan)"
+	releasemonth "11"
+	rom ( crc 2E563C66 )
+)
+
+game (
+	name "Mappy-Land (USA)"
+	releasemonth "4"
+	rom ( crc 83FC38F8 )
+)
+
+game (
+	name "Marble Madness (Europe)"
+	releasemonth "1"
+	rom ( crc 51BF28AF )
+)
+
+game (
+	name "Marble Madness (USA)"
+	releasemonth "3"
+	rom ( crc 09874777 )
+)
+
+game (
+	name "Mario Bros. Classic (Europe)"
+	releasemonth "1"
+	rom ( crc A1C0DA00 )
+)
+
+game (
+	name "Mario Bros. (World)"
+	releasemonth "6"
+	rom ( crc C4C3949A )
+)
+
+game (
+	name "Mario Bros. (USA) (GameCube Edition)"
+	releasemonth "6"
+	rom ( crc 8DB31730 )
+)
+
+game (
+	name "Mario Is Missing! (Europe)"
+	releasemonth "7"
+	rom ( crc 967011AD )
+)
+
+game (
+	name "Mario Is Missing! (USA)"
+	releasemonth "7"
+	rom ( crc 2055971A )
+)
+
+game (
+	name "Mario's Time Machine (USA)"
+	releasemonth "6"
+	rom ( crc 55DB7E2A )
+)
+
+game (
+	name "Marusa no Onna (Japan)"
+	releasemonth "9"
+	rom ( crc E2281986 )
+)
+
+game (
+	name "Mashin Eiyuu Den Wataru Gaiden (Japan)"
+	releasemonth "3"
+	rom ( crc D0CC5EC8 )
+)
+
+game (
+	name "Masuzoe Youichi - Asa Made Famicom (Japan)"
+	releasemonth "4"
+	rom ( crc 98A97A59 )
+)
+
+game (
+	name "Matsumoto Tooru no Kabushiki Hisshou Gaku - Part II (Japan)"
+	releasemonth "3"
+	rom ( crc 1208E754 )
+)
+
+game (
+	name "Matsumoto Tooru no Kabushiki Hisshou Gaku - Vol. 1 (Japan)"
+	releasemonth "2"
+	rom ( crc ABAA6F78 )
+)
+
+game (
+	name "McDonaldland (Europe)"
+	releasemonth "5"
+	rom ( crc FC2F9B2D )
+)
+
+game (
+	name "M.C. Kids (USA)"
+	releasemonth "2"
+	rom ( crc B0EBF3DB )
+)
+
+game (
+	name "McDonaldland (France)"
+	releasemonth "5"
+	rom ( crc 8650BE49 )
+)
+
+game (
+	name "Mechanized Attack (USA)"
+	releasemonth "6"
+	rom ( crc 5EE6008E )
+)
+
+game (
+	name "Meiji Ishin (Japan)"
+	releasemonth "9"
+	rom ( crc 66DD04E1 )
+)
+
+game (
+	name "Meimon! Daisan Yakyuubu (Japan)"
+	releasemonth "8"
+	rom ( crc 7B5206AF )
+)
+
+game (
+	name "Meitantei Holmes - Kiri no London Satsujin Jiken (Japan)"
+	releasemonth "5"
+	rom ( crc 1A7E97ED )
+)
+
+game (
+	name "Meitantei Holmes - M kara no Chousenjou (Japan)"
+	releasemonth "5"
+	rom ( crc 0A73A792 )
+)
+
+game (
+	name "Metal Gear (Europe)"
+	releasemonth "1"
+	rom ( crc 84C4A12E )
+)
+
+game (
+	name "Metal Gear (Japan)"
+	releasemonth "12"
+	rom ( crc 805F81BC )
+)
+
+game (
+	name "Metal Gear (USA)"
+	releasemonth "6"
+	rom ( crc 817431EC )
+)
+
+game (
+	name "Metal Max (Japan)"
+	releasemonth "5"
+	rom ( crc 9509F703 )
+)
+
+game (
+	name "Metal Mech - Man & Machine (USA)"
+	releasemonth "3"
+	rom ( crc 05378607 )
+)
+
+game (
+	name "Metal Flame Psybuster (Japan)"
+	releasemonth "12"
+	rom ( crc BF93112A )
+)
+
+game (
+	name "Metal Slader Glory (Japan)"
+	releasemonth "8"
+	rom ( crc B4735FAC )
+)
+
+game (
+	name "Metal Storm (USA)"
+	releasemonth "2"
+	rom ( crc BCACBBF4 )
+)
+
+game (
+	name "Juuryoku Soukou Metal Storm (Japan)"
+	releasemonth "4"
+	rom ( crc FDB8AA9A )
+)
+
+game (
+	name "Metro-Cross (Japan)"
+	releasemonth "12"
+	rom ( crc E40B4973 )
+)
+
+game (
+	name "Mezase Pachi Pro - Pachio-kun (Japan)"
+	releasemonth "12"
+	rom ( crc 9C3E8FC0 )
+)
+
+game (
+	name "Mezase Top Pro - Green ni Kakeru Yume (Japan)"
+	releasemonth "3"
+	rom ( crc 3691C120 )
+)
+
+game (
+	name "Mickey Mousecapade (USA)"
+	releasemonth "10"
+	rom ( crc 7C6A3D51 )
+)
+
+game (
+	name "Mickey Mouse - Fushigi no Kuni no Daibouken (Japan)"
+	releasemonth "3"
+	rom ( crc 9E4701CB )
+)
+
+game (
+	name "Mickey's Adventure in Numberland (USA)"
+	releasemonth "3"
+	rom ( crc 6FB349E2 )
+)
+
+game (
+	name "Mickey's Safari in Letterland (USA)"
+	releasemonth "3"
+	rom ( crc 982DFB38 )
+)
+
+game (
+	name "Might & Magic - Secret of the Inner Sanctum (USA)"
+	releasemonth "8"
+	rom ( crc 532A27E6 )
+)
+
+game (
+	name "Might and Magic - Book One - Secret of the Inner Sanctum (Japan)"
+	releasemonth "7"
+	rom ( crc 9BDCD892 )
+)
+
+game (
+	name "Mighty Bomb Jack (Europe)"
+	releasemonth "1"
+	rom ( crc 842A3FD9 )
+)
+
+game (
+	name "Mighty Bomb Jack (Japan)"
+	releasemonth "4"
+	rom ( crc 9C521240 )
+)
+
+game (
+	name "Mighty Bomb Jack (USA)"
+	releasemonth "7"
+	rom ( crc AAC2E75E )
+)
+
+game (
+	name "Mighty Bomb Jack (Japan) (Rev A)"
+	releasemonth "4"
+	rom ( crc D40FA953 )
+)
+
+game (
+	name "Mighty Final Fight (Europe)"
+	releasemonth "1"
+	rom ( crc 7653103A )
+)
+
+game (
+	name "Mighty Final Fight (Japan)"
+	releasemonth "6"
+	rom ( crc 2B160BF0 )
+)
+
+game (
+	name "Mighty Final Fight (USA)"
+	releasemonth "7"
+	rom ( crc 3F78037C )
+)
+
+game (
+	name "Milon's Secret Castle (USA)"
+	releasemonth "9"
+	rom ( crc 586A3277 )
+)
+
+game (
+	name "Meikyuu Kumikyoku - Milon no Daibouken (Japan)"
+	releasemonth "11"
+	rom ( crc 3E00A373 )
+)
+
+game (
+	name "Mindseeker (Japan)"
+	releasemonth "4"
+	rom ( crc ACE56F39 )
+)
+
+game (
+	name "Minelvaton Saga - Ragon no Fukkatsu (Japan)"
+	releasemonth "10"
+	rom ( crc 8EE25F78 )
+)
+
+game (
+	name "Mini Putt (Japan)"
+	releasemonth "2"
+	rom ( crc 6439F53A )
+)
+
+game (
+	name "Minna no Taabou no Nakayoshi Daisakusen (Japan)"
+	releasemonth "11"
+	rom ( crc 555042B3 )
+)
+
+game (
+	name "Miracle Piano Teaching System, The (USA)"
+	releasemonth "1"
+	rom ( crc 92C138E4 )
+)
+
+game (
+	name "Miracle Piano Teaching System, The (France)"
+	releasemonth "1"
+	rom ( crc 9DF58E80 )
+)
+
+game (
+	name "Miracle Piano Teaching System, The (Germany)"
+	releasemonth "1"
+	rom ( crc B3974D6C )
+)
+
+game (
+	name "Miracle Ropit's - 2100 Nen no Daibouken (Japan)"
+	releasemonth "8"
+	rom ( crc 9F8336DB )
+)
+
+game (
+	name "Mirai Shinwa Jarvas (Japan)"
+	releasemonth "6"
+	rom ( crc 0E1683C5 )
+)
+
+game (
+	name "Mission Impossible (Europe)"
+	releasemonth "11"
+	rom ( crc 1353A134 )
+)
+
+game (
+	name "Mission Impossible (France)"
+	releasemonth "11"
+	rom ( crc 4ECD4624 )
+)
+
+game (
+	name "Mission Impossible (USA)"
+	releasemonth "9"
+	rom ( crc E3C5BB3D )
+)
+
+game (
+	name "Mito Koumon - Sekai Manyuu Ki (Japan)"
+	releasemonth "8"
+	rom ( crc CA24A1A2 )
+)
+
+game (
+	name "Mitsume ga Tooru (Japan)"
+	releasemonth "7"
+	rom ( crc C8EDC97E )
+)
+
+game (
+	name "Mizushima Shinji no Daikoushien (Japan)"
+	releasemonth "10"
+	rom ( crc 09C1FC7D )
+)
+
+game (
+	name "Moai-kun (Japan)"
+	releasemonth "3"
+	rom ( crc EC8A884F )
+)
+
+game (
+	name "Moero!! Juudou Warriors (Japan)"
+	releasemonth "6"
+	rom ( crc 9EE83916 )
+)
+
+game (
+	name "Moeru! Oniisan (Japan)"
+	releasemonth "8"
+	rom ( crc F96D07C8 )
+)
+
+game (
+	name "Momotarou Densetsu (Japan)"
+	releasemonth "12"
+	rom ( crc B5576820 )
+)
+
+game (
+	name "Momotarou Densetsu Gaiden (Japan)"
+	releasemonth "12"
+	rom ( crc 9C58F4A6 )
+)
+
+game (
+	name "Momotarou Dentetsu (Japan)"
+	releasemonth "12"
+	rom ( crc 1027C432 )
+)
+
+game (
+	name "Money Game, The (Japan)"
+	releasemonth "8"
+	rom ( crc CFD4A281 )
+)
+
+game (
+	name "Monopoly (USA)"
+	releasemonth "5"
+	rom ( crc 9747AC09 )
+)
+
+game (
+	name "Monopoly (France)"
+	releasemonth "1"
+	rom ( crc 03B8DEFA )
+)
+
+game (
+	name "Monopoly (Germany)"
+	releasemonth "1"
+	rom ( crc 39BB6616 )
+)
+
+game (
+	name "Monopoly (Japan)"
+	releasemonth "11"
+	rom ( crc 86759C0F )
+)
+
+game (
+	name "Monster in My Pocket (Europe)"
+	releasemonth "1"
+	rom ( crc 80250D64 )
+)
+
+game (
+	name "Monster in My Pocket (USA)"
+	releasemonth "1"
+	rom ( crc E542E3CF )
+)
+
+game (
+	name "Monster Maker - 7 Tsu no Hihou (Japan)"
+	releasemonth "12"
+	rom ( crc FB1C0551 )
+)
+
+game (
+	name "Monster Truck Rally (USA)"
+	releasemonth "9"
+	rom ( crc 2F698C4D )
+)
+
+game (
+	name "Moon Crystal (Japan)"
+	releasemonth "8"
+	rom ( crc 26E39935 )
+)
+
+game (
+	name "Mother (Japan)"
+	releasemonth "7"
+	rom ( crc 20CC079D )
+)
+
+game (
+	name "Motocross Champion (Japan)"
+	releasemonth "1"
+	rom ( crc E6C9029E )
+)
+
+game (
+	name "MotorCity Patrol (USA)"
+	releasemonth "1"
+	rom ( crc 0A0926BD )
+)
+
+game (
+	name "Mottomo Abunai Deka (Japan)"
+	releasemonth "2"
+	rom ( crc F89300FB )
+)
+
+game (
+	name "Moulin Rouge Senki - Melville no Honoo (Japan)"
+	releasemonth "8"
+	rom ( crc F7E07B83 )
+)
+
+game (
+	name "Mouryou Senki Madara (Japan)"
+	releasemonth "3"
+	rom ( crc E1383DEB )
+)
+
+game (
+	name "Ms. Pac-Man (USA)"
+	releasemonth "11"
+	rom ( crc B6D2D300 )
+)
+
+game (
+	name "Mugen Senshi Valis (Japan)"
+	releasemonth "8"
+	rom ( crc C76AADF4 )
+)
+
+game (
+	name "Muppet Adventure - Chaos at the Carnival (USA)"
+	releasemonth "11"
+	rom ( crc 7156CB4D )
+)
+
+game (
+	name "Musashi no Bouken (Japan)"
+	releasemonth "12"
+	rom ( crc 70F67AB7 )
+)
+
+game (
+	name "Musashi no Ken - Tadaima Shugyou Chuu (Japan)"
+	releasemonth "8"
+	rom ( crc 9D34EDC5 )
+)
+
+game (
+	name "Mutant Virus, The - Crisis in a Computer World (USA)"
+	releasemonth "4"
+	rom ( crc 7DCB4C18 )
+)
+
+game (
+	name "My Life My Love - Boku no Yume - Watashi no Negai (Japan)"
+	releasemonth "8"
+	rom ( crc 26049798 )
+)
+
+game (
+	name "Mystery Quest (USA)"
+	releasemonth "4"
+	rom ( crc B5D28EA2 )
+)
+
+game (
+	name "Nagagutsu o Haita Neko - Sekai Isshuu 80 Nichi Daibouken (Japan)"
+	releasemonth "11"
+	rom ( crc E8AF6FF5 )
+)
+
+game (
+	name "Nakajima Satoru Kanshuu - F-1 Hero 2 (Japan)"
+	releasemonth "9"
+	rom ( crc 1C2A58FF )
+)
+
+game (
+	name "Nakayoshi to Issho (Japan)"
+	releasemonth "12"
+	rom ( crc FFE8507E )
+)
+
+game (
+	name "Namco Classic (Japan)"
+	releasemonth "5"
+	rom ( crc 4C5836BD )
+)
+
+game (
+	name "Namco Classic II (Japan)"
+	releasemonth "3"
+	rom ( crc 684B292F )
+)
+
+game (
+	name "Namcot Mahjong III - Mahjong Tengoku (Japan)"
+	releasemonth "3"
+	rom ( crc 91AC514E )
+)
+
+game (
+	name "Nantettatte!! Baseball (Japan)"
+	releasemonth "10"
+	rom ( crc A2623BC1 )
+)
+
+game (
+	name "Nantettatte!! Baseball Ko-Game Set '91 Kaimakuban (Japan)"
+	releasemonth "5"
+	rom ( crc 6C039D11 )
+)
+
+game (
+	name "Nantettatte!! Baseball Ko-Game Set OB All Star Hen (Japan)"
+	releasemonth "2"
+	rom ( crc A5275B36 )
+)
+
+game (
+	name "Napoleon Senki (Japan)"
+	releasemonth "3"
+	rom ( crc 06144B4A )
+)
+
+game (
+	name "NARC (USA)"
+	releasemonth "8"
+	rom ( crc 0537322A )
+)
+
+game (
+	name "Navy Blue (Japan)"
+	releasemonth "2"
+	rom ( crc 69BCDB8B )
+)
+
+game (
+	name "Nekketsu Kakutou Densetsu (Japan)"
+	releasemonth "12"
+	rom ( crc 37E24797 )
+)
+
+game (
+	name "Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)"
+	releasemonth "12"
+	rom ( crc 88062D9A )
+)
+
+game (
+	name "NES Open Tournament Golf (Europe)"
+	releasemonth "6"
+	rom ( crc 2D020965 )
+)
+
+game (
+	name "Mario Open Golf (Japan)"
+	releasemonth "9"
+	rom ( crc BAEBA201 )
+)
+
+game (
+	name "Mario Open Golf (Japan) (Rev A)"
+	releasemonth "9"
+	rom ( crc DB564628 )
+)
+
+game (
+	name "NES Open Tournament Golf (USA)"
+	releasemonth "9"
+	rom ( crc F6B9799C )
+)
+
+game (
+	name "NES Play Action Football (USA)"
+	releasemonth "9"
+	rom ( crc B9B4D9E0 )
+)
+
+game (
+	name "New Ghostbusters II (Europe)"
+	releasemonth "1"
+	rom ( crc F0C198FF )
+)
+
+game (
+	name "New Ghostbusters II (Japan)"
+	releasemonth "12"
+	rom ( crc 5931BE01 )
+)
+
+game (
+	name "Nigel Mansell's World Championship Racing (Europe) (En,Fr,De,Es,It)"
+	releasemonth "1"
+	rom ( crc 1677D21D )
+)
+
+game (
+	name "Nigel Mansell's World Championship Challenge (USA)"
+	releasemonth "10"
+	rom ( crc 4751A751 )
+)
+
+game (
+	name "Nightmare on Elm Street, A (USA)"
+	releasemonth "10"
+	rom ( crc DA2CB59A )
+)
+
+game (
+	name "Nightshade (USA)"
+	releasemonth "1"
+	rom ( crc A60CA3D6 )
+)
+
+game (
+	name "Nihonichi no Mei Kantoku (Japan)"
+	releasemonth "8"
+	rom ( crc DA690D17 )
+)
+
+game (
+	name "Niji no Silk Road (Japan)"
+	releasemonth "2"
+	rom ( crc 5337F73C )
+)
+
+game (
+	name "Ninja Crusaders (USA)"
+	releasemonth "12"
+	rom ( crc 3D1C4894 )
+)
+
+game (
+	name "Ninja Crusaders - Ryuuga (Japan)"
+	releasemonth "12"
+	rom ( crc B5E24324 )
+)
+
+game (
+	name "Ninja Hattori-kun - Ninja wa Syugyou de Gozaru (Japan)"
+	releasemonth "3"
+	rom ( crc 55761931 )
+)
+
+game (
+	name "Ninja Jajamaru-kun (Japan)"
+	releasemonth "11"
+	rom ( crc D97595A3 )
+)
+
+game (
+	name "Ninja Kid (USA)"
+	releasemonth "10"
+	rom ( crc 02CC3973 )
+)
+
+game (
+	name "Gegege no Kitarou - Youkai Daimakyou (Japan)"
+	releasemonth "4"
+	rom ( crc 25468546 )
+)
+
+game (
+	name "Ninja-kun - Ashura no Shou (Japan)"
+	releasemonth "5"
+	rom ( crc 219DFABF )
+)
+
+game (
+	name "Ninja-kun - Majou no Bouken (Japan) (Rev 1)"
+	releasemonth "5"
+	rom ( crc FC00A282 )
+)
+
+game (
+	name "Ninja-kun - Majou no Bouken (Japan)"
+	releasemonth "5"
+	rom ( crc A222F5A0 )
+)
+
+game (
+	name "Ninjara Hoi! (Japan)"
+	releasemonth "8"
+	rom ( crc CEE5857B )
+)
+
+game (
+	name "Nintendo World Championships 1990 (USA)"
+	releasemonth "1"
+	rom ( crc 0B0E128F )
+)
+
+game (
+	name "Nintendo World Cup (Europe) (Rev B)"
+	releasemonth "6"
+	rom ( crc 7F08D0D9 )
+)
+
+game (
+	name "Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan)"
+	releasemonth "5"
+	rom ( crc 64FD3BA6 )
+)
+
+game (
+	name "Nintendo World Cup (Europe)"
+	releasemonth "6"
+	rom ( crc 8DA6667D )
+)
+
+game (
+	name "Nintendo World Cup (USA)"
+	releasemonth "12"
+	rom ( crc A22657FA )
+)
+
+game (
+	name "Nintendo World Cup (Europe) (Rev A)"
+	releasemonth "6"
+	rom ( crc 7C16F819 )
+)
+
+game (
+	name "Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (Japan)"
+	releasemonth "1"
+	rom ( crc A851CAE9 )
+)
+
+game (
+	name "Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (Japan)"
+	releasemonth "3"
+	rom ( crc F56135C0 )
+)
+
+game (
+	name "Noah's Ark (Europe)"
+	releasemonth "1"
+	rom ( crc 81B2A3CD )
+)
+
+game (
+	name "Nobunaga no Yabou - Bushou Fuuun Roku (Japan)"
+	releasemonth "12"
+	rom ( crc F540677B )
+)
+
+game (
+	name "Nobunaga's Ambition (USA)"
+	releasemonth "6"
+	rom ( crc 4642DDA6 )
+)
+
+game (
+	name "Nobunaga no Yabou - Zenkoku Ban (Japan)"
+	releasemonth "3"
+	rom ( crc 3F7AD415 )
+)
+
+game (
+	name "Nobunaga no Yabou - Zenkoku Ban (Japan) (Rev A)"
+	releasemonth "3"
+	rom ( crc 2B11E0B0 )
+)
+
+game (
+	name "Nobunaga's Ambition II (USA)"
+	releasemonth "4"
+	rom ( crc 8CE478DB )
+)
+
+game (
+	name "Nobunaga no Yabou - Sengoku Gunyuu Den (Japan)"
+	releasemonth "2"
+	rom ( crc EEE9A682 )
+)
+
+game (
+	name "Nobunaga no Yabou - Sengoku Gunyuu Den (Japan) (Rev A)"
+	releasemonth "2"
+	rom ( crc F9B4240F )
+)
+
+game (
+	name "North & South (Europe)"
+	releasemonth "1"
+	rom ( crc 7BA3F8AE )
+)
+
+game (
+	name "North & South - Wakuwaku Nanboku Sensou (Japan)"
+	releasemonth "9"
+	rom ( crc 0FC8E9B7 )
+)
+
+game (
+	name "North and South (USA)"
+	releasemonth "12"
+	rom ( crc AE9F33D0 )
+)
+
+game (
+	name "Nuts & Milk (Japan)"
+	releasemonth "7"
+	rom ( crc 739A1027 )
+)
+
+game (
+	name "Obocchama-kun (Japan)"
+	releasemonth "4"
+	rom ( crc E24483B1 )
+)
+
+game (
+	name "Oeka Kids - Anpanman no Hiragana Daisuki (Japan)"
+	releasemonth "3"
+	rom ( crc C3C0811D )
+)
+
+game (
+	name "Oeka Kids - Anpanman to Oekaki Shiyou!! (Japan)"
+	releasemonth "10"
+	rom ( crc 9D048EA4 )
+)
+
+game (
+	name "Oishinbo - Kyuukyoku no Menu Sanbon Shoubu (Japan)"
+	releasemonth "7"
+	rom ( crc 264F26B1 )
+)
+
+game (
+	name "Onyanko Town (Japan)"
+	releasemonth "11"
+	rom ( crc 270EAED5 )
+)
+
+game (
+	name "Operation Wolf (Europe)"
+	releasemonth "1"
+	rom ( crc 5529431F )
+)
+
+game (
+	name "Operation Wolf (Japan)"
+	releasemonth "3"
+	rom ( crc 2A6559A1 )
+)
+
+game (
+	name "Operation Wolf (USA) (Rev 0A)"
+	releasemonth "5"
+	rom ( crc EDC3662B )
+)
+
+game (
+	name "Orb 3D (USA)"
+	releasemonth "10"
+	rom ( crc 958E4BAE )
+)
+
+game (
+	name "Otaku no Seiza - An Adventure in the Otaku Galaxy (Japan)"
+	releasemonth "7"
+	rom ( crc 4582F22E )
+)
+
+game (
+	name "Othello (USA)"
+	releasemonth "12"
+	rom ( crc 699FA085 )
+)
+
+game (
+	name "Othello (Japan)"
+	releasemonth "11"
+	rom ( crc 87D7CAF0 )
+)
+
+game (
+	name "Outlanders (Japan)"
+	releasemonth "12"
+	rom ( crc 7AA02377 )
+)
+
+game (
+	name "Over Horizon (Europe)"
+	releasemonth "1"
+	rom ( crc 9237B447 )
+)
+
+game (
+	name "Over Horizon (Japan)"
+	releasemonth "4"
+	rom ( crc CE06F2D4 )
+)
+
+game (
+	name "Overlord (USA)"
+	releasemonth "1"
+	rom ( crc 2856111F )
+)
+
+game (
+	name "P.O.W. - Prisoners of War (Europe)"
+	releasemonth "1"
+	rom ( crc 073A0EBE )
+)
+
+game (
+	name "Datsugoku (Japan)"
+	releasemonth "6"
+	rom ( crc 360AA8B4 )
+)
+
+game (
+	name "P.O.W. - Prisoners of War (USA)"
+	releasemonth "9"
+	rom ( crc 75255F88 )
+)
+
+game (
+	name "Pac-Land (Japan)"
+	releasemonth "11"
+	rom ( crc 89D42098 )
+)
+
+game (
+	name "Pac-Man (Europe)"
+	releasemonth "1"
+	rom ( crc 81210F63 )
+)
+
+game (
+	name "Pac-Man (Japan)"
+	releasemonth "11"
+	rom ( crc 3E95BA25 )
+)
+
+game (
+	name "Pac-Man (Japan) (Rev A)"
+	releasemonth "11"
+	rom ( crc 5CDB2823 )
+)
+
+game (
+	name "Pac-Man (USA) (Namco)"
+	releasemonth "11"
+	rom ( crc 9E4E9CC2 )
+)
+
+game (
+	name "Pac-Man (USA) (Tengen)"
+	releasemonth "11"
+	rom ( crc A9BBF44F )
+)
+
+game (
+	name "Pac-Man (Japan) (En) (Rev B)"
+	releasemonth "11"
+	rom ( crc 2C7D68F3 )
+)
+
+game (
+	name "Pachi-Slot Adventure 2 - Sorotta-kun no Pachi-Slot Tanteidan (Japan)"
+	releasemonth "9"
+	rom ( crc 9EEFB4B4 )
+)
+
+game (
+	name "Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan! (Japan)"
+	releasemonth "5"
+	rom ( crc 051CD5F2 )
+)
+
+game (
+	name "Pachicom (Japan)"
+	releasemonth "11"
+	rom ( crc E30B2BCF )
+)
+
+game (
+	name "Pachinko Daisakusen (Japan)"
+	releasemonth "7"
+	rom ( crc C22C23AB )
+)
+
+game (
+	name "Pachinko Daisakusen 2 (Japan)"
+	releasemonth "7"
+	rom ( crc 44F92026 )
+)
+
+game (
+	name "Pachio-kun 2 (Japan)"
+	releasemonth "1"
+	rom ( crc 291BCD7D )
+)
+
+game (
+	name "Pachio-kun 3 (Japan)"
+	releasemonth "10"
+	rom ( crc 8BCB0993 )
+)
+
+game (
+	name "Pachio-kun 4 (Japan)"
+	releasemonth "11"
+	rom ( crc E08C8A60 )
+)
+
+game (
+	name "Pachio-kun 5 (Japan)"
+	releasemonth "6"
+	rom ( crc 9B3C5124 )
+)
+
+game (
+	name "Palamedes (USA)"
+	releasemonth "11"
+	rom ( crc 6BB6A0CE )
+)
+
+game (
+	name "Palamedes (Japan)"
+	releasemonth "7"
+	rom ( crc C6B5D7E0 )
+)
+
+game (
+	name "Paperboy (Europe)"
+	releasemonth "10"
+	rom ( crc EE219A49 )
+)
+
+game (
+	name "Paperboy (Japan)"
+	releasemonth "1"
+	rom ( crc 2C043781 )
+)
+
+game (
+	name "Paperboy (USA)"
+	releasemonth "12"
+	rom ( crc 32086826 )
+)
+
+game (
+	name "Paperboy 2 (Europe)"
+	releasemonth "1"
+	rom ( crc 509E6032 )
+)
+
+game (
+	name "Paperboy 2 (USA)"
+	releasemonth "4"
+	rom ( crc 3A0965B1 )
+)
+
+game (
+	name "Parallel World (Japan)"
+	releasemonth "8"
+	rom ( crc F08E8EF0 )
+)
+
+game (
+	name "Parasol Henbee (Japan)"
+	releasemonth "2"
+	rom ( crc C769BB34 )
+)
+
+game (
+	name "Parasol Stars - Rainbow Islands II (Europe)"
+	releasemonth "1"
+	rom ( crc B1C937C8 )
+)
+
+game (
+	name "Paris-Dakar Rally Special (Japan)"
+	releasemonth "2"
+	rom ( crc 5F6E8A07 )
+)
+
+game (
+	name "Parodius (Europe)"
+	releasemonth "1"
+	rom ( crc 083E4FC1 )
+)
+
+game (
+	name "Parodius Da! (Japan)"
+	releasemonth "11"
+	rom ( crc D467C0CC )
+)
+
+game (
+	name "Peepar Time (Japan)"
+	releasemonth "8"
+	rom ( crc 8F4497EE )
+)
+
+game (
+	name "Penguin-kun Wars (Japan)"
+	releasemonth "12"
+	rom ( crc 02D7976B )
+)
+
+game (
+	name "Perfect Bowling (Japan)"
+	releasemonth "7"
+	rom ( crc 9ECB9DCD )
+)
+
+game (
+	name "Perman (Japan)"
+	releasemonth "12"
+	rom ( crc FE387FE5 )
+)
+
+game (
+	name "Perman Part 2 - Himitsu Kessha Madoodan o Taose! (Japan)"
+	releasemonth "12"
+	rom ( crc CA094848 )
+)
+
+game (
+	name "Phantom Air Mission (Europe)"
+	releasemonth "1"
+	rom ( crc 18027A1F )
+)
+
+game (
+	name "Flight of the Intruder (USA)"
+	releasemonth "5"
+	rom ( crc F92BE7F2 )
+)
+
+game (
+	name "Pin Bot (Europe)"
+	releasemonth "1"
+	rom ( crc 9247C38D )
+)
+
+game (
+	name "Pin Bot (USA)"
+	releasemonth "4"
+	rom ( crc D19ADDEB )
+)
+
+game (
+	name "Pinball (Europe) (Rev A)"
+	releasemonth "9"
+	rom ( crc D6AD4E9D )
+)
+
+game (
+	name "Pinball (World)"
+	releasemonth "10"
+	rom ( crc 035DC2E9 )
+)
+
+game (
+	name "Pinball (USA) (GameCube Edition)"
+	releasemonth "10"
+	rom ( crc E8000BF7 )
+)
+
+game (
+	name "Pinball Quest (USA)"
+	releasemonth "6"
+	rom ( crc 2538D860 )
+)
+
+game (
+	name "Pinball Quest (Japan)"
+	releasemonth "12"
+	rom ( crc 475CDBFE )
+)
+
+game (
+	name "Pipe Dream (USA)"
+	releasemonth "9"
+	rom ( crc BCE77871 )
+)
+
+game (
+	name "Pirates! (Europe)"
+	releasemonth "1"
+	rom ( crc 441DE6D8 )
+)
+
+game (
+	name "Pirates! (Germany)"
+	releasemonth "1"
+	rom ( crc 574E5F8B )
+)
+
+game (
+	name "Pirates! (USA)"
+	releasemonth "10"
+	rom ( crc 3D0996B2 )
+)
+
+game (
+	name "Pizza Pop! (Japan)"
+	releasemonth "1"
+	rom ( crc 49DA2F76 )
+)
+
+game (
+	name "Plasma Ball (Japan)"
+	releasemonth "3"
+	rom ( crc 0DB4B382 )
+)
+
+game (
+	name "Platoon (USA) (Rev A)"
+	releasemonth "12"
+	rom ( crc 695515A2 )
+)
+
+game (
+	name "Platoon (USA)"
+	releasemonth "12"
+	rom ( crc B3769A51 )
+)
+
+game (
+	name "Pocket Zaurus - Juu Ouken no Nazo (Japan)"
+	releasemonth "2"
+	rom ( crc B1A94B82 )
+)
+
+game (
+	name "Pooyan (Japan)"
+	releasemonth "9"
+	rom ( crc 7F495283 )
+)
+
+game (
+	name "Popeye (World) (Rev A)"
+	releasemonth "6"
+	rom ( crc 70860FCA )
+)
+
+game (
+	name "Popeye (Japan)"
+	releasemonth "7"
+	rom ( crc 5581E835 )
+)
+
+game (
+	name "Popeye no Eigo Asobi (Japan)"
+	releasemonth "11"
+	rom ( crc 27738241 )
+)
+
+game (
+	name "Portopia Renzoku Satsujin Jiken (Japan)"
+	releasemonth "11"
+	rom ( crc 7C596E45 )
+)
+
+game (
+	name "Power Blade (Europe)"
+	releasemonth "1"
+	rom ( crc D0DF525E )
+)
+
+game (
+	name "Power Blade (USA)"
+	releasemonth "3"
+	rom ( crc 5CF536F4 )
+)
+
+game (
+	name "Power Blade 2 (USA)"
+	releasemonth "10"
+	rom ( crc D273B409 )
+)
+
+game (
+	name "Captain Saver (Japan)"
+	releasemonth "9"
+	rom ( crc 99C395F9 )
+)
+
+game (
+	name "Power Blazer (Japan)"
+	releasemonth "4"
+	rom ( crc AEB7FCE9 )
+)
+
+game (
+	name "Power Punch II (USA)"
+	releasemonth "6"
+	rom ( crc 90226E40 )
+)
+
+game (
+	name "Power Soccer (Japan)"
+	releasemonth "3"
+	rom ( crc 7080D1F8 )
+)
+
+game (
+	name "Predator (USA)"
+	releasemonth "4"
+	rom ( crc A7DE65E4 )
+)
+
+game (
+	name "Predator (Australia)"
+	releasemonth "1"
+	rom ( crc 978E19FC )
+)
+
+game (
+	name "Predator (Japan)"
+	releasemonth "3"
+	rom ( crc 4ED3C6F1 )
+)
+
+game (
+	name "President no Sentaku (Japan)"
+	releasemonth "3"
+	rom ( crc 4640EBE0 )
+)
+
+game (
+	name "Prince of Persia (Europe)"
+	releasemonth "4"
+	rom ( crc B7F39933 )
+)
+
+game (
+	name "Prince of Persia (France)"
+	releasemonth "4"
+	rom ( crc 8293803A )
+)
+
+game (
+	name "Prince of Persia (Germany)"
+	releasemonth "4"
+	rom ( crc 60AA9AE0 )
+)
+
+game (
+	name "Prince of Persia (Spain)"
+	releasemonth "4"
+	rom ( crc 4B1ED62E )
+)
+
+game (
+	name "Prince of Persia (USA)"
+	releasemonth "11"
+	rom ( crc 70CE3771 )
+)
+
+game (
+	name "Pro Wrestling (Europe)"
+	releasemonth "9"
+	rom ( crc 38DE7053 )
+)
+
+game (
+	name "Pro Wrestling (USA)"
+	releasemonth "3"
+	rom ( crc E6F08E93 )
+)
+
+game (
+	name "Pro Wrestling (USA) (Rev A)"
+	releasemonth "3"
+	rom ( crc 64B710D2 )
+)
+
+game (
+	name "Pro Yakyuu Satsujin Jiken! (Japan)"
+	releasemonth "12"
+	rom ( crc C9484BB3 )
+)
+
+game (
+	name "Probotector (Europe)"
+	releasemonth "12"
+	rom ( crc B13F00D4 )
+)
+
+game (
+	name "Contra (USA)"
+	releasemonth "2"
+	rom ( crc F6035030 )
+)
+
+game (
+	name "Contra (Japan)"
+	releasemonth "2"
+	rom ( crc B27B8CF4 )
+)
+
+game (
+	name "Punisher, The (USA)"
+	releasemonth "11"
+	rom ( crc 27F8D0D2 )
+)
+
+game (
+	name "Puss n Boots - Pero's Great Adventure (USA)"
+	releasemonth "6"
+	rom ( crc 6E0EB43E )
+)
+
+game (
+	name "Puyo Puyo (Japan)"
+	releasemonth "7"
+	rom ( crc FCB5CB1E )
+)
+
+game (
+	name "Puzslot (Japan)"
+	releasemonth "2"
+	rom ( crc F4DD5BA5 )
+)
+
+game (
+	name "Puzznic (Europe)"
+	releasemonth "4"
+	rom ( crc FC2DA286 )
+)
+
+game (
+	name "Puzznic (Japan)"
+	releasemonth "7"
+	rom ( crc 8752DCCB )
+)
+
+game (
+	name "Puzznic (USA)"
+	releasemonth "11"
+	rom ( crc EB61133B )
+)
+
+game (
+	name "Pyokotan no Daimeiro (Japan)"
+	releasemonth "3"
+	rom ( crc 4339865C )
+)
+
+game (
+	name "Q-bert (USA)"
+	releasemonth "2"
+	rom ( crc C0B23520 )
+)
+
+game (
+	name "QIX (USA)"
+	releasemonth "1"
+	rom ( crc 95E4E594 )
+)
+
+game (
+	name "Quarth (Japan)"
+	releasemonth "4"
+	rom ( crc 9A808C3B )
+)
+
+game (
+	name "R.B.I. Baseball (USA)"
+	releasemonth "1"
+	rom ( crc 3C5C81D4 )
+)
+
+game (
+	name "Pro Yakyuu - Family Stadium (Japan)"
+	releasemonth "12"
+	rom ( crc DCDF06DE )
+)
+
+game (
+	name "R.C. Pro-Am (Europe) (Rev A)"
+	releasemonth "4"
+	rom ( crc 46931EA0 )
+)
+
+game (
+	name "R.C. Pro-Am (Europe)"
+	releasemonth "4"
+	rom ( crc E5A972BE )
+)
+
+game (
+	name "R.C. Pro-Am (USA)"
+	releasemonth "2"
+	rom ( crc DD062F9C )
+)
+
+game (
+	name "R.C. Pro-Am (USA) (Rev A)"
+	releasemonth "2"
+	rom ( crc AAED295C )
+)
+
+game (
+	name "R.C. Pro-Am II (Europe)"
+	releasemonth "9"
+	rom ( crc 308DA987 )
+)
+
+game (
+	name "R.C. Pro-Am II (USA)"
+	releasemonth "12"
+	rom ( crc 9EDD2159 )
+)
+
+game (
+	name "Racer Mini Yonku - Japan Cup (Japan)"
+	releasemonth "8"
+	rom ( crc F6271A51 )
+)
+
+game (
+	name "Racket Attack (Europe)"
+	releasemonth "3"
+	rom ( crc D72560E1 )
+)
+
+game (
+	name "Moero!! Pro Tennis (Japan)"
+	releasemonth "4"
+	rom ( crc 6C61B622 )
+)
+
+game (
+	name "Racket Attack (USA)"
+	releasemonth "10"
+	rom ( crc ECCD4089 )
+)
+
+game (
+	name "Rackets & Rivals (Europe)"
+	releasemonth "1"
+	rom ( crc 8FA6E92C )
+)
+
+game (
+	name "Rad Racer (Europe)"
+	releasemonth "1"
+	rom ( crc 654F4E90 )
+)
+
+game (
+	name "Highway Star (Japan)"
+	releasemonth "8"
+	rom ( crc 02589598 )
+)
+
+game (
+	name "Rad Racer (USA)"
+	releasemonth "10"
+	rom ( crc 8B9D3E9C )
+)
+
+game (
+	name "Rad Racer II (USA)"
+	releasemonth "6"
+	rom ( crc 404B2E8B )
+)
+
+game (
+	name "Raid on Bungeling Bay (USA)"
+	releasemonth "9"
+	rom ( crc D308D52C )
+)
+
+game (
+	name "Raid on Bungeling Bay (Japan)"
+	releasemonth "2"
+	rom ( crc 64C96F53 )
+)
+
+game (
+	name "Raid on Bungeling Bay (Japan) (En) (Rev A)"
+	releasemonth "2"
+	rom ( crc A547A6EC )
+)
+
+game (
+	name "Rainbow Islands - Bubble Bobble 2 (Europe)"
+	releasemonth "1"
+	rom ( crc BE0E93C3 )
+)
+
+game (
+	name "Rally Bike (USA)"
+	releasemonth "9"
+	rom ( crc E1C41D7C )
+)
+
+game (
+	name "Dash Yarou (Japan)"
+	releasemonth "6"
+	rom ( crc 1ED48C5C )
+)
+
+game (
+	name "Rambo (Japan)"
+	releasemonth "12"
+	rom ( crc 35EFFD0E )
+)
+
+game (
+	name "Rambo (USA)"
+	releasemonth "5"
+	rom ( crc A342A5FD )
+)
+
+game (
+	name "Rambo (USA) (Rev A)"
+	releasemonth "5"
+	rom ( crc 4F9DBBE5 )
+)
+
+game (
+	name "Rampage (USA)"
+	releasemonth "12"
+	rom ( crc 263AC8A0 )
+)
+
+game (
+	name "Rampart (Europe)"
+	releasemonth "1"
+	rom ( crc C115A022 )
+)
+
+game (
+	name "Rampart (USA)"
+	releasemonth "1"
+	rom ( crc 26796758 )
+)
+
+game (
+	name "Remote Control (USA)"
+	releasemonth "5"
+	rom ( crc 9F6C119C )
+)
+
+game (
+	name "Ren & Stimpy Show, The - Buckeroo$! (USA)"
+	releasemonth "11"
+	rom ( crc E98AB943 )
+)
+
+game (
+	name "Renegade (USA)"
+	releasemonth "1"
+	rom ( crc A0568E1D )
+)
+
+game (
+	name "Nekketsu Kouha Kunio-kun (Japan)"
+	releasemonth "4"
+	rom ( crc A7D3635E )
+)
+
+game (
+	name "Rescue - The Embassy Mission (Europe)"
+	releasemonth "3"
+	rom ( crc 8B4D2443 )
+)
+
+game (
+	name "Hostages - The Embassy Mission (Japan)"
+	releasemonth "12"
+	rom ( crc 85C5953F )
+)
+
+game (
+	name "Rescue - The Embassy Mission (USA)"
+	releasemonth "1"
+	rom ( crc 63FCC0DD )
+)
+
+game (
+	name "Ring King (USA)"
+	releasemonth "9"
+	rom ( crc 5BB62688 )
+)
+
+game (
+	name "Family Boxing (Japan)"
+	releasemonth "6"
+	rom ( crc 5B4C6146 )
+)
+
+game (
+	name "Road Fighter (Europe)"
+	releasemonth "6"
+	rom ( crc 719571B3 )
+)
+
+game (
+	name "Road Fighter (Japan)"
+	releasemonth "7"
+	rom ( crc 7EE625EB )
+)
+
+game (
+	name "RoadBlasters (Europe)"
+	releasemonth "1"
+	rom ( crc 17389E3D )
+)
+
+game (
+	name "RoadBlasters (USA)"
+	releasemonth "1"
+	rom ( crc 8ADA3497 )
+)
+
+game (
+	name "Robin Hood - Prince of Thieves (Europe)"
+	releasemonth "12"
+	rom ( crc B67D16F6 )
+)
+
+game (
+	name "Robin Hood - Prince of Thieves (Germany)"
+	releasemonth "12"
+	rom ( crc D49DCA84 )
+)
+
+game (
+	name "Robin Hood - Prince of Thieves (Spain)"
+	releasemonth "12"
+	rom ( crc FD21F54D )
+)
+
+game (
+	name "Robin Hood - Prince of Thieves (USA)"
+	releasemonth "11"
+	rom ( crc 86B0D1CF )
+)
+
+game (
+	name "Robin Hood - Prince of Thieves (USA) (Rev A)"
+	releasemonth "11"
+	rom ( crc C3CCC493 )
+)
+
+game (
+	name "Robo Warrior (Europe)"
+	releasemonth "9"
+	rom ( crc 99A28276 )
+)
+
+game (
+	name "Bomber King (Japan)"
+	releasemonth "8"
+	rom ( crc BD9D0E85 )
+)
+
+game (
+	name "Robo Warrior (USA)"
+	releasemonth "12"
+	rom ( crc 810B7AB9 )
+)
+
+game (
+	name "Robocco Wars (Japan)"
+	releasemonth "8"
+	rom ( crc 36584C96 )
+)
+
+game (
+	name "RoboCop (Europe)"
+	releasemonth "4"
+	rom ( crc 6DCBAAFD )
+)
+
+game (
+	name "RoboCop (Japan)"
+	releasemonth "8"
+	rom ( crc C09227A0 )
+)
+
+game (
+	name "RoboCop (USA)"
+	releasemonth "12"
+	rom ( crc 192D546F )
+)
+
+game (
+	name "RoboCop 2 (Europe)"
+	releasemonth "1"
+	rom ( crc 89821E2B )
+)
+
+game (
+	name "RoboCop 2 (Japan)"
+	releasemonth "4"
+	rom ( crc C22FF1D8 )
+)
+
+game (
+	name "RoboCop 2 (USA)"
+	releasemonth "4"
+	rom ( crc B4CDF95F )
+)
+
+game (
+	name "RoboCop 2 (USA) (Rev A)"
+	releasemonth "4"
+	rom ( crc 990985C0 )
+)
+
+game (
+	name "RoboCop 3 (Europe)"
+	releasemonth "7"
+	rom ( crc A8D93537 )
+)
+
+game (
+	name "RoboCop 3 (USA)"
+	releasemonth "8"
+	rom ( crc 96087988 )
+)
+
+game (
+	name "Rock 'n' Ball (USA)"
+	releasemonth "1"
+	rom ( crc 476E022B )
+)
+
+game (
+	name "Family Pinball (Japan)"
+	releasemonth "3"
+	rom ( crc 491D8CDB )
+)
+
+game (
+	name "Rocket Ranger (USA)"
+	releasemonth "6"
+	rom ( crc 67F77118 )
+)
+
+game (
+	name "Rocketeer, The (USA)"
+	releasemonth "5"
+	rom ( crc 1D6DECCC )
+)
+
+game (
+	name "Rockin' Kats (Europe)"
+	releasemonth "11"
+	rom ( crc 9C924719 )
+)
+
+game (
+	name "New York Nyankies (Japan)"
+	releasemonth "4"
+	rom ( crc 2DC331A2 )
+)
+
+game (
+	name "Rockin' Kats (USA)"
+	releasemonth "9"
+	rom ( crc 8927FD4C )
+)
+
+game (
+	name "Roger Clemens' MVP Baseball (USA)"
+	releasemonth "10"
+	rom ( crc 018A8699 )
+)
+
+game (
+	name "Rokudenashi Blues (Japan)"
+	releasemonth "10"
+	rom ( crc A262A81F )
+)
+
+game (
+	name "Rollerball (USA)"
+	releasemonth "2"
+	rom ( crc 69635A6E )
+)
+
+game (
+	name "Rollerball (Japan)"
+	releasemonth "12"
+	rom ( crc E2A79A57 )
+)
+
+game (
+	name "Rollerblade Racer (USA)"
+	releasemonth "2"
+	rom ( crc 2370C0A9 )
+)
+
+game (
+	name "Rollergames (Europe)"
+	releasemonth "10"
+	rom ( crc BED47813 )
+)
+
+game (
+	name "Rollergames (USA)"
+	releasemonth "9"
+	rom ( crc AA4997C1 )
+)
+
+game (
+	name "Rolling Thunder (Japan)"
+	releasemonth "3"
+	rom ( crc 9EDBE2E2 )
+)
+
+game (
+	name "Romancia (Japan)"
+	releasemonth "10"
+	rom ( crc CF9CF7A2 )
+)
+
+game (
+	name "Roundball - 2-on-2 Challenge (Europe)"
+	releasemonth "1"
+	rom ( crc AD0394F0 )
+)
+
+game (
+	name "Roundball - 2-on-2 Challenge (USA)"
+	releasemonth "5"
+	rom ( crc 6E4DCFD2 )
+)
+
+game (
+	name "Route-16 Turbo (Japan)"
+	releasemonth "10"
+	rom ( crc 728BFA8D )
+)
+
+game (
+	name "RPG Jinsei Game (Japan)"
+	releasemonth "11"
+	rom ( crc 07D92C31 )
+)
+
+game (
+	name "Rush'n Attack (Europe)"
+	releasemonth "6"
+	rom ( crc E0AC6242 )
+)
+
+game (
+	name "Rush'n Attack (USA)"
+	releasemonth "4"
+	rom ( crc DE25B90F )
+)
+
+game (
+	name "Rygar (Europe)"
+	releasemonth "3"
+	rom ( crc 8F197B0A )
+)
+
+game (
+	name "Argos no Senshi (Japan)"
+	releasemonth "4"
+	rom ( crc E1B260DA )
+)
+
+game (
+	name "Rygar (USA)"
+	releasemonth "7"
+	rom ( crc B3783F2A )
+)
+
+game (
+	name "Rygar (USA) (Rev A)"
+	releasemonth "7"
+	rom ( crc 37C474D5 )
+)
+
+game (
+	name "Saint Seiya - Ougon Densetsu (Japan)"
+	releasemonth "8"
+	rom ( crc 026C5FCA )
+)
+
+game (
+	name "Chevaliers du Zodiaque, Les - La Legende d'Or (France)"
+	releasemonth "1"
+	rom ( crc 358E29DD )
+)
+
+game (
+	name "Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan)"
+	releasemonth "5"
+	rom ( crc 9561798D )
+)
+
+game (
+	name "Saiyuuki World (Japan)"
+	releasemonth "11"
+	rom ( crc 69D07DDB )
+)
+
+game (
+	name "Sakigake!! Otoko Juku - Shippuu Ichi Gou Sei (Japan)"
+	releasemonth "3"
+	rom ( crc 9C04C8D5 )
+)
+
+game (
+	name "Samsara Naga (Japan)"
+	releasemonth "3"
+	rom ( crc EBCF8419 )
+)
+
+game (
+	name "Sanada Juu Yuushi (Japan)"
+	releasemonth "6"
+	rom ( crc 0902C8F0 )
+)
+
+game (
+	name "Sangokushi - Chuugen no Hasha (Japan)"
+	releasemonth "7"
+	rom ( crc E64B8975 )
+)
+
+game (
+	name "Sangokushi II - Haou no Tairiku (Japan)"
+	releasemonth "6"
+	rom ( crc 098C672A )
+)
+
+game (
+	name "Sanma no Mei Tantei (Japan)"
+	releasemonth "4"
+	rom ( crc F41ADD60 )
+)
+
+game (
+	name "Sanrio Carnival (Japan)"
+	releasemonth "11"
+	rom ( crc 485AC098 )
+)
+
+game (
+	name "Sanrio Carnival 2 (Japan)"
+	releasemonth "1"
+	rom ( crc 3D95D866 )
+)
+
+game (
+	name "Sanrio Cup - Pon Pon Volley (Japan)"
+	releasemonth "7"
+	rom ( crc F7B852E4 )
+)
+
+game (
+	name "Satomi Hakkenden (Japan)"
+	releasemonth "1"
+	rom ( crc 4C0E8BBB )
+)
+
+game (
+	name "Satsui no Kaisou - Power Soft Satsujin Jiken (Japan)"
+	releasemonth "1"
+	rom ( crc 2858933B )
+)
+
+game (
+	name "SD Battle Oozumou - Heisei Hero Basho (Japan)"
+	releasemonth "4"
+	rom ( crc E78A394C )
+)
+
+game (
+	name "SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan)"
+	releasemonth "6"
+	rom ( crc A2F713C0 )
+)
+
+game (
+	name "SD Gundam - Gachapon Senshi 3 - Eiyuu Senki (Japan)"
+	releasemonth "12"
+	rom ( crc 1066B66D )
+)
+
+game (
+	name "SD Gundam - Gachapon Senshi 4 - NewType Story (Japan)"
+	releasemonth "12"
+	rom ( crc 67555417 )
+)
+
+game (
+	name "SD Gundam - Gachapon Senshi 5 - Battle of Universal Century (Japan)"
+	releasemonth "12"
+	rom ( crc 6C940A59 )
+)
+
+game (
+	name "SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (Rev 1)"
+	releasemonth "8"
+	rom ( crc 276AC722 )
+)
+
+game (
+	name "SD Gundam Gaiden - Knight Gundam Monogatari (Japan)"
+	releasemonth "8"
+	rom ( crc E170404C )
+)
+
+game (
+	name "SD Gundam Gaiden - Knight Gundam Monogatari 2 - Hikari no Kishi (Japan)"
+	releasemonth "10"
+	rom ( crc B049A8C4 )
+)
+
+game (
+	name "SD Gundam Gaiden - Knight Gundam Monogatari 3 - Densetsu no Kishi Dan (Japan)"
+	releasemonth "10"
+	rom ( crc C2840372 )
+)
+
+game (
+	name "SD Hero Soukessen - Taose! Aku no Gundan (Japan)"
+	releasemonth "7"
+	rom ( crc DBECE74F )
+)
+
+game (
+	name "SD Keiji - Blader (Japan)"
+	releasemonth "7"
+	rom ( crc 05F04EAC )
+)
+
+game (
+	name "Section-Z (Europe)"
+	releasemonth "9"
+	rom ( crc 45A9DB6F )
+)
+
+game (
+	name "Section-Z (USA)"
+	releasemonth "7"
+	rom ( crc 0FEC90D2 )
+)
+
+game (
+	name "Seicross (USA)"
+	releasemonth "10"
+	rom ( crc 27AA3933 )
+)
+
+game (
+	name "Seicross (Japan)"
+	releasemonth "5"
+	rom ( crc 0F05FF0A )
+)
+
+game (
+	name "Seicross (Japan) (Rev 1)"
+	releasemonth "5"
+	rom ( crc 90600B85 )
+)
+
+game (
+	name "Seikima II - Akuma no Gyakushuu! (Japan)"
+	releasemonth "12"
+	rom ( crc FA6D4281 )
+)
+
+game (
+	name "Seirei Gari (Japan)"
+	releasemonth "12"
+	rom ( crc D8F651E2 )
+)
+
+game (
+	name "Seiryaku Simulation - Inbou no Wakusei - Shancara (Japan)"
+	releasemonth "6"
+	rom ( crc C22BC87B )
+)
+
+game (
+	name "Sekiryuuou (Japan)"
+	releasemonth "2"
+	rom ( crc 396F0D59 )
+)
+
+game (
+	name "Sesame Street - Big Bird's Hide & Speak (USA)"
+	releasemonth "10"
+	rom ( crc FDE1C7ED )
+)
+
+game (
+	name "Sesame Street 123 (USA)"
+	releasemonth "1"
+	rom ( crc 339437F6 )
+)
+
+game (
+	name "Sesame Street ABC (USA)"
+	releasemonth "9"
+	rom ( crc EC0FC2DE )
+)
+
+game (
+	name "Sesame Street ABC & 123 (USA)"
+	releasemonth "11"
+	rom ( crc 24EECC15 )
+)
+
+game (
+	name "Sesame Street Countdown (USA)"
+	releasemonth "2"
+	rom ( crc 5CF6A82E )
+)
+
+game (
+	name "Shadow Brain (Japan)"
+	releasemonth "3"
+	rom ( crc 50DA4867 )
+)
+
+game (
+	name "Shadow Warriors (Europe)"
+	releasemonth "8"
+	rom ( crc 709C9399 )
+)
+
+game (
+	name "Ninja Gaiden (USA)"
+	releasemonth "3"
+	rom ( crc 7C4A72D8 )
+)
+
+game (
+	name "Ninja Ryuuken Den (Japan)"
+	releasemonth "12"
+	rom ( crc D7CB398F )
+)
+
+game (
+	name "Shaffle Fight (Japan)"
+	releasemonth "10"
+	rom ( crc BDC124E5 )
+)
+
+game (
+	name "Shanghai (Japan)"
+	releasemonth "12"
+	rom ( crc B20C1030 )
+)
+
+game (
+	name "Shanghai II (Japan)"
+	releasemonth "8"
+	rom ( crc 38BFC03C )
+)
+
+game (
+	name "Sherlock Holmes - Hakushaku Reijou Yuukai Jiken (Japan)"
+	releasemonth "12"
+	rom ( crc 2BB6A0F8 )
+)
+
+game (
+	name "Shikinjou (Japan)"
+	releasemonth "4"
+	rom ( crc 9B53F848 )
+)
+
+game (
+	name "Shin 4 Nin Uchi Mahjong - Yakuman Tengoku (Japan)"
+	releasemonth "6"
+	rom ( crc D532E98F )
+)
+
+game (
+	name "Shin Moero!! Pro Yakyuu (Japan)"
+	releasemonth "7"
+	rom ( crc 4AE58F5D )
+)
+
+game (
+	name "Shin Satomi Hakken-Den - Hikari to Yami no Tatakai (Japan)"
+	releasemonth "12"
+	rom ( crc 23E9C736 )
+)
+
+game (
+	name "Shinsenden (Japan)"
+	releasemonth "12"
+	rom ( crc BB435255 )
+)
+
+game (
+	name "Shogun (Japan)"
+	releasemonth "5"
+	rom ( crc 44B060DA )
+)
+
+game (
+	name "Shooting Range (USA)"
+	releasemonth "6"
+	rom ( crc 851EB9BE )
+)
+
+game (
+	name "Short Order + Egg-Splode! (USA)"
+	releasemonth "12"
+	rom ( crc 6435C095 )
+)
+
+game (
+	name "Shougi Meikan '92 (Japan)"
+	releasemonth "1"
+	rom ( crc 5A6860F1 )
+)
+
+game (
+	name "Shougi Meikan '93 (Japan)"
+	releasemonth "12"
+	rom ( crc AE280E20 )
+)
+
+game (
+	name "Shoukoushi Ceddie (Japan)"
+	releasemonth "12"
+	rom ( crc C30C9EC9 )
+)
+
+game (
+	name "Shounen Ashibe - Nepal Daibouken no Maki (Japan)"
+	releasemonth "11"
+	rom ( crc 31C7AD13 )
+)
+
+game (
+	name "Shufflepuck Cafe (Japan)"
+	releasemonth "10"
+	rom ( crc 917D9262 )
+)
+
+game (
+	name "Side Pocket (Europe)"
+	releasemonth "5"
+	rom ( crc 83000991 )
+)
+
+game (
+	name "Side Pocket (Japan)"
+	releasemonth "10"
+	rom ( crc F7762A20 )
+)
+
+game (
+	name "Side Pocket (USA)"
+	releasemonth "6"
+	rom ( crc DC4DA5D4 )
+)
+
+game (
+	name "Silent Service (Europe)"
+	releasemonth "11"
+	rom ( crc FA014BA1 )
+)
+
+game (
+	name "Silent Service (USA)"
+	releasemonth "12"
+	rom ( crc 5E767671 )
+)
+
+game (
+	name "Silent Service (USA) (Rev A)"
+	releasemonth "12"
+	rom ( crc B843EB84 )
+)
+
+game (
+	name "Silk Worm (USA)"
+	releasemonth "6"
+	rom ( crc E74A91BB )
+)
+
+game (
+	name "Silva Saga (Japan)"
+	releasemonth "7"
+	rom ( crc 900E3A23 )
+)
+
+game (
+	name "Silver Surfer (USA)"
+	releasemonth "11"
+	rom ( crc BEE1C0D9 )
+)
+
+game (
+	name "Simpsons, The - Bart vs. the Space Mutants (Europe)"
+	releasemonth "12"
+	rom ( crc DE7E4629 )
+)
+
+game (
+	name "Simpsons, The - Bart vs. the Space Mutants (USA)"
+	releasemonth "2"
+	rom ( crc 6F10097D )
+)
+
+game (
+	name "Simpsons, The - Bart vs. the Space Mutants (USA) (Rev A)"
+	releasemonth "2"
+	rom ( crc 5248CAF3 )
+)
+
+game (
+	name "Simpsons, The - Bart vs. the World (Europe)"
+	releasemonth "10"
+	rom ( crc E9F8EF15 )
+)
+
+game (
+	name "Simpsons, The - Bart vs. the World (USA)"
+	releasemonth "12"
+	rom ( crc 7416903F )
+)
+
+game (
+	name "Simpsons, The - Bartman Meets Radioactive Man (Europe)"
+	releasemonth "1"
+	rom ( crc 95CE3B58 )
+)
+
+game (
+	name "Simpsons, The - Bartman Meets Radioactive Man (USA)"
+	releasemonth "12"
+	rom ( crc 5991B9D0 )
+)
+
+game (
+	name "Skate or Die (Europe)"
+	releasemonth "8"
+	rom ( crc 66EBDB64 )
+)
+
+game (
+	name "Skate or Die (USA)"
+	releasemonth "12"
+	rom ( crc 423ADA8E )
+)
+
+game (
+	name "Skate or Die 2 - The Search for Double Trouble (USA)"
+	releasemonth "9"
+	rom ( crc 06961BE4 )
+)
+
+game (
+	name "Ski or Die (Europe)"
+	releasemonth "10"
+	rom ( crc 0DA0E723 )
+)
+
+game (
+	name "Ski or Die (USA)"
+	releasemonth "2"
+	rom ( crc E9A6C211 )
+)
+
+game (
+	name "Sky Destroyer (Japan)"
+	releasemonth "11"
+	rom ( crc E47E9FA7 )
+)
+
+game (
+	name "Sky Kid (USA)"
+	releasemonth "9"
+	rom ( crc 3322105A )
+)
+
+game (
+	name "Sky Kid (Japan)"
+	releasemonth "8"
+	rom ( crc CA6A7BF1 )
+)
+
+game (
+	name "Sky Shark (USA) (Rev 0A)"
+	releasemonth "9"
+	rom ( crc 9FFE2F55 )
+)
+
+game (
+	name "Slalom (Europe)"
+	releasemonth "10"
+	rom ( crc C30848D3 )
+)
+
+game (
+	name "Slalom (USA)"
+	releasemonth "8"
+	rom ( crc 86670C93 )
+)
+
+game (
+	name "Smash T.V. (Europe)"
+	releasemonth "1"
+	rom ( crc 0B8F8128 )
+)
+
+game (
+	name "Smash T.V. (USA)"
+	releasemonth "9"
+	rom ( crc 6EE94D32 )
+)
+
+game (
+	name "Smurfs, The (Europe) (En,Fr,De,Es)"
+	releasemonth "1"
+	rom ( crc 4022C94E )
+)
+
+game (
+	name "Snake Rattle n Roll (Europe)"
+	releasemonth "3"
+	rom ( crc 3824F7A5 )
+)
+
+game (
+	name "Snake Rattle n Roll (USA)"
+	releasemonth "7"
+	rom ( crc FDF4569B )
+)
+
+game (
+	name "Snake's Revenge (Europe)"
+	releasemonth "3"
+	rom ( crc E71D034E )
+)
+
+game (
+	name "Snake's Revenge (USA)"
+	releasemonth "4"
+	rom ( crc 48E904D0 )
+)
+
+game (
+	name "Snoopy's Silly Sports Spectacular! (USA)"
+	releasemonth "4"
+	rom ( crc A8923256 )
+)
+
+game (
+	name "Donald Duck (Japan)"
+	releasemonth "9"
+	rom ( crc E66BDDCF )
+)
+
+game (
+	name "Snow Brothers (Europe)"
+	releasemonth "1"
+	rom ( crc A9660690 )
+)
+
+game (
+	name "Snow Bros. (Japan)"
+	releasemonth "12"
+	rom ( crc AAF49344 )
+)
+
+game (
+	name "Snow Brothers (USA)"
+	releasemonth "11"
+	rom ( crc 1DAC6208 )
+)
+
+game (
+	name "Snowboard Challenge (Europe)"
+	releasemonth "1"
+	rom ( crc D5C588DF )
+)
+
+game (
+	name "Soccer League - Winner's Cup (Japan)"
+	releasemonth "8"
+	rom ( crc 8D3C33B3 )
+)
+
+game (
+	name "Solar Jetman - Hunt for the Golden Warpship (Europe)"
+	releasemonth "9"
+	rom ( crc 8904149E )
+)
+
+game (
+	name "Solar Jetman - Hunt for the Golden Warpship (USA)"
+	releasemonth "9"
+	rom ( crc 8111BA08 )
+)
+
+game (
+	name "Solomon's Key (Europe)"
+	releasemonth "3"
+	rom ( crc 75C3E7D4 )
+)
+
+game (
+	name "Solomon no Kagi (Japan)"
+	releasemonth "7"
+	rom ( crc D821A1C6 )
+)
+
+game (
+	name "Solomon's Key (USA)"
+	releasemonth "7"
+	rom ( crc 40684E95 )
+)
+
+game (
+	name "Solomon's Key 2 (Europe)"
+	releasemonth "3"
+	rom ( crc F184EB2D )
+)
+
+game (
+	name "Fire 'n Ice (USA)"
+	releasemonth "3"
+	rom ( crc D534C98E )
+)
+
+game (
+	name "Solomon no Kagi 2 - Coolmin Tou Kyuushutsu Sakusen (Japan)"
+	releasemonth "1"
+	rom ( crc EEE6314E )
+)
+
+game (
+	name "Solstice - The Quest for the Staff of Demnos (Europe)"
+	releasemonth "9"
+	rom ( crc 7CB0D70D )
+)
+
+game (
+	name "Solstice (Japan)"
+	releasemonth "7"
+	rom ( crc A91460B8 )
+)
+
+game (
+	name "Solstice - The Quest for the Staff of Demnos (USA)"
+	releasemonth "6"
+	rom ( crc EDCF1B71 )
+)
+
+game (
+	name "Son Son (Japan)"
+	releasemonth "2"
+	rom ( crc 10BAEEF3 )
+)
+
+game (
+	name "Soreike! Anpanman - Minna de Hiking Game! (Japan)"
+	releasemonth "3"
+	rom ( crc FE99BBED )
+)
+
+game (
+	name "Space Harrier (Japan)"
+	releasemonth "1"
+	rom ( crc 43539A3C )
+)
+
+game (
+	name "Space Hunter (Japan)"
+	releasemonth "9"
+	rom ( crc 684AFCCD )
+)
+
+game (
+	name "Space Invaders (Japan)"
+	releasemonth "4"
+	rom ( crc D9C093B1 )
+)
+
+game (
+	name "Space Shuttle Project (USA)"
+	releasemonth "11"
+	rom ( crc 2220E14A )
+)
+
+game (
+	name "Spartan X 2 (Japan)"
+	releasemonth "9"
+	rom ( crc 6F6686B0 )
+)
+
+game (
+	name "Spelunker (USA)"
+	releasemonth "9"
+	rom ( crc 99D15A91 )
+)
+
+game (
+	name "Spelunker (Japan)"
+	releasemonth "12"
+	rom ( crc 636923BB )
+)
+
+game (
+	name "Spelunker II - Yuusha e no Chousen (Japan)"
+	releasemonth "9"
+	rom ( crc C37F225C )
+)
+
+game (
+	name "Spider-Man - Return of the Sinister Six (Europe)"
+	releasemonth "1"
+	rom ( crc ED3FA60E )
+)
+
+game (
+	name "Spider-Man - Return of the Sinister Six (USA)"
+	releasemonth "10"
+	rom ( crc D679627A )
+)
+
+game (
+	name "Splatter House - Wanpaku Graffiti (Japan)"
+	releasemonth "7"
+	rom ( crc 46FD7843 )
+)
+
+game (
+	name "Spot - The Video Game (USA)"
+	releasemonth "9"
+	rom ( crc CFAE9DFA )
+)
+
+game (
+	name "Spot - The Video Game (Japan)"
+	releasemonth "10"
+	rom ( crc 0ABDD5CA )
+)
+
+game (
+	name "Spy Hunter (USA)"
+	releasemonth "9"
+	rom ( crc C7197FB1 )
+)
+
+game (
+	name "Spy vs Spy (Europe)"
+	releasemonth "7"
+	rom ( crc C1E91D3F )
+)
+
+game (
+	name "Spy vs Spy (Japan)"
+	releasemonth "4"
+	rom ( crc CF0C9D97 )
+)
+
+game (
+	name "Spy vs Spy (USA)"
+	releasemonth "10"
+	rom ( crc C4A02712 )
+)
+
+game (
+	name "Sqoon (USA)"
+	releasemonth "9"
+	rom ( crc 44F34172 )
+)
+
+game (
+	name "Sqoon (Japan)"
+	releasemonth "6"
+	rom ( crc 4DFD949E )
+)
+
+game (
+	name "Sqoon (Japan) (Rev A)"
+	releasemonth "6"
+	rom ( crc 73D5F7D3 )
+)
+
+game (
+	name "Square no Tom Sawyer (Japan)"
+	releasemonth "11"
+	rom ( crc CB0A76B1 )
+)
+
+game (
+	name "Ninja Jajamaru - Ginga Daisakusen (Japan)"
+	releasemonth "3"
+	rom ( crc 06F9C714 )
+)
+
+game (
+	name "Stack-Up (World)"
+	releasemonth "10"
+	rom ( crc DF67DAA1 )
+)
+
+game (
+	name "Stanley - The Search for Dr. Livingston (USA)"
+	releasemonth "10"
+	rom ( crc 62E2E7FC )
+)
+
+game (
+	name "Star Force (Europe)"
+	releasemonth "4"
+	rom ( crc 5CE55F5B )
+)
+
+game (
+	name "Star Force (Japan)"
+	releasemonth "6"
+	rom ( crc C67865A2 )
+)
+
+game (
+	name "Star Force (USA)"
+	releasemonth "11"
+	rom ( crc FCE408A4 )
+)
+
+game (
+	name "Star Luster (Japan)"
+	releasemonth "12"
+	rom ( crc 26BD6EC6 )
+)
+
+game (
+	name "Star Soldier (USA)"
+	releasemonth "1"
+	rom ( crc 262B5A1D )
+)
+
+game (
+	name "Star Soldier (Japan)"
+	releasemonth "6"
+	rom ( crc 1B421E9C )
+)
+
+game (
+	name "Star Trek - 25th Anniversary (USA)"
+	releasemonth "2"
+	rom ( crc 16EBA50A )
+)
+
+game (
+	name "Star Trek - 25th Anniversary (Germany)"
+	releasemonth "1"
+	rom ( crc CC553FC4 )
+)
+
+game (
+	name "Star Trek - The Next Generation (USA)"
+	releasemonth "9"
+	rom ( crc E575687C )
+)
+
+game (
+	name "Star Voyager (USA)"
+	releasemonth "9"
+	rom ( crc B1723338 )
+)
+
+game (
+	name "Cosmo Genesis (Japan)"
+	releasemonth "12"
+	rom ( crc 0CD79B71 )
+)
+
+game (
+	name "Star Wars (Europe)"
+	releasemonth "3"
+	rom ( crc FCD772EB )
+)
+
+game (
+	name "Star Wars (Japan) (Victor)"
+	releasemonth "11"
+	rom ( crc BAD36C17 )
+)
+
+game (
+	name "Star Wars (USA)"
+	releasemonth "11"
+	rom ( crc C1C3636B )
+)
+
+game (
+	name "Star Wars (Japan) (Namco)"
+	releasemonth "11"
+	rom ( crc CA69751B )
+)
+
+game (
+	name "Star Wars - The Empire Strikes Back (Europe)"
+	releasemonth "1"
+	rom ( crc 54E43C57 )
+)
+
+game (
+	name "Star Wars - The Empire Strikes Back (Japan)"
+	releasemonth "3"
+	rom ( crc 0B6443D4 )
+)
+
+game (
+	name "Star Wars - The Empire Strikes Back (USA)"
+	releasemonth "3"
+	rom ( crc 240DE736 )
+)
+
+game (
+	name "Starship Hector (USA)"
+	releasemonth "6"
+	rom ( crc 9F432594 )
+)
+
+game (
+	name "Hector '87 (Japan)"
+	releasemonth "7"
+	rom ( crc 784272F2 )
+)
+
+game (
+	name "StarTropics (Europe)"
+	releasemonth "8"
+	rom ( crc 998422FC )
+)
+
+game (
+	name "StarTropics (USA)"
+	releasemonth "12"
+	rom ( crc 889129CB )
+)
+
+game (
+	name "Stealth ATF (USA)"
+	releasemonth "10"
+	rom ( crc C6DD7E69 )
+)
+
+game (
+	name "Sted - Iseki Wakusei no Yabou (Japan)"
+	releasemonth "7"
+	rom ( crc F19A11AF )
+)
+
+game (
+	name "Stick Hunter - Exciting Ice Hockey (Japan)"
+	releasemonth "12"
+	rom ( crc 5440811C )
+)
+
+game (
+	name "Stinger (USA)"
+	releasemonth "9"
+	rom ( crc C5B0B1AB )
+)
+
+game (
+	name "Moero TwinBee - Cinnamon Hakase o Sukue! (Japan)"
+	releasemonth "3"
+	rom ( crc 9F03B11F )
+)
+
+game (
+	name "Street Cop (USA)"
+	releasemonth "6"
+	rom ( crc 61D86167 )
+)
+
+game (
+	name "Family Trainer 6 - Manhattan Police (Japan)"
+	releasemonth "8"
+	rom ( crc BBA58BE5 )
+)
+
+game (
+	name "Street Fighter 2010 - The Final Fight (USA)"
+	releasemonth "9"
+	rom ( crc 8DA651D4 )
+)
+
+game (
+	name "2010 - Street Fighter (Japan)"
+	releasemonth "8"
+	rom ( crc 18A885B0 )
+)
+
+game (
+	name "Street Gangs (Europe)"
+	releasemonth "1"
+	rom ( crc F5A1B8FB )
+)
+
+game (
+	name "Downtown - Nekketsu Monogatari (Japan)"
+	releasemonth "4"
+	rom ( crc 2A3CA509 )
+)
+
+game (
+	name "River City Ransom (USA)"
+	releasemonth "1"
+	rom ( crc E9C387EC )
+)
+
+game (
+	name "Sugoro Quest - Dice no Senshitachi (Japan)"
+	releasemonth "6"
+	rom ( crc 1411005B )
+)
+
+game (
+	name "Sukeban Deka III (Japan)"
+	releasemonth "1"
+	rom ( crc 02863604 )
+)
+
+game (
+	name "Summer Carnival '92 - Recca (Japan)"
+	releasemonth "7"
+	rom ( crc F31DCC15 )
+)
+
+game (
+	name "Super Arabian (Japan)"
+	releasemonth "7"
+	rom ( crc 908505EE )
+)
+
+game (
+	name "Super Black Onyx (Japan)"
+	releasemonth "7"
+	rom ( crc DFC0CE21 )
+)
+
+game (
+	name "Super Cars (USA)"
+	releasemonth "2"
+	rom ( crc 419461D0 )
+)
+
+game (
+	name "Super Chinese 3 (Japan)"
+	releasemonth "3"
+	rom ( crc F17486DF )
+)
+
+game (
+	name "Super Dodge Ball (USA)"
+	releasemonth "6"
+	rom ( crc 689971F9 )
+)
+
+game (
+	name "Nekketsu Koukou Dodgeball-bu (Japan)"
+	releasemonth "7"
+	rom ( crc 62C67984 )
+)
+
+game (
+	name "Super Dyna'mix Badminton (Japan)"
+	releasemonth "8"
+	rom ( crc 08E11357 )
+)
+
+game (
+	name "Super Glove Ball (USA)"
+	releasemonth "10"
+	rom ( crc EFCF375D )
+)
+
+game (
+	name "Super Jeopardy! (USA)"
+	releasemonth "9"
+	rom ( crc CF4487A2 )
+)
+
+game (
+	name "Super Mario Bros. (Europe) (Rev A)"
+	releasemonth "5"
+	rom ( crc 9A2DB086 )
+)
+
+game (
+	name "Super Mario Bros. (World)"
+	releasemonth "10"
+	rom ( crc D445F698 )
+)
+
+game (
+	name "Super Mario Bros. + Duck Hunt (USA)"
+	releasemonth "11"
+	rom ( crc D26EFD78 )
+)
+
+game (
+	name "Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev A)"
+	releasemonth "12"
+	rom ( crc 60E63537 )
+)
+
+game (
+	name "Super Mario Bros. + Duck Hunt + World Class Track Meet (USA)"
+	releasemonth "12"
+	rom ( crc 529B621F )
+)
+
+game (
+	name "Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev A)"
+	releasemonth "11"
+	rom ( crc F46EF39A )
+)
+
+game (
+	name "Super Mario Bros. + Tetris + Nintendo World Cup (Europe)"
+	releasemonth "11"
+	rom ( crc 73298C87 )
+)
+
+game (
+	name "Super Mario Bros. 2 (Europe)"
+	releasemonth "8"
+	rom ( crc E94E883D )
+)
+
+game (
+	name "Super Mario Bros. 2 (USA)"
+	releasemonth "2"
+	rom ( crc 57AC67AF )
+)
+
+game (
+	name "Super Mario Bros. 2 (USA) (Rev A)"
+	releasemonth "2"
+	rom ( crc CA594ACE )
+)
+
+game (
+	name "Super Mario USA (Japan)"
+	releasemonth "10"
+	rom ( crc 80FB7E6B )
+)
+
+game (
+	name "Super Mario Bros. 3 (Europe)"
+	releasemonth "8"
+	rom ( crc 1ED5C801 )
+)
+
+game (
+	name "Super Mario Bros. 3 (Japan) (Rev A)"
+	releasemonth "10"
+	rom ( crc 52E2B5E0 )
+)
+
+game (
+	name "Super Mario Bros. 3 (USA)"
+	releasemonth "2"
+	rom ( crc A0B0B742 )
+)
+
+game (
+	name "Super Mario Bros. 3 (USA) (Rev A)"
+	releasemonth "2"
+	rom ( crc 2E6301ED )
+)
+
+game (
+	name "Super Mario Bros. 3 (Japan)"
+	releasemonth "10"
+	rom ( crc E7DDFEE3 )
+)
+
+game (
+	name "Super Mario Bros. 3 (Europe) (Wii VC)"
+	releasemonth "8"
+	rom ( crc C46969DF )
+)
+
+game (
+	name "Super Mogura Tataki!! - Pokkun Mogurar (Japan)"
+	releasemonth "12"
+	rom ( crc C7BCC981 )
+)
+
+game (
+	name "Super Momotarou Dentetsu (Japan)"
+	releasemonth "3"
+	rom ( crc 09FFDF45 )
+)
+
+game (
+	name "Super Pinball (Japan)"
+	releasemonth "8"
+	rom ( crc 1A2EA6B9 )
+)
+
+game (
+	name "Super Pitfall (USA)"
+	releasemonth "11"
+	rom ( crc 979C5314 )
+)
+
+game (
+	name "Super Pitfall (Japan)"
+	releasemonth "9"
+	rom ( crc 1C66BAF6 )
+)
+
+game (
+	name "Super Real Baseball '88 (Japan)"
+	releasemonth "7"
+	rom ( crc D175B0CB )
+)
+
+game (
+	name "Super Rugby (Japan)"
+	releasemonth "12"
+	rom ( crc 9F5138CB )
+)
+
+game (
+	name "Super Spike V'Ball + Nintendo World Cup (USA)"
+	releasemonth "12"
+	rom ( crc 407D6FFD )
+)
+
+game (
+	name "Super Sprint (Japan)"
+	releasemonth "8"
+	rom ( crc 9CBB0291 )
+)
+
+game (
+	name "Super Spy Hunter (Europe)"
+	releasemonth "1"
+	rom ( crc C528ED56 )
+)
+
+game (
+	name "Battle Formula (Japan)"
+	releasemonth "9"
+	rom ( crc 2B4D80AE )
+)
+
+game (
+	name "Super Spy Hunter (USA)"
+	releasemonth "2"
+	rom ( crc AB41445E )
+)
+
+game (
+	name "Super Team Games (USA)"
+	releasemonth "11"
+	rom ( crc D74B2719 )
+)
+
+game (
+	name "Family Trainer 7 - Daiundoukai (Japan)"
+	releasemonth "11"
+	rom ( crc 6CCA1C1F )
+)
+
+game (
+	name "Super Turrican (Europe)"
+	releasemonth "7"
+	rom ( crc 88C30FDA )
+)
+
+game (
+	name "Super Xevious - Gump no Nazo (Japan)"
+	releasemonth "9"
+	rom ( crc 7BB5664F )
+)
+
+game (
+	name "Superman (USA)"
+	releasemonth "12"
+	rom ( crc 1FA8C4A4 )
+)
+
+game (
+	name "Superman (Japan)"
+	releasemonth "12"
+	rom ( crc 856E7600 )
+)
+
+game (
+	name "Swamp Thing (Europe)"
+	releasemonth "12"
+	rom ( crc AAA985D7 )
+)
+
+game (
+	name "Swamp Thing (USA)"
+	releasemonth "12"
+	rom ( crc A1FF4E1D )
+)
+
+game (
+	name "SWAT - Special Weapons and Tactics (Japan)"
+	releasemonth "9"
+	rom ( crc 7C3D2EA3 )
+)
+
+game (
+	name "Sweet Home (Japan)"
+	releasemonth "12"
+	rom ( crc 252FFD12 )
+)
+
+game (
+	name "Sword Master (Europe)"
+	releasemonth "1"
+	rom ( crc 66066326 )
+)
+
+game (
+	name "Sword Master (Japan)"
+	releasemonth "12"
+	rom ( crc DF3776C6 )
+)
+
+game (
+	name "Sword Master (USA)"
+	releasemonth "1"
+	rom ( crc 465E5483 )
+)
+
+game (
+	name "Swords and Serpents (Europe)"
+	releasemonth "4"
+	rom ( crc D153CAF6 )
+)
+
+game (
+	name "Swords and Serpents (France)"
+	releasemonth "4"
+	rom ( crc 46135141 )
+)
+
+game (
+	name "Swords and Serpents (USA)"
+	releasemonth "8"
+	rom ( crc 3417EC46 )
+)
+
+game (
+	name "Taboo - The Sixth Sense (USA) (Rev A)"
+	releasemonth "4"
+	rom ( crc 482C79AF )
+)
+
+game (
+	name "Taboo - The Sixth Sense (USA)"
+	releasemonth "4"
+	rom ( crc 40ED2A9D )
+)
+
+game (
+	name "Tag Team Wrestling (USA)"
+	releasemonth "10"
+	rom ( crc BF250AF2 )
+)
+
+game (
+	name "Special Tag Team Pro Wrestling (Japan)"
+	releasemonth "4"
+	rom ( crc 08439D55 )
+)
+
+game (
+	name "Tag Team Pro-Wrestling (Japan)"
+	releasemonth "4"
+	rom ( crc 32FA246F )
+)
+
+game (
+	name "Taito Grand Prix - Eikou e no License (Japan)"
+	releasemonth "12"
+	rom ( crc 10B0F8B0 )
+)
+
+game (
+	name "Taiyou no Yuusha - Fighbird (Japan)"
+	releasemonth "1"
+	rom ( crc 948E0BD6 )
+)
+
+game (
+	name "Takahashi Meijin no Bouken-jima IV (Japan)"
+	releasemonth "6"
+	rom ( crc 7BD8F902 )
+)
+
+game (
+	name "Takahashi Meijin no Bugutte Honey (Japan)"
+	releasemonth "6"
+	rom ( crc 2526C943 )
+)
+
+game (
+	name "Takeda Shingen (Japan)"
+	releasemonth "3"
+	rom ( crc 0A42D84F )
+)
+
+game (
+	name "Takeshi no Chousenjou (Japan)"
+	releasemonth "12"
+	rom ( crc DB196068 )
+)
+
+game (
+	name "Takeshi no Sengoku Fuuunji (Japan)"
+	releasemonth "11"
+	rom ( crc D920F9DF )
+)
+
+game (
+	name "Tanigawa Kouji no Shougi Shinan II (Japan)"
+	releasemonth "9"
+	rom ( crc 3836EEAC )
+)
+
+game (
+	name "Tanigawa Kouji no Shougi Shinan III (Japan)"
+	releasemonth "9"
+	rom ( crc E63D9193 )
+)
+
+game (
+	name "Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni (Japan)"
+	releasemonth "9"
+	rom ( crc 2061772A )
+)
+
+game (
+	name "Tantei Jinguuji Saburou - Yokohamakou Renzoku Satsujin Jiken (Japan)"
+	releasemonth "2"
+	rom ( crc 268E39D0 )
+)
+
+game (
+	name "Tao (Japan)"
+	releasemonth "12"
+	rom ( crc DAD34EE6 )
+)
+
+game (
+	name "Target Renegade (USA)"
+	releasemonth "3"
+	rom ( crc 93B49582 )
+)
+
+game (
+	name "Jajamaru Ninpou Chou (Japan)"
+	releasemonth "3"
+	rom ( crc 12F048DF )
+)
+
+game (
+	name "Tashiro Masashi no Princess ga Ippai (Japan)"
+	releasemonth "10"
+	rom ( crc 16E93F39 )
+)
+
+game (
+	name "Tatakae!! Rahmen Man - Sakuretsu Choujin 102 Gei (Japan)"
+	releasemonth "8"
+	rom ( crc C1719664 )
+)
+
+game (
+	name "Tecmo Baseball (USA)"
+	releasemonth "1"
+	rom ( crc AD12A34F )
+)
+
+game (
+	name "Tecmo Bowl (Japan)"
+	releasemonth "11"
+	rom ( crc 588E7492 )
+)
+
+game (
+	name "Tecmo Bowl (USA)"
+	releasemonth "2"
+	rom ( crc CE00022D )
+)
+
+game (
+	name "Tecmo Bowl (USA) (Rev A)"
+	releasemonth "2"
+	rom ( crc 85A6C0D5 )
+)
+
+game (
+	name "Tecmo NBA Basketball (USA) (Rev A)"
+	releasemonth "11"
+	rom ( crc DA8E4AF4 )
+)
+
+game (
+	name "Tecmo NBA Basketball (USA)"
+	releasemonth "11"
+	rom ( crc 2651F227 )
+)
+
+game (
+	name "Tecmo Super Bowl (USA)"
+	releasemonth "12"
+	rom ( crc 179A0D57 )
+)
+
+game (
+	name "Tecmo Super Bowl (Japan)"
+	releasemonth "12"
+	rom ( crc 022589B9 )
+)
+
+game (
+	name "Tecmo World Cup Soccer (Europe)"
+	releasemonth "1"
+	rom ( crc 86E02D65 )
+)
+
+game (
+	name "Tecmo World Cup Soccer (Japan)"
+	releasemonth "12"
+	rom ( crc 8A5BC0D3 )
+)
+
+game (
+	name "Tecmo World Wrestling (Europe)"
+	releasemonth "11"
+	rom ( crc CF849F72 )
+)
+
+game (
+	name "Gekitou Pro Wrestling!! - Toukon Densetsu (Japan)"
+	releasemonth "9"
+	rom ( crc 50893B58 )
+)
+
+game (
+	name "Tecmo World Wrestling (USA)"
+	releasemonth "4"
+	rom ( crc 7FF76219 )
+)
+
+game (
+	name "Teenage Mutant Hero Turtles (Europe)"
+	releasemonth "8"
+	rom ( crc 00AD1189 )
+)
+
+game (
+	name "Gekikame Ninja Den (Japan)"
+	releasemonth "5"
+	rom ( crc 64A02715 )
+)
+
+game (
+	name "Teenage Mutant Ninja Turtles (Italy)"
+	releasemonth "8"
+	rom ( crc 6F27300B )
+)
+
+game (
+	name "Teenage Mutant Ninja Turtles (USA)"
+	releasemonth "6"
+	rom ( crc EE921D8E )
+)
+
+game (
+	name "Teenage Mutant Hero Turtles - Tournament Fighters (Europe)"
+	releasemonth "1"
+	rom ( crc 34629104 )
+)
+
+game (
+	name "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)"
+	releasemonth "2"
+	rom ( crc 86964EDD )
+)
+
+game (
+	name "Teenage Mutant Hero Turtles II - The Arcade Game (Europe)"
+	releasemonth "11"
+	rom ( crc C5657C12 )
+)
+
+game (
+	name "Teenage Mutant Ninja Turtles (Japan)"
+	releasemonth "12"
+	rom ( crc 4A601A2C )
+)
+
+game (
+	name "Teenage Mutant Ninja Turtles II - The Arcade Game (USA)"
+	releasemonth "12"
+	rom ( crc A9217EA2 )
+)
+
+game (
+	name "Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)"
+	releasemonth "2"
+	rom ( crc BB6D7949 )
+)
+
+game (
+	name "Teenage Mutant Ninja Turtles II - The Manhattan Project (Japan)"
+	releasemonth "12"
+	rom ( crc 490E8A4C )
+)
+
+game (
+	name "Tenchi o Kurau II - Shokatsu Koumei Den (Japan) (Rev A)"
+	releasemonth "4"
+	rom ( crc B84A73CC )
+)
+
+game (
+	name "Tenchi o Kurau II - Shokatsu Koumei Den (Japan)"
+	releasemonth "4"
+	rom ( crc CB32E243 )
+)
+
+game (
+	name "Tenka no Goikenban - Mito Koumon (Japan)"
+	releasemonth "8"
+	rom ( crc 21F8C4AB )
+)
+
+game (
+	name "Tenkaichi Bushi - Keru Naguuru (Japan)"
+	releasemonth "7"
+	rom ( crc 5397E80B )
+)
+
+game (
+	name "Tennis (Europe)"
+	releasemonth "9"
+	rom ( crc 304FA926 )
+)
+
+game (
+	name "Tennis (USA) (GameCube Edition)"
+	releasemonth "10"
+	rom ( crc D6BBD8BA )
+)
+
+game (
+	name "Terao no Dosukoi Oozumou (Japan)"
+	releasemonth "11"
+	rom ( crc 6479E76A )
+)
+
+game (
+	name "Terminator 2 - Judgment Day (Europe)"
+	releasemonth "1"
+	rom ( crc 18A04825 )
+)
+
+game (
+	name "Terminator 2 (Japan)"
+	releasemonth "6"
+	rom ( crc D27B9D50 )
+)
+
+game (
+	name "Terminator 2 - Judgment Day (USA)"
+	releasemonth "2"
+	rom ( crc EA27B477 )
+)
+
+game (
+	name "Terra Cresta (USA)"
+	releasemonth "3"
+	rom ( crc 2A46B57F )
+)
+
+game (
+	name "Terra Cresta (Japan)"
+	releasemonth "9"
+	rom ( crc 6D65CAC6 )
+)
+
+game (
+	name "Tetrastar - The Fighter (Japan)"
+	releasemonth "5"
+	rom ( crc F85E264D )
+)
+
+game (
+	name "Tetris (Europe)"
+	releasemonth "2"
+	rom ( crc FDFF80D5 )
+)
+
+game (
+	name "Tetris (USA)"
+	releasemonth "11"
+	rom ( crc 1394F57E )
+)
+
+game (
+	name "Tetris 2 (Europe)"
+	releasemonth "2"
+	rom ( crc 5D2B1962 )
+)
+
+game (
+	name "Tetris 2 (USA)"
+	releasemonth "11"
+	rom ( crc 9C537919 )
+)
+
+game (
+	name "Tetris 2 + Bombliss (Japan) (Rev A)"
+	releasemonth "12"
+	rom ( crc FD45E9C1 )
+)
+
+game (
+	name "Tetris 2 + Bombliss (Japan)"
+	releasemonth "12"
+	rom ( crc 3FF44F87 )
+)
+
+game (
+	name "Tetsuwan Atom (Japan)"
+	releasemonth "2"
+	rom ( crc 794CAAB6 )
+)
+
+game (
+	name "Thexder (Japan)"
+	releasemonth "12"
+	rom ( crc 06F15215 )
+)
+
+game (
+	name "Three Stooges, The (USA)"
+	releasemonth "10"
+	rom ( crc 538CD2EA )
+)
+
+game (
+	name "Thunder & Lightning (USA)"
+	releasemonth "12"
+	rom ( crc D80B44BC )
+)
+
+game (
+	name "Family Block (Japan)"
+	releasemonth "4"
+	rom ( crc 0BB5B3A0 )
+)
+
+game (
+	name "Thunderbirds (Japan)"
+	releasemonth "9"
+	rom ( crc 7B72FBA4 )
+)
+
+game (
+	name "Thunderbirds (USA)"
+	releasemonth "9"
+	rom ( crc 2DDC2DC3 )
+)
+
+game (
+	name "Thundercade (USA)"
+	releasemonth "7"
+	rom ( crc AFB46DD6 )
+)
+
+game (
+	name "Tiger-Heli (Europe)"
+	releasemonth "1"
+	rom ( crc 40BFA660 )
+)
+
+game (
+	name "Tiger-Heli (Japan)"
+	releasemonth "12"
+	rom ( crc 2E68ACFC )
+)
+
+game (
+	name "Tiger-Heli (USA)"
+	releasemonth "9"
+	rom ( crc C3C7A568 )
+)
+
+game (
+	name "Time Lord (Europe)"
+	releasemonth "1"
+	rom ( crc 9198279E )
+)
+
+game (
+	name "Time Lord (USA)"
+	releasemonth "9"
+	rom ( crc 13D5B1A4 )
+)
+
+game (
+	name "Time Zone (Japan)"
+	releasemonth "10"
+	rom ( crc E305202E )
+)
+
+game (
+	name "Times of Lore (USA)"
+	releasemonth "5"
+	rom ( crc 0F86FEB4 )
+)
+
+game (
+	name "Times of Lore (Japan)"
+	releasemonth "12"
+	rom ( crc 2FFDE228 )
+)
+
+game (
+	name "Tiny Toon Adventures (Europe)"
+	releasemonth "10"
+	rom ( crc A038AFF2 )
+)
+
+game (
+	name "Tiny Toon Adventures (Japan)"
+	releasemonth "12"
+	rom ( crc 91328C1D )
+)
+
+game (
+	name "Tiny Toon Adventures (USA)"
+	releasemonth "12"
+	rom ( crc 99DDDB04 )
+)
+
+game (
+	name "Tiny Toon Adventures 2 - Trouble in Wackyland (Europe)"
+	releasemonth "1"
+	rom ( crc C32E9672 )
+)
+
+game (
+	name "Tiny Toon Adventures 2 - Montana Land e Youkoso (Japan)"
+	releasemonth "11"
+	rom ( crc E4362167 )
+)
+
+game (
+	name "Tiny Toon Adventures 2 - Trouble in Wackyland (USA)"
+	releasemonth "4"
+	rom ( crc 81A5EB65 )
+)
+
+game (
+	name "Tiny Toon Adventures Cartoon Workshop (Europe)"
+	releasemonth "1"
+	rom ( crc C8EBD977 )
+)
+
+game (
+	name "Tiny Toon Adventures Cartoon Workshop (USA)"
+	releasemonth "12"
+	rom ( crc 9E6092A4 )
+)
+
+game (
+	name "Titan (Japan)"
+	releasemonth "8"
+	rom ( crc 75901B18 )
+)
+
+game (
+	name "TM Network - Live in Power Bowl (Japan)"
+	releasemonth "12"
+	rom ( crc 69565F13 )
+)
+
+game (
+	name "To the Earth (Europe)"
+	releasemonth "2"
+	rom ( crc 790B295B )
+)
+
+game (
+	name "To the Earth (USA)"
+	releasemonth "11"
+	rom ( crc DE8FD935 )
+)
+
+game (
+	name "Toki (USA)"
+	releasemonth "12"
+	rom ( crc 7FB74A43 )
+)
+
+game (
+	name "JuJu Densetsu (Japan)"
+	releasemonth "7"
+	rom ( crc CCAF543A )
+)
+
+game (
+	name "Tokoro-san no Mamoru mo Semeru mo (Japan)"
+	releasemonth "6"
+	rom ( crc 6776A977 )
+)
+
+game (
+	name "Tombs & Treasure (USA)"
+	releasemonth "6"
+	rom ( crc 50D296B3 )
+)
+
+game (
+	name "Taiyou no Shinden (Japan)"
+	releasemonth "8"
+	rom ( crc 50CCDA33 )
+)
+
+game (
+	name "Top Gun (Europe)"
+	releasemonth "11"
+	rom ( crc D78BFB28 )
+)
+
+game (
+	name "Top Gun (Japan)"
+	releasemonth "12"
+	rom ( crc 37CB1801 )
+)
+
+game (
+	name "Top Gun (USA)"
+	releasemonth "11"
+	rom ( crc 4E22368D )
+)
+
+game (
+	name "Top Gun (USA) (Rev A)"
+	releasemonth "11"
+	rom ( crc CF6D0D7A )
+)
+
+game (
+	name "Top Gun - The Second Mission (Europe)"
+	releasemonth "10"
+	rom ( crc E1C59D94 )
+)
+
+game (
+	name "Top Gun - Dual Fighters (Japan)"
+	releasemonth "12"
+	rom ( crc CA96AD0E )
+)
+
+game (
+	name "Top Gun - The Second Mission (USA)"
+	releasemonth "1"
+	rom ( crc 6F8AF3E8 )
+)
+
+game (
+	name "Top Rider (Japan)"
+	releasemonth "12"
+	rom ( crc 47232739 )
+)
+
+game (
+	name "Top Striker (Japan)"
+	releasemonth "10"
+	rom ( crc 2447E03B )
+)
+
+game (
+	name "Total Recall (Europe)"
+	releasemonth "1"
+	rom ( crc FC3236D1 )
+)
+
+game (
+	name "Total Recall (USA)"
+	releasemonth "8"
+	rom ( crc 248566A7 )
+)
+
+game (
+	name "Totally Rad (Europe)"
+	releasemonth "1"
+	rom ( crc 02E0ADA4 )
+)
+
+game (
+	name "Magic John (Japan)"
+	releasemonth "9"
+	rom ( crc D8748E0A )
+)
+
+game (
+	name "Totally Rad (USA)"
+	releasemonth "3"
+	rom ( crc B629D555 )
+)
+
+game (
+	name "Touch Down Fever (USA)"
+	releasemonth "2"
+	rom ( crc EA4EB69E )
+)
+
+game (
+	name "Touch Down Fever (Japan)"
+	releasemonth "11"
+	rom ( crc 67A3C362 )
+)
+
+game (
+	name "Touhou Kenbun Roku (Japan)"
+	releasemonth "11"
+	rom ( crc 97BC4585 )
+)
+
+game (
+	name "Toukon Club (Japan)"
+	releasemonth "7"
+	rom ( crc EA3E78DD )
+)
+
+game (
+	name "Toukyou Pachi-Slot Adventure (Japan) (Rev A)"
+	releasemonth "12"
+	rom ( crc 162CCBD0 )
+)
+
+game (
+	name "Town & Country Surf Designs - Thrilla's Surfari (USA)"
+	releasemonth "3"
+	rom ( crc 7E57FBEC )
+)
+
+game (
+	name "Town & Country Surf Designs - Wood & Water Rage (USA)"
+	releasemonth "2"
+	rom ( crc D3BFF72E )
+)
+
+game (
+	name "Toxic Crusaders (USA)"
+	releasemonth "4"
+	rom ( crc F009DDD2 )
+)
+
+game (
+	name "Track & Field II (Europe)"
+	releasemonth "11"
+	rom ( crc C53CF1D0 )
+)
+
+game (
+	name "Konamic Sports in Seoul (Japan)"
+	releasemonth "9"
+	rom ( crc C7642467 )
+)
+
+game (
+	name "Track & Field II (USA)"
+	releasemonth "6"
+	rom ( crc 09C083B7 )
+)
+
+game (
+	name "Track & Field II (USA) (Rev A)"
+	releasemonth "6"
+	rom ( crc 7FA191E7 )
+)
+
+game (
+	name "Track & Field in Barcelona (Europe)"
+	releasemonth "2"
+	rom ( crc 5D99053D )
+)
+
+game (
+	name "Hyper Olympic (Japan) (Genteiban!)"
+	releasemonth "6"
+	rom ( crc 21F85681 )
+)
+
+game (
+	name "Hyper Olympic (Japan)"
+	releasemonth "6"
+	rom ( crc 980BE936 )
+)
+
+game (
+	name "Track & Field (USA)"
+	releasemonth "4"
+	rom ( crc 9C9F3571 )
+)
+
+game (
+	name "Treasure Master (USA)"
+	releasemonth "12"
+	rom ( crc B918580C )
+)
+
+game (
+	name "Triathron, The (Japan)"
+	releasemonth "12"
+	rom ( crc CC3544B0 )
+)
+
+game (
+	name "Trog! (Europe)"
+	releasemonth "1"
+	rom ( crc B6B5C372 )
+)
+
+game (
+	name "Trog! (USA)"
+	releasemonth "10"
+	rom ( crc EE6892EB )
+)
+
+game (
+	name "Trojan (Europe)"
+	releasemonth "3"
+	rom ( crc 4F48B240 )
+)
+
+game (
+	name "Tatakai no Banka (Japan)"
+	releasemonth "12"
+	rom ( crc BE95B219 )
+)
+
+game (
+	name "Tatakai no Banka (Japan) (Rev A)"
+	releasemonth "12"
+	rom ( crc 60E563F1 )
+)
+
+game (
+	name "Trojan (USA)"
+	releasemonth "2"
+	rom ( crc FC3E5C86 )
+)
+
+game (
+	name "Trolls in Crazyland, The (Europe)"
+	releasemonth "1"
+	rom ( crc E681B300 )
+)
+
+game (
+	name "Doki!Doki! Yuuenchi - Crazy Land Daisakusen (Japan)"
+	releasemonth "8"
+	rom ( crc BD50F230 )
+)
+
+game (
+	name "Tsuppari Oozumou (Japan)"
+	releasemonth "9"
+	rom ( crc 90ECDADE )
+)
+
+game (
+	name "Tsuppari Wars (Japan)"
+	releasemonth "6"
+	rom ( crc 972D08C5 )
+)
+
+game (
+	name "Tsuri Kichi Sanpei - Blue Marlin Hen (Japan)"
+	releasemonth "3"
+	rom ( crc 5A18F611 )
+)
+
+game (
+	name "Tsuru Pika Hagemaru - Mezase! Tsuru Seko no Akashi (Japan)"
+	releasemonth "12"
+	rom ( crc 652F3324 )
+)
+
+game (
+	name "Twin Cobra (USA)"
+	releasemonth "1"
+	rom ( crc 0EF730E7 )
+)
+
+game (
+	name "Kyuukyoku Tiger (Japan)"
+	releasemonth "8"
+	rom ( crc 091ED5A9 )
+)
+
+game (
+	name "Twin Eagle (USA)"
+	releasemonth "10"
+	rom ( crc CF26A149 )
+)
+
+game (
+	name "Twin Eagle (Japan)"
+	releasemonth "4"
+	rom ( crc 3CF67AEC )
+)
+
+game (
+	name "TwinBee (Japan)"
+	releasemonth "1"
+	rom ( crc 985B1D05 )
+)
+
+game (
+	name "TwinBee 3 - Poko Poko Daimaou (Japan)"
+	releasemonth "9"
+	rom ( crc D7FABAC1 )
+)
+
+game (
+	name "Uchuu Keibitai SDF (Japan)"
+	releasemonth "9"
+	rom ( crc BB7F829A )
+)
+
+game (
+	name "Uchuusen Cosmo Carrier (Japan)"
+	releasemonth "11"
+	rom ( crc 3D1C3137 )
+)
+
+game (
+	name "Ufouria - The Saga (Europe)"
+	releasemonth "11"
+	rom ( crc 4EC0FECC )
+)
+
+game (
+	name "Hebereke (Japan)"
+	releasemonth "9"
+	rom ( crc 72928698 )
+)
+
+game (
+	name "Ultima - Warriors of Destiny (USA)"
+	releasemonth "1"
+	rom ( crc 4823EEFE )
+)
+
+game (
+	name "Ultimate Air Combat (Europe) (En,Fr,De)"
+	releasemonth "1"
+	rom ( crc C0F251EA )
+)
+
+game (
+	name "Aces - Iron Eagle 3 (Japan)"
+	releasemonth "8"
+	rom ( crc 7C27AB86 )
+)
+
+game (
+	name "Ultimate Air Combat (USA)"
+	releasemonth "4"
+	rom ( crc E387C77F )
+)
+
+game (
+	name "Ultimate Basketball (USA)"
+	releasemonth "9"
+	rom ( crc 9F6CE171 )
+)
+
+game (
+	name "Taito Basketball (Japan)"
+	releasemonth "4"
+	rom ( crc 4F16C504 )
+)
+
+game (
+	name "Ultraman Club - Kaijuu Daikessen!! (Japan)"
+	releasemonth "12"
+	rom ( crc 9ADFC8F0 )
+)
+
+game (
+	name "Ultraman Club 2 - Kaettekita Ultraman Club (Japan)"
+	releasemonth "4"
+	rom ( crc 7980C4F7 )
+)
+
+game (
+	name "Ultraman Club 3 - Matamata Shutsugeki!! Ultra Kyoudai (Japan)"
+	releasemonth "12"
+	rom ( crc 923F915B )
+)
+
+game (
+	name "Uncanny X-Men, The (USA)"
+	releasemonth "12"
+	rom ( crc 2D41EF92 )
+)
+
+game (
+	name "Uncharted Waters (USA)"
+	releasemonth "11"
+	rom ( crc ACA15643 )
+)
+
+game (
+	name "Daikoukai Jidai (Japan)"
+	releasemonth "3"
+	rom ( crc FE3488D1 )
+)
+
+game (
+	name "Uninvited (USA)"
+	releasemonth "6"
+	rom ( crc 9BAC73EF )
+)
+
+game (
+	name "Akuma no Shoutaijou (Japan)"
+	releasemonth "9"
+	rom ( crc 1248326D )
+)
+
+game (
+	name "Untouchables, The (USA) (Rev B)"
+	releasemonth "1"
+	rom ( crc 20C795EB )
+)
+
+game (
+	name "Untouchables, The (Japan)"
+	releasemonth "12"
+	rom ( crc DA8F65AE )
+)
+
+game (
+	name "Untouchables, The (USA)"
+	releasemonth "1"
+	rom ( crc 209F3587 )
+)
+
+game (
+	name "Untouchables, The (USA) (Rev A)"
+	releasemonth "1"
+	rom ( crc 588A31FE )
+)
+
+game (
+	name "Urban Champion (World)"
+	releasemonth "6"
+	rom ( crc 656D4265 )
+)
+
+game (
+	name "Urusei Yatsura - Lum no Wedding Bell (Japan)"
+	releasemonth "10"
+	rom ( crc 0DA5E32E )
+)
+
+game (
+	name "Ushio to Tora - Shinen no Taiyou (Japan)"
+	releasemonth "7"
+	rom ( crc A58A8DA1 )
+)
+
+game (
+	name "Valkyrie no Bouken - Toki no Kagi Densetsu (Japan)"
+	releasemonth "8"
+	rom ( crc C6ADD8C5 )
+)
+
+game (
+	name "Vegas Connection - Casino kara Ai o Komete (Japan)"
+	releasemonth "11"
+	rom ( crc 57E9B21C )
+)
+
+game (
+	name "Vice - Project Doom (USA)"
+	releasemonth "11"
+	rom ( crc 753768A6 )
+)
+
+game (
+	name "Gun-Dec (Japan)"
+	releasemonth "4"
+	rom ( crc 619BEA12 )
+)
+
+game (
+	name "Videomation (USA)"
+	releasemonth "6"
+	rom ( crc 5E66EAEA )
+)
+
+game (
+	name "Volguard II (Japan)"
+	releasemonth "12"
+	rom ( crc FDE14CCE )
+)
+
+game (
+	name "Wacky Races (USA)"
+	releasemonth "5"
+	rom ( crc 401521F7 )
+)
+
+game (
+	name "Chiki Chiki Machine Mou Race (Japan)"
+	releasemonth "12"
+	rom ( crc 20AF7E1A )
+)
+
+game (
+	name "Wagyan Land (Japan)"
+	releasemonth "2"
+	rom ( crc 2A01F9D1 )
+)
+
+game (
+	name "Wagyan Land 2 (Japan)"
+	releasemonth "12"
+	rom ( crc 1DC0F740 )
+)
+
+game (
+	name "Wagyan Land 3 (Japan)"
+	releasemonth "12"
+	rom ( crc D323B806 )
+)
+
+game (
+	name "Wai Wai World (Japan)"
+	releasemonth "1"
+	rom ( crc 8A96E00D )
+)
+
+game (
+	name "Wai Wai World 2 - SOS!! Paseri Jou (Japan)"
+	releasemonth "1"
+	rom ( crc 8B03F74D )
+)
+
+game (
+	name "Wall Street Kid (USA)"
+	releasemonth "6"
+	rom ( crc B6661BDA )
+)
+
+game (
+	name "Wario's Woods (Europe)"
+	releasemonth "1"
+	rom ( crc 668D1715 )
+)
+
+game (
+	name "Wario no Mori (Japan)"
+	releasemonth "2"
+	rom ( crc 03E2898F )
+)
+
+game (
+	name "Wario's Woods (USA)"
+	releasemonth "12"
+	rom ( crc F79A75D7 )
+)
+
+game (
+	name "Warpman (Japan)"
+	releasemonth "7"
+	rom ( crc 64BBCB77 )
+)
+
+game (
+	name "Wayne Gretzky Hockey (USA)"
+	releasemonth "1"
+	rom ( crc 15F0D3F1 )
+)
+
+game (
+	name "Wayne's World (USA)"
+	releasemonth "11"
+	rom ( crc B0CD000F )
+)
+
+game (
+	name "WCW World Championship Wrestling (USA)"
+	releasemonth "4"
+	rom ( crc 5EA7D410 )
+)
+
+game (
+	name "Superstar Pro Wrestling (Japan)"
+	releasemonth "12"
+	rom ( crc 705BD7C3 )
+)
+
+game (
+	name "Werewolf - The Last Warrior (Europe)"
+	releasemonth "9"
+	rom ( crc 5D0D3047 )
+)
+
+game (
+	name "Choujinrou Senki Warwolf (Japan)"
+	releasemonth "6"
+	rom ( crc 85E0090B )
+)
+
+game (
+	name "Werewolf - The Last Warrior (USA)"
+	releasemonth "11"
+	rom ( crc 333C48A0 )
+)
+
+game (
+	name "Wheel of Fortune (USA) (Rev A)"
+	releasemonth "9"
+	rom ( crc 3368F7FB )
+)
+
+game (
+	name "Wheel of Fortune (USA)"
+	releasemonth "9"
+	rom ( crc FBF8A785 )
+)
+
+game (
+	name "Wheel of Fortune - Family Edition (USA)"
+	releasemonth "3"
+	rom ( crc 009AF6BE )
+)
+
+game (
+	name "Wheel of Fortune - Junior Edition (USA)"
+	releasemonth "10"
+	rom ( crc 68383607 )
+)
+
+game (
+	name "Wheel of Fortune Starring Vanna White (USA)"
+	releasemonth "1"
+	rom ( crc 4220C170 )
+)
+
+game (
+	name "Where in Time Is Carmen Sandiego (USA)"
+	releasemonth "10"
+	rom ( crc 917770D8 )
+)
+
+game (
+	name "Where's Waldo (USA)"
+	releasemonth "9"
+	rom ( crc C3463A3D )
+)
+
+game (
+	name "Who Framed Roger Rabbit (USA)"
+	releasemonth "9"
+	rom ( crc 12B2C361 )
+)
+
+game (
+	name "Whomp 'Em (USA)"
+	releasemonth "3"
+	rom ( crc 6FD5A271 )
+)
+
+game (
+	name "Saiyuuki World 2 - Tenjoukai no Majin (Japan)"
+	releasemonth "12"
+	rom ( crc 75B3EB37 )
+)
+
+game (
+	name "Widget (USA)"
+	releasemonth "11"
+	rom ( crc E7C981A2 )
+)
+
+game (
+	name "Wild Gunman (World) (Rev A)"
+	releasemonth "10"
+	rom ( crc 5112DC21 )
+)
+
+game (
+	name "Willow (Europe)"
+	releasemonth "4"
+	rom ( crc D9323EE6 )
+)
+
+game (
+	name "Willow (Japan)"
+	releasemonth "7"
+	rom ( crc 752743EC )
+)
+
+game (
+	name "Willow (USA)"
+	releasemonth "12"
+	rom ( crc 103E7E7F )
+)
+
+game (
+	name "Wily & Right no Rockboard - That's Paradise (Japan)"
+	releasemonth "1"
+	rom ( crc 23F4B48F )
+)
+
+game (
+	name "Win, Lose or Draw (USA)"
+	releasemonth "3"
+	rom ( crc F74DFC91 )
+)
+
+game (
+	name "Winter Games (USA) (Rev A)"
+	releasemonth "9"
+	rom ( crc 969EF9E4 )
+)
+
+game (
+	name "Winter Games (USA)"
+	releasemonth "9"
+	rom ( crc 52880295 )
+)
+
+game (
+	name "Wit's (Japan)"
+	releasemonth "7"
+	rom ( crc B1B16B8A )
+)
+
+game (
+	name "Wizardry - Knight of Diamonds - The Second Scenario (USA)"
+	releasemonth "4"
+	rom ( crc 6BC33D2F )
+)
+
+game (
+	name "Wizardry III - Diamond no Kishi (Japan)"
+	releasemonth "3"
+	rom ( crc 5C123EF7 )
+)
+
+game (
+	name "Wizardry - Proving Grounds of the Mad Overlord (USA)"
+	releasemonth "7"
+	rom ( crc D9BB572C )
+)
+
+game (
+	name "Wizardry - Proving Grounds of the Mad Overlord (Japan)"
+	releasemonth "12"
+	rom ( crc 498187B6 )
+)
+
+game (
+	name "Wizards & Warriors (Europe)"
+	releasemonth "1"
+	rom ( crc 5E6D9975 )
+)
+
+game (
+	name "Densetsu no Kishi - Elrond (Japan)"
+	releasemonth "7"
+	rom ( crc A72FDE03 )
+)
+
+game (
+	name "Wizards & Warriors (USA)"
+	releasemonth "12"
+	rom ( crc 505F9715 )
+)
+
+game (
+	name "Wizards & Warriors (USA) (Rev A)"
+	releasemonth "12"
+	rom ( crc 26535EF5 )
+)
+
+game (
+	name "Wizards & Warriors III - Kuros...Visions of Power (Europe)"
+	releasemonth "1"
+	rom ( crc 806DE21E )
+)
+
+game (
+	name "Wizards & Warriors III - Kuros...Visions of Power (USA)"
+	releasemonth "3"
+	rom ( crc D2562072 )
+)
+
+game (
+	name "Wolverine (USA)"
+	releasemonth "10"
+	rom ( crc 35476E87 )
+)
+
+game (
+	name "Woody Poko (Japan)"
+	releasemonth "6"
+	rom ( crc ADB810F8 )
+)
+
+game (
+	name "World Boxing (Japan)"
+	releasemonth "9"
+	rom ( crc 4DCD15EE )
+)
+
+game (
+	name "World Games (USA)"
+	releasemonth "3"
+	rom ( crc F613A8F9 )
+)
+
+game (
+	name "Wrath of the Black Manta (Europe)"
+	releasemonth "1"
+	rom ( crc 06689AA4 )
+)
+
+game (
+	name "Ninja Cop Saizou (Japan)"
+	releasemonth "11"
+	rom ( crc 9E777EA5 )
+)
+
+game (
+	name "Wrath of the Black Manta (USA)"
+	releasemonth "4"
+	rom ( crc F651398D )
+)
+
+game (
+	name "Wrath of the Black Manta (USA) (Rev A)"
+	releasemonth "4"
+	rom ( crc 3A8723B9 )
+)
+
+game (
+	name "Wrecking Crew (World)"
+	releasemonth "10"
+	rom ( crc 9B506A48 )
+)
+
+game (
+	name "Wurm - Journey to the Center of the Earth! (USA)"
+	releasemonth "11"
+	rom ( crc EB803610 )
+)
+
+game (
+	name "Chitei Senkuu Vazolder (Japan)"
+	releasemonth "11"
+	rom ( crc 7840B18D )
+)
+
+game (
+	name "WWF King of the Ring (Europe)"
+	releasemonth "1"
+	rom ( crc 071D4C2D )
+)
+
+game (
+	name "WWF King of the Ring (USA)"
+	releasemonth "11"
+	rom ( crc 7B4ED0BB )
+)
+
+game (
+	name "WWF Wrestlemania (Europe)"
+	releasemonth "1"
+	rom ( crc 6C4A9735 )
+)
+
+game (
+	name "WWF Wrestlemania (USA)"
+	releasemonth "1"
+	rom ( crc 37138039 )
+)
+
+game (
+	name "WWF Wrestlemania Challenge (Europe)"
+	releasemonth "1"
+	rom ( crc 138862C5 )
+)
+
+game (
+	name "WWF Wrestlemania Challenge (Japan)"
+	releasemonth "3"
+	rom ( crc F3808245 )
+)
+
+game (
+	name "WWF Wrestlemania Challenge (USA)"
+	releasemonth "11"
+	rom ( crc A0230D75 )
+)
+
+game (
+	name "WWF Wrestlemania Steel Cage Challenge (Europe)"
+	releasemonth "1"
+	rom ( crc 21F2A1A6 )
+)
+
+game (
+	name "WWF Wrestlemania Steel Cage Challenge (USA)"
+	releasemonth "9"
+	rom ( crc D4611B79 )
+)
+
+game (
+	name "Xenophobe (USA)"
+	releasemonth "12"
+	rom ( crc 711896B8 )
+)
+
+game (
+	name "Xevious (Europe)"
+	releasemonth "10"
+	rom ( crc D745D7CB )
+)
+
+game (
+	name "Xevious (Japan)"
+	releasemonth "11"
+	rom ( crc B3C30BEA )
+)
+
+game (
+	name "Xevious (Japan) (En) (Rev 1)"
+	releasemonth "11"
+	rom ( crc A2469526 )
+)
+
+game (
+	name "Xevious - The Avenger (USA)"
+	releasemonth "9"
+	rom ( crc DFD70E27 )
+)
+
+game (
+	name "Xexyz (USA)"
+	releasemonth "4"
+	rom ( crc B1612FE6 )
+)
+
+game (
+	name "Kame no Ongaeshi - Urashima Densetsu (Japan)"
+	releasemonth "8"
+	rom ( crc 489D19AB )
+)
+
+game (
+	name "Yamamura Misa Suspense - Kyouto Hana no Misshitsu Satsujin Jiken (Japan)"
+	releasemonth "2"
+	rom ( crc 1ED7D6BE )
+)
+
+game (
+	name "Yamamura Misa Suspense - Kyouto Ryuu no Tera Satsujin Jiken (Japan)"
+	releasemonth "12"
+	rom ( crc 342727B1 )
+)
+
+game (
+	name "Yamamura Misa Suspense - Kyouto Zaiteku Satsujin Jiken (Japan)"
+	releasemonth "11"
+	rom ( crc 028374F2 )
+)
+
+game (
+	name "Yie Ar Kung-Fu (Japan) (Rev 1.4)"
+	releasemonth "4"
+	rom ( crc 86CEFC12 )
+)
+
+game (
+	name "Yie Ar Kung-Fu (Japan) (Rev 1.2)"
+	releasemonth "4"
+	rom ( crc 8BAA5FF2 )
+)
+
+game (
+	name "Yoshi's Cookie (Europe)"
+	releasemonth "4"
+	rom ( crc E37A39AB )
+)
+
+game (
+	name "Yoshi no Cookie (Japan)"
+	releasemonth "11"
+	rom ( crc F66EC512 )
+)
+
+game (
+	name "Yoshi's Cookie (USA)"
+	releasemonth "4"
+	rom ( crc 52B58732 )
+)
+
+game (
+	name "Youkai Club (Japan)"
+	releasemonth "5"
+	rom ( crc 6BC65D7E )
+)
+
+game (
+	name "Youkai Douchuuki (Japan)"
+	releasemonth "6"
+	rom ( crc C811DC7A )
+)
+
+game (
+	name "Young Indiana Jones Chronicles, The (USA)"
+	releasemonth "12"
+	rom ( crc 35C6F574 )
+)
+
+game (
+	name "Ys (Japan)"
+	releasemonth "8"
+	rom ( crc 92547F1C )
+)
+
+game (
+	name "Ys III - Wanderers from Ys (Japan)"
+	releasemonth "9"
+	rom ( crc 37B62D04 )
+)
+
+game (
+	name "Yume Penguin Monogatari (Japan)"
+	releasemonth "1"
+	rom ( crc CBFB6DE5 )
+)
+
+game (
+	name "Zanac (USA)"
+	releasemonth "10"
+	rom ( crc E292AA10 )
+)
+
+game (
+	name "Zen - Intergalactic Ninja (Europe)"
+	releasemonth "10"
+	rom ( crc 0430DB08 )
+)
+
+game (
+	name "Zen - Intergalactic Ninja (USA)"
+	releasemonth "3"
+	rom ( crc D8578BFD )
+)
+
+game (
+	name "Zippy Race (Japan)"
+	releasemonth "7"
+	rom ( crc E492D45A )
+)
+
+game (
+	name "Zoda's Revenge - StarTropics II (USA)"
+	releasemonth "3"
+	rom ( crc D054FFB0 )
+)
+
+game (
+	name "Zoids - Chuuou Tairiku no Tatakai (Japan) (Rev A)"
+	releasemonth "9"
+	rom ( crc E0B6B7BB )
+)
+
+game (
+	name "Zoids - Chuuou Tairiku no Tatakai (Japan)"
+	releasemonth "9"
+	rom ( crc D0DF726E )
+)
+
+game (
+	name "Zoids 2 - Zenebas no Gyakushuu (Japan)"
+	releasemonth "1"
+	rom ( crc 89E085FE )
+)
+
+game (
+	name "Zoids Mokushiroku (Japan)"
+	releasemonth "12"
+	rom ( crc F3623561 )
+)
+
+game (
+	name "Zombie Nation (USA)"
+	releasemonth "9"
+	rom ( crc 03FB57B6 )
+)
+
+game (
+	name "Abarenbou Tengu (Japan)"
+	releasemonth "12"
+	rom ( crc CC7A4DCA )
+)
+
+game (
+	name "Zunou Senkan Galg (Japan)"
+	releasemonth "12"
+	rom ( crc EC0517C4 )
+)
+

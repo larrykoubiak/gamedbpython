@@ -88,6 +88,54 @@ game (
 )
 
 game (
+	name "Banjo-Kazooie (Europe) (En,Fr,De)"
+	franchise "Banjo-Kazooie"
+	rom ( crc 4AF7C16B )
+)
+
+game (
+	name "Banjo to Kazooie no Daibouken (Japan)"
+	franchise "Banjo-Kazooie"
+	rom ( crc 11AD432C )
+)
+
+game (
+	name "Banjo-Kazooie (USA)"
+	franchise "Banjo-Kazooie"
+	rom ( crc 4FD43199 )
+)
+
+game (
+	name "Banjo-Kazooie (USA) (Rev A)"
+	franchise "Banjo-Kazooie"
+	rom ( crc 90B38651 )
+)
+
+game (
+	name "Banjo-Tooie (Europe) (En,Fr,De,Es)"
+	franchise "Banjo-Kazooie"
+	rom ( crc 5EE620FB )
+)
+
+game (
+	name "Banjo to Kazooie no Daibouken 2 (Japan)"
+	franchise "Banjo-Kazooie"
+	rom ( crc 8A3D8792 )
+)
+
+game (
+	name "Banjo-Tooie (Australia)"
+	franchise "Banjo-Kazooie"
+	rom ( crc 38EC4A6E )
+)
+
+game (
+	name "Banjo-Tooie (USA)"
+	franchise "Banjo-Kazooie"
+	rom ( crc 0E0DC5A5 )
+)
+
+game (
 	name "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)"
 	franchise "Batman"
 	rom ( crc 86AA921C )
@@ -220,24 +268,6 @@ game (
 )
 
 game (
-	name "Bust-A-Move 3 DX (Europe)"
-	franchise "Bust-A-Move / Puzzle Bobble"
-	rom ( crc 9F3F484B )
-)
-
-game (
-	name "Bust-A-Move '99 (USA)"
-	franchise "Bust-A-Move / Puzzle Bobble"
-	rom ( crc 2A95290F )
-)
-
-game (
-	name "Puzzle Bobble 64 (Japan)"
-	franchise "Bust-A-Move / Puzzle Bobble"
-	rom ( crc 30238199 )
-)
-
-game (
 	name "Carmageddon 64 (Europe) (En,Fr,De,Es)"
 	franchise "Carmageddon"
 	rom ( crc D8D87DCA )
@@ -253,6 +283,54 @@ game (
 	name "Carmageddon 64 (USA)"
 	franchise "Carmageddon"
 	rom ( crc E78DEBB6 )
+)
+
+game (
+	name "Castlevania (Europe) (En,Fr,De)"
+	franchise "Castlevania"
+	rom ( crc D1D4D306 )
+)
+
+game (
+	name "Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)"
+	franchise "Castlevania"
+	rom ( crc CA79D5A0 )
+)
+
+game (
+	name "Castlevania (USA)"
+	franchise "Castlevania"
+	rom ( crc 84E815F3 )
+)
+
+game (
+	name "Castlevania (USA) (Rev B)"
+	franchise "Castlevania"
+	rom ( crc 7F50E637 )
+)
+
+game (
+	name "Castlevania (USA) (Rev A)"
+	franchise "Castlevania"
+	rom ( crc BF911B10 )
+)
+
+game (
+	name "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)"
+	franchise "Castlevania"
+	rom ( crc A12BF3DE )
+)
+
+game (
+	name "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)"
+	franchise "Castlevania"
+	rom ( crc 420CE37B )
+)
+
+game (
+	name "Castlevania - Legacy of Darkness (USA)"
+	franchise "Castlevania"
+	rom ( crc 1F147376 )
 )
 
 game (
@@ -364,24 +442,6 @@ game (
 )
 
 game (
-	name "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)"
-	franchise "Daffy Duck"
-	rom ( crc 6CB4B600 )
-)
-
-game (
-	name "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)"
-	franchise "Daffy Duck"
-	rom ( crc B67BBC15 )
-)
-
-game (
-	name "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta)"
-	franchise "Daffy Duck"
-	rom ( crc 0829B87A )
-)
-
-game (
 	name "Dance Dance Revolution - Disney Dancing Museum (Japan)"
 	franchise "Dance Dance Revolution"
 	rom ( crc E085AFA0 )
@@ -418,6 +478,18 @@ game (
 )
 
 game (
+	name "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)"
+	franchise "Donald Duck"
+	rom ( crc 5F67A191 )
+)
+
+game (
+	name "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)"
+	franchise "Donald Duck"
+	rom ( crc 6D48B64E )
+)
+
+game (
 	name "Doom 64 (Europe)"
 	franchise "Doom"
 	rom ( crc 0227DB4B )
@@ -439,6 +511,12 @@ game (
 	name "Doom 64 (USA) (Rev A)"
 	franchise "Doom"
 	rom ( crc 0F080D06 )
+)
+
+game (
+	name "Doraemon - Nobita to 3tsu no Seireiseki (Japan)"
+	franchise "Doraemon"
+	rom ( crc CAD0A2C2 )
 )
 
 game (
@@ -640,6 +718,18 @@ game (
 )
 
 game (
+	name "FIFA Soccer 64 (Europe) (En,Fr,De)"
+	franchise "FIFA Soccer"
+	rom ( crc 26F52456 )
+)
+
+game (
+	name "FIFA Soccer 64 (USA) (En,Fr,De)"
+	franchise "FIFA Soccer"
+	rom ( crc 3B22F9F2 )
+)
+
+game (
 	name "Fighting Force 64 (Europe)"
 	franchise "Fighting Force"
 	rom ( crc 8D0CB2FF )
@@ -649,24 +739,6 @@ game (
 	name "Fighting Force 64 (USA)"
 	franchise "Fighting Force"
 	rom ( crc ADE7DCA4 )
-)
-
-game (
-	name "Flying Dragon (Europe)"
-	franchise "Hiryu no Ken"
-	rom ( crc 00FFF973 )
-)
-
-game (
-	name "Flying Dragon (USA)"
-	franchise "Hiryu no Ken"
-	rom ( crc 87E4E352 )
-)
-
-game (
-	name "Hiryuu no Ken Twin (Japan)"
-	franchise "Hiryu no Ken"
-	rom ( crc 4A07511C )
 )
 
 game (
@@ -814,18 +886,6 @@ game (
 )
 
 game (
-	name "Hey You, Pikachu! (USA)"
-	franchise "Pokemon"
-	rom ( crc 0149E9F6 )
-)
-
-game (
-	name "Pikachuu Genki de Chuu (Japan)"
-	franchise "Pokemon"
-	rom ( crc 2AE884CD )
-)
-
-game (
 	name "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)"
 	franchise "Hot Wheels"
 	rom ( crc EF63C780 )
@@ -880,81 +940,21 @@ game (
 )
 
 game (
-	name "International Superstar Soccer '98 (Europe)"
-	franchise "International Superstar Soccer"
-	rom ( crc 463FE8B7 )
+	name "International Track & Field - Summer Games (Europe) (En,Fr,De)"
+	franchise "Olympics"
+	rom ( crc 73073EC2 )
 )
 
 game (
-	name "International Superstar Soccer '98 (USA)"
-	franchise "International Superstar Soccer"
-	rom ( crc D685F2EC )
+	name "Ganbare! Nippon! Olympics 2000 (Japan)"
+	franchise "Olympics"
+	rom ( crc 1C7E5D6E )
 )
 
 game (
-	name "Jikkyou World Soccer - World Cup France '98 (Japan)"
-	franchise "International Superstar Soccer"
-	rom ( crc 970A3C24 )
-)
-
-game (
-	name "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev A)"
-	franchise "International Superstar Soccer"
-	rom ( crc 7576897D )
-)
-
-game (
-	name "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev B)"
-	franchise "International Superstar Soccer"
-	rom ( crc 55551947 )
-)
-
-game (
-	name "International Superstar Soccer 2000 (Europe) (En,De)"
-	franchise "International Superstar Soccer"
-	rom ( crc 61799242 )
-)
-
-game (
-	name "International Superstar Soccer 2000 (Europe) (Fr,It)"
-	franchise "International Superstar Soccer"
-	rom ( crc 7D7DCD46 )
-)
-
-game (
-	name "International Superstar Soccer 2000 (USA) (En,Es)"
-	franchise "International Superstar Soccer"
-	rom ( crc BB1824B8 )
-)
-
-game (
-	name "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)"
-	franchise "International Superstar Soccer"
-	rom ( crc 8E2F8322 )
-)
-
-game (
-	name "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev A)"
-	franchise "International Superstar Soccer"
-	rom ( crc B4131606 )
-)
-
-game (
-	name "International Superstar Soccer 64 (Europe)"
-	franchise "International Superstar Soccer"
-	rom ( crc 662DA098 )
-)
-
-game (
-	name "International Superstar Soccer 64 (USA)"
-	franchise "International Superstar Soccer"
-	rom ( crc 91CB6803 )
-)
-
-game (
-	name "Jikkyou World Soccer 3 (Japan)"
-	franchise "International Superstar Soccer"
-	rom ( crc 8755DE1F )
+	name "International Track & Field 2000 (USA)"
+	franchise "Olympics"
+	rom ( crc F93868A3 )
 )
 
 game (
@@ -1120,27 +1120,15 @@ game (
 )
 
 game (
-	name "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube Edition)"
-	franchise "Legend of Zelda"
-	rom ( crc 177FA73A )
+	name "Knockout Kings 2000 (Europe)"
+	franchise "Knockout Kings"
+	rom ( crc 3C38BA4A )
 )
 
 game (
-	name "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Version)"
-	franchise "Legend of Zelda"
-	rom ( crc 2EE3E247 )
-)
-
-game (
-	name "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)"
-	franchise "Legend of Zelda"
-	rom ( crc 7B89B13F )
-)
-
-game (
-	name "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube Edition)"
-	franchise "Legend of Zelda"
-	rom ( crc D97C20BA )
+	name "Knockout Kings 2000 (USA)"
+	franchise "Knockout Kings"
+	rom ( crc A26533FC )
 )
 
 game (
@@ -1213,36 +1201,6 @@ game (
 	name "Madden NFL 99 (USA)"
 	franchise "Madden Football"
 	rom ( crc AC21A5BF )
-)
-
-game (
-	name "Magical Tetris Challenge (Europe)"
-	franchise "Mickey Mouse"
-	rom ( crc BF53BF3D )
-)
-
-game (
-	name "Defi au Tetris Magique (France)"
-	franchise "Mickey Mouse"
-	rom ( crc EB304709 )
-)
-
-game (
-	name "Magical Tetris Challenge (Germany)"
-	franchise "Mickey Mouse"
-	rom ( crc 16995CF8 )
-)
-
-game (
-	name "Magical Tetris Challenge (USA)"
-	franchise "Mickey Mouse"
-	rom ( crc 167C60E6 )
-)
-
-game (
-	name "Magical Tetris Challenge featuring Mickey (Japan)"
-	franchise "Mickey Mouse"
-	rom ( crc 6D3EBA8B )
 )
 
 game (
@@ -1354,21 +1312,21 @@ game (
 )
 
 game (
-	name "Mega Man 64 (USA)"
-	franchise "Mega Man Legends"
-	rom ( crc B57DD0E4 )
+	name "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)"
+	franchise "Mickey Mouse"
+	rom ( crc DDF28F6B )
 )
 
 game (
-	name "Mega Man 64 (USA) (Beta)"
-	franchise "Mega Man Legends"
-	rom ( crc 421D2A09 )
+	name "Mickey no Racing Challenge USA (Japan)"
+	franchise "Mickey Mouse"
+	rom ( crc 915A43EE )
 )
 
 game (
-	name "Rockman Dash - Hagane no Boukenshin (Japan)"
-	franchise "Mega Man Legends"
-	rom ( crc E1919C66 )
+	name "Mickey's Speedway USA (USA)"
+	franchise "Mickey Mouse"
+	rom ( crc 6E589C47 )
 )
 
 game (
@@ -1804,30 +1762,6 @@ game (
 )
 
 game (
-	name "Operation WinBack (Europe) (En,Fr,De,Es,It)"
-	franchise "Winback"
-	rom ( crc 15F1C325 )
-)
-
-game (
-	name "WinBack (Japan)"
-	franchise "Winback"
-	rom ( crc A5364D80 )
-)
-
-game (
-	name "WinBack (Japan) (Rev A)"
-	franchise "Winback"
-	rom ( crc 9FBD5973 )
-)
-
-game (
-	name "WinBack - Covert Operations (USA)"
-	franchise "Winback"
-	rom ( crc 1A6334D0 )
-)
-
-game (
 	name "Paper Mario (Europe) (En,Fr,De,Es)"
 	franchise "Paper Mario"
 	rom ( crc 7CAB0055 )
@@ -1930,114 +1864,6 @@ game (
 )
 
 game (
-	name "Pokemon Stadium (Japan)"
-	franchise "Pokemon"
-	rom ( crc 3B2A3F7A )
-)
-
-game (
-	name "Pokemon Stadium (Europe) (Rev A)"
-	franchise "Pokemon"
-	rom ( crc 60F6BE65 )
-)
-
-game (
-	name "Pokemon Stadium (Europe)"
-	franchise "Pokemon"
-	rom ( crc 7A8BF040 )
-)
-
-game (
-	name "Pokemon Stadium (France)"
-	franchise "Pokemon"
-	rom ( crc 476848F6 )
-)
-
-game (
-	name "Pokemon Stadium (Germany)"
-	franchise "Pokemon"
-	rom ( crc 3243A2A7 )
-)
-
-game (
-	name "Pokemon Stadium (Italy)"
-	franchise "Pokemon"
-	rom ( crc 77A59419 )
-)
-
-game (
-	name "Pokemon Stadium (Spain)"
-	franchise "Pokemon"
-	rom ( crc 7ADFB7E0 )
-)
-
-game (
-	name "Pokemon Stadium (USA)"
-	franchise "Pokemon"
-	rom ( crc 3003E90C )
-)
-
-game (
-	name "Pokemon Stadium (USA) (Rev A)"
-	franchise "Pokemon"
-	rom ( crc 7BB7489F )
-)
-
-game (
-	name "Pokemon Stadium (USA) (Rev B)"
-	franchise "Pokemon"
-	rom ( crc D2E2EC6D )
-)
-
-game (
-	name "Pokemon Stadium 2 (Japan)"
-	franchise "Pokemon"
-	rom ( crc C876BE9C )
-)
-
-game (
-	name "Pokemon Stadium 2 (Europe)"
-	franchise "Pokemon"
-	rom ( crc 85F53D6C )
-)
-
-game (
-	name "Pokemon Stadium 2 (France)"
-	franchise "Pokemon"
-	rom ( crc A72C55AF )
-)
-
-game (
-	name "Pokemon Stadium 2 (Germany)"
-	franchise "Pokemon"
-	rom ( crc B0A291FC )
-)
-
-game (
-	name "Pokemon Stadium 2 (Italy)"
-	franchise "Pokemon"
-	rom ( crc C849C481 )
-)
-
-game (
-	name "Pokemon Stadium 2 (Spain)"
-	franchise "Pokemon"
-	rom ( crc 391119B5 )
-)
-
-game (
-	name "Pokemon Stadium 2 (USA)"
-	franchise "Pokemon"
-	rom ( crc FBFF058A )
-)
-
-game (
-	name "Pokemon Stadium Kin Gin (Japan)"
-	franchise "Pokemon"
-	rom ( crc 16701567 )
-)
-
-game (
 	name "Power League 64 (Japan)"
 	franchise "Power League"
 	rom ( crc BC7E2494 )
@@ -2137,6 +1963,30 @@ game (
 	name "Ready 2 Rumble Boxing - Round 2 (USA)"
 	franchise "Ready 2 Rumble"
 	rom ( crc A64FDF28 )
+)
+
+game (
+	name "Resident Evil 2 (Europe) (En,Fr)"
+	franchise "Resident Evil"
+	rom ( crc A9936CEC )
+)
+
+game (
+	name "Biohazard 2 (Japan)"
+	franchise "Resident Evil"
+	rom ( crc 31A3B913 )
+)
+
+game (
+	name "Resident Evil 2 (USA) (Rev A)"
+	franchise "Resident Evil"
+	rom ( crc 6A0D64BB )
+)
+
+game (
+	name "Resident Evil 2 (USA)"
+	franchise "Resident Evil"
+	rom ( crc D890979F )
 )
 
 game (
@@ -2531,19 +2381,19 @@ game (
 
 game (
 	name "Superman (Europe) (En,Fr,De,Es,It,Nl)"
-	franchise "Superman"
+	franchise "Spider-Man"
 	rom ( crc 9CEF1753 )
 )
 
 game (
 	name "Superman (USA) (Beta)"
-	franchise "Superman"
+	franchise "Spider-Man"
 	rom ( crc 8644CD9A )
 )
 
 game (
 	name "Superman - The New Superman Aventures (USA) (En,Fr,Es)"
-	franchise "Superman"
+	franchise "Spider-Man"
 	rom ( crc F10D66F0 )
 )
 
@@ -3010,6 +2860,18 @@ game (
 )
 
 game (
+	name "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+	franchise "FIFA Soccer"
+	rom ( crc 163481D0 )
+)
+
+game (
+	name "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)"
+	franchise "FIFA Soccer"
+	rom ( crc B875CD94 )
+)
+
+game (
 	name "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)"
 	franchise "Worms"
 	rom ( crc 4862EBBD )
@@ -3091,5 +2953,17 @@ game (
 	name "WWF WrestleMania 2000 (USA)"
 	franchise "Wrestlemania"
 	rom ( crc D514E83C )
+)
+
+game (
+	name "Xena - Warrior Princess - The Talisman of Fate (Europe)"
+	franchise "Xena: Warrior Princess"
+	rom ( crc 2BB18EB6 )
+)
+
+game (
+	name "Xena - Warrior Princess - The Talisman of Fate (USA)"
+	franchise "Xena: Warrior Princess"
+	rom ( crc 7CB26725 )
 )
 

@@ -1,0 +1,305 @@
+clrmamepro (
+	name "SNK - Neo Geo Pocket Color"
+	description "SNK - Neo Geo Pocket Color"
+)
+
+game (
+	name "Baseball Stars Color (World) (En,Ja)"
+	publisher "SNK"
+	rom ( crc FFA7E88D )
+)
+
+game (
+	name "Bikkuriman 2000 - Viva! Pocket Festiva! (Japan)"
+	publisher "Sega"
+	rom ( crc 7A2D7635 )
+)
+
+game (
+	name "Biomotor Unitron (Japan)"
+	publisher "SNK"
+	rom ( crc ECEE99F3 )
+)
+
+game (
+	name "Cool Cool Jam (Japan)"
+	publisher "SNK"
+	rom ( crc 4FDA5D8A )
+)
+
+game (
+	name "Crush Roller (World) (En,Ja)"
+	publisher "SNK"
+	rom ( crc F20FF9F2 )
+)
+
+game (
+	name "Delta Warp (Japan) (En,Ja)"
+	publisher "Iosys"
+	rom ( crc ADD4FDFF )
+)
+
+game (
+	name "Dive Alert - Rebecca Hen (Japan)"
+	publisher "SNK"
+	rom ( crc 3C4AF4F5 )
+)
+
+game (
+	name "Dive Alert - Burn Hen (Japan)"
+	publisher "SNK"
+	rom ( crc C213941D )
+)
+
+game (
+	name "Dokodemo Mahjong (Japan)"
+	publisher "ADK"
+	rom ( crc 78C21B5E )
+)
+
+game (
+	name "Faselei! (Europe)"
+	publisher "SNK"
+	rom ( crc E705E30E )
+)
+
+game (
+	name "Faselei! (Japan)"
+	publisher "SNK"
+	rom ( crc 8F585838 )
+)
+
+game (
+	name "Ganbare Neo Poke-kun (Ka) (Japan)"
+	publisher "SNK"
+	rom ( crc 6DF986A3 )
+)
+
+game (
+	name "Infinity Cure (Japan)"
+	publisher "Kid"
+	rom ( crc 32DC2AA2 )
+)
+
+game (
+	name "King of Fighters, The - Battle de Paradise (Japan)"
+	publisher "SNK"
+	rom ( crc 77E37BAC )
+)
+
+game (
+	name "Koi Koi Mahjong (Japan)"
+	publisher "Visco"
+	rom ( crc B51C3EBA )
+)
+
+game (
+	name "Last Blade, The - Beyond the Destiny (Europe)"
+	publisher "SNK"
+	rom ( crc 94FCFD1E )
+)
+
+game (
+	name "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)"
+	publisher "SNK"
+	rom ( crc 12AFACB0 )
+)
+
+game (
+	name "Magical Drop Pocket (Japan)"
+	publisher "Data East"
+	rom ( crc 694CE2DC )
+)
+
+game (
+	name "Memories Off - Pure (Japan)"
+	publisher "Kid"
+	rom ( crc A7926E90 )
+)
+
+game (
+	name "Mezase! Kanji Ou (Japan)"
+	publisher "SNK"
+	rom ( crc A52E1C82 )
+)
+
+game (
+	name "Mizuki Shigeru no Youkai Shashinkan (Japan)"
+	publisher "SNK"
+	rom ( crc DDE08335 )
+)
+
+game (
+	name "Neo Derby Champ Daiyosou (Japan)"
+	publisher "Dyna Corporation"
+	rom ( crc 5A053559 )
+)
+
+game (
+	name "Neo Poke Pro Yakyuu (Japan)"
+	publisher "SNK"
+	rom ( crc F4D78F12 )
+)
+
+game (
+	name "Neo Turf Masters (World) (En,Ja)"
+	publisher "SNK"
+	rom ( crc 317A66D2 )
+)
+
+game (
+	name "Nigeronpa (Japan)"
+	publisher "Dennou Club"
+	rom ( crc 3CC3E269 )
+)
+
+game (
+	name "Pac-Man (World) (En,Ja)"
+	publisher "Namco"
+	rom ( crc 21E8CC15 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)"
+	publisher "Aruze Corp"
+	rom ( crc C56EF8C3 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)"
+	publisher "Aruze Corp"
+	rom ( crc 346F3C46 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)"
+	publisher "Aruze Corp"
+	rom ( crc 1EA69DB1 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)"
+	publisher "Aruze Corp"
+	rom ( crc 0A7C32DF )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.04)"
+	publisher "Aruze Corp"
+	rom ( crc A0C26F9B )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.02)"
+	publisher "Aruze Corp"
+	rom ( crc CFD1C8F2 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan)"
+	publisher "Aruze Corp"
+	rom ( crc 8A88C50F )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)"
+	publisher "Aruze Corp"
+	rom ( crc 96DDFBE3 )
+)
+
+game (
+	name "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)"
+	publisher "SNK"
+	rom ( crc D46CBC54 )
+)
+
+game (
+	name "Pachinko Hisshou Guide - Pocket Parlor (Japan)"
+	publisher "Vistec"
+	rom ( crc C3D6B28B )
+)
+
+game (
+	name "Party Mail (Japan)"
+	publisher "SNK"
+	rom ( crc 4DA8A1C0 )
+)
+
+game (
+	name "Pocket Love if (Japan)"
+	publisher "Kid"
+	rom ( crc C2EE1EE5 )
+)
+
+game (
+	name "Pocket Reversi (Europe)"
+	publisher "SNK"
+	rom ( crc 20F09880 )
+)
+
+game (
+	name "Pocket Reversi (Japan)"
+	publisher "Success"
+	rom ( crc FB0B55B8 )
+)
+
+game (
+	name "Rockman - Battle & Fighters (Japan)"
+	publisher "Capcom"
+	rom ( crc 9C861E49 )
+)
+
+game (
+	name "Shanghai Mini (World) (En,Ja)"
+	publisher "SNK"
+	rom ( crc 90732D53 )
+)
+
+game (
+	name "Shougi no Tatsujin Color (Japan)"
+	publisher "SNK"
+	rom ( crc 1F2872ED )
+)
+
+game (
+	name "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)"
+	publisher "SNK"
+	rom ( crc CCBCFDA7 )
+)
+
+game (
+	name "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)"
+	publisher "SNK"
+	rom ( crc 9217159B )
+)
+
+game (
+	name "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)"
+	publisher "SNK"
+	rom ( crc 7065295C )
+)
+
+game (
+	name "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)"
+	publisher "SNK"
+	rom ( crc B173030A )
+)
+
+game (
+	name "Sonic The Hedgehog - Pocket Adventure (World)"
+	publisher "SNK"
+	rom ( crc 356F0849 )
+)
+
+game (
+	name "Soreike!! Hanafuda Doujou (Japan)"
+	publisher "Daina"
+	rom ( crc 05FA3EB0 )
+)
+
+game (
+	name "Super Real Mahjong - Premium Collection (Japan)"
+	publisher "SNK"
+	rom ( crc C6E620C3 )
+)
+

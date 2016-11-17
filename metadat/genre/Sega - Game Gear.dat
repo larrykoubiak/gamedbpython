@@ -76,12 +76,6 @@ game (
 )
 
 game (
-	name "Arena (USA, Europe)"
-	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
-	rom ( crc 7CB3FACF )
-)
-
-game (
 	name "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)"
 	genre "Action > Platformer > 2D"
 	rom ( crc 328C5CC8 )
@@ -97,24 +91,6 @@ game (
 	name "Asterix and the Secret Mission (Europe) (En,Fr,De)"
 	genre "Action > Platformer > 2D"
 	rom ( crc C01A8051 )
-)
-
-game (
-	name "Ax Battler - A Legend of Golden Axe (USA, Europe)"
-	genre "Action > General"
-	rom ( crc 663BCF8A )
-)
-
-game (
-	name "Ax Battler - A Legend of Golden Axe (USA, Europe) (v2.0) (Beta)"
-	genre "Action > General"
-	rom ( crc 3435AB54 )
-)
-
-game (
-	name "Ax Battler - Golden Axe Densetsu (Japan)"
-	genre "Action > General"
-	rom ( crc DFCF555F )
 )
 
 game (
@@ -139,18 +115,6 @@ game (
 	name "Batman Returns (World)"
 	genre "Action > Beat-'Em-Up > 2D"
 	rom ( crc 7AC4A3CA )
-)
-
-game (
-	name "Batter Up (USA, Europe)"
-	genre "Sports > Team > Baseball > Sim"
-	rom ( crc 16448209 )
-)
-
-game (
-	name "Gear Stadium (Japan)"
-	genre "Sports > Team > Baseball > Sim"
-	rom ( crc 0E300223 )
 )
 
 game (
@@ -253,18 +217,6 @@ game (
 	name "Casino Funpak (USA)"
 	genre "Miscellaneous > Gambling"
 	rom ( crc 2B732056 )
-)
-
-game (
-	name "Castle of Illusion Starring Mickey Mouse (USA, Europe)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 59840FD6 )
-)
-
-game (
-	name "Mickey Mouse no Castle Illusion (Japan)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 9942B69B )
 )
 
 game (
@@ -406,36 +358,6 @@ game (
 )
 
 game (
-	name "Deep Duck Trouble Starring Donald Duck (USA, Europe)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 5A136D7E )
-)
-
-game (
-	name "Donald Duck no 4-Tsu no Hihou (Japan)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 4457E7C0 )
-)
-
-game (
-	name "Defenders of Oasis (USA, Europe)"
-	genre "Role-Playing > General"
-	rom ( crc E2791CC1 )
-)
-
-game (
-	name "Defenders of Oasis (USA, Europe) (Beta)"
-	genre "Role-Playing > General"
-	rom ( crc C674ECCC )
-)
-
-game (
-	name "Shadam Crusader - Harukanaru Oukoku (Japan)"
-	genre "Role-Playing > General"
-	rom ( crc 09F9ED60 )
-)
-
-game (
 	name "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)"
 	genre "Action > Platformer > 2D"
 	rom ( crc EC808026 )
@@ -445,18 +367,6 @@ game (
 	name "Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA)"
 	genre "Action > Platformer > 2D"
 	rom ( crc C2E111AC )
-)
-
-game (
-	name "Desert Strike (Europe) (En,Fr,De,Es)"
-	genre "Action > General"
-	rom ( crc 3E44ECA3 )
-)
-
-game (
-	name "Desert Strike - Return to the Gulf (USA)"
-	genre "Action > General"
-	rom ( crc F6C400DA )
 )
 
 game (
@@ -487,18 +397,6 @@ game (
 	name "Dragon - The Bruce Lee Story (USA)"
 	genre "Action > Platformer > 2D"
 	rom ( crc 17F588E8 )
-)
-
-game (
-	name "Dragon Crystal (USA, Europe)"
-	genre "Role-Playing > Action RPG"
-	rom ( crc 0EF2ED93 )
-)
-
-game (
-	name "Dragon Crystal - Tsurani no Meikyuu (Japan)"
-	genre "Role-Playing > Action RPG"
-	rom ( crc 89F12E1E )
 )
 
 game (
@@ -604,24 +502,6 @@ game (
 )
 
 game (
-	name "Fatal Fury Special (Europe)"
-	genre "Action > Fighting > 2D"
-	rom ( crc FBD76387 )
-)
-
-game (
-	name "Fatal Fury Special (USA)"
-	genre "Action > Fighting > 2D"
-	rom ( crc 449787E2 )
-)
-
-game (
-	name "Garou Densetsu Special (Japan)"
-	genre "Action > Fighting > 2D"
-	rom ( crc 9AFB6F33 )
-)
-
-game (
 	name "FIFA International Soccer (USA, Europe)"
 	genre "Sports > Team > Soccer > Sim"
 	rom ( crc E632A3A2 )
@@ -682,6 +562,24 @@ game (
 )
 
 game (
+	name "G-LOC - Air Battle (USA, Europe)"
+	genre "Simulation > Flight > Combat"
+	rom ( crc 18DE59ED )
+)
+
+game (
+	name "G-LOC - Air Battle (Japan)"
+	genre "Simulation > Flight > Combat"
+	rom ( crc 2333F615 )
+)
+
+game (
+	name "G-LOC - Air Battle (Japan) (Rev 1)"
+	genre "Simulation > Flight > Combat"
+	rom ( crc 33237F50 )
+)
+
+game (
 	name "Galaga 2 (Europe)"
 	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
 	rom ( crc 95ECECE2 )
@@ -721,18 +619,6 @@ game (
 	name "Gear Works (USA)"
 	genre "Action > General"
 	rom ( crc E9A2EFB4 )
-)
-
-game (
-	name "George Foreman's KO Boxing (USA, Europe)"
-	genre "Sports > Individual > Combat > Boxing / Martial Arts"
-	rom ( crc 58B44585 )
-)
-
-game (
-	name "Heavy Weight Champ (Japan)"
-	genre "Sports > Individual > Combat > Boxing / Martial Arts"
-	rom ( crc BEED9150 )
 )
 
 game (
@@ -1024,33 +910,9 @@ game (
 )
 
 game (
-	name "Land of Illusion Starring Mickey Mouse (USA, Europe)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 52DBF3E1 )
-)
-
-game (
-	name "Mickey Mouse no Mahou no Crystal (Japan)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 0117C3DF )
-)
-
-game (
 	name "Last Action Hero (USA)"
 	genre "Action > Beat-'Em-Up > 2D"
 	rom ( crc 2D367C43 )
-)
-
-game (
-	name "Legend of Illusion Starring Mickey Mouse (USA, Europe)"
-	genre "Action > Platformer > 2D"
-	rom ( crc CE5AD8B7 )
-)
-
-game (
-	name "Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)"
-	genre "Action > Platformer > 2D"
-	rom ( crc FE12A92F )
 )
 
 game (
@@ -1666,6 +1528,18 @@ game (
 )
 
 game (
+	name "Putt & Putter (USA, Europe)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc ECC301DD )
+)
+
+game (
+	name "Putt & Putter (Japan)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 407AC070 )
+)
+
+game (
 	name "Puyo Puyo (Japan)"
 	genre "Puzzle > Matching"
 	rom ( crc D173A06F )
@@ -1732,6 +1606,12 @@ game (
 )
 
 game (
+	name "Ristar - The Shooting Star (World)"
+	genre "Action > Platformer > 2D"
+	rom ( crc EFE65B3B )
+)
+
+game (
 	name "Road Rash (Europe)"
 	genre "Racing > Arcade > Automobile"
 	rom ( crc 176505D4 )
@@ -1759,18 +1639,6 @@ game (
 	name "Royal Stone - Hirakareshi Toki no Tobira (Japan)"
 	genre "Strategy > General"
 	rom ( crc 445D7CD2 )
-)
-
-game (
-	name "Samurai Shodown (USA)"
-	genre "Action > Fighting > 2D"
-	rom ( crc 98171DEB )
-)
-
-game (
-	name "Samurai Spirits (Japan)"
-	genre "Action > Fighting > 2D"
-	rom ( crc 93FD73DC )
 )
 
 game (
@@ -1909,6 +1777,12 @@ game (
 	name "Ryuukyuu (Japan)"
 	genre "Miscellaneous > Gambling"
 	rom ( crc 95EFD52B )
+)
+
+game (
+	name "Sonic Blast (World)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 031B9DA9 )
 )
 
 game (
@@ -2068,6 +1942,18 @@ game (
 )
 
 game (
+	name "Super Monaco GP (USA, Europe)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc FCF12547 )
+)
+
+game (
+	name "Super Monaco GP (Japan)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 4F686C4A )
+)
+
+game (
 	name "Super Off Road (USA, Europe)"
 	genre "Racing > Simulation > Automobile"
 	rom ( crc E8B42B1F )
@@ -2077,6 +1963,12 @@ game (
 	name "Super Return of the Jedi (USA, Europe)"
 	genre "Action > Platformer > 2D"
 	rom ( crc 4A38B6B6 )
+)
+
+game (
+	name "Super Smash T.V. (World)"
+	genre "Action > Shooter > Shoot-'Em-Up > Top-Down"
+	rom ( crc 1006E4E3 )
 )
 
 game (
@@ -2146,6 +2038,24 @@ game (
 )
 
 game (
+	name "Taisen-gata Daisenryaku G (Japan)"
+	genre "Strategy > General"
+	rom ( crc 7B7717B8 )
+)
+
+game (
+	name "Taito Chase H.Q. (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc C8381DEF )
+)
+
+game (
+	name "Taito Chase H.Q. (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 7BB81E3D )
+)
+
+game (
 	name "Tama & Friends 3 Choume Kouen - Tamalympic (Japan)"
 	genre "Action > General"
 	rom ( crc DD1D2EBF )
@@ -2155,6 +2065,12 @@ game (
 	name "Tarot no Yakata (Japan)"
 	genre "Miscellaneous > General"
 	rom ( crc 57834C03 )
+)
+
+game (
+	name "Tarzan - Lord of the Jungle (Europe)"
+	genre "Action > General"
+	rom ( crc EF3AFE8B )
 )
 
 game (
@@ -2278,18 +2194,6 @@ game (
 )
 
 game (
-	name "Winter Olympics - Lillehammer '94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
-	genre "Sports > Individual > Athletics"
-	rom ( crc D15D335B )
-)
-
-game (
-	name "Winter Olympics - Lillehammer '94 (Japan) (En,Fr,De,Es,It,Pt,Sv,No)"
-	genre "Sports > Individual > Athletics"
-	rom ( crc D5195A39 )
-)
-
-game (
 	name "Wizard Pinball (Europe)"
 	genre "Action > Pinball"
 	rom ( crc 9E03F96C )
@@ -2299,6 +2203,24 @@ game (
 	name "Wolfchild (Europe)"
 	genre "Action > Platformer > 2D"
 	rom ( crc 840A8F8E )
+)
+
+game (
+	name "Wonder Boy (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc EA2DD3A7 )
+)
+
+game (
+	name "Revenge of Drancon (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 03E9C607 )
+)
+
+game (
+	name "Wonder Boy (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 9977FCB3 )
 )
 
 game (
@@ -2425,6 +2347,24 @@ game (
 	name "Zan Gear (Japan)"
 	genre "Strategy > General"
 	rom ( crc 141AAF96 )
+)
+
+game (
+	name "Zool - Ninja of the 'Nth' Dimension (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 23904898 )
+)
+
+game (
+	name "Zool - Ninja of the 'Nth' Dimension (USA)"
+	genre "Action > Platformer > 2D"
+	rom ( crc B287C695 )
+)
+
+game (
+	name "Zool no Yume Bouken (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc E35EF7ED )
 )
 
 game (

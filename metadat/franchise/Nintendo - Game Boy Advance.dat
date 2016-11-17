@@ -124,18 +124,6 @@ game (
 )
 
 game (
-	name "2 Games in 1 - Sonic Advance + Sonic Battle (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)"
-	franchise "Sonic the Hedgehog"
-	rom ( crc 94CF5B2B )
-)
-
-game (
-	name "Double Pack - Sonic Battle & Sonic Advance (Japan) (En,Ja,Fr,De,Es+En,Ja)"
-	franchise "Sonic the Hedgehog"
-	rom ( crc 31D712D3 )
-)
-
-game (
 	name "2 Games in 1 - Sonic Advance + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)"
 	franchise "Sonic the Hedgehog"
 	rom ( crc 1127DC09 )
@@ -145,24 +133,6 @@ game (
 	name "Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)"
 	franchise "Sonic the Hedgehog"
 	rom ( crc FBAFB638 )
-)
-
-game (
-	name "2 Games in 1 - Sonic Battle + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es,It+En,Ja,Fr,De,Es)"
-	franchise "Sonic the Hedgehog"
-	rom ( crc 2C57E588 )
-)
-
-game (
-	name "2 Games in 1 - Sonic Battle + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es,It)"
-	franchise "Sonic the Hedgehog"
-	rom ( crc A50DE233 )
-)
-
-game (
-	name "Double Pack - Sonic Pinball Party & Sonic Battle (Japan) (En,Ja+En,Ja,Fr,De,Es,It)"
-	franchise "Sonic the Hedgehog"
-	rom ( crc 0DFAA3F2 )
 )
 
 game (
@@ -427,24 +397,6 @@ game (
 	name "Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl)"
 	franchise "Asterix"
 	rom ( crc A9B1ECE5 )
-)
-
-game (
-	name "Astro Boy - Omega Factor (Europe) (En,Ja,Fr,De,Es,It)"
-	franchise "Astro Boy"
-	rom ( crc 1E2E8937 )
-)
-
-game (
-	name "Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)"
-	franchise "Astro Boy"
-	rom ( crc E8619031 )
-)
-
-game (
-	name "Astro Boy - Tetsuwan Atom - Atom Heart no Himitsu (Japan)"
-	franchise "Astro Boy"
-	rom ( crc E2D94B0D )
 )
 
 game (
@@ -715,18 +667,6 @@ game (
 	name "Barbie Groovy Games (USA)"
 	franchise "Barbie"
 	rom ( crc AA017567 )
-)
-
-game (
-	name "Barbie Horse Adventures (Europe) (En,Fr,De,Es,It,Nl)"
-	franchise "Barbie"
-	rom ( crc 7C6D9EF3 )
-)
-
-game (
-	name "Barbie Horse Adventures - Blue Ribbon Race (USA)"
-	franchise "Barbie"
-	rom ( crc BA184025 )
 )
 
 game (
@@ -1186,48 +1126,6 @@ game (
 )
 
 game (
-	name "Breath of Fire (Europe)"
-	franchise "Breath of Fire"
-	rom ( crc A1C3165D )
-)
-
-game (
-	name "Breath of Fire (USA)"
-	franchise "Breath of Fire"
-	rom ( crc F06422A8 )
-)
-
-game (
-	name "Breath of Fire (Europe) (En,Fr,De)"
-	franchise "Breath of Fire"
-	rom ( crc D3660549 )
-)
-
-game (
-	name "Breath of Fire - Ryuu no Senshi (Japan)"
-	franchise "Breath of Fire"
-	rom ( crc 66E96B35 )
-)
-
-game (
-	name "Breath of Fire II (Europe)"
-	franchise "Breath of Fire"
-	rom ( crc FF5E8E39 )
-)
-
-game (
-	name "Breath of Fire II (USA)"
-	franchise "Breath of Fire"
-	rom ( crc 6F098DA3 )
-)
-
-game (
-	name "Breath of Fire II - Shimei no Ko (Japan)"
-	franchise "Breath of Fire"
-	rom ( crc 8A824A70 )
-)
-
-game (
 	name "Broken Sword - The Shadow of the Templars (Europe) (En,Fr,De,Es,It)"
 	franchise "Broken Sword"
 	rom ( crc 3A23EFD7 )
@@ -1267,6 +1165,24 @@ game (
 	name "Bubble Bobble - Old & New (USA)"
 	franchise "Bubble Bobble"
 	rom ( crc FEEC503C )
+)
+
+game (
+	name "Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe)"
+	franchise "Buffy the Vampire Slayer"
+	rom ( crc F5C85BEB )
+)
+
+game (
+	name "Buffy - Im Bann der Daemonen - Koenig Darkhuls Zorn (Germany)"
+	franchise "Buffy the Vampire Slayer"
+	rom ( crc 4D2A1D88 )
+)
+
+game (
+	name "Buffy contre les Vampires - La Colere de Darkhul (France)"
+	franchise "Buffy the Vampire Slayer"
+	rom ( crc 339C7586 )
 )
 
 game (
@@ -1420,6 +1336,24 @@ game (
 )
 
 game (
+	name "Castlevania - Harmony of Dissonance (Europe)"
+	franchise "Castlevania"
+	rom ( crc 521B3091 )
+)
+
+game (
+	name "Castlevania - Byakuya no Concerto (Japan)"
+	franchise "Castlevania"
+	rom ( crc 379B3248 )
+)
+
+game (
+	name "Castlevania - Harmony of Dissonance (USA)"
+	franchise "Castlevania"
+	rom ( crc 88C1B562 )
+)
+
+game (
 	name "Castlevania Double Pack (Europe) (En,Fr,De)"
 	franchise "Castlevania"
 	rom ( crc EE495897 )
@@ -1429,30 +1363,6 @@ game (
 	name "Castlevania Double Pack (USA)"
 	franchise "Castlevania"
 	rom ( crc DBCECC7D )
-)
-
-game (
-	name "Catz (USA, Europe)"
-	franchise "Petz"
-	rom ( crc CE418ED1 )
-)
-
-game (
-	name "Catz (Europe) (En,Fr,De,It)"
-	franchise "Petz"
-	rom ( crc C3AA382D )
-)
-
-game (
-	name "Nakayoshi Pet Advance Series 3 - Kawaii Koneko (Japan)"
-	franchise "Petz"
-	rom ( crc 0290DFB5 )
-)
-
-game (
-	name "Nakayoshi Pet Advance Series 3 - Kawaii Koneko (Japan) (Rev 1)"
-	franchise "Petz"
-	rom ( crc 89FBEB55 )
 )
 
 game (
@@ -1492,105 +1402,9 @@ game (
 )
 
 game (
-	name "Classic NES Series - Bomberman (USA, Europe)"
-	franchise "Bomberman"
-	rom ( crc CD67F2BA )
-)
-
-game (
-	name "Famicom Mini 09 - Bomber Man (Japan) (En)"
-	franchise "Bomberman"
-	rom ( crc 3B92EE60 )
-)
-
-game (
-	name "Classic NES Series - Donkey Kong (USA, Europe)"
-	franchise "Donkey Kong"
-	rom ( crc BA82D416 )
-)
-
-game (
-	name "Famicom Mini 02 - Donkey Kong (Japan) (En)"
-	franchise "Donkey Kong"
-	rom ( crc 86D346AF )
-)
-
-game (
-	name "Classic NES Series - Dr. Mario (USA, Europe)"
-	franchise "Dr. Mario"
-	rom ( crc CA9F5D2F )
-)
-
-game (
-	name "Famicom Mini 15 - Dr. Mario (Japan)"
-	franchise "Dr. Mario"
-	rom ( crc E23A7ED0 )
-)
-
-game (
-	name "Classic NES Series - Excitebike (USA, Europe)"
-	franchise "Excitebike"
-	rom ( crc 945C292F )
-)
-
-game (
-	name "Famicom Mini 04 - Excitebike (Japan) (En)"
-	franchise "Excitebike"
-	rom ( crc 319CDF36 )
-)
-
-game (
-	name "Classic NES Series - Metroid (USA, Europe)"
-	franchise "Metroid"
-	rom ( crc B2A153C3 )
-)
-
-game (
-	name "Famicom Mini 23 - Metroid (Japan)"
-	franchise "Metroid"
-	rom ( crc ABECCDAB )
-)
-
-game (
-	name "Classic NES Series - Pac-Man (USA, Europe)"
-	franchise "Pac-Man"
-	rom ( crc 231F80D6 )
-)
-
-game (
-	name "Famicom Mini 06 - Pac-Man (Japan) (En)"
-	franchise "Pac-Man"
-	rom ( crc 3FEC1606 )
-)
-
-game (
-	name "Classic NES Series - Super Mario Bros. (USA, Europe)"
-	franchise "Dr. Mario"
-	rom ( crc 7EDDFFAD )
-)
-
-game (
-	name "Famicom Mini 01 - Super Mario Bros. (Japan) (En) (Rev 1)"
-	franchise "Dr. Mario"
-	rom ( crc 5848884C )
-)
-
-game (
-	name "Super Mario Bros. (Japan) (Hot Mario Campaign)"
-	franchise "Dr. Mario"
-	rom ( crc 085B271B )
-)
-
-game (
-	name "Classic NES Series - Xevious (USA, Europe)"
-	franchise "Xevious"
-	rom ( crc 9E923716 )
-)
-
-game (
-	name "Famicom Mini 07 - Xevious (Japan) (En)"
-	franchise "Xevious"
-	rom ( crc 1CD1F78C )
+	name "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+	franchise "Chronicles of Narnia"
+	rom ( crc 7E198522 )
 )
 
 game (
@@ -1684,21 +1498,21 @@ game (
 )
 
 game (
-	name "Crash Bandicoot 2 - N-Tranced (Europe) (En,Fr,De,Es,It,Nl)"
+	name "Crash Nitro Kart (Europe) (En,Fr,De,Es,It,Nl)"
 	franchise "Crash Bandicoot"
-	rom ( crc 0F1D06A0 )
+	rom ( crc 03925772 )
 )
 
 game (
-	name "Crash Bandicoot 2 - N-Tranced (USA)"
+	name "Crash Bandicoot Bakusou! Nitro Cart (Japan)"
 	franchise "Crash Bandicoot"
-	rom ( crc 2E16184A )
+	rom ( crc 70F8291F )
 )
 
 game (
-	name "Crash Bandicoot Advance 2 - Guruguru Saimin Dai-panic! (Japan)"
+	name "Crash Nitro Kart (USA)"
 	franchise "Crash Bandicoot"
-	rom ( crc 04FBA7CF )
+	rom ( crc E6D58AA0 )
 )
 
 game (
@@ -1783,6 +1597,18 @@ game (
 	name "CT Special Forces (Europe) (En,Fr,De,Es,It,Nl) (Beta)"
 	franchise "CT Special Forces"
 	rom ( crc 40A0E1C9 )
+)
+
+game (
+	name "CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl)"
+	franchise "CT Special Forces"
+	rom ( crc 863CBF31 )
+)
+
+game (
+	name "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)"
+	franchise "CT Special Forces"
+	rom ( crc D2B58A33 )
 )
 
 game (
@@ -1903,30 +1729,6 @@ game (
 	name "Defender (USA)"
 	franchise "Defender"
 	rom ( crc 2E271C13 )
-)
-
-game (
-	name "DemiKids - Dark Version (USA)"
-	franchise "Megami Tensei"
-	rom ( crc 1BAB58BD )
-)
-
-game (
-	name "Shin Megami Tensei Devil Children - Yami no Sho (Japan)"
-	franchise "Megami Tensei"
-	rom ( crc E0E153B7 )
-)
-
-game (
-	name "DemiKids - Light Version (USA)"
-	franchise "Megami Tensei"
-	rom ( crc DC4357C4 )
-)
-
-game (
-	name "Shin Megami Tensei Devil Children - Hikari no Sho (Japan)"
-	franchise "Megami Tensei"
-	rom ( crc 5D7EE5AF )
 )
 
 game (
@@ -2182,6 +1984,30 @@ game (
 )
 
 game (
+	name "DK - King of Swing (Europe) (En,Fr,De,Es,It)"
+	franchise "Donkey Kong"
+	rom ( crc F93B73D9 )
+)
+
+game (
+	name "Bura Bura Donkey (Japan)"
+	franchise "Donkey Kong"
+	rom ( crc 89B09753 )
+)
+
+game (
+	name "DK - King of Swing (USA, Australia)"
+	franchise "Donkey Kong"
+	rom ( crc D610B239 )
+)
+
+game (
+	name "DK - King of Swing (USA) (Demo) (Kiosk)"
+	franchise "Donkey Kong"
+	rom ( crc 049626D1 )
+)
+
+game (
 	name "Dogz (Europe)"
 	franchise "Dogz"
 	rom ( crc AA8DEA30 )
@@ -2356,6 +2182,30 @@ game (
 )
 
 game (
+	name "Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It)"
+	franchise "Dragon Ball"
+	rom ( crc 6C135820 )
+)
+
+game (
+	name "Dragon Ball - Advance Adventure (Japan)"
+	franchise "Dragon Ball"
+	rom ( crc 8A06337A )
+)
+
+game (
+	name "Dragon Ball - Advance Adventure (Korea)"
+	franchise "Dragon Ball"
+	rom ( crc 4E2CC84D )
+)
+
+game (
+	name "Dragon Ball - Advanced Adventure (USA)"
+	franchise "Dragon Ball"
+	rom ( crc 7D7306DF )
+)
+
+game (
 	name "Dragon Ball GT - Transformation (USA)"
 	franchise "Dragon Ball"
 	rom ( crc AD964A91 )
@@ -2371,6 +2221,30 @@ game (
 	name "Dragon Ball Z - Collectible Card Game (USA)"
 	franchise "Dragon Ball"
 	rom ( crc F6124D7F )
+)
+
+game (
+	name "Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It)"
+	franchise "Dragon Ball"
+	rom ( crc B4D9572C )
+)
+
+game (
+	name "Dragon Ball Z - Bukuu Tougeki (Japan)"
+	franchise "Dragon Ball"
+	rom ( crc 6C0F0B86 )
+)
+
+game (
+	name "Dragon Ball Z - Moogongtoogeuk (Korea)"
+	franchise "Dragon Ball"
+	rom ( crc E4893DD7 )
+)
+
+game (
+	name "Dragon Ball Z - Supersonic Warriors (USA)"
+	franchise "Dragon Ball"
+	rom ( crc 9A857A70 )
 )
 
 game (
@@ -2536,21 +2410,15 @@ game (
 )
 
 game (
-	name "Dynasty Warriors Advance (Europe) (En,Fr,De,Es,It)"
-	franchise "Dynasty Warriors"
-	rom ( crc 74CDB37A )
+	name "E.T. - The Extra-Terrestrial (Europe) (En,Fr,De,Es,It,Nl)"
+	franchise "E.T. The Extra-Terrestrial"
+	rom ( crc 10ECE4CB )
 )
 
 game (
-	name "Dynasty Warriors Advance (USA, Australia)"
-	franchise "Dynasty Warriors"
-	rom ( crc AD5A2A4E )
-)
-
-game (
-	name "Shin Sangoku Musou Advance (Japan)"
-	franchise "Dynasty Warriors"
-	rom ( crc FE1BE6C1 )
+	name "E.T. - The Extra-Terrestrial (USA)"
+	franchise "E.T. The Extra-Terrestrial"
+	rom ( crc 8B082CCE )
 )
 
 game (
@@ -2596,24 +2464,6 @@ game (
 )
 
 game (
-	name "ESPN International Winter Sports (Europe)"
-	franchise "Olympics"
-	rom ( crc A56AFBB7 )
-)
-
-game (
-	name "ESPN International Winter Sports 2002 (USA)"
-	franchise "Olympics"
-	rom ( crc FF51A9A9 )
-)
-
-game (
-	name "Hyper Sports 2002 Winter (Japan)"
-	franchise "Olympics"
-	rom ( crc 1A8B6863 )
-)
-
-game (
 	name "ESPN Winter X-Games Snowboarding 2 (Europe)"
 	franchise "X-Games Snowboarding"
 	rom ( crc CE62F1F4 )
@@ -2635,6 +2485,18 @@ game (
 	name "EX Monopoly (Japan)"
 	franchise "Monopoly"
 	rom ( crc 916EFD5B )
+)
+
+game (
+	name "Extreme Ghostbusters - Code Ecto-1 (Europe) (En,Fr,De,Es,It,Pt)"
+	franchise "Ghostbusters"
+	rom ( crc 88CC876C )
+)
+
+game (
+	name "Extreme Ghostbusters - Code Ecto-1 (USA)"
+	franchise "Ghostbusters"
+	rom ( crc E434FA06 )
 )
 
 game (
@@ -3109,42 +2971,6 @@ game (
 	name "Finding Nemo - The Continuing Adventures (Europe) (En,Es,It,Sv,Da)"
 	franchise "Finding Nemo"
 	rom ( crc 45BC9C37 )
-)
-
-game (
-	name "Fire Emblem (Europe) (En,Fr,De)"
-	franchise "Fire Emblem"
-	rom ( crc 4A805ED1 )
-)
-
-game (
-	name "Fire Emblem (USA, Australia)"
-	franchise "Fire Emblem"
-	rom ( crc 2A524221 )
-)
-
-game (
-	name "Fire Emblem (Europe) (En,Es,It)"
-	franchise "Fire Emblem"
-	rom ( crc 9DECC754 )
-)
-
-game (
-	name "Fire Emblem - Rekka no Ken (Japan)"
-	franchise "Fire Emblem"
-	rom ( crc F0C10E72 )
-)
-
-game (
-	name "Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)"
-	franchise "Fire Emblem"
-	rom ( crc B40D6854 )
-)
-
-game (
-	name "Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)"
-	franchise "Fire Emblem"
-	rom ( crc 8146A270 )
 )
 
 game (
@@ -3634,6 +3460,24 @@ game (
 )
 
 game (
+	name "Godzilla - Domination! (Europe) (En,Fr,De,Es,It)"
+	franchise "Godzilla"
+	rom ( crc 7C43545E )
+)
+
+game (
+	name "Godzilla - Domination! (USA)"
+	franchise "Godzilla"
+	rom ( crc EADE083F )
+)
+
+game (
+	name "Gojira - Kaijuu Dairantou Advance (Japan)"
+	franchise "Godzilla"
+	rom ( crc 3157A4FC )
+)
+
+game (
 	name "Goemon - New Age Shutsudou! (Japan)"
 	franchise "Goemon / Mystical Ninja"
 	rom ( crc 86D6C574 )
@@ -3808,48 +3652,6 @@ game (
 )
 
 game (
-	name "Hamtaro - Ham-Ham Games (Europe) (En,Fr,De,Es,It)"
-	franchise "Hamtaro"
-	rom ( crc D9341D9C )
-)
-
-game (
-	name "Hamtaro - Ham-Ham Games (Japan, USA) (En,Ja)"
-	franchise "Hamtaro"
-	rom ( crc CC1CF806 )
-)
-
-game (
-	name "Hamtaro - Ham-Ham Heartbreak (Europe) (En,Fr,De,Es,It)"
-	franchise "Hamtaro"
-	rom ( crc ECBD80EA )
-)
-
-game (
-	name "Hamtaro - Ham-Ham Heartbreak (USA)"
-	franchise "Hamtaro"
-	rom ( crc CD48B673 )
-)
-
-game (
-	name "Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan)"
-	franchise "Hamtaro"
-	rom ( crc C2945D42 )
-)
-
-game (
-	name "Hamtaro - Rainbow Rescue (Europe) (En,Fr,De,Es,It)"
-	franchise "Hamtaro"
-	rom ( crc 5D051081 )
-)
-
-game (
-	name "Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)"
-	franchise "Hamtaro"
-	rom ( crc 1B6E5617 )
-)
-
-game (
 	name "Happy Feet (Europe) (En,Fr,De,Es,It)"
 	franchise "Happy Feet"
 	rom ( crc 7A53173C )
@@ -4006,6 +3808,18 @@ game (
 )
 
 game (
+	name "Horsez (USA)"
+	franchise "Petz"
+	rom ( crc 5B2B4452 )
+)
+
+game (
+	name "Pferd & Pony - Mein Gestuet (Germany) (En,De)"
+	franchise "Petz"
+	rom ( crc 2819BDF5 )
+)
+
+game (
 	name "Hot Wheels - All Out (Europe) (En,Fr,De,Es,It)"
 	franchise "Hot Wheels"
 	rom ( crc 74E787DC )
@@ -4015,6 +3829,24 @@ game (
 	name "Hot Wheels - All Out (USA)"
 	franchise "Hot Wheels"
 	rom ( crc C73658F9 )
+)
+
+game (
+	name "Hot Wheels - Burnin' Rubber (Europe) (En,Fr)"
+	franchise "Hot Wheels"
+	rom ( crc 4764D029 )
+)
+
+game (
+	name "Hot Wheels - Burnin' Rubber (USA)"
+	franchise "Hot Wheels"
+	rom ( crc 37DCBB0D )
+)
+
+game (
+	name "Hot Wheels Advance (Japan) (En)"
+	franchise "Hot Wheels"
+	rom ( crc F79FFEDF )
 )
 
 game (
@@ -4186,6 +4018,24 @@ game (
 )
 
 game (
+	name "Incredibles, The - Rise of the Underminer (USA, Europe)"
+	franchise "Incredibles"
+	rom ( crc 2D806290 )
+)
+
+game (
+	name "Incredibles, The - Rise of the Underminer (Europe) (En,Fr,De,Es,It,Nl,Pt)"
+	franchise "Incredibles"
+	rom ( crc 096F98B6 )
+)
+
+game (
+	name "Mr. Incredible - Kyouteki Underminer Toujou (Japan)"
+	franchise "Incredibles"
+	rom ( crc 667F54CA )
+)
+
+game (
 	name "Initial D - Another Stage (Japan)"
 	franchise "Initial D"
 	rom ( crc 23110A94 )
@@ -4213,30 +4063,6 @@ game (
 	name "International Karate Advanced (Europe)"
 	franchise "International Karate"
 	rom ( crc D33A14AF )
-)
-
-game (
-	name "International Superstar Soccer (Europe)"
-	franchise "International Superstar Soccer"
-	rom ( crc 9989CE55 )
-)
-
-game (
-	name "Jikkyou World Soccer Pocket (Japan)"
-	franchise "International Superstar Soccer"
-	rom ( crc 8BD96DB9 )
-)
-
-game (
-	name "International Superstar Soccer Advance (Europe)"
-	franchise "International Superstar Soccer"
-	rom ( crc 7EB2F6D6 )
-)
-
-game (
-	name "Jikkyou World Soccer Pocket 2 (Japan)"
-	franchise "International Superstar Soccer"
-	rom ( crc B80AA966 )
 )
 
 game (
@@ -4372,24 +4198,6 @@ game (
 )
 
 game (
-	name "Jurassic Park III - The DNA Factor (Europe) (En,Fr,De,Es,It)"
-	franchise "Jurassic Park"
-	rom ( crc FE89C986 )
-)
-
-game (
-	name "Jurassic Park III - The DNA Factor (USA)"
-	franchise "Jurassic Park"
-	rom ( crc F93DCC2E )
-)
-
-game (
-	name "Jurassic Park III - Ushinawareta Idenshi (Japan)"
-	franchise "Jurassic Park"
-	rom ( crc AB6786DD )
-)
-
-game (
 	name "Jurassic Park Institute Tour - Dinosaur Rescue (Japan)"
 	franchise "Jurassic Park"
 	rom ( crc 7C75555E )
@@ -4489,6 +4297,24 @@ game (
 	name "Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan)"
 	franchise "Mobile Suit Gundam"
 	rom ( crc 73BF384B )
+)
+
+game (
+	name "Kim Possible 2 - Drakken's Demise (Europe) (En,Fr,De,Es)"
+	franchise "Kim Possible"
+	rom ( crc 71C505C8 )
+)
+
+game (
+	name "Kim Possible (Japan)"
+	franchise "Kim Possible"
+	rom ( crc 69843F73 )
+)
+
+game (
+	name "Kim Possible 2 - Drakken's Demise (USA) (En,Fr)"
+	franchise "Kim Possible"
+	rom ( crc FA946FC6 )
 )
 
 game (
@@ -4654,6 +4480,24 @@ game (
 )
 
 game (
+	name "Konami Collector's Series - Arcade Classics (Europe) (En,Fr,De,Es,It)"
+	franchise "Konami Classic Collection"
+	rom ( crc 6A8BE56F )
+)
+
+game (
+	name "Konami Arcade Game Collection (Japan)"
+	franchise "Konami Classic Collection"
+	rom ( crc 285F652F )
+)
+
+game (
+	name "Konami Collector's Series - Arcade Advanced (USA)"
+	franchise "Konami Classic Collection"
+	rom ( crc 2DB31825 )
+)
+
+game (
 	name "Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan)"
 	franchise "Zatch Bell!"
 	rom ( crc FB5516AD )
@@ -4774,24 +4618,6 @@ game (
 )
 
 game (
-	name "Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It)"
-	franchise "Legend of Zelda"
-	rom ( crc 5A164321 )
-)
-
-game (
-	name "Legend of Zelda, The - A Link to the Past & Four Swords (USA, Australia)"
-	franchise "Legend of Zelda"
-	rom ( crc 8E91CD13 )
-)
-
-game (
-	name "Zelda no Densetsu - Kamigami no Triforce & 4tsu no Tsurugi (Japan)"
-	franchise "Legend of Zelda"
-	rom ( crc 81E42BEE )
-)
-
-game (
 	name "Legends of Wrestling II (USA, Europe)"
 	franchise "Legends of Wrestling"
 	rom ( crc 84440066 )
@@ -4846,6 +4672,12 @@ game (
 )
 
 game (
+	name "LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+	franchise "LEGO"
+	rom ( crc 73EF3A35 )
+)
+
+game (
 	name "LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da)"
 	franchise "LEGO"
 	rom ( crc AEABFA5F )
@@ -4888,18 +4720,6 @@ game (
 )
 
 game (
-	name "Lizzie McGuire (Europe) (En,Fr,De,Es)"
-	franchise "Lizzie McGuire"
-	rom ( crc 7E9283F2 )
-)
-
-game (
-	name "Lizzie McGuire - On the Go! (USA)"
-	franchise "Lizzie McGuire"
-	rom ( crc 70DED768 )
-)
-
-game (
 	name "Lizzie McGuire 3 - Homecoming Havoc (USA)"
 	franchise "Lizzie McGuire"
 	rom ( crc A2843980 )
@@ -4927,6 +4747,42 @@ game (
 	name "Lord of the Rings, The - The Fellowship of the Ring (USA)"
 	franchise "Lord of the Rings"
 	rom ( crc EE0C58BC )
+)
+
+game (
+	name "Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It)"
+	franchise "Lord of the Rings"
+	rom ( crc 7590EBFA )
+)
+
+game (
+	name "Lord of the Rings, The - Ou no Kikan (Japan)"
+	franchise "Lord of the Rings"
+	rom ( crc 465F2753 )
+)
+
+game (
+	name "Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)"
+	franchise "Lord of the Rings"
+	rom ( crc 2DEF3656 )
+)
+
+game (
+	name "Lord of the Rings, The - Nakatsukuni Daisanki (Japan)"
+	franchise "Lord of the Rings"
+	rom ( crc CF0534F8 )
+)
+
+game (
+	name "Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl)"
+	franchise "Lord of the Rings"
+	rom ( crc A1E3BF33 )
+)
+
+game (
+	name "Lord of the Rings, The - Futatsu no Tou (Japan)"
+	franchise "Lord of the Rings"
+	rom ( crc DC8D4667 )
 )
 
 game (
@@ -5086,60 +4942,6 @@ game (
 )
 
 game (
-	name "Magical Quest 2 Starring Mickey & Minnie (Europe) (En,Fr,De)"
-	franchise "Mickey Mouse"
-	rom ( crc F9498038 )
-)
-
-game (
-	name "Magical Quest 2 Starring Mickey & Minnie (USA) (En,Fr,De)"
-	franchise "Mickey Mouse"
-	rom ( crc 69F1117D )
-)
-
-game (
-	name "Mickey to Minnie no Magical Quest 2 (Japan)"
-	franchise "Mickey Mouse"
-	rom ( crc 092A7D0A )
-)
-
-game (
-	name "Magical Quest 3 Starring Mickey & Donald (Europe) (En,Fr,De)"
-	franchise "Donald Duck"
-	rom ( crc AAD912F9 )
-)
-
-game (
-	name "Magical Quest 3 Starring Mickey & Donald (USA) (En,Fr,De)"
-	franchise "Donald Duck"
-	rom ( crc 5A23094D )
-)
-
-game (
-	name "Mickey to Donald no Magical Quest 3 (Japan)"
-	franchise "Donald Duck"
-	rom ( crc 32D851F7 )
-)
-
-game (
-	name "Magical Quest Starring Mickey & Minnie (Europe) (En,Fr,De,Es,It)"
-	franchise "Mickey Mouse"
-	rom ( crc 94F3B7C0 )
-)
-
-game (
-	name "Magical Quest Starring Mickey & Minnie (USA)"
-	franchise "Mickey Mouse"
-	rom ( crc B4294FA7 )
-)
-
-game (
-	name "Mickey to Minnie no Magical Quest (Japan)"
-	franchise "Mickey Mouse"
-	rom ( crc BBAE85C8 )
-)
-
-game (
 	name "Mahou Sensei Negima! - Private Lesson - Damedesuu Toshokan-jima (Japan)"
 	franchise "Mahou Sensei Negima!"
 	rom ( crc 79D04DAD )
@@ -5296,6 +5098,18 @@ game (
 )
 
 game (
+	name "Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)"
+	franchise "Medal of Honor"
+	rom ( crc F23150A4 )
+)
+
+game (
+	name "Medal of Honor Advance (Japan)"
+	franchise "Medal of Honor"
+	rom ( crc A054A4D0 )
+)
+
+game (
 	name "Medal of Honor - Underground (Europe) (En,Fr,Es,It) (Zoo Digital)"
 	franchise "Medal of Honor"
 	rom ( crc 72B4CF20 )
@@ -5323,42 +5137,6 @@ game (
 	name "Medarot Navi - Kuwagata (Japan)"
 	franchise "Medabots / Medarot"
 	rom ( crc E83D07D6 )
-)
-
-game (
-	name "Mega Man & Bass (Europe)"
-	franchise "Mega Man"
-	rom ( crc 01B4D95E )
-)
-
-game (
-	name "Mega Man & Bass (USA)"
-	franchise "Mega Man"
-	rom ( crc EEA68C2E )
-)
-
-game (
-	name "Rockman & Forte (Japan)"
-	franchise "Mega Man"
-	rom ( crc CE2B48C4 )
-)
-
-game (
-	name "Mega Man Battle Chip Challenge (Europe)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 5B4631F9 )
-)
-
-game (
-	name "Mega Man Battle Chip Challenge (USA)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 26BE44FD )
-)
-
-game (
-	name "Rockman EXE Battle Chip GP (Japan)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 9217FB18 )
 )
 
 game (
@@ -5497,150 +5275,6 @@ game (
 	name "Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1)"
 	franchise "Mega Man Battle Network"
 	rom ( crc CF0E8B05 )
-)
-
-game (
-	name "Mega Man Battle Network 5 - Team Colonel (Europe)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 8FC8CF73 )
-)
-
-game (
-	name "Mega Man Battle Network 5 - Team Colonel (USA)"
-	franchise "Mega Man Battle Network"
-	rom ( crc A552F683 )
-)
-
-game (
-	name "Rockman EXE 5 - Team of Colonel (Japan)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 16842635 )
-)
-
-game (
-	name "Mega Man Battle Network 5 - Team Proto Man (Europe)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 79F45ED8 )
-)
-
-game (
-	name "Mega Man Battle Network 5 - Team Proto Man (USA)"
-	franchise "Mega Man Battle Network"
-	rom ( crc A73E83A4 )
-)
-
-game (
-	name "Rockman EXE 5 - Team of Blues (Japan)"
-	franchise "Mega Man Battle Network"
-	rom ( crc C73F23C0 )
-)
-
-game (
-	name "Mega Man Battle Network 6 - Cybeast Falzar (Europe)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 13183967 )
-)
-
-game (
-	name "Mega Man Battle Network 6 - Cybeast Falzar (USA)"
-	franchise "Mega Man Battle Network"
-	rom ( crc DEE6F2A9 )
-)
-
-game (
-	name "Rockman EXE 6 - Dennoujuu Falzar (Japan)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 2DFB603E )
-)
-
-game (
-	name "Mega Man Battle Network 6 - Cybeast Gregar (Europe)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 25C29EFB )
-)
-
-game (
-	name "Mega Man Battle Network 6 - Cybeast Gregar (USA)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 79452182 )
-)
-
-game (
-	name "Rockman EXE 6 - Dennoujuu Gregar (Japan)"
-	franchise "Mega Man Battle Network"
-	rom ( crc 6285918A )
-)
-
-game (
-	name "Mega Man Zero (USA, Europe)"
-	franchise "Mega Man Zero"
-	rom ( crc 9707D2A1 )
-)
-
-game (
-	name "Rockman Zero (Japan)"
-	franchise "Mega Man Zero"
-	rom ( crc FF2A67B1 )
-)
-
-game (
-	name "Mega Man Zero 2 (Europe)"
-	franchise "Mega Man Zero"
-	rom ( crc 29A14B59 )
-)
-
-game (
-	name "Mega Man Zero 2 (USA)"
-	franchise "Mega Man Zero"
-	rom ( crc CE1E37BB )
-)
-
-game (
-	name "Rockman Zero 2 (Japan)"
-	franchise "Mega Man Zero"
-	rom ( crc 9B5C8A4C )
-)
-
-game (
-	name "Mega Man Zero 3 (Europe)"
-	franchise "Mega Man Zero"
-	rom ( crc B099577F )
-)
-
-game (
-	name "Mega Man Zero 3 (USA)"
-	franchise "Mega Man Zero"
-	rom ( crc 2784F3F2 )
-)
-
-game (
-	name "Rockman Zero 3 (Japan)"
-	franchise "Mega Man Zero"
-	rom ( crc 5A2C41A9 )
-)
-
-game (
-	name "Mega Man Zero 4 (Europe)"
-	franchise "Mega Man Zero"
-	rom ( crc B7F022B9 )
-)
-
-game (
-	name "Mega Man Zero 4 (USA)"
-	franchise "Mega Man Zero"
-	rom ( crc 7EE24793 )
-)
-
-game (
-	name "Mega Man Zero 4 (USA) (Virtual Console)"
-	franchise "Mega Man Zero"
-	rom ( crc C4838CFA )
-)
-
-game (
-	name "Rockman Zero 4 (Japan)"
-	franchise "Mega Man Zero"
-	rom ( crc ECE42D0E )
 )
 
 game (
@@ -6124,36 +5758,6 @@ game (
 )
 
 game (
-	name "Naruto - Ninja Council (USA)"
-	franchise "Naruto"
-	rom ( crc C402878C )
-)
-
-game (
-	name "Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan)"
-	franchise "Naruto"
-	rom ( crc E15875FC )
-)
-
-game (
-	name "Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan) (Rev 1)"
-	franchise "Naruto"
-	rom ( crc F5F8ECB4 )
-)
-
-game (
-	name "Naruto - Ninja Council 2 (USA)"
-	franchise "Naruto"
-	rom ( crc 94699FCA )
-)
-
-game (
-	name "Naruto - Saikyou Ninja Daikesshuu 2 (Japan)"
-	franchise "Naruto"
-	rom ( crc B3D75CE1 )
-)
-
-game (
 	name "Naruto RPG - Uketsugareshi Hi no Ishi (Japan) (Rev 1)"
 	franchise "Naruto"
 	rom ( crc 2BF6555A )
@@ -6394,6 +5998,30 @@ game (
 )
 
 game (
+	name "Paws & Claws - Pet Resort (USA)"
+	franchise "Paws & Claws"
+	rom ( crc E58DA71E )
+)
+
+game (
+	name "Lea - Passion Veterinaire (France) (En,Fr)"
+	franchise "Paws & Claws"
+	rom ( crc 6A808027 )
+)
+
+game (
+	name "Meine Tierpension (Germany) (En,De)"
+	franchise "Paws & Claws"
+	rom ( crc 78AD82FF )
+)
+
+game (
+	name "Mijn Dierenpension (Netherlands) (En,Nl)"
+	franchise "Paws & Claws"
+	rom ( crc 310EB2FE )
+)
+
+game (
 	name "Penny Racers (Europe)"
 	franchise "Choro Q/Penny Racers"
 	rom ( crc 8FDDD48B )
@@ -6481,6 +6109,12 @@ game (
 	name "Pink Panther - Pinkadelic Pursuit (USA)"
 	franchise "Pink Panther"
 	rom ( crc 1762A578 )
+)
+
+game (
+	name "Pinky and the Brain - The Masterplan (Europe) (En,Fr,De,Es,It)"
+	franchise "Animaniacs"
+	rom ( crc FF7D5F62 )
 )
 
 game (
@@ -7132,27 +6766,27 @@ game (
 )
 
 game (
-	name "Pro Tennis WTA Tour (Europe)"
-	franchise "WTA Tour Tennis"
-	rom ( crc F7171521 )
-)
-
-game (
-	name "WTA Tour Tennis (USA)"
-	franchise "WTA Tour Tennis"
-	rom ( crc 7F8CB0AF )
-)
-
-game (
-	name "WTA Tour Tennis Pocket (Japan)"
-	franchise "WTA Tour Tennis"
-	rom ( crc 459DAF35 )
-)
-
-game (
 	name "Puppy Luv - Spa and Resort (USA)"
 	franchise "Puppy Luv"
 	rom ( crc 04146DD6 )
+)
+
+game (
+	name "Puyo Pop (Europe) (En,Ja)"
+	franchise "Puyo Puyo"
+	rom ( crc C85DE50E )
+)
+
+game (
+	name "Minna de Puyo Puyo (Japan) (En,Ja)"
+	franchise "Puyo Puyo"
+	rom ( crc 857FB1EF )
+)
+
+game (
+	name "Puyo Pop (USA) (En,Ja)"
+	franchise "Puyo Puyo"
+	rom ( crc 0901BE49 )
 )
 
 game (
@@ -7321,18 +6955,6 @@ game (
 	name "Downtown - Nekketsu Monogatari EX (Japan)"
 	franchise "River City Ransom / Kunio-kun"
 	rom ( crc 32E9A0BD )
-)
-
-game (
-	name "Riviera - The Promised Land (USA)"
-	franchise "Dept. Heaven"
-	rom ( crc 4FB6958D )
-)
-
-game (
-	name "Riviera - Yakusoku no Chi Riviera (Japan)"
-	franchise "Dept. Heaven"
-	rom ( crc F73B840F )
 )
 
 game (
@@ -7660,6 +7282,18 @@ game (
 )
 
 game (
+	name "Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)"
+	franchise "Barbie"
+	rom ( crc DA3133C3 )
+)
+
+game (
+	name "Secret Agent Barbie - Royal Jewels Mission (USA)"
+	franchise "Barbie"
+	rom ( crc 610913E0 )
+)
+
+game (
 	name "Sega Rally Championship (Europe)"
 	franchise "Sega Rally"
 	rom ( crc D125A6BB )
@@ -7831,6 +7465,24 @@ game (
 	name "Shingata Medarot - Kuwagata Version (Japan)"
 	franchise "Medabots / Medarot"
 	rom ( crc 0FD35628 )
+)
+
+game (
+	name "Shining Force - Resurrection of the Dark Dragon (Europe) (En,Fr,De,Es,It)"
+	franchise "Shining Force"
+	rom ( crc 07B06994 )
+)
+
+game (
+	name "Shining Force - Kuroki Ryuu no Fukkatsu (Japan)"
+	franchise "Shining Force"
+	rom ( crc 4A643CC4 )
+)
+
+game (
+	name "Shining Force - Resurrection of the Dark Dragon (USA)"
+	franchise "Shining Force"
+	rom ( crc 563AA3A0 )
 )
 
 game (
@@ -8236,6 +7888,18 @@ game (
 )
 
 game (
+	name "Spider-Man - Mysterio's Menace (USA, Europe)"
+	franchise "Spider-Man"
+	rom ( crc 6E135B4D )
+)
+
+game (
+	name "Spider-Man - Mysterio no Kyoui (Japan)"
+	franchise "Spider-Man"
+	rom ( crc F8125C4B )
+)
+
+game (
 	name "Spider-Man 2 (USA, Europe)"
 	franchise "Spider-Man"
 	rom ( crc 0145F3F4 )
@@ -8482,15 +8146,27 @@ game (
 )
 
 game (
-	name "Spyro Adventure (Europe) (En,Fr,De,Es,It,Nl)"
-	franchise "Spyro the Dragon"
-	rom ( crc 1F62D660 )
+	name "Spyro Fusion (Europe) (En,Fr,De,Es,It)"
+	franchise "Crash Bandicoot"
+	rom ( crc E53BA082 )
 )
 
 game (
-	name "Spyro - Attack of the Rhynocs (USA)"
-	franchise "Spyro the Dragon"
-	rom ( crc 13F10A1E )
+	name "Spyro Advance - Wakuwaku Tomodachi Daisakusen! (Japan)"
+	franchise "Crash Bandicoot"
+	rom ( crc 91A9E2CC )
+)
+
+game (
+	name "Spyro Orange - The Cortex Conspiracy (USA)"
+	franchise "Crash Bandicoot"
+	rom ( crc A9915BAF )
+)
+
+game (
+	name "Spyro Orange - The Cortex Conspiracy (USA) (Rev 1)"
+	franchise "Crash Bandicoot"
+	rom ( crc BBF2549D )
 )
 
 game (
@@ -8620,24 +8296,6 @@ game (
 )
 
 game (
-	name "Street Fighter Alpha 3 (Europe)"
-	franchise "Street Fighter Alpha"
-	rom ( crc 93C5CF69 )
-)
-
-game (
-	name "Street Fighter Alpha 3 (USA)"
-	franchise "Street Fighter Alpha"
-	rom ( crc 80B707C2 )
-)
-
-game (
-	name "Street Fighter Zero 3 Upper (Japan)"
-	franchise "Street Fighter Alpha"
-	rom ( crc 8D5D0EAB )
-)
-
-game (
 	name "Stuart Little 2 (USA, Europe)"
 	franchise "Stuart Little"
 	rom ( crc 6EB7C688 )
@@ -8692,6 +8350,24 @@ game (
 )
 
 game (
+	name "Super Black Bass Advance (Europe)"
+	franchise "The Black Bass"
+	rom ( crc 91238AD1 )
+)
+
+game (
+	name "American Bass Challenge (USA)"
+	franchise "The Black Bass"
+	rom ( crc D76AD62D )
+)
+
+game (
+	name "Super Black Bass Advance (Japan)"
+	franchise "The Black Bass"
+	rom ( crc 67C4E470 )
+)
+
+game (
 	name "Super Chinese 1, 2 Advance (Japan)"
 	franchise "Super Chinese"
 	rom ( crc 35448DF4 )
@@ -8719,6 +8395,24 @@ game (
 	name "Super Ghouls'n Ghosts (USA) (Virtual Console)"
 	franchise "Ghosts 'n Goblins"
 	rom ( crc E279EC31 )
+)
+
+game (
+	name "Super Mario Ball (Europe)"
+	franchise "Mario"
+	rom ( crc 3B035681 )
+)
+
+game (
+	name "Mario Pinball Land (USA, Australia)"
+	franchise "Mario"
+	rom ( crc 70A6D2C1 )
+)
+
+game (
+	name "Super Mario Ball (Japan)"
+	franchise "Mario"
+	rom ( crc 7EB4A336 )
 )
 
 game (
@@ -8857,6 +8551,18 @@ game (
 	name "Sword of Mana (Europe) (Es,It)"
 	franchise "Mana / Seiken Densetsu"
 	rom ( crc 11A0AF49 )
+)
+
+game (
+	name "Tactics Ogre - The Knight of Lodis (USA)"
+	franchise "Ogre Battle"
+	rom ( crc 6649D2CE )
+)
+
+game (
+	name "Tactics Ogre Gaiden - The Knight of Lodis (Japan)"
+	franchise "Ogre Battle"
+	rom ( crc 0167A878 )
 )
 
 game (
@@ -9418,30 +9124,6 @@ game (
 )
 
 game (
-	name "Top Gear GT Championship (Europe)"
-	franchise "Top Gear"
-	rom ( crc 391C0497 )
-)
-
-game (
-	name "GT Championship (Europe)"
-	franchise "Top Gear"
-	rom ( crc E92EC7AA )
-)
-
-game (
-	name "Top Gear GT Championship (USA)"
-	franchise "Top Gear"
-	rom ( crc 0A9C9968 )
-)
-
-game (
-	name "Zen-Nihon GT Senshuken (Japan)"
-	franchise "Top Gear"
-	rom ( crc D320A965 )
-)
-
-game (
 	name "Top Gun - Combat Zones (USA) (En,Fr,De,Es,It)"
 	franchise "Top Gun"
 	rom ( crc DFC88D3E )
@@ -9511,36 +9193,6 @@ game (
 	name "Turok Evolution (USA)"
 	franchise "Turok"
 	rom ( crc 4EDAC27A )
-)
-
-game (
-	name "Tweety and the Magic Gems (Europe)"
-	franchise "Looney Tunes"
-	rom ( crc 024A1914 )
-)
-
-game (
-	name "Titi et les Bijoux Magiques (France)"
-	franchise "Looney Tunes"
-	rom ( crc C66E14A4 )
-)
-
-game (
-	name "Tweety and the Magic Gems (Germany)"
-	franchise "Looney Tunes"
-	rom ( crc 8AA6E91A )
-)
-
-game (
-	name "Tweety and the Magic Gems (USA)"
-	franchise "Looney Tunes"
-	rom ( crc 2DA5C91E )
-)
-
-game (
-	name "Tweety no Hearty Party (Japan)"
-	franchise "Looney Tunes"
-	rom ( crc D38672BF )
 )
 
 game (
@@ -9946,6 +9598,24 @@ game (
 )
 
 game (
+	name "Yoshi's Universal Gravitation (Europe) (En,Fr,De,Es,It)"
+	franchise "Yoshi"
+	rom ( crc 05F4D0AA )
+)
+
+game (
+	name "Yoshi - Topsy-Turvy (USA)"
+	franchise "Yoshi"
+	rom ( crc E64C265C )
+)
+
+game (
+	name "Yoshi no Banyuuinryoku (Japan)"
+	franchise "Yoshi"
+	rom ( crc 31594B7A )
+)
+
+game (
 	name "Yu Yu Hakusho - Ghostfiles - Spirit Detective (Europe) (En,Fr,De,Es,It)"
 	franchise "Yu Yu Hakusho"
 	rom ( crc 208D77EC )
@@ -9979,24 +9649,6 @@ game (
 	name "Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)"
 	franchise "Yu-Gi-Oh!"
 	rom ( crc 6DCFB879 )
-)
-
-game (
-	name "Yu-Gi-Oh! - Destiny Board Traveler (Europe) (En,Fr,De,Es,It)"
-	franchise "Yu-Gi-Oh!"
-	rom ( crc AE1A8E9D )
-)
-
-game (
-	name "Yu-Gi-Oh! - Destiny Board Traveler (USA)"
-	franchise "Yu-Gi-Oh!"
-	rom ( crc 611E7BBD )
-)
-
-game (
-	name "Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)"
-	franchise "Yu-Gi-Oh!"
-	rom ( crc 8D52B3C5 )
 )
 
 game (
@@ -10099,6 +9751,36 @@ game (
 	name "Yu-Gi-Oh! Duel Monsters Expert 3 (Japan) (En,Ja,Fr,De,Es,It)"
 	franchise "Yu-Gi-Oh!"
 	rom ( crc 7AB1EC04 )
+)
+
+game (
+	name "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (Europe) (En,Ja,Fr,De,Es,It)"
+	franchise "Yu-Gi-Oh!"
+	rom ( crc ACA5FFC6 )
+)
+
+game (
+	name "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It)"
+	franchise "Yu-Gi-Oh!"
+	rom ( crc 39B5E771 )
+)
+
+game (
+	name "Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)"
+	franchise "Yu-Gi-Oh!"
+	rom ( crc A7054D60 )
+)
+
+game (
+	name "Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It)"
+	franchise "Yu-Gi-Oh!"
+	rom ( crc 98507497 )
+)
+
+game (
+	name "Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It) (Rev 1)"
+	franchise "Yu-Gi-Oh!"
+	rom ( crc 1BECF9D3 )
 )
 
 game (

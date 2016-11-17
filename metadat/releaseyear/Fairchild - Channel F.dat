@@ -1,0 +1,17 @@
+clrmamepro (
+	name "Fairchild - Channel F"
+	description "Fairchild - Channel F"
+)
+
+game (
+	name "Desert Fox, Shooting Gallery (USA)"
+	releaseyear "1976"
+	rom ( crc 1570934B )
+)
+
+game (
+	name "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)"
+	releaseyear "1976"
+	rom ( crc FF4768B0 )
+)
+

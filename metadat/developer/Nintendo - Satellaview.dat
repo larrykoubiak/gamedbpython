@@ -322,12 +322,6 @@ game (
 )
 
 game (
-	name "New 3D Golf Simulation - Waialae no Kiseki (Japan) (BS)"
-	developer "T&E; Soft"
-	rom ( crc 87C888B8 )
-)
-
-game (
 	name "New Yatterman - Nandai Kandai Yajirobee (Japan) (BS) [b]"
 	developer "Tom Create"
 	rom ( crc E6A44A5F )
@@ -383,7 +377,7 @@ game (
 
 game (
 	name "Super Aleste (Japan) (BS)"
-	developer "Victor Interactive Software"
+	developer "Compile"
 	rom ( crc 75993866 )
 )
 
@@ -466,6 +460,12 @@ game (
 )
 
 game (
+	name "Super Volley II (Japan) (BS)"
+	developer "Video System"
+	rom ( crc 83A3781A )
+)
+
+game (
 	name "Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (BS)"
 	developer "Varie"
 	rom ( crc 425F8747 )
@@ -481,5 +481,11 @@ game (
 	name "Undake 30 Same Game Daisakusen - Mario Version (Japan) (BS)"
 	developer "Hudson"
 	rom ( crc 15E27754 )
+)
+
+game (
+	name "Zelda no Densetsu - Kamigami no Triforce (Japan) (BS)"
+	developer "Nintendo"
+	rom ( crc 45507EC3 )
 )
 

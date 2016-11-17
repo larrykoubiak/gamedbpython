@@ -214,6 +214,54 @@ game (
 )
 
 game (
+	name "Banjo-Kazooie (Europe) (En,Fr,De)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 4AF7C16B )
+)
+
+game (
+	name "Banjo to Kazooie no Daibouken (Japan)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 11AD432C )
+)
+
+game (
+	name "Banjo-Kazooie (USA)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 4FD43199 )
+)
+
+game (
+	name "Banjo-Kazooie (USA) (Rev A)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 90B38651 )
+)
+
+game (
+	name "Banjo-Tooie (Europe) (En,Fr,De,Es)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 5EE620FB )
+)
+
+game (
+	name "Banjo to Kazooie no Daibouken 2 (Japan)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 8A3D8792 )
+)
+
+game (
+	name "Banjo-Tooie (Australia)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 38EC4A6E )
+)
+
+game (
+	name "Banjo-Tooie (USA)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 0E0DC5A5 )
+)
+
+game (
 	name "Bass Rush - ECOGEAR PowerWorm Championship (Japan)"
 	genre "Sports > Individual > Nature > Fishing"
 	rom ( crc 0E388FAE )
@@ -259,18 +307,6 @@ game (
 	name "Battlezone - Rise of the Black Dogs (USA)"
 	genre "Strategy > Real-Time > General"
 	rom ( crc 18CCCCFD )
-)
-
-game (
-	name "Big Mountain 2000 (USA)"
-	genre "Sports > Individual > Ski / Snowboard"
-	rom ( crc FF44020C )
-)
-
-game (
-	name "Snow Speeder (Japan)"
-	genre "Sports > Individual > Ski / Snowboard"
-	rom ( crc 5C98F900 )
 )
 
 game (
@@ -418,24 +454,6 @@ game (
 )
 
 game (
-	name "Bust-A-Move 3 DX (Europe)"
-	genre "Puzzle > Matching"
-	rom ( crc 9F3F484B )
-)
-
-game (
-	name "Bust-A-Move '99 (USA)"
-	genre "Puzzle > Matching"
-	rom ( crc 2A95290F )
-)
-
-game (
-	name "Puzzle Bobble 64 (Japan)"
-	genre "Puzzle > Matching"
-	rom ( crc 30238199 )
-)
-
-game (
 	name "California Speed (USA)"
 	genre "Racing > Arcade > Automobile"
 	rom ( crc 387B0C4C )
@@ -466,15 +484,51 @@ game (
 )
 
 game (
-	name "Centre Court Tennis (Europe)"
-	genre "Sports > Individual > Tennis"
-	rom ( crc 2573171A )
+	name "Castlevania (Europe) (En,Fr,De)"
+	genre "Action > Platformer > 3D"
+	rom ( crc D1D4D306 )
 )
 
 game (
-	name "Let's Smash (Japan)"
-	genre "Sports > Individual > Tennis"
-	rom ( crc 33543946 )
+	name "Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)"
+	genre "Action > Platformer > 3D"
+	rom ( crc CA79D5A0 )
+)
+
+game (
+	name "Castlevania (USA)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 84E815F3 )
+)
+
+game (
+	name "Castlevania (USA) (Rev B)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 7F50E637 )
+)
+
+game (
+	name "Castlevania (USA) (Rev A)"
+	genre "Action > Platformer > 3D"
+	rom ( crc BF911B10 )
+)
+
+game (
+	name "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)"
+	genre "Action > Platformer > 3D"
+	rom ( crc A12BF3DE )
+)
+
+game (
+	name "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 420CE37B )
+)
+
+game (
+	name "Castlevania - Legacy of Darkness (USA)"
+	genre "Action > Platformer > 3D"
+	rom ( crc 1F147376 )
 )
 
 game (
@@ -529,24 +583,6 @@ game (
 	name "Charlie Blast's Territory (USA)"
 	genre "Puzzle > Action"
 	rom ( crc 928A2968 )
-)
-
-game (
-	name "Chopper Attack (Europe)"
-	genre "Action > General"
-	rom ( crc 30CA7DBE )
-)
-
-game (
-	name "Chopper Attack (USA)"
-	genre "Action > General"
-	rom ( crc 2C22147D )
-)
-
-game (
-	name "Wild Choppers (Japan)"
-	genre "Action > General"
-	rom ( crc FED21F49 )
 )
 
 game (
@@ -670,24 +706,6 @@ game (
 )
 
 game (
-	name "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)"
-	genre "Action > Platformer > 3D"
-	rom ( crc 6CB4B600 )
-)
-
-game (
-	name "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)"
-	genre "Action > Platformer > 3D"
-	rom ( crc B67BBC15 )
-)
-
-game (
-	name "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta)"
-	genre "Action > Platformer > 3D"
-	rom ( crc 0829B87A )
-)
-
-game (
 	name "Dance Dance Revolution - Disney Dancing Museum (Japan)"
 	genre "Action > Rhythm > Dancing"
 	rom ( crc E085AFA0 )
@@ -724,6 +742,18 @@ game (
 )
 
 game (
+	name "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)"
+	genre "Adventure > General"
+	rom ( crc 5F67A191 )
+)
+
+game (
+	name "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)"
+	genre "Adventure > General"
+	rom ( crc 6D48B64E )
+)
+
+game (
 	name "Doom 64 (Europe)"
 	genre "Action > Shooter > First-Person > Arcade"
 	rom ( crc 0227DB4B )
@@ -745,6 +775,12 @@ game (
 	name "Doom 64 (USA) (Rev A)"
 	genre "Action > Shooter > First-Person > Arcade"
 	rom ( crc 0F080D06 )
+)
+
+game (
+	name "Doraemon - Nobita to 3tsu no Seireiseki (Japan)"
+	genre "Action > Platformer > 3D"
+	rom ( crc CAD0A2C2 )
 )
 
 game (
@@ -970,24 +1006,6 @@ game (
 )
 
 game (
-	name "F1 Pole Position 64 (Europe) (En,Fr,De)"
-	genre "Racing > Simulation > Automobile"
-	rom ( crc EC8B6DB6 )
-)
-
-game (
-	name "F1 Pole Position 64 (USA) (En,Fr,De)"
-	genre "Racing > Simulation > Automobile"
-	rom ( crc 873BC45A )
-)
-
-game (
-	name "Human Grand Prix - The New Generation (Japan)"
-	genre "Racing > Simulation > Automobile"
-	rom ( crc A3FC9AEA )
-)
-
-game (
 	name "F1 Racing Championship (Europe) (En,Fr,De,Es,It)"
 	genre "Racing > Simulation > Automobile"
 	rom ( crc 0605E5AC )
@@ -1018,45 +1036,15 @@ game (
 )
 
 game (
-	name "Fighter Destiny 2 (USA)"
-	genre "Action > Fighting > 3D"
-	rom ( crc 7FC19103 )
+	name "FIFA Soccer 64 (Europe) (En,Fr,De)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 26F52456 )
 )
 
 game (
-	name "Kakutou Denshou - F-Cup Maniax (Japan)"
-	genre "Action > Fighting > 3D"
-	rom ( crc 1E967AC0 )
-)
-
-game (
-	name "Fighters Destiny (Europe)"
-	genre "Action > Fighting > 3D"
-	rom ( crc 83F9299E )
-)
-
-game (
-	name "Fighters Destiny (France)"
-	genre "Action > Fighting > 3D"
-	rom ( crc 80D968B1 )
-)
-
-game (
-	name "Fighters Destiny (Germany)"
-	genre "Action > Fighting > 3D"
-	rom ( crc 0A89CA02 )
-)
-
-game (
-	name "Fighters Destiny (USA)"
-	genre "Action > Fighting > 3D"
-	rom ( crc A625973F )
-)
-
-game (
-	name "Fighting Cup (Japan)"
-	genre "Action > Fighting > 3D"
-	rom ( crc A9740235 )
+	name "FIFA Soccer 64 (USA) (En,Fr,De)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 3B22F9F2 )
 )
 
 game (
@@ -1069,24 +1057,6 @@ game (
 	name "Fighting Force 64 (USA)"
 	genre "Action > Beat-'Em-Up > 3D"
 	rom ( crc ADE7DCA4 )
-)
-
-game (
-	name "Flying Dragon (Europe)"
-	genre "Action > Fighting > 3D"
-	rom ( crc 00FFF973 )
-)
-
-game (
-	name "Flying Dragon (USA)"
-	genre "Action > Fighting > 3D"
-	rom ( crc 87E4E352 )
-)
-
-game (
-	name "Hiryuu no Ken Twin (Japan)"
-	genre "Action > Fighting > 3D"
-	rom ( crc 4A07511C )
 )
 
 game (
@@ -1117,6 +1087,24 @@ game (
 	name "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)"
 	genre "Role-Playing > General"
 	rom ( crc AF0A22EF )
+)
+
+game (
+	name "G.A.S.P!! Fighters' NEXTream (Europe)"
+	genre "Action > Fighting > 3D"
+	rom ( crc B0D256B8 )
+)
+
+game (
+	name "Deadly Arts (USA)"
+	genre "Action > Fighting > 3D"
+	rom ( crc B4AFBF51 )
+)
+
+game (
+	name "G.A.S.P!! Fighters' NEXTream (Japan)"
+	genre "Action > Fighting > 3D"
+	rom ( crc 0E05EA3A )
 )
 
 game (
@@ -1216,6 +1204,24 @@ game (
 )
 
 game (
+	name "GT64 - Championship Edition (Europe) (En,Fr,De)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc B06D0D85 )
+)
+
+game (
+	name "City-Tour GP - Zen-Nihon GT Senshuken (Japan)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc 7A59354B )
+)
+
+game (
+	name "GT64 - Championship Edition (USA)"
+	genre "Racing > Simulation > Automobile"
+	rom ( crc B6DC4CFD )
+)
+
+game (
 	name "Hamster Monogatari 64 (Japan)"
 	genre "Strategy > General"
 	rom ( crc 689191C6 )
@@ -1294,18 +1300,6 @@ game (
 )
 
 game (
-	name "Hey You, Pikachu! (USA)"
-	genre "Adventure > General"
-	rom ( crc 0149E9F6 )
-)
-
-game (
-	name "Pikachuu Genki de Chuu (Japan)"
-	genre "Adventure > General"
-	rom ( crc 2AE884CD )
-)
-
-game (
 	name "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)"
 	genre "Racing > Arcade > Automobile"
 	rom ( crc EF63C780 )
@@ -1360,6 +1354,18 @@ game (
 )
 
 game (
+	name "In-Fisherman - Bass Hunter 64 (Europe)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 930E6F44 )
+)
+
+game (
+	name "In-Fisherman - Bass Hunter 64 (USA)"
+	genre "Sports > Individual > Nature > Fishing"
+	rom ( crc 88279F19 )
+)
+
+game (
 	name "Indiana Jones and the Infernal Machine (USA)"
 	genre "Action Adventure > General"
 	rom ( crc A8F86EB6 )
@@ -1378,81 +1384,21 @@ game (
 )
 
 game (
-	name "International Superstar Soccer '98 (Europe)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 463FE8B7 )
+	name "International Track & Field - Summer Games (Europe) (En,Fr,De)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 73073EC2 )
 )
 
 game (
-	name "International Superstar Soccer '98 (USA)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc D685F2EC )
+	name "Ganbare! Nippon! Olympics 2000 (Japan)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 1C7E5D6E )
 )
 
 game (
-	name "Jikkyou World Soccer - World Cup France '98 (Japan)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 970A3C24 )
-)
-
-game (
-	name "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev A)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 7576897D )
-)
-
-game (
-	name "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev B)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 55551947 )
-)
-
-game (
-	name "International Superstar Soccer 2000 (Europe) (En,De)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 61799242 )
-)
-
-game (
-	name "International Superstar Soccer 2000 (Europe) (Fr,It)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 7D7DCD46 )
-)
-
-game (
-	name "International Superstar Soccer 2000 (USA) (En,Es)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc BB1824B8 )
-)
-
-game (
-	name "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 8E2F8322 )
-)
-
-game (
-	name "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev A)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc B4131606 )
-)
-
-game (
-	name "International Superstar Soccer 64 (Europe)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 662DA098 )
-)
-
-game (
-	name "International Superstar Soccer 64 (USA)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 91CB6803 )
-)
-
-game (
-	name "Jikkyou World Soccer 3 (Japan)"
-	genre "Sports > Team > Soccer > Sim"
-	rom ( crc 8755DE1F )
+	name "International Track & Field 2000 (USA)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc F93868A3 )
 )
 
 game (
@@ -1702,33 +1648,39 @@ game (
 )
 
 game (
+	name "Knife Edge - Nose Gunner (Europe)"
+	genre "Action > Shooter > Rail"
+	rom ( crc 35B61293 )
+)
+
+game (
+	name "Knife Edge - Nose Gunner (Japan)"
+	genre "Action > Shooter > Rail"
+	rom ( crc 2FF68ED9 )
+)
+
+game (
+	name "Knife Edge - Nose Gunner (USA)"
+	genre "Action > Shooter > Rail"
+	rom ( crc CF204405 )
+)
+
+game (
+	name "Knockout Kings 2000 (Europe)"
+	genre "Sports > Individual > Combat > Boxing / Martial Arts"
+	rom ( crc 3C38BA4A )
+)
+
+game (
+	name "Knockout Kings 2000 (USA)"
+	genre "Sports > Individual > Combat > Boxing / Martial Arts"
+	rom ( crc A26533FC )
+)
+
+game (
 	name "Last Legion UX (Japan)"
 	genre "Action > Shooter > Third-Person > Arcade"
 	rom ( crc C3DAF1AA )
-)
-
-game (
-	name "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube Edition)"
-	genre "Action Adventure > Open-World"
-	rom ( crc 177FA73A )
-)
-
-game (
-	name "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Version)"
-	genre "Action Adventure > Open-World"
-	rom ( crc 2EE3E247 )
-)
-
-game (
-	name "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)"
-	genre "Action Adventure > Open-World"
-	rom ( crc 7B89B13F )
-)
-
-game (
-	name "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube Edition)"
-	genre "Action Adventure > Open-World"
-	rom ( crc D97C20BA )
 )
 
 game (
@@ -1813,36 +1765,6 @@ game (
 	name "Madden NFL 99 (USA)"
 	genre "Sports > Team > Football > Sim"
 	rom ( crc AC21A5BF )
-)
-
-game (
-	name "Magical Tetris Challenge (Europe)"
-	genre "Puzzle > Stacking"
-	rom ( crc BF53BF3D )
-)
-
-game (
-	name "Defi au Tetris Magique (France)"
-	genre "Puzzle > Stacking"
-	rom ( crc EB304709 )
-)
-
-game (
-	name "Magical Tetris Challenge (Germany)"
-	genre "Puzzle > Stacking"
-	rom ( crc 16995CF8 )
-)
-
-game (
-	name "Magical Tetris Challenge (USA)"
-	genre "Puzzle > Stacking"
-	rom ( crc 167C60E6 )
-)
-
-game (
-	name "Magical Tetris Challenge featuring Mickey (Japan)"
-	genre "Puzzle > Stacking"
-	rom ( crc 6D3EBA8B )
 )
 
 game (
@@ -1978,21 +1900,21 @@ game (
 )
 
 game (
-	name "Mega Man 64 (USA)"
-	genre "Role-Playing > Action RPG"
-	rom ( crc B57DD0E4 )
+	name "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc DDF28F6B )
 )
 
 game (
-	name "Mega Man 64 (USA) (Beta)"
-	genre "Role-Playing > Action RPG"
-	rom ( crc 421D2A09 )
+	name "Mickey no Racing Challenge USA (Japan)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 915A43EE )
 )
 
 game (
-	name "Rockman Dash - Hagane no Boukenshin (Japan)"
-	genre "Role-Playing > Action RPG"
-	rom ( crc E1919C66 )
+	name "Mickey's Speedway USA (USA)"
+	genre "Racing > Arcade > Automobile"
+	rom ( crc 6E589C47 )
 )
 
 game (
@@ -2041,30 +1963,6 @@ game (
 	name "Tamiya Racing 64 (USA) (Proto)"
 	genre "Racing > Arcade > Automobile"
 	rom ( crc 7EA56078 )
-)
-
-game (
-	name "Mischief Makers (Europe)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 12529953 )
-)
-
-game (
-	name "Mischief Makers (USA)"
-	genre "Action > Platformer > 2D"
-	rom ( crc AF7B3820 )
-)
-
-game (
-	name "Mischief Makers (USA) (Rev A)"
-	genre "Action > Platformer > 2D"
-	rom ( crc C454E245 )
-)
-
-game (
-	name "Yuke Yuke!! Trouble Makers (Japan)"
-	genre "Action > Platformer > 2D"
-	rom ( crc F8BB860C )
 )
 
 game (
@@ -2638,30 +2536,6 @@ game (
 )
 
 game (
-	name "Operation WinBack (Europe) (En,Fr,De,Es,It)"
-	genre "Action > Shooter > Third-Person > Arcade"
-	rom ( crc 15F1C325 )
-)
-
-game (
-	name "WinBack (Japan)"
-	genre "Action > Shooter > Third-Person > Arcade"
-	rom ( crc A5364D80 )
-)
-
-game (
-	name "WinBack (Japan) (Rev A)"
-	genre "Action > Shooter > Third-Person > Arcade"
-	rom ( crc 9FBD5973 )
-)
-
-game (
-	name "WinBack - Covert Operations (USA)"
-	genre "Action > Shooter > Third-Person > Arcade"
-	rom ( crc 1A6334D0 )
-)
-
-game (
 	name "Pachinko 365 Nichi (Japan)"
 	genre "Miscellaneous > Gambling"
 	rom ( crc 41363874 )
@@ -2779,114 +2653,6 @@ game (
 	name "Pokemon Puzzle League (USA)"
 	genre "Puzzle > Matching"
 	rom ( crc 281AFB0D )
-)
-
-game (
-	name "Pokemon Stadium (Japan)"
-	genre "Strategy > General"
-	rom ( crc 3B2A3F7A )
-)
-
-game (
-	name "Pokemon Stadium (Europe) (Rev A)"
-	genre "Strategy > General"
-	rom ( crc 60F6BE65 )
-)
-
-game (
-	name "Pokemon Stadium (Europe)"
-	genre "Strategy > General"
-	rom ( crc 7A8BF040 )
-)
-
-game (
-	name "Pokemon Stadium (France)"
-	genre "Strategy > General"
-	rom ( crc 476848F6 )
-)
-
-game (
-	name "Pokemon Stadium (Germany)"
-	genre "Strategy > General"
-	rom ( crc 3243A2A7 )
-)
-
-game (
-	name "Pokemon Stadium (Italy)"
-	genre "Strategy > General"
-	rom ( crc 77A59419 )
-)
-
-game (
-	name "Pokemon Stadium (Spain)"
-	genre "Strategy > General"
-	rom ( crc 7ADFB7E0 )
-)
-
-game (
-	name "Pokemon Stadium (USA)"
-	genre "Strategy > General"
-	rom ( crc 3003E90C )
-)
-
-game (
-	name "Pokemon Stadium (USA) (Rev A)"
-	genre "Strategy > General"
-	rom ( crc 7BB7489F )
-)
-
-game (
-	name "Pokemon Stadium (USA) (Rev B)"
-	genre "Strategy > General"
-	rom ( crc D2E2EC6D )
-)
-
-game (
-	name "Pokemon Stadium 2 (Japan)"
-	genre "Strategy > General"
-	rom ( crc C876BE9C )
-)
-
-game (
-	name "Pokemon Stadium 2 (Europe)"
-	genre "Strategy > General"
-	rom ( crc 85F53D6C )
-)
-
-game (
-	name "Pokemon Stadium 2 (France)"
-	genre "Strategy > General"
-	rom ( crc A72C55AF )
-)
-
-game (
-	name "Pokemon Stadium 2 (Germany)"
-	genre "Strategy > General"
-	rom ( crc B0A291FC )
-)
-
-game (
-	name "Pokemon Stadium 2 (Italy)"
-	genre "Strategy > General"
-	rom ( crc C849C481 )
-)
-
-game (
-	name "Pokemon Stadium 2 (Spain)"
-	genre "Strategy > General"
-	rom ( crc 391119B5 )
-)
-
-game (
-	name "Pokemon Stadium 2 (USA)"
-	genre "Strategy > General"
-	rom ( crc FBFF058A )
-)
-
-game (
-	name "Pokemon Stadium Kin Gin (Japan)"
-	genre "Strategy > General"
-	rom ( crc 16701567 )
 )
 
 game (
@@ -3067,6 +2833,30 @@ game (
 	name "Ready 2 Rumble Boxing - Round 2 (USA)"
 	genre "Sports > Individual > Combat > Boxing / Martial Arts"
 	rom ( crc A64FDF28 )
+)
+
+game (
+	name "Resident Evil 2 (Europe) (En,Fr)"
+	genre "Action Adventure > Survival"
+	rom ( crc A9936CEC )
+)
+
+game (
+	name "Biohazard 2 (Japan)"
+	genre "Action Adventure > Survival"
+	rom ( crc 31A3B913 )
+)
+
+game (
+	name "Resident Evil 2 (USA) (Rev A)"
+	genre "Action Adventure > Survival"
+	rom ( crc 6A0D64BB )
+)
+
+game (
+	name "Resident Evil 2 (USA)"
+	genre "Action Adventure > Survival"
+	rom ( crc D890979F )
 )
 
 game (
@@ -3581,19 +3371,19 @@ game (
 
 game (
 	name "Superman (Europe) (En,Fr,De,Es,It,Nl)"
-	genre "Action Adventure > Linear"
+	genre "Action Adventure > General"
 	rom ( crc 9CEF1753 )
 )
 
 game (
 	name "Superman (USA) (Beta)"
-	genre "Action Adventure > Linear"
+	genre "Action Adventure > General"
 	rom ( crc 8644CD9A )
 )
 
 game (
 	name "Superman - The New Superman Aventures (USA) (En,Fr,Es)"
-	genre "Action Adventure > Linear"
+	genre "Action Adventure > General"
 	rom ( crc F10D66F0 )
 )
 
@@ -4198,6 +3988,18 @@ game (
 )
 
 game (
+	name "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 163481D0 )
+)
+
+game (
+	name "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc B875CD94 )
+)
+
+game (
 	name "World Driver Championship (Europe) (En,Fr,De,Es,It)"
 	genre "Racing > Simulation > Automobile"
 	rom ( crc 74FAD5AA )
@@ -4291,6 +4093,18 @@ game (
 	name "WWF WrestleMania 2000 (USA)"
 	genre "Sports > Individual > Combat > Wrestling"
 	rom ( crc D514E83C )
+)
+
+game (
+	name "Xena - Warrior Princess - The Talisman of Fate (Europe)"
+	genre "Action > Fighting > 3D"
+	rom ( crc 2BB18EB6 )
+)
+
+game (
+	name "Xena - Warrior Princess - The Talisman of Fate (USA)"
+	genre "Action > Fighting > 3D"
+	rom ( crc 7CB26725 )
 )
 
 game (

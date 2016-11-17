@@ -106,18 +106,6 @@ game (
 )
 
 game (
-	name "Alex Kidd - High-Tech World (USA, Europe)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 013C0A94 )
-)
-
-game (
-	name "Anmitsu Hime (Japan)"
-	genre "Action > Platformer > 2D"
-	rom ( crc FFF63B0B )
-)
-
-game (
 	name "Alex Kidd - The Lost Stars (World)"
 	genre "Action > Platformer > 2D"
 	rom ( crc C13896D5 )
@@ -190,30 +178,6 @@ game (
 )
 
 game (
-	name "American Baseball (Europe)"
-	genre "Sports > Team > Baseball > Sim"
-	rom ( crc 7B27202F )
-)
-
-game (
-	name "Reggie Jackson Baseball (USA)"
-	genre "Sports > Team > Baseball > Sim"
-	rom ( crc 6D94BB0E )
-)
-
-game (
-	name "American Pro Football (Europe)"
-	genre "Sports > Team > Football > Sim"
-	rom ( crc 3727D8B2 )
-)
-
-game (
-	name "Walter Payton Football (USA)"
-	genre "Sports > Team > Football > Sim"
-	rom ( crc 3D55759B )
-)
-
-game (
 	name "Andre Agassi Tennis (Europe)"
 	genre "Sports > Individual > Tennis"
 	rom ( crc F499034D )
@@ -253,6 +217,18 @@ game (
 	name "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)"
 	genre "Action > Platformer > 2D"
 	rom ( crc F9B7D26B )
+)
+
+game (
+	name "Asterix and the Secret Mission (Europe) (En,Fr,De)"
+	genre "Action > Platformer > 2D"
+	rom ( crc DEF9B14E )
+)
+
+game (
+	name "TV Colosso (Brazil)"
+	genre "Action > Platformer > 2D"
+	rom ( crc E1714A88 )
 )
 
 game (
@@ -331,6 +307,30 @@ game (
 	name "Bram Stoker's Dracula (Europe)"
 	genre "Action > Platformer > 2D"
 	rom ( crc 1B10A951 )
+)
+
+game (
+	name "Bubble Bobble (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc E843BA7E )
+)
+
+game (
+	name "Bobble Bobble (Korea)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 25EB9F80 )
+)
+
+game (
+	name "Final Bubble Bobble (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 3EBB7457 )
+)
+
+game (
+	name "Super Bubble Bobble (Korea) (Unl)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 22C09CFD )
 )
 
 game (
@@ -526,9 +526,21 @@ game (
 )
 
 game (
+	name "Danan - The Jungle Fighter (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc AE4A28D7 )
+)
+
+game (
 	name "Dead Angle (USA, Europe)"
 	genre "Action > Shooter > Light Gun"
 	rom ( crc E2F7193E )
+)
+
+game (
+	name "Deep Duck Trouble Starring Donald Duck (Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 42FC3A6E )
 )
 
 game (
@@ -652,30 +664,6 @@ game (
 )
 
 game (
-	name "F-16 Fighter (USA, Europe)"
-	genre "Simulation > Flight > Combat"
-	rom ( crc EAEBF323 )
-)
-
-game (
-	name "F-16 Fighting Falcon (Japan)"
-	genre "Simulation > Flight > Combat"
-	rom ( crc 7CE06FCE )
-)
-
-game (
-	name "F-16 Fighting Falcon (USA)"
-	genre "Simulation > Flight > Combat"
-	rom ( crc 184C23B7 )
-)
-
-game (
-	name "F-16 Fighting Falcon (Taiwan)"
-	genre "Simulation > Flight > Combat"
-	rom ( crc C4C53226 )
-)
-
-game (
 	name "F1 (Europe)"
 	genre "Racing > Simulation > Automobile"
 	rom ( crc EC788661 )
@@ -719,13 +707,13 @@ game (
 
 game (
 	name "Fantasy Zone - The Maze (USA, Europe)"
-	genre "Action > Arcade"
+	genre "Action > Shooter > Shoot-'Em-Up > Horizontal"
 	rom ( crc D29889AD )
 )
 
 game (
 	name "Opa Opa (Japan)"
-	genre "Action > Arcade"
+	genre "Action > Shooter > Shoot-'Em-Up > Horizontal"
 	rom ( crc BEA27D5C )
 )
 
@@ -868,24 +856,6 @@ game (
 )
 
 game (
-	name "Global Defense (USA, Europe)"
-	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
-	rom ( crc B746A6F5 )
-)
-
-game (
-	name "Global Defense (USA, Europe) (Beta)"
-	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
-	rom ( crc 91A0FC4E )
-)
-
-game (
-	name "SDI (Japan)"
-	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
-	rom ( crc 1DE2C2D0 )
-)
-
-game (
 	name "Golden Axe (USA, Europe)"
 	genre "Action > Beat-'Em-Up > 2D"
 	rom ( crc C08132FB )
@@ -941,25 +911,25 @@ game (
 
 game (
 	name "Great Baseball (Japan)"
-	genre "Sports > Team > Baseball > Sim"
+	genre "Sports > Team > Baseball > Arcade"
 	rom ( crc 89E98A7C )
 )
 
 game (
 	name "Great Baseball (USA, Europe)"
-	genre "Sports > Team > Baseball > Sim"
+	genre "Sports > Team > Baseball > Arcade"
 	rom ( crc 10ED6B57 )
 )
 
 game (
 	name "Pro Yakyuu Pennant Race, The (Japan)"
-	genre "Sports > Team > Baseball > Sim"
+	genre "Sports > Team > Baseball > Arcade"
 	rom ( crc DA9BE8F0 )
 )
 
 game (
 	name "Great Basketball (World)"
-	genre "Sports > Team > Baseball > Sim"
+	genre "Sports > Team > Basketball > Sim"
 	rom ( crc 2AC001EB )
 )
 
@@ -1150,6 +1120,24 @@ game (
 )
 
 game (
+	name "Kenseiden (USA, Europe)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 516ED32E )
+)
+
+game (
+	name "Hwarang Ui Geom (Korea)"
+	genre "Action > Platformer > 2D"
+	rom ( crc E4B7C56A )
+)
+
+game (
+	name "Kenseiden (Japan)"
+	genre "Action > Platformer > 2D"
+	rom ( crc 05EA5353 )
+)
+
+game (
 	name "King's Quest - Quest for the Crown (USA)"
 	genre "Adventure > General"
 	rom ( crc F8D33BC4 )
@@ -1234,18 +1222,6 @@ game (
 )
 
 game (
-	name "Lucky Dime Caper Starring Donald Duck, The (Europe)"
-	genre "Action > Platformer > 2D"
-	rom ( crc A1710F13 )
-)
-
-game (
-	name "Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta)"
-	genre "Action > Platformer > 2D"
-	rom ( crc 7F6D0DF6 )
-)
-
-game (
 	name "Mahjong Sengoku Jidai (Japan)"
 	genre "Miscellaneous > Board / Card Game"
 	rom ( crc BCFBFC67 )
@@ -1291,18 +1267,6 @@ game (
 	name "Masters of Combat (Europe)"
 	genre "Action > Fighting > 2D"
 	rom ( crc 93141463 )
-)
-
-game (
-	name "Maze Hunter 3-D (USA, Europe)"
-	genre "Action > General"
-	rom ( crc 31B8040B )
-)
-
-game (
-	name "Maze Walker (Japan)"
-	genre "Action > General"
-	rom ( crc 871562B0 )
 )
 
 game (
@@ -1657,6 +1621,18 @@ game (
 	name "Psychic World (Europe)"
 	genre "Action > General"
 	rom ( crc 5C0B1F0F )
+)
+
+game (
+	name "Putt & Putter (Europe)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 357D4F78 )
+)
+
+game (
+	name "Putt & Putter (Europe) (Beta)"
+	genre "Sports > Individual > Golf > Sim"
+	rom ( crc 8167CCC4 )
 )
 
 game (
@@ -2110,6 +2086,18 @@ game (
 )
 
 game (
+	name "Summer Games (Europe)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 8DA5C93F )
+)
+
+game (
+	name "Summer Games (Europe) (Beta)"
+	genre "Sports > Individual > Athletics"
+	rom ( crc 80EB1FFF )
+)
+
+game (
 	name "Super Monaco GP (Europe)"
 	genre "Racing > Simulation > Automobile"
 	rom ( crc 55BF81A0 )
@@ -2158,24 +2146,6 @@ game (
 )
 
 game (
-	name "Super Tennis (USA, Europe)"
-	genre "Sports > Individual > Tennis"
-	rom ( crc 914514E3 )
-)
-
-game (
-	name "Great Tennis (Japan)"
-	genre "Sports > Individual > Tennis"
-	rom ( crc 95CBF3DD )
-)
-
-game (
-	name "Super Tetris (Korea) (Pirate)"
-	genre "Sports > Individual > Tennis"
-	rom ( crc BD1CC7DF )
-)
-
-game (
 	name "Superman - The Man of Steel (Europe)"
 	genre "Action > Beat-'Em-Up > 2D"
 	rom ( crc 6F9AC98F )
@@ -2215,6 +2185,12 @@ game (
 	name "Tecmo World Cup '92 (Europe) (Beta)"
 	genre "Sports > Team > Soccer > Sim"
 	rom ( crc 96E75F48 )
+)
+
+game (
+	name "Tennis Ace (Europe)"
+	genre "Sports > Individual > Tennis"
+	rom ( crc 1A390B93 )
 )
 
 game (
@@ -2362,14 +2338,50 @@ game (
 )
 
 game (
+	name "Wonder Boy III - The Dragon's Trap (USA, Europe)"
+	genre "Action Adventure > General"
+	rom ( crc 679E1676 )
+)
+
+game (
+	name "Turma da Monica em O Resgate (Brazil)"
+	genre "Action Adventure > General"
+	rom ( crc 22CCA9BB )
+)
+
+game (
+	name "Wonder Boy in Monster Land (USA, Europe)"
+	genre "Action Adventure > General"
+	rom ( crc 8CBEF0C1 )
+)
+
+game (
+	name "Monica no Castelo do Dragao (Brazil)"
+	genre "Action Adventure > General"
+	rom ( crc 01D67C0B )
+)
+
+game (
+	name "Super Wonder Boy - Monster World (Japan)"
+	genre "Action Adventure > General"
+	rom ( crc B1DA6A30 )
+)
+
+game (
+	name "Wonder Boy in Monster Land (USA, Europe) (Beta)"
+	genre "Action Adventure > General"
+	rom ( crc 8312C429 )
+)
+
+game (
 	name "Wonder Boy in Monster World (Europe)"
-	genre "Action > Platformer > 2D"
+	genre "Action Adventure > General"
 	rom ( crc 7D7CE80B )
 )
 
 game (
 	name "Wonder Boy in Monster World (Europe) (Beta)"
-	genre "Action > Platformer > 2D"
+	genre "Action Adventure > General"
 	rom ( crc 81BFF9BB )
 )
 
@@ -2389,6 +2401,18 @@ game (
 	name "World Class Leader Board (Europe)"
 	genre "Sports > Individual > Golf > Sim"
 	rom ( crc C9A449B7 )
+)
+
+game (
+	name "World Cup Italia '90 (Europe)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 6E1AD6FD )
+)
+
+game (
+	name "World Cup Italia '90 (Europe) (Sample)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc A0CF8B15 )
 )
 
 game (
@@ -2431,6 +2455,18 @@ game (
 	name "World Grand Prix (USA) (Beta)"
 	genre "Racing > Arcade > Automobile"
 	rom ( crc B5A9F824 )
+)
+
+game (
+	name "World Soccer (World)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 72112B75 )
+)
+
+game (
+	name "Sports Pad Soccer (Japan)"
+	genre "Sports > Team > Soccer > Sim"
+	rom ( crc 41C948BF )
 )
 
 game (
@@ -2503,6 +2539,12 @@ game (
 	name "Zillion (USA) (Rev 1)"
 	genre "Action > Platformer > 2D"
 	rom ( crc 5718762C )
+)
+
+game (
+	name "Zillion II - The Tri Formation (World)"
+	genre "Action > Shooter > Shoot-'Em-Up > Vertical"
+	rom ( crc 2F2E3BC9 )
 )
 
 game (

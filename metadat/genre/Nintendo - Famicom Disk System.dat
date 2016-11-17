@@ -4,6 +4,12 @@ clrmamepro (
 )
 
 game (
+	name "[BIOS] Sharp Twin Famicom (Japan)"
+	genre "Hardware > Console"
+	rom ( crc 4DF24A6C )
+)
+
+game (
 	name "Adian no Tsue (Japan)"
 	genre "Action Adventure > General"
 	rom ( crc DCC7A8D6 )

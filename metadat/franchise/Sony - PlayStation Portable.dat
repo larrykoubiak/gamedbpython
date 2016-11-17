@@ -4,6 +4,36 @@ clrmamepro (
 )
 
 game (
+	name "007 - From Russia with Love (Europe) (En,Fr,De,Es,It)"
+	franchise "James Bond 007"
+	rom ( crc ED656B41 )
+)
+
+game (
+	name "007 - From Russia with Love (USA)"
+	franchise "James Bond 007"
+	rom ( crc EC14A394 )
+)
+
+game (
+	name "007 - From Russia with Love (Australia) (En,Fr,De,Es,It)"
+	franchise "James Bond 007"
+	rom ( crc B4258D77 )
+)
+
+game (
+	name "007 - From Russia with Love (Asia)"
+	franchise "James Bond 007"
+	rom ( crc 1B3B8E14 )
+)
+
+game (
+	name "007 - Russia Yori Ai o Komete (Japan)"
+	franchise "James Bond 007"
+	rom ( crc B3978B21 )
+)
+
+game (
 	name "Astonishia Story (Europe) (v1.01)"
 	franchise "Astonishia Story"
 	rom ( crc C15489E6 )
@@ -172,24 +202,6 @@ game (
 )
 
 game (
-	name "Darkstalkers Chronicle - The Chaos Tower (Europe)"
-	franchise "DarkStalkers / Vampire"
-	rom ( crc CE97D883 )
-)
-
-game (
-	name "Darkstalkers Chronicle - The Chaos Tower (USA)"
-	franchise "DarkStalkers / Vampire"
-	rom ( crc 20069383 )
-)
-
-game (
-	name "Vampire Chronicle - The Chaos Tower (Japan) (v1.01)"
-	franchise "DarkStalkers / Vampire"
-	rom ( crc 291CC7AA )
-)
-
-game (
 	name "Dead to Rights - Reckoning (Europe) (En,Fr,De,Es,It) (v1.01)"
 	franchise "Dead to Rights"
 	rom ( crc BFDF323F )
@@ -265,30 +277,6 @@ game (
 	name "Dragon Quest & Final Fantasy in Itadaki Street Portable (Japan) (v1.02)"
 	franchise "Dragon Quest / Warrior"
 	rom ( crc F4D7331E )
-)
-
-game (
-	name "Exit (Europe) (En,Fr,De,Es,It) (v1.01)"
-	franchise "Exit"
-	rom ( crc 8865D8A8 )
-)
-
-game (
-	name "Exit (Japan)"
-	franchise "Exit"
-	rom ( crc 05D404F2 )
-)
-
-game (
-	name "Exit (Korea)"
-	franchise "Exit"
-	rom ( crc E0A3B86F )
-)
-
-game (
-	name "Exit (USA)"
-	franchise "Exit"
-	rom ( crc C21AF580 )
 )
 
 game (
@@ -397,30 +385,6 @@ game (
 	name "Frogger - Helmet Chaos (USA)"
 	franchise "Frogger"
 	rom ( crc 6E1FB930 )
-)
-
-game (
-	name "Ghost in the Shell - Stand Alone Complex (Europe)"
-	franchise "Ghost in the Shell"
-	rom ( crc A7190995 )
-)
-
-game (
-	name "Ghost in the Shell - Stand Alone Complex (USA) (v1.01)"
-	franchise "Ghost in the Shell"
-	rom ( crc 52321D57 )
-)
-
-game (
-	name "Koukaku Kidoutai - Stand Alone Complex (Asia)"
-	franchise "Ghost in the Shell"
-	rom ( crc 5DD8420D )
-)
-
-game (
-	name "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki (Japan) (v1.01)"
-	franchise "Ghost in the Shell"
-	rom ( crc F3DE2F70 )
 )
 
 game (
@@ -616,6 +580,30 @@ game (
 )
 
 game (
+	name "Legend of Heroes II, The - Prophecy of the Moonlight Witch (USA)"
+	franchise "The Legend of Heroes"
+	rom ( crc 60E5F1A5 )
+)
+
+game (
+	name "Eiyuu Densetsu Gagharv Trilogy - Shiroki Majo (Japan) (v1.01)"
+	franchise "The Legend of Heroes"
+	rom ( crc F42E8652 )
+)
+
+game (
+	name "Legend of Heroes, The - A Tear of Vermillion (USA) (v1.01)"
+	franchise "The Legend of Heroes"
+	rom ( crc 2D64283D )
+)
+
+game (
+	name "Eiyuu Densetsu Gagharv Trilogy IV - Akai Shizuku (Japan) (v1.01)"
+	franchise "The Legend of Heroes"
+	rom ( crc FA67281F )
+)
+
+game (
 	name "Lisa to Issho ni Tairiku Oudan - A-Ressha de Ikou (Japan) (v1.01)"
 	franchise "A-Train / A-Ressha de Ikou"
 	rom ( crc 0FCF424B )
@@ -694,6 +682,42 @@ game (
 )
 
 game (
+	name "Me & My Katamari (Europe)"
+	franchise "Katamari Damacy"
+	rom ( crc 622629D4 )
+)
+
+game (
+	name "Abamama Osheotda! Eoseo Gullyeora! (Korea)"
+	franchise "Katamari Damacy"
+	rom ( crc 7678EA4C )
+)
+
+game (
+	name "Boku no Watashi no Katamari Damacy (Japan) (v1.01)"
+	franchise "Katamari Damacy"
+	rom ( crc 05E040A4 )
+)
+
+game (
+	name "Me & My Katamari (USA)"
+	franchise "Katamari Damacy"
+	rom ( crc 630C0B2F )
+)
+
+game (
+	name "MediEvil - Resurrection (Europe) (En,Fr,De,Es,It) (v1.03)"
+	franchise "Medievil"
+	rom ( crc 88060384 )
+)
+
+game (
+	name "MediEvil - Resurrection (USA)"
+	franchise "Medievil"
+	rom ( crc ADC64AF9 )
+)
+
+game (
 	name "Mega Man - Maverick Hunter X (Europe) (v1.01)"
 	franchise "Mega Man X"
 	rom ( crc C8C08481 )
@@ -712,21 +736,21 @@ game (
 )
 
 game (
-	name "Mercury Meltdown (Europe) (En,Fr,De,Es,It) (v1.01)"
-	franchise "Mercury Meltdown"
-	rom ( crc 79416B54 )
+	name "Metal Gear Solid - Digital Graphic Novel (Europe) (En,Fr,De,Es,It) (v1.01)"
+	franchise "Metal Gear"
+	rom ( crc AACA6171 )
 )
 
 game (
-	name "Mercury Meltdown (USA) (En,Fr,Es) (v1.01)"
-	franchise "Mercury Meltdown"
-	rom ( crc 68941149 )
+	name "Metal Gear Solid - Bande Dessinee (Japan) (v1.03)"
+	franchise "Metal Gear"
+	rom ( crc C462B2A9 )
 )
 
 game (
-	name "Tama-Run (Japan) (v1.01)"
-	franchise "Mercury Meltdown"
-	rom ( crc 47329986 )
+	name "Metal Gear Solid - Digital Graphic Novel (USA) (v1.01)"
+	franchise "Metal Gear"
+	rom ( crc FB7E8C1C )
 )
 
 game (
@@ -841,6 +865,24 @@ game (
 	name "Myst (Europe)"
 	franchise "Myst"
 	rom ( crc D5C31FB9 )
+)
+
+game (
+	name "Namco Museum (Japan) (v1.02)"
+	franchise "Namco Museum"
+	rom ( crc FB7D60D8 )
+)
+
+game (
+	name "Namco Museum (Korea)"
+	franchise "Namco Museum"
+	rom ( crc A07555AE )
+)
+
+game (
+	name "Namco Museum Vol.2 (Japan) (v1.01)"
+	franchise "Namco Museum"
+	rom ( crc 9E7BB36A )
 )
 
 game (
@@ -1012,6 +1054,12 @@ game (
 )
 
 game (
+	name "Nobunaga no Yabou - Reppuuden with Power Up Kit (Japan) (v1.02)"
+	franchise "Nobunaga's Ambition"
+	rom ( crc 969BC1AD )
+)
+
+game (
 	name "OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It) (v1.01)"
 	franchise "OutRun"
 	rom ( crc B20A8595 )
@@ -1102,24 +1150,6 @@ game (
 )
 
 game (
-	name "Pro Evolution Soccer 5 (Europe) (En,Fr,De,Es,It) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 3C550810 )
-)
-
-game (
-	name "World Soccer Winning Eleven 9 (USA) (v1.02)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc ED5825C2 )
-)
-
-game (
-	name "World Soccer Winning Eleven 9 - Ubiquitous Evolution (Japan) (v1.03)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 9BC7757D )
-)
-
-game (
 	name "Puyo Pop Fever (Europe) (v1.01)"
 	franchise "Puyo Puyo"
 	rom ( crc 1B62BA6F )
@@ -1135,6 +1165,12 @@ game (
 	name "Puyo Puyo Fever 2 (Japan) (v1.01)"
 	franchise "Puyo Puyo"
 	rom ( crc 5A84975C )
+)
+
+game (
+	name "Puzzle Bobble Pocket (Japan) (v1.01)"
+	franchise "Bust-A-Move / Puzzle Bobble"
+	rom ( crc 7AB34A2D )
 )
 
 game (
@@ -1156,9 +1192,75 @@ game (
 )
 
 game (
+	name "Ridge Racer (Europe) (En,Fr,De,Es,It)"
+	franchise "Ridge Racer"
+	rom ( crc 079A3889 )
+)
+
+game (
+	name "Ridge Racer (Asia) (En,Fr,De,Es,It)"
+	franchise "Ridge Racer"
+	rom ( crc 600C55E2 )
+)
+
+game (
+	name "Ridge Racer (Korea)"
+	franchise "Ridge Racer"
+	rom ( crc 800BF25D )
+)
+
+game (
+	name "Ridge Racer (USA)"
+	franchise "Ridge Racer"
+	rom ( crc 19735D9E )
+)
+
+game (
+	name "Ridge Racers (Japan) (v1.01)"
+	franchise "Ridge Racer"
+	rom ( crc 37DC8144 )
+)
+
+game (
+	name "Rockman Dash - Hagane no Boukenshin (Japan) (v1.01)"
+	franchise "Mega Man Legends"
+	rom ( crc 78DFD145 )
+)
+
+game (
 	name "Rockman Dash 2 - Episode 2 Ooinaru Isan (Japan) (v1.04)"
 	franchise "Mega Man Legends"
 	rom ( crc 40F10DE6 )
+)
+
+game (
+	name "Samurai Warriors - State of War (Europe)"
+	franchise "Samurai Warriors"
+	rom ( crc A2E0D307 )
+)
+
+game (
+	name "Geki Sengoku Musou (Japan) (v1.01)"
+	franchise "Samurai Warriors"
+	rom ( crc 7F348852 )
+)
+
+game (
+	name "Samurai Warriors - State of War (USA) (v1.01)"
+	franchise "Samurai Warriors"
+	rom ( crc C33E699C )
+)
+
+game (
+	name "Samurai Warriors - State of War (Germany)"
+	franchise "Samurai Warriors"
+	rom ( crc 2C6DE039 )
+)
+
+game (
+	name "Samurai Warriors - State of War (France)"
+	franchise "Samurai Warriors"
+	rom ( crc DE05235B )
 )
 
 game (
@@ -1210,18 +1312,6 @@ game (
 )
 
 game (
-	name "Space Invaders Evolution (Europe) (En,Fr,De,Es,It,Nl) (v1.02)"
-	franchise "Space Invaders"
-	rom ( crc AAF7F349 )
-)
-
-game (
-	name "Space Invaders - Galaxy Beat (Japan) (v1.02)"
-	franchise "Space Invaders"
-	rom ( crc 028EDB0E )
-)
-
-game (
 	name "Space Invaders Pocket (Japan) (v1.04)"
 	franchise "Space Invaders"
 	rom ( crc 9DC2A801 )
@@ -1231,6 +1321,24 @@ game (
 	name "Space Invaders Pocket (Korea)"
 	franchise "Space Invaders"
 	rom ( crc EB646050 )
+)
+
+game (
+	name "Spectral Souls - Resurrection of the Ethereal Empires (USA)"
+	franchise "Spectral Souls"
+	rom ( crc 9874E2AB )
+)
+
+game (
+	name "Shinki Gensou - SSII Unlimited Side (Japan) (v1.04)"
+	franchise "Spectral Souls"
+	rom ( crc 8329C7A5 )
+)
+
+game (
+	name "Shinki Gensou - SSII Unlimited Side (Korea)"
+	franchise "Spectral Souls"
+	rom ( crc 304AB64E )
 )
 
 game (
@@ -1297,6 +1405,24 @@ game (
 	name "Super Robot Taisen MX Portable (Japan) (v1.04)"
 	franchise "Super Robot Wars"
 	rom ( crc 8A86E33C )
+)
+
+game (
+	name "Syphon Filter - Dark Mirror (Europe) (En,Fr,De,Es,It)"
+	franchise "Syphon Filter"
+	rom ( crc 642627BB )
+)
+
+game (
+	name "Syphon Filter - Dark Mirror (USA) (Demo)"
+	franchise "Syphon Filter"
+	rom ( crc C21F817F )
+)
+
+game (
+	name "Syphon Filter - Dark Mirror (USA) (v1.01)"
+	franchise "Syphon Filter"
+	rom ( crc DA9A9D97 )
 )
 
 game (
@@ -1462,24 +1588,6 @@ game (
 )
 
 game (
-	name "Untold Legends - Brotherhood of the Blade (Europe) (En,Fr,De,Es,It) (v1.01)"
-	franchise "Untold Legends"
-	rom ( crc BA671BD0 )
-)
-
-game (
-	name "Untold Legends - Brotherhood of the Blade (USA) (v1.02)"
-	franchise "Untold Legends"
-	rom ( crc 31D8D99D )
-)
-
-game (
-	name "Untold Legends - Unataka no Yuuken (Japan) (v1.03)"
-	franchise "Untold Legends"
-	rom ( crc FF4FD969 )
-)
-
-game (
 	name "Viewtiful Joe - Red Hot Rumble (Europe) (En,Fr,De,Es,It)"
 	franchise "Viewtiful Joe"
 	rom ( crc 504E0FE5 )
@@ -1495,6 +1603,30 @@ game (
 	name "Viewtiful Joe - Red Hot Rumble (USA)"
 	franchise "Viewtiful Joe"
 	rom ( crc 9A22DCF7 )
+)
+
+game (
+	name "Virtua Tennis - World Tour (Europe) (En,Fr,De,Es,It)"
+	franchise "Virtua Tennis"
+	rom ( crc CB7BA251 )
+)
+
+game (
+	name "Power Smash - New Generation (Japan) (v1.01)"
+	franchise "Virtua Tennis"
+	rom ( crc B8CD5ABC )
+)
+
+game (
+	name "Virtua Tennis - World Tour (Korea) (v1.02)"
+	franchise "Virtua Tennis"
+	rom ( crc E018FE2E )
+)
+
+game (
+	name "Virtua Tennis - World Tour (USA) (v1.02)"
+	franchise "Virtua Tennis"
+	rom ( crc F47B8046 )
 )
 
 game (
@@ -1609,6 +1741,54 @@ game (
 	name "Yamasa Digi Portable - Matsuri no Tatsujin - Win-Chan no Natsumatsuri (Japan) (v1.02)"
 	franchise "Yamasa Digi"
 	rom ( crc B55BF8FF )
+)
+
+game (
+	name "Ys - The Ark of Napishtim (Europe) (En,Fr,De,Es,It) (v1.03)"
+	franchise "Ys"
+	rom ( crc A700AC82 )
+)
+
+game (
+	name "Ys - Napishtim no Hako (Japan) (v1.05)"
+	franchise "Ys"
+	rom ( crc 32EBA347 )
+)
+
+game (
+	name "Ys - Napishtim no Hako (Japan) (v1.03) (Tokubetsuban)"
+	franchise "Ys"
+	rom ( crc A1E5ECCB )
+)
+
+game (
+	name "Ys - The Ark of Napishtim (USA)"
+	franchise "Ys"
+	rom ( crc 7F184DAE )
+)
+
+game (
+	name "Ace Combat X - Skies of Deception (Europe) (En,Ja,Fr,De,Es,It,Ko)"
+	franchise "Ace Combat"
+	rom ( crc 55FD9AB2 )
+)
+
+game (
+	name "Ace Combat X - Skies of Deception (Japan) (En,Ja,Fr,De,Es,It,Ko) (v2.00)"
+	franchise "Ace Combat"
+	rom ( crc 5328BF9D )
+)
+
+game (
+	name "Ace Combat X - Skies of Deception (Japan) (En,Ja,Fr,De,Es,It,Ko) (v1.01)"
+	franchise "Ace Combat"
+	rom ( crc C603F12C )
+)
+
+game (
+	name "Ace Combat X - Skies of Deception (USA)"
+	franchise "Ace Combat"
+	rom ( crc C41A1A1A )
 )
 
 game (
@@ -1738,6 +1918,18 @@ game (
 )
 
 game (
+	name "Cabela's Dangerous Hunts - Ultimate Challenge (Europe)"
+	franchise "Cabela's"
+	rom ( crc 71336EB7 )
+)
+
+game (
+	name "Cabela's Dangerous Hunts - Ultimate Challenge (USA) (v1.01)"
+	franchise "Cabela's"
+	rom ( crc 957E0F34 )
+)
+
+game (
 	name "Call of Duty - Roads to Victory (Europe) (En,Fr,Es,It) (v1.02)"
 	franchise "Call of Duty"
 	rom ( crc E9331BB8 )
@@ -1780,6 +1972,30 @@ game (
 )
 
 game (
+	name "Crazy Taxi - Fare Wars (Europe) (En,Fr,De,Es,It)"
+	franchise "Crazy Taxi"
+	rom ( crc 0E8BC7E8 )
+)
+
+game (
+	name "Crazy Taxi - Double Punch (Japan) (v1.02)"
+	franchise "Crazy Taxi"
+	rom ( crc 9FC6FCD1 )
+)
+
+game (
+	name "Crazy Taxi - Fare Wars (USA) (En,Fr,De,Es,It) (v1.01)"
+	franchise "Crazy Taxi"
+	rom ( crc 383E40DF )
+)
+
+game (
+	name "Crazy Taxi - Fare Wars (USA) (En,Fr,De,Es,It) (v2.01)"
+	franchise "Crazy Taxi"
+	rom ( crc D5077AAE )
+)
+
+game (
 	name "Dave Mirra BMX Challenge (Europe) (v1.01)"
 	franchise "Dave Mirra BMX"
 	rom ( crc 2250FAA5 )
@@ -1804,48 +2020,6 @@ game (
 )
 
 game (
-	name "Disgaea - Afternoon of Darkness (Europe)"
-	franchise "Disgaea"
-	rom ( crc 8654BCE5 )
-)
-
-game (
-	name "Disgaea - Afternoon of Darkness (USA)"
-	franchise "Disgaea"
-	rom ( crc 4E1B2CFA )
-)
-
-game (
-	name "Disgaea - Afternoon of Darkness (Asia)"
-	franchise "Disgaea"
-	rom ( crc C4E0A4E8 )
-)
-
-game (
-	name "Disgaea Portable (Asia) (Zh,Ko) (v1.01)"
-	franchise "Disgaea"
-	rom ( crc D719F057 )
-)
-
-game (
-	name "Makai Senki Disgaea Portable (Japan) (v1.01)"
-	franchise "Disgaea"
-	rom ( crc E6CD4078 )
-)
-
-game (
-	name "Makai Senki Disgaea Portable (Japan) (v1.01) (Shokai Genteiban)"
-	franchise "Disgaea"
-	rom ( crc FC956490 )
-)
-
-game (
-	name "Makai Senki Disgaea Portable - Tsuushin Taisen Hajimemashita (Japan) (v1.01)"
-	franchise "Disgaea"
-	rom ( crc F3536088 )
-)
-
-game (
 	name "Dragon Ball Z - Shin Budokai 2 (Europe) (En,Fr,De,Es,It)"
 	franchise "Dragon Ball"
 	rom ( crc CCBE9DB1 )
@@ -1867,6 +2041,18 @@ game (
 	name "Dragon Ball Z - Shin Budokai Another Road (USA)"
 	franchise "Dragon Ball"
 	rom ( crc 90444E43 )
+)
+
+game (
+	name "Dungeon Maker - Hunting Ground (USA) (v1.01)"
+	franchise "Dungeon Maker"
+	rom ( crc 91E75E8C )
+)
+
+game (
+	name "Chronicle of Dungeon Maker (Japan) (v1.01)"
+	franchise "Dungeon Maker"
+	rom ( crc 6F49C328 )
 )
 
 game (
@@ -1921,18 +2107,6 @@ game (
 	name "Every Extend Extra (USA)"
 	franchise "Every Extend"
 	rom ( crc 19DB17BD )
-)
-
-game (
-	name "Exit 2 (Europe) (En,Fr,De,Es,It) (v1.01)"
-	franchise "Exit"
-	rom ( crc FBCFE225 )
-)
-
-game (
-	name "Kangaeru EXIT (Japan) (v1.02)"
-	franchise "Exit"
-	rom ( crc 9E08D97F )
 )
 
 game (
@@ -2140,15 +2314,15 @@ game (
 )
 
 game (
-	name "L.A. Rush (Europe) (En,Fr,De,Es,It) (v1.01)"
-	franchise "San Francisco Rush"
-	rom ( crc A4039632 )
+	name "Legend of Heroes III, The - Song of the Ocean (USA) (v1.01)"
+	franchise "The Legend of Heroes"
+	rom ( crc F6A8E8A7 )
 )
 
 game (
-	name "Rush (USA) (v1.01)"
-	franchise "San Francisco Rush"
-	rom ( crc F2B44DC5 )
+	name "Eiyuu Densetsu Gagharv Trilogy - Umi no Oriuta (Japan)"
+	franchise "The Legend of Heroes"
+	rom ( crc F6485984 )
 )
 
 game (
@@ -2215,6 +2389,84 @@ game (
 	name "Marvel Trading Card Game (USA) (v1.02)"
 	franchise "Marvel"
 	rom ( crc 0A19186A )
+)
+
+game (
+	name "Medal of Honor - Heroes (Europe)"
+	franchise "Medal of Honor"
+	rom ( crc 11BC8DA6 )
+)
+
+game (
+	name "Medal of Honor - Heroes (Japan)"
+	franchise "Medal of Honor"
+	rom ( crc BCA095C3 )
+)
+
+game (
+	name "Medal of Honor - Heroes (USA)"
+	franchise "Medal of Honor"
+	rom ( crc 250E420D )
+)
+
+game (
+	name "Medal of Honor - Heroes (Germany)"
+	franchise "Medal of Honor"
+	rom ( crc E6CA6339 )
+)
+
+game (
+	name "Medal of Honor - Heroes (Netherlands)"
+	franchise "Medal of Honor"
+	rom ( crc 94EC0B0C )
+)
+
+game (
+	name "Medal of Honor - Heroes (France)"
+	franchise "Medal of Honor"
+	rom ( crc 246CB1DD )
+)
+
+game (
+	name "Medal of Honor - Heroes (Italy)"
+	franchise "Medal of Honor"
+	rom ( crc 7A5B116A )
+)
+
+game (
+	name "Medal of Honor - Heroes (Spain)"
+	franchise "Medal of Honor"
+	rom ( crc 19CCC687 )
+)
+
+game (
+	name "Metal Gear Solid - Portable Ops (Europe) (En,Fr,De,Es,It) (v1.01)"
+	franchise "Metal Gear"
+	rom ( crc F461C537 )
+)
+
+game (
+	name "Metal Gear Solid - Portable Ops (Japan) (v1.02)"
+	franchise "Metal Gear"
+	rom ( crc 32BDCC8C )
+)
+
+game (
+	name "Metal Gear Solid - Portable Ops (Japan) (Deluxe Pack)"
+	franchise "Metal Gear"
+	rom ( crc 1EF5A86C )
+)
+
+game (
+	name "Metal Gear Solid - Portable Ops (Japan) (v1.02) (Premium Pack)"
+	franchise "Metal Gear"
+	rom ( crc C94666BE )
+)
+
+game (
+	name "Metal Gear Solid - Portable Ops (USA) (v1.02)"
+	franchise "Metal Gear"
+	rom ( crc 78C4EABC )
 )
 
 game (
@@ -2410,24 +2662,6 @@ game (
 )
 
 game (
-	name "Pro Evolution Soccer 6 (Europe) (En,Ja,Fr,De,Es,It) (v1.03)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc B4D00E7A )
-)
-
-game (
-	name "Winning Eleven - Pro Evolution Soccer 2007 (USA) (En,Es) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc F74FB7D5 )
-)
-
-game (
-	name "World Soccer Winning Eleven 10 - Ubiquitous Evolution (Japan) (v1.03)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 9B9704B5 )
-)
-
-game (
 	name "Pro Stroke Golf - World Tour 2007 (Europe)"
 	franchise "ProStroke Golf"
 	rom ( crc 73F4CB8D )
@@ -2467,6 +2701,96 @@ game (
 	name "Rainbow Islands Evolution (USA) (En,Fr,Es)"
 	franchise "Bubble Bobble"
 	rom ( crc 6C4AEECD )
+)
+
+game (
+	name "Ratchet & Clank - Size Matters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"
+	franchise "Ratchet & Clank"
+	rom ( crc 8981E31F )
+)
+
+game (
+	name "Ratchet & Clank - Size Matters (Korea)"
+	franchise "Ratchet & Clank"
+	rom ( crc DF0D1EF1 )
+)
+
+game (
+	name "Ratchet & Clank - Size Matters (USA) (Beta)"
+	franchise "Ratchet & Clank"
+	rom ( crc 3FAE0523 )
+)
+
+game (
+	name "Ratchet & Clank - Size Matters (USA) (En,Fr,De,Es,It) (v1.01)"
+	franchise "Ratchet & Clank"
+	rom ( crc C711EDE4 )
+)
+
+game (
+	name "Ratchet & Clank - Size Matters (USA) (v0.10) (Demo)"
+	franchise "Ratchet & Clank"
+	rom ( crc 1FB728EF )
+)
+
+game (
+	name "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan (Japan)"
+	franchise "Ratchet & Clank"
+	rom ( crc D04D879A )
+)
+
+game (
+	name "Reel Fishing - The Great Outdoors (Europe) (v1.01)"
+	franchise "Reel Fishing/Fish Eyes"
+	rom ( crc D9477CBF )
+)
+
+game (
+	name "Fish Eyes Portable (Japan) (v1.03)"
+	franchise "Reel Fishing/Fish Eyes"
+	rom ( crc 6A816B73 )
+)
+
+game (
+	name "Reel Fishing - The Great Outdoors (USA) (v1.01)"
+	franchise "Reel Fishing/Fish Eyes"
+	rom ( crc 8A6A92E6 )
+)
+
+game (
+	name "Rengoku II - The Stairway to H.E.A.V.E.N. (Europe) (En,Fr,De,Es,It) (v1.02)"
+	franchise "Rengoku"
+	rom ( crc 7BF4FD50 )
+)
+
+game (
+	name "Rengoku II - The Stairway to H.E.A.V.E.N. (Japan) (v1.02)"
+	franchise "Rengoku"
+	rom ( crc 04D5A317 )
+)
+
+game (
+	name "Rengoku II - The Stairway to H.E.A.V.E.N. (USA) (v1.02)"
+	franchise "Rengoku"
+	rom ( crc 71111D56 )
+)
+
+game (
+	name "Ridge Racer 2 (Europe) (En,Fr,De,Es,It)"
+	franchise "Ridge Racer"
+	rom ( crc 510F8BFA )
+)
+
+game (
+	name "Ridge Racer 2 (Asia) (En,Fr,De,Es,It)"
+	franchise "Ridge Racer"
+	rom ( crc 03886BD1 )
+)
+
+game (
+	name "Ridge Racers 2 (Japan) (v1.01)"
+	franchise "Ridge Racer"
+	rom ( crc 9804E701 )
 )
 
 game (
@@ -2866,18 +3190,6 @@ game (
 )
 
 game (
-	name "World Championship Poker 2 (Europe) (En,Fr,De,Es,It) (v1.03)"
-	franchise "World Championship Poker"
-	rom ( crc 618E54ED )
-)
-
-game (
-	name "World Championship Poker 2 featuring Howard Lederer (USA) (v1.01)"
-	franchise "World Championship Poker"
-	rom ( crc 602639D7 )
-)
-
-game (
 	name "World Championship Poker featuring Howard Lederer - All In (Europe) (En,Fr,De,Es,It) (v1.02)"
 	franchise "World Championship Poker"
 	rom ( crc 45626CB1 )
@@ -3076,24 +3388,6 @@ game (
 )
 
 game (
-	name "Bomberman Land (Europe) (En,Fr,De,Es,It) (v1.02)"
-	franchise "Bomberman"
-	rom ( crc 6E3C154B )
-)
-
-game (
-	name "Bomberman Land (USA) (v1.02)"
-	franchise "Bomberman"
-	rom ( crc 1B29821A )
-)
-
-game (
-	name "Bomberman Land Portable (Japan) (v1.01)"
-	franchise "Bomberman"
-	rom ( crc 4738E583 )
-)
-
-game (
 	name "Cabela's Legendary Adventures (USA)"
 	franchise "Cabela's"
 	rom ( crc 72E226C3 )
@@ -3166,24 +3460,6 @@ game (
 )
 
 game (
-	name "Class of Heroes (USA) (v1.01)"
-	franchise "Class of Heroes"
-	rom ( crc AF0B5A26 )
-)
-
-game (
-	name "Ken to Mahou to Gakuen Mono. (Japan) (v1.01)"
-	franchise "Class of Heroes"
-	rom ( crc F0EDE5F2 )
-)
-
-game (
-	name "Ken to Mahou to Gakuen Mono. (Japan) (v1.01) (PSP The Best)"
-	franchise "Class of Heroes"
-	rom ( crc F7076B94 )
-)
-
-game (
 	name "Code Lyoko - Quest for Infinity (Europe) (En,Fr,Es,It) (v1.01)"
 	franchise "Code Lyoko"
 	rom ( crc DDA9EAC8 )
@@ -3193,102 +3469,6 @@ game (
 	name "Code Lyoko - Quest for Infinity (USA) (En,Fr,Es) (v1.03)"
 	franchise "Code Lyoko"
 	rom ( crc A421645E )
-)
-
-game (
-	name "Colin McRae - DiRT 2 (Europe) (En,Fr,De,Es,It) (v1.02)"
-	franchise "Colin McRae / DiRT"
-	rom ( crc A3128372 )
-)
-
-game (
-	name "Colin McRae - DiRT 2 (Japan) (v1.01)"
-	franchise "Colin McRae / DiRT"
-	rom ( crc C374FCB8 )
-)
-
-game (
-	name "Colin McRae - DiRT 2 (USA) (v1.02)"
-	franchise "Colin McRae / DiRT"
-	rom ( crc 11D44644 )
-)
-
-game (
-	name "Crimson Gem Saga (USA)"
-	franchise "Astonishia Story"
-	rom ( crc FB3BA4CA )
-)
-
-game (
-	name "Astonishia Story 2 (Korea) (v1.08)"
-	franchise "Astonishia Story"
-	rom ( crc 2476A6A8 )
-)
-
-game (
-	name "Crimsongem Saga (Asia) (v1.05)"
-	franchise "Astonishia Story"
-	rom ( crc 064C8FA9 )
-)
-
-game (
-	name "Garnet Chronicle - Kouki no Maseki (Japan) (v1.01)"
-	franchise "Astonishia Story"
-	rom ( crc F9CFAC75 )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (Europe)"
-	franchise "Final Fantasy"
-	rom ( crc 4F6DE18C )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (Japan) (v1.01)"
-	franchise "Final Fantasy"
-	rom ( crc C62F7203 )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (Japan) (v1.01) (10th Anniversary Limited Edition)"
-	franchise "Final Fantasy"
-	rom ( crc 1FE13F10 )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (USA)"
-	franchise "Final Fantasy"
-	rom ( crc 4C7E2442 )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (France)"
-	franchise "Final Fantasy"
-	rom ( crc ADDE1EC8 )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (Italy)"
-	franchise "Final Fantasy"
-	rom ( crc ECB4DF96 )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (Spain)"
-	franchise "Final Fantasy"
-	rom ( crc 12B20CBA )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (Germany)"
-	franchise "Final Fantasy"
-	rom ( crc 1D800575 )
-)
-
-game (
-	name "Crisis Core - Final Fantasy VII (Asia)"
-	franchise "Final Fantasy"
-	rom ( crc CE3803E6 )
 )
 
 game (
@@ -3364,9 +3544,9 @@ game (
 )
 
 game (
-	name "Fate-Unlimited Codes Portable (Japan)"
-	franchise "Fate/"
-	rom ( crc 2ED3B2B7 )
+	name "Ever17 - The Out of Infinity Premium Edition (Japan)"
+	franchise "Infinity"
+	rom ( crc 794ABA8A )
 )
 
 game (
@@ -3706,30 +3886,6 @@ game (
 )
 
 game (
-	name "Magic Sudoku (Europe) (v1.03)"
-	franchise "Oekaki Puzzle"
-	rom ( crc 622868C1 )
-)
-
-game (
-	name "Magic Sudoku (Asia) (v1.01)"
-	franchise "Oekaki Puzzle"
-	rom ( crc 454D70F7 )
-)
-
-game (
-	name "Numpla & Oekaki Puzzle (Japan) (v1.01)"
-	franchise "Oekaki Puzzle"
-	rom ( crc C4C2B7A6 )
-)
-
-game (
-	name "Sudoku & Nemonemo Logic (Korea)"
-	franchise "Oekaki Puzzle"
-	rom ( crc 9AF2922A )
-)
-
-game (
 	name "Major League Baseball 2K8 (USA) (v1.02)"
 	franchise "Major League Baseball 2K"
 	rom ( crc ACA3CE37 )
@@ -3748,27 +3904,45 @@ game (
 )
 
 game (
-	name "Mana Khemia - Student Alliance (Europe) (v1.01)"
-	franchise "Atelier"
-	rom ( crc 4A5D98BB )
-)
-
-game (
-	name "Mana Khemia - Gakuen no Renkinjutsushi-tachi Portable + (Japan) (v1.04)"
-	franchise "Atelier"
-	rom ( crc 80874FFB )
-)
-
-game (
-	name "Mana Khemia - Student Alliance (USA)"
-	franchise "Atelier"
-	rom ( crc 67B02322 )
-)
-
-game (
 	name "Mana Khemia 2 Ochita Gakuen to Renkinjutsushi Tachi Portable (Japan) (v1.01)"
 	franchise "Atelier"
 	rom ( crc E9248014 )
+)
+
+game (
+	name "Medal of Honor - Heroes 2 (Europe)"
+	franchise "Medal of Honor"
+	rom ( crc 8C5B08A4 )
+)
+
+game (
+	name "Medal of Honor - Heroes 2 (Japan)"
+	franchise "Medal of Honor"
+	rom ( crc 1A9136F1 )
+)
+
+game (
+	name "Medal of Honor - Heroes 2 (USA)"
+	franchise "Medal of Honor"
+	rom ( crc 51D20DBD )
+)
+
+game (
+	name "Medal of Honor - Heroes 2 (Europe) (Fr,De,Es,It)"
+	franchise "Medal of Honor"
+	rom ( crc A7C1C1BC )
+)
+
+game (
+	name "Medal of Honor - Heroes 2 (Australia)"
+	franchise "Medal of Honor"
+	rom ( crc 97446E23 )
+)
+
+game (
+	name "Medal of Honor - Heroes 2 (Asia)"
+	franchise "Medal of Honor"
+	rom ( crc ACD9F375 )
 )
 
 game (
@@ -3994,6 +4168,54 @@ game (
 )
 
 game (
+	name "Need for Speed - Shift (Europe) (En,Fr,De,Es,It,Ru)"
+	franchise "Need for Speed"
+	rom ( crc 84C2B2DD )
+)
+
+game (
+	name "Need for Speed - Shift (Japan)"
+	franchise "Need for Speed"
+	rom ( crc 23930CAA )
+)
+
+game (
+	name "Need for Speed - Shift (USA) (En,Fr,Es)"
+	franchise "Need for Speed"
+	rom ( crc F73EF83C )
+)
+
+game (
+	name "Need for Speed - Shift (Asia) (En,Fr,Es)"
+	franchise "Need for Speed"
+	rom ( crc 71B67EC4 )
+)
+
+game (
+	name "Need for Speed - Undercover (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs,Hu)"
+	franchise "Need for Speed"
+	rom ( crc 50C805AA )
+)
+
+game (
+	name "Need for Speed - Undercover (Japan) (v1.01)"
+	franchise "Need for Speed"
+	rom ( crc E862E1DE )
+)
+
+game (
+	name "Need for Speed - Undercover (USA)"
+	franchise "Need for Speed"
+	rom ( crc 34D51F1A )
+)
+
+game (
+	name "Need for Speed - Undercover (Asia)"
+	franchise "Need for Speed"
+	rom ( crc AD0AFA69 )
+)
+
+game (
 	name "Ninja Katsugeki - Tenchu San Portable (Japan) (v1.01)"
 	franchise "Tenchu"
 	rom ( crc 6C97FBB7 )
@@ -4015,12 +4237,6 @@ game (
 	name "Obscure - The Aftermath (USA) (En,Fr,Es)"
 	franchise "Obscure"
 	rom ( crc 84F143E2 )
-)
-
-game (
-	name "Omoide ni Kawaru Kimi - Memories Off (Japan) (v1.01)"
-	franchise "Memories Off"
-	rom ( crc 5C6A2FAD )
 )
 
 game (
@@ -4090,39 +4306,51 @@ game (
 )
 
 game (
-	name "Pro Evolution Soccer 2008 (Europe) (En,Fr,De,Es,It,Pt) (v1.02)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 708E4AA0 )
+	name "R-Type Tactics (Europe) (En,Fr,De,Es,It) (v1.01)"
+	franchise "R-Type"
+	rom ( crc A0FDA493 )
 )
 
 game (
-	name "Pro Evolution Soccer 2008 (USA) (En,Fr,Es)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 09747656 )
+	name "R-Type Command (USA)"
+	franchise "R-Type"
+	rom ( crc 701B96C7 )
 )
 
 game (
-	name "World Soccer Winning Eleven - Ubiquitous Evolution 2008 (Japan) (v1.02)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc FD9BF6B0 )
+	name "R-Type Tactics (Japan) (v1.02)"
+	franchise "R-Type"
+	rom ( crc 6BE5B2B3 )
 )
 
 game (
-	name "Pro Evolution Soccer 2009 (Europe) (En,Fr,De,Es,It,Pt) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc EA4892B8 )
+	name "R-Type Tactics (Korea)"
+	franchise "R-Type"
+	rom ( crc E837F66E )
 )
 
 game (
-	name "Pro Evolution Soccer 2009 (USA) (En,Fr,Es,Pt) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc A8D52B6A )
+	name "Resistance - Retribution (Europe) (En,Ja,Fr,De,Es,It)"
+	franchise "Resistance"
+	rom ( crc 983E40DD )
 )
 
 game (
-	name "World Soccer Winning Eleven 2009 (Japan) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 6C6A3D26 )
+	name "Resistance - Houfuku no Toki (Japan) (En,Ja,Fr,Es)"
+	franchise "Resistance"
+	rom ( crc 34680AB5 )
+)
+
+game (
+	name "Resistance - Retribution (Asia) (En,Ja,Fr,Es)"
+	franchise "Resistance"
+	rom ( crc 125A466C )
+)
+
+game (
+	name "Resistance - Retribution (USA) (En,Ja,Fr,Es)"
+	franchise "Resistance"
+	rom ( crc 45A3BB4B )
 )
 
 game (
@@ -4318,6 +4546,78 @@ game (
 )
 
 game (
+	name "Tekken - Dark Resurrection (Europe) (En,Fr,De,Es,It) (v2.00)"
+	franchise "Tekken"
+	rom ( crc A401C076 )
+)
+
+game (
+	name "Tekken - Dark Resurrection (Korea) (v1.02)"
+	franchise "Tekken"
+	rom ( crc 07AA4903 )
+)
+
+game (
+	name "Tekken - Dark Resurrection (Asia) (v1.02) [b]"
+	franchise "Tekken"
+	rom ( crc D947D3AB )
+)
+
+game (
+	name "Tekken - Dark Resurrection (Japan) (v1.06)"
+	franchise "Tekken"
+	rom ( crc 9D925A8B )
+)
+
+game (
+	name "Tekken - Dark Resurrection (Europe) (En,Fr,De,Es,It) (Beta)"
+	franchise "Tekken"
+	rom ( crc 8D5258E7 )
+)
+
+game (
+	name "Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It)"
+	franchise "Tekken"
+	rom ( crc 3FFD7A9D )
+)
+
+game (
+	name "Tekken - Dark Resurrection (Europe) (En,Fr,De,Es,It)"
+	franchise "Tekken"
+	rom ( crc C02EAB89 )
+)
+
+game (
+	name "Tekken - Dark Resurrection (Europe) (Demo)"
+	franchise "Tekken"
+	rom ( crc 275BC912 )
+)
+
+game (
+	name "Tenchu - Shadow Assassins (Europe)"
+	franchise "Tenchu"
+	rom ( crc E0316912 )
+)
+
+game (
+	name "Tenchu - Shadow Assassins (USA) (v1.01)"
+	franchise "Tenchu"
+	rom ( crc 1C32B563 )
+)
+
+game (
+	name "Tenchu 4 (Japan) (v1.01)"
+	franchise "Tenchu"
+	rom ( crc DF507D62 )
+)
+
+game (
+	name "Tenchu 4 Plus (Japan)"
+	franchise "Tenchu"
+	rom ( crc 52639194 )
+)
+
+game (
 	name "Tiger Woods PGA Tour 09 (Europe) (En,Fr,De,Es,It)"
 	franchise "PGA Tour Golf"
 	rom ( crc 6A5F4E31 )
@@ -4375,6 +4675,84 @@ game (
 	name "Transformers - Revenge of the Fallen (Europe) (Es,It)"
 	franchise "Transformers"
 	rom ( crc 4F581222 )
+)
+
+game (
+	name "Valhalla Knights 2 - Battle Stance (Japan) (v1.01)"
+	franchise "Valhalla Knights"
+	rom ( crc DEB05968 )
+)
+
+game (
+	name "Warriors Orochi (Europe)"
+	franchise "Warriors Orochi"
+	rom ( crc 76E06584 )
+)
+
+game (
+	name "Musou Orochi (Asia)"
+	franchise "Warriors Orochi"
+	rom ( crc 9083E4FE )
+)
+
+game (
+	name "Musou Orochi (Japan) (v1.02)"
+	franchise "Warriors Orochi"
+	rom ( crc 4F6EFB0B )
+)
+
+game (
+	name "Warriors Orochi (USA)"
+	franchise "Warriors Orochi"
+	rom ( crc 5F18F569 )
+)
+
+game (
+	name "Warriors Orochi (France)"
+	franchise "Warriors Orochi"
+	rom ( crc 74527C40 )
+)
+
+game (
+	name "Warriors Orochi (Germany)"
+	franchise "Warriors Orochi"
+	rom ( crc DF2485F8 )
+)
+
+game (
+	name "Warriors Orochi 2 (Europe) (En,Fr) (v1.01)"
+	franchise "Warriors Orochi"
+	rom ( crc 08F0A5F1 )
+)
+
+game (
+	name "Musou Orochi - Maou Sairin (Japan)"
+	franchise "Warriors Orochi"
+	rom ( crc 72B485A2 )
+)
+
+game (
+	name "Musou Orochi - Maou Sairin Enhanced Version (Asia) (v1.01)"
+	franchise "Warriors Orochi"
+	rom ( crc A5E174AE )
+)
+
+game (
+	name "Musou Orochi - Maou Sairin Plus (Korea) (v1.01)"
+	franchise "Warriors Orochi"
+	rom ( crc AAC43E1F )
+)
+
+game (
+	name "Warriors Orochi 2 (USA) (En,Fr) (v1.02)"
+	franchise "Warriors Orochi"
+	rom ( crc C4863F05 )
+)
+
+game (
+	name "Warriors Orochi 2 (Germany) (v1.01)"
+	franchise "Warriors Orochi"
+	rom ( crc C79504A0 )
 )
 
 game (
@@ -4498,33 +4876,21 @@ game (
 )
 
 game (
-	name "Astro Boy - The Video Game (Europe) (v1.01)"
-	franchise "Astro Boy"
-	rom ( crc D1C45A85 )
+	name "Army of Two - The 40th Day (Europe) (En,Fr,De,Es,It) (v1.01)"
+	franchise "Army of Two"
+	rom ( crc B6FF0D2B )
 )
 
 game (
-	name "Astro Boy - The Video Game (USA) (En,Fr,Es,It,Nl)"
-	franchise "Astro Boy"
-	rom ( crc 11979E2D )
+	name "Army of Two - The 40th Day (Japan)"
+	franchise "Army of Two"
+	rom ( crc 08F4E0EC )
 )
 
 game (
-	name "Atom (Japan) (v1.01)"
-	franchise "Astro Boy"
-	rom ( crc 9E94BA0C )
-)
-
-game (
-	name "Bakugan Battle Brawlers - Defenders of the Core (Europe) (En,Fr,De,Es,It,Nl,Sv)"
-	franchise "Bakugan"
-	rom ( crc 2B949580 )
-)
-
-game (
-	name "Bakugan Battle Brawlers - Defenders of the Core (USA) (En,Fr)"
-	franchise "Bakugan"
-	rom ( crc A4B4EB27 )
+	name "Army of Two - The 40th Day (USA)"
+	franchise "Army of Two"
+	rom ( crc ECF74464 )
 )
 
 game (
@@ -4549,24 +4915,6 @@ game (
 	name "Ben 10 - Ultimate Alien - Cosmic Destruction (USA)"
 	franchise "BEN 10"
 	rom ( crc 12AABA48 )
-)
-
-game (
-	name "BlazBlue - Calamity Trigger Portable (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)"
-	franchise "BlazBlue"
-	rom ( crc DA3207E5 )
-)
-
-game (
-	name "BlazBlue - Calamity Trigger Portable (Japan) (v1.01)"
-	franchise "BlazBlue"
-	rom ( crc 5E490532 )
-)
-
-game (
-	name "BlazBlue - Calamity Trigger Portable (USA) (En,Ja,Zh,Ko)"
-	franchise "BlazBlue"
-	rom ( crc 6E40530E )
 )
 
 game (
@@ -4618,6 +4966,24 @@ game (
 )
 
 game (
+	name "Classic Dungeon - Fuyoku no Masoujin (Japan) (v1.01)"
+	franchise "ClaDun"
+	rom ( crc 095CF618 )
+)
+
+game (
+	name "Classic Dungeon X2 (Japan) (v1.02)"
+	franchise "ClaDun"
+	rom ( crc 632E0B6B )
+)
+
+game (
+	name "Corpse Party - Blood Covered - Repeated Fear (Japan) (v1.03)"
+	franchise "Corpse Party"
+	rom ( crc 3F65F94C )
+)
+
+game (
 	name "Criminal Girls (Japan) (v1.03)"
 	franchise "Criminal Girls"
 	rom ( crc A115038C )
@@ -4654,6 +5020,30 @@ game (
 )
 
 game (
+	name "Dead or Alive - Paradise (Europe) (En,Fr,De) (v1.02)"
+	franchise "Dead or Alive"
+	rom ( crc 10E8BE9E )
+)
+
+game (
+	name "Dead or Alive - Paradise (Japan) (v1.02)"
+	franchise "Dead or Alive"
+	rom ( crc 9F610CA1 )
+)
+
+game (
+	name "Dead or Alive - Paradise (Europe) (En,Fr,De) (v1.01)"
+	franchise "Dead or Alive"
+	rom ( crc F5CD3D32 )
+)
+
+game (
+	name "Dead or Alive - Paradise (USA) (v1.01)"
+	franchise "Dead or Alive"
+	rom ( crc 5B7FFE0A )
+)
+
+game (
 	name "Dissidia 012 - Duodecim Final Fantasy (Europe)"
 	franchise "Dissidia: Final Fantasy"
 	rom ( crc 81BFB318 )
@@ -4681,6 +5071,24 @@ game (
 	name "DJ Max Portable - Hottunes (Korea) (En,Ja,Ko) (v1.02) [b]"
 	franchise "DJ Max"
 	rom ( crc 54A544E6 )
+)
+
+game (
+	name "Dragon Ball Z - Tenkaichi Tag Team (Europe) (En,Fr,De,Es,It)"
+	franchise "Dragon Ball"
+	rom ( crc 60DCC003 )
+)
+
+game (
+	name "Dragon Ball Tag VS (Japan) (v1.01)"
+	franchise "Dragon Ball"
+	rom ( crc DCA4C3B7 )
+)
+
+game (
+	name "Dragon Ball Z - Tenkaichi Tag Team (USA) (En,Fr,Es)"
+	franchise "Dragon Ball"
+	rom ( crc 6A035B1C )
 )
 
 game (
@@ -4723,42 +5131,6 @@ game (
 	name "Football Manager Handheld 2011 (Europe) (En,Fr,De,Es,It) (v1.02)"
 	franchise "Football Manager"
 	rom ( crc 0365BAA0 )
-)
-
-game (
-	name "Fullmetal Alchemist - Brotherhood (Europe) (En,De)"
-	franchise "Fullmetal Alchemist"
-	rom ( crc E40DA593 )
-)
-
-game (
-	name "Fullmetal Alchemist - Brotherhood (France)"
-	franchise "Fullmetal Alchemist"
-	rom ( crc 4CD6E3A4 )
-)
-
-game (
-	name "Hagane no Renkinjutsushi - Fullmetal Alchemist - Senaka o Takuseshi Mono (Japan) (v1.01)"
-	franchise "Fullmetal Alchemist"
-	rom ( crc 301DA14E )
-)
-
-game (
-	name "Gensan (Europe) (En,Fr,De,Es,It) (v1.05)"
-	franchise "Hammerin' Harry"
-	rom ( crc A774929A )
-)
-
-game (
-	name "Hammerin' Hero (USA)"
-	franchise "Hammerin' Harry"
-	rom ( crc 46092FCC )
-)
-
-game (
-	name "Ikuze! Gen-San - Yuuyake Daiku Monogatari (Japan) (v1.01)"
-	franchise "Hammerin' Harry"
-	rom ( crc D574B2FA )
 )
 
 game (
@@ -4819,6 +5191,18 @@ game (
 	name "Hannah Montana - Rock Out the Show (Europe) (En,Sv,No,Da,Ru) [b]"
 	franchise "Hanna Montana"
 	rom ( crc F163720C )
+)
+
+game (
+	name "Harukanaru Toki no Naka de 4 Aizouban (Japan) (v1.01)"
+	franchise "Harukanaru Toki no Naka de"
+	rom ( crc 4009933B )
+)
+
+game (
+	name "Harukanaru Toki no Naka de 5 (Japan) (v1.01)"
+	franchise "Harukanaru Toki no Naka de"
+	rom ( crc E64EE5EE )
 )
 
 game (
@@ -4900,6 +5284,24 @@ game (
 )
 
 game (
+	name "Imagine - Champion Rider (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)"
+	franchise "Imagine Series (Ubisoft)"
+	rom ( crc E87429F3 )
+)
+
+game (
+	name "Imagine Champion Rider (Russia)"
+	franchise "Imagine Series (Ubisoft)"
+	rom ( crc 93C4D5BD )
+)
+
+game (
+	name "Petz - Saddle Club (USA)"
+	franchise "Imagine Series (Ubisoft)"
+	rom ( crc D35DA397 )
+)
+
+game (
 	name "Jikkyou Powerful Pro Yakyuu 2010 (Japan) (v1.02)"
 	franchise "Powerful Pro Baseball"
 	rom ( crc 8E36A15F )
@@ -4921,6 +5323,12 @@ game (
 	name "Katekyoo Hitman Reborn! Kizuna no Tag Battle (Japan) (v1.01)"
 	franchise "Katekyoo Hitman Reborn!"
 	rom ( crc C5268469 )
+)
+
+game (
+	name "Ken to Mahou to Gakuen Mono. 3 (Japan) (v1.01)"
+	franchise "Class of Heroes"
+	rom ( crc 6AD2644D )
 )
 
 game (
@@ -5104,6 +5512,12 @@ game (
 )
 
 game (
+	name "Monster Hunter Portable 3rd (Japan) (v1.02)"
+	franchise "Monster Hunter"
+	rom ( crc D875535A )
+)
+
+game (
 	name "Naruto Shippuden - Ultimate Ninja Heroes 3 (Europe) (En,Fr,De,Es,It)"
 	franchise "Naruto"
 	rom ( crc 6B6FE824 )
@@ -5176,93 +5590,39 @@ game (
 )
 
 game (
-	name "Prinny 2 - Dawn of Operation Panties, Dood! (USA)"
-	franchise "Disgaea"
-	rom ( crc 5EB56C25 )
+	name "Prince of Persia - The Forgotten Sands (Europe) (En,Fr,De,Es,It,Nl)"
+	franchise "Prince of Persia"
+	rom ( crc 886B7B6E )
 )
 
 game (
-	name "Prinny 2 - Toukou Yuugi! Akatsuki no Pantsu Daisakusenss!! (Japan) (v1.03)"
-	franchise "Disgaea"
-	rom ( crc 82A7FD76 )
+	name "Prince of Persia - Boukyaku no Suna (Japan)"
+	franchise "Prince of Persia"
+	rom ( crc 0F19F1E9 )
+)
+
+game (
+	name "Prince of Persia - The Forgotten Sands (Russia)"
+	franchise "Prince of Persia"
+	rom ( crc 70601AE9 )
+)
+
+game (
+	name "Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (v1.01)"
+	franchise "Prince of Persia"
+	rom ( crc 1AC3E681 )
+)
+
+game (
+	name "Prince of Persia - The Forgotten Sands (Asia) (v1.01)"
+	franchise "Prince of Persia"
+	rom ( crc F1B843BF )
 )
 
 game (
 	name "Pro Cycling Season 2010 - Le Tour de France (Europe) (En,Fr,De,Es,It,Nl,Da) (v1.01)"
 	franchise "Pro Cycling Manager"
 	rom ( crc DCE6E25B )
-)
-
-game (
-	name "Pro Evolution Soccer 2010 (Europe) (En,Nl,Sv,Ru) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 1C1E2A32 )
-)
-
-game (
-	name "Pro Evolution Soccer 2010 (Europe) (Fr,De,Es,It,Pt) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc A2441EEC )
-)
-
-game (
-	name "Pro Evolution Soccer 2010 (USA) (En,Fr,Es,Pt)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 396F1022 )
-)
-
-game (
-	name "World Soccer Winning Eleven 2010 (Japan) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 9D98127A )
-)
-
-game (
-	name "Pro Evolution Soccer 2011 (Europe) (En,Nl,Sv,Ru) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 0680F598 )
-)
-
-game (
-	name "Pro Evolution Soccer 2011 (Europe) (It,El)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc F992048E )
-)
-
-game (
-	name "Pro Evolution Soccer 2011 (Europe) (Fr,De)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 6385857B )
-)
-
-game (
-	name "Pro Evolution Soccer 2011 (Europe) (Es,Pt)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc D6585FDD )
-)
-
-game (
-	name "Pro Evolution Soccer 2011 (USA) (En,Es)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc D9693164 )
-)
-
-game (
-	name "World Soccer Winning Eleven 2011 (Japan) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 4AEA835C )
-)
-
-game (
-	name "World Soccer Winning Eleven 2011 (Asia) (En,Zh,Ko) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc BA808BFE )
-)
-
-game (
-	name "World Soccer Winning Eleven 2011 (Korea) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc DBC15E25 )
 )
 
 game (
@@ -5284,9 +5644,21 @@ game (
 )
 
 game (
+	name "R-Type Tactics II - Operation Bitter Chocolate (Japan) (v1.05)"
+	franchise "R-Type"
+	rom ( crc C0D0732C )
+)
+
+game (
 	name "Rurouni Kenshin - Meiji Kenkaku Romantan Saisen (Japan) (v1.01)"
 	franchise "Rurouni Kenshin"
 	rom ( crc 406B6FAD )
+)
+
+game (
+	name "SD Gundam - G Generation World (Japan) (v1.02)"
+	franchise "SD Gundam"
+	rom ( crc 12183452 )
 )
 
 game (
@@ -5374,12 +5746,6 @@ game (
 )
 
 game (
-	name "Tears to Tiara - Kakan no Daichi Portable (Japan) (v1.04)"
-	franchise "Tears to Tiara"
-	rom ( crc 32D54FBA )
-)
-
-game (
 	name "Tears to Tiara Gaiden - Avalon no Nazo Portable (Japan) (v1.01)"
 	franchise "Tears to Tiara"
 	rom ( crc B8756C6B )
@@ -5437,6 +5803,18 @@ game (
 	name "Viorate no Atelier - Gramnad no Renkinjutsushi 2 - Gunjou no Omoide (Japan) (v1.01)"
 	franchise "Atelier"
 	rom ( crc C92010B3 )
+)
+
+game (
+	name "White Knight Chronicles - Origins (Europe) (En,Fr,De,Es,It)"
+	franchise "White Knight Chronicle"
+	rom ( crc AC64718F )
+)
+
+game (
+	name "Shirokishi Monogatari Episode Portable - Dogma Wars (Japan)"
+	franchise "White Knight Chronicle"
+	rom ( crc 485E94D5 )
 )
 
 game (
@@ -5506,6 +5884,12 @@ game (
 )
 
 game (
+	name "Yuusha no Kuse ni Namaikida 3D (Japan) (v1.01)"
+	franchise "What Did I Do to Deserve This, My Lord"
+	rom ( crc 59DCD0DF )
+)
+
+game (
 	name "7th Dragon 2020 (Japan) (v1.01)"
 	franchise "7th Dragon"
 	rom ( crc 0BDEEA34 )
@@ -5554,24 +5938,6 @@ game (
 )
 
 game (
-	name "Class of Heroes 2 (USA) (v1.01)"
-	franchise "Class of Heroes"
-	rom ( crc 681C936F )
-)
-
-game (
-	name "Ken to Mahou to Gakuen Mono. 2 (Japan) (v1.03)"
-	franchise "Class of Heroes"
-	rom ( crc A5FECCEE )
-)
-
-game (
-	name "Ken to Mahou to Gakuen Mono. 2 (Japan) (v1.01) (PSP The Best)"
-	franchise "Class of Heroes"
-	rom ( crc 4F8D82A2 )
-)
-
-game (
 	name "Corpse Party - The Anthology - Sachiko no Renai Yuugi - Hysteric Birthday 2U (Japan) (v1.01)"
 	franchise "Corpse Party"
 	rom ( crc 917B0409 )
@@ -5596,6 +5962,12 @@ game (
 )
 
 game (
+	name "Eiyuu Densetsu - Ao no Kiseki (Japan) (v1.01)"
+	franchise "The Legend of Heroes"
+	rom ( crc EFDD7E79 )
+)
+
+game (
 	name "Elminage Gothic - Ulm Zakir to Yami no Gishiki (Japan) (v1.01)"
 	franchise "Elminage"
 	rom ( crc 87A43969 )
@@ -5611,12 +5983,6 @@ game (
 	name "Elminage III - Ankoku no Shito to Taiyou no Kyuuden (Japan) (v1.03)"
 	franchise "Elminage"
 	rom ( crc 74AE8A6C )
-)
-
-game (
-	name "Eternal Etude - Canvas 4 (Japan) (v1.01)"
-	franchise "Canvas"
-	rom ( crc 25C5D8B7 )
 )
 
 game (
@@ -5695,48 +6061,6 @@ game (
 	name "Growlanser IV - Over Reloaded (Japan)"
 	franchise "Growlanser"
 	rom ( crc 4BF6E75F )
-)
-
-game (
-	name "Guilty Gear XX Accent Core Plus (Europe) (v1.01)"
-	franchise "Guilty Gear"
-	rom ( crc A2BEE0FB )
-)
-
-game (
-	name "Guilty Gear XX Accent Core Plus (Japan)"
-	franchise "Guilty Gear"
-	rom ( crc C375C9E2 )
-)
-
-game (
-	name "Guilty Gear XX Accent Core Plus (USA)"
-	franchise "Guilty Gear"
-	rom ( crc 1834C23D )
-)
-
-game (
-	name "Gungnir (USA)"
-	franchise "Dept. Heaven"
-	rom ( crc 183F3EDC )
-)
-
-game (
-	name "Gungnir - Masou no Gunshin to Eiyuu Sensou (Japan) (v1.01)"
-	franchise "Dept. Heaven"
-	rom ( crc 8DC11614 )
-)
-
-game (
-	name "Hakuoki - Demon of the Fleeting Blossom (USA)"
-	franchise "Hakuoki"
-	rom ( crc 1D84CB8C )
-)
-
-game (
-	name "Hakuoki Portable (Japan) (v1.01)"
-	franchise "Hakuoki"
-	rom ( crc 31793E4C )
 )
 
 game (
@@ -5980,6 +6304,24 @@ game (
 )
 
 game (
+	name "Naruto Shippuden - Ultimate Ninja Impact (Europe) (En,Fr,De,Es,It) (v1.01)"
+	franchise "Naruto"
+	rom ( crc 6DDFC31E )
+)
+
+game (
+	name "Naruto Shippuden - Narutimate Impact (Japan)"
+	franchise "Naruto"
+	rom ( crc 9150387E )
+)
+
+game (
+	name "Naruto Shippuden - Ultimate Ninja Impact (USA) (En,Fr,Es)"
+	franchise "Naruto"
+	rom ( crc D8F7797C )
+)
+
+game (
 	name "NBA 2K12 (Europe) (En,Fr,De,Es,It) (v1.01)"
 	franchise "NBA 2K Basketball"
 	rom ( crc 0F75393A )
@@ -6034,108 +6376,6 @@ game (
 )
 
 game (
-	name "Pro Evolution Soccer 2012 (Europe) (En,Nl,Sv,Ru,Tr) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 9C3FE267 )
-)
-
-game (
-	name "Pro Evolution Soccer 2012 (Europe) (Es,It,Pt,El)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc AE285B92 )
-)
-
-game (
-	name "Pro Evolution Soccer 2012 (Europe) (Fr,De)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc F8106862 )
-)
-
-game (
-	name "Pro Evolution Soccer 2012 (USA) (En,Fr,Es,Pt) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc CDEBA00F )
-)
-
-game (
-	name "World Soccer Winning Eleven 2012 (Japan)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc F4F1B3CA )
-)
-
-game (
-	name "World Soccer Winning Eleven 2012 (Asia) (En,Zh)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 899FF887 )
-)
-
-game (
-	name "Pro Evolution Soccer 2013 (Europe) (En,Nl,Sv,Ru,Tr)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc A0F7FFBE )
-)
-
-game (
-	name "Pro Evolution Soccer 2013 (Europe) (Fr,De)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc E0B41540 )
-)
-
-game (
-	name "Pro Evolution Soccer 2013 (Europe) (Es,Pt)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 7E8BBEFC )
-)
-
-game (
-	name "Pro Evolution Soccer 2013 (USA) (En,Fr,Es,Pt)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc D4396DD2 )
-)
-
-game (
-	name "Pro Evolution Soccer 2013 (Europe) (It,El)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 2A080B07 )
-)
-
-game (
-	name "World Soccer Winning Eleven 2013 (Japan)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 9D6D8841 )
-)
-
-game (
-	name "Pro Evolution Soccer 2014 (Europe) (En,Nl,Sv,Ru,Tr) (v1.01)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 1BA1EFB7 )
-)
-
-game (
-	name "Pro Evolution Soccer 2014 (Europe) (Fr,De)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc EB3211E8 )
-)
-
-game (
-	name "Pro Evolution Soccer 2014 (Europe) (It,El)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc C5B4A90D )
-)
-
-game (
-	name "Pro Evolution Soccer 2014 (Europe) (Es,Pt)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 95AB79A9 )
-)
-
-game (
-	name "World Soccer Winning Eleven 2014 (Japan)"
-	franchise "Pro Evolution / Winning Eleven"
-	rom ( crc 06BF9FE2 )
-)
-
-game (
 	name "Pro Yakyuu Spirits 2012 (Japan)"
 	franchise "Pro Yakyuu Spirits"
 	rom ( crc F7D698FB )
@@ -6151,18 +6391,6 @@ game (
 	name "Pro Yakyuu Spirits 2014 (Japan)"
 	franchise "Pro Yakyuu Spirits"
 	rom ( crc BE8DAD08 )
-)
-
-game (
-	name "Ragnarok Tactics (USA)"
-	franchise "Ragnarok"
-	rom ( crc 04EDFC63 )
-)
-
-game (
-	name "Ragnarok - Hikari to Yami no Koujo (Japan) (v1.02)"
-	franchise "Ragnarok"
-	rom ( crc 6846944F )
 )
 
 game (
@@ -6199,6 +6427,24 @@ game (
 	name "Shin Ken to Mahou to Gakuen Mono. - Toki no Gakuen (Japan) (v1.01)"
 	franchise "Class of Heroes"
 	rom ( crc 2E13AF0F )
+)
+
+game (
+	name "Shin Megami Tensei - Persona 2 - Innocent Sin (Europe)"
+	franchise "Persona"
+	rom ( crc 1B2E13FF )
+)
+
+game (
+	name "Persona 2 - Tsumi (Japan) (v1.01)"
+	franchise "Persona"
+	rom ( crc A1DBEEDE )
+)
+
+game (
+	name "Shin Megami Tensei - Persona 2 - Innocent Sin (USA)"
+	franchise "Persona"
+	rom ( crc 58AE311A )
 )
 
 game (

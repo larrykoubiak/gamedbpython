@@ -1,0 +1,185 @@
+clrmamepro (
+	name "Sega - 32X"
+	description "Sega - 32X"
+)
+
+game (
+	name "After Burner Complete (Europe)"
+	publisher "Sega"
+	rom ( crc 029106F5 )
+)
+
+game (
+	name "Amazing Spider-Man, The - Web of Fire (USA)"
+	publisher "Sega"
+	rom ( crc 29DCE257 )
+)
+
+game (
+	name "BC Racers (USA)"
+	publisher "Front Street Publishing"
+	rom ( crc 936C3D27 )
+)
+
+game (
+	name "Blackthorne (USA)"
+	publisher "Sega"
+	rom ( crc D1A60A47 )
+)
+
+game (
+	name "Brutal Unleashed - Above the Claw (USA)"
+	publisher "GameTek"
+	rom ( crc 7A72C939 )
+)
+
+game (
+	name "Darxide (Europe) (En,Fr,De,Es)"
+	publisher "Sega"
+	rom ( crc 22D7C906 )
+)
+
+game (
+	name "Doom (Europe)"
+	publisher "Sega"
+	rom ( crc 53734E3A )
+)
+
+game (
+	name "FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv)"
+	publisher "Electronic Arts"
+	rom ( crc FB14A7C8 )
+)
+
+game (
+	name "Golf Magazine 36 Great Holes Starring Fred Couples (Europe)"
+	publisher "Sega"
+	rom ( crc 6EF99202 )
+)
+
+game (
+	name "Knuckles' Chaotix (Europe)"
+	publisher "Sega"
+	rom ( crc 41D63572 )
+)
+
+game (
+	name "Metal Head (Europe) (En,Ja)"
+	publisher "Sega"
+	rom ( crc BF9B8376 )
+)
+
+game (
+	name "Motocross Championship (Europe)"
+	publisher "Sega"
+	rom ( crc AE3364E9 )
+)
+
+game (
+	name "Motocross Championship (USA)"
+	publisher "Sega"
+	rom ( crc A21C5761 )
+)
+
+game (
+	name "NBA Jam - Tournament Edition (World)"
+	publisher "Acclaim"
+	rom ( crc 6B7994AA )
+)
+
+game (
+	name "NFL Quarterback Club (World)"
+	publisher "Acclaim"
+	rom ( crc 0BC7018D )
+)
+
+game (
+	name "Pitfall - The Mayan Adventure (USA)"
+	publisher "Activision"
+	rom ( crc F9126F15 )
+)
+
+game (
+	name "RBI Baseball '95 (USA)"
+	publisher "Time Warner Interactive"
+	rom ( crc FF795FDC )
+)
+
+game (
+	name "Sangokushi IV (Japan)"
+	publisher "Koei"
+	rom ( crc E4DE7625 )
+)
+
+game (
+	name "Space Harrier (Europe)"
+	publisher "Sega"
+	rom ( crc 5CAC3587 )
+)
+
+game (
+	name "Star Trek Starfleet Academy - Starship Bridge Simulator (USA)"
+	publisher "Interplay"
+	rom ( crc DD9708B9 )
+)
+
+game (
+	name "Star Wars Arcade (Europe)"
+	publisher "Sega"
+	rom ( crc 82E82660 )
+)
+
+game (
+	name "Star Wars Arcade (Japan)"
+	publisher "Sega"
+	rom ( crc F4E9B846 )
+)
+
+game (
+	name "Star Wars Arcade (USA)"
+	publisher "Sega"
+	rom ( crc 2F16B44A )
+)
+
+game (
+	name "Virtua Fighter (Europe)"
+	publisher "Sega"
+	rom ( crc 25AEA73C )
+)
+
+game (
+	name "Virtua Racing Deluxe (Europe)"
+	publisher "Sega"
+	rom ( crc 27F14B5F )
+)
+
+game (
+	name "Virtua Racing Deluxe (Japan)"
+	publisher "Sega"
+	rom ( crc 0908E888 )
+)
+
+game (
+	name "Virtua Racing Deluxe (USA)"
+	publisher "Sega"
+	rom ( crc 7896B62E )
+)
+
+game (
+	name "World Series Baseball Starring Deion Sanders (USA)"
+	publisher "Sega"
+	rom ( crc 6DE1BC75 )
+)
+
+game (
+	name "WWF Raw (World)"
+	publisher "Acclaim"
+	rom ( crc 8EB7CD2C )
+)
+
+game (
+	name "WWF WrestleMania - The Arcade Game (USA)"
+	publisher "Acclaim"
+	rom ( crc 61833503 )
+)
+
