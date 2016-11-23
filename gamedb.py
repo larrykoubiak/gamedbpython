@@ -502,18 +502,20 @@ class GameDB:
         for system in systems:
             print "Matching Softwares for System : " + system[1]
             releaseDic = {}
-            query = """SELECT DISTINCT sr.scraperGameId, sr.scraperReleaseName FROM tblScraperReleases
+            gameDic = {}
+            query = """SELECT DISTINCT sr.scraperReleaseId, sr.scraperReleaseName, sr.scraperGameId FROM tblScraperReleases
                     sr INNER JOIN tblScraperGames sg ON sg.scraperGameId = sr.scraperGameId WHERE sg.scraperSystemId = ?"""
             self.cur.execute(query,(system[2],))
             for row in self.cur:
                 releaseDic[row[0]] = row[1]
+                gameDic[row[0]] = row[2]
 
             query = "SELECT softwareId, softwareName FROM tblSoftwares s WHERE s.systemId = ? AND NOT EXISTS (SELECT 1 FROM tblSoftwareMap WHERE softwareId = s.softwareId)"
             self.cur.execute(query,(system[0],))
             softwares = self.cur.fetchall()
             for software in softwares:
-                scraperGameId = self.matcher.match_fuzzy(releaseDic,software[1])
-                self.getSoftwareMatch(software[0],scraperGameId)
+                scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1])
+                self.getSoftwareMatch(software[0],None if scraperReleaseId is None else gameDic[scraperReleaseId])
         self.con.commit()
 
     def match_releases(self):
@@ -714,6 +716,7 @@ class GameDB:
         systemrows = self.cur.fetchall()
         for systemrow in systemrows:
             self.exporter.create_rdb(systemrow[0])
+            
             
 if __name__ == '__main__':
     gamedb = GameDB()

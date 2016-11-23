@@ -40,6 +40,7 @@ ro.sha1,
 ro.size,
 sr.scraperName,
 sg.scraperGameName,
+sg.scraperGameURL,
 GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Region' THEN rfv.releaseFlagValue END)) [Region],
 GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Version' THEN rfv.releaseFlagValue END)) [Version],
 GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'License' THEN rfv.releaseFlagValue END)) [License],
@@ -79,7 +80,8 @@ ro.md5,
 ro.sha1,
 ro.size,
 sr.scraperName,
-sg.scraperGameName;
+sg.scraperGameName,
+sg.scraperGameURL;
 /*-------------*/
 /*   Indexes   */
 /*-------------*/

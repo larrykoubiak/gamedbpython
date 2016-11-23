@@ -30,7 +30,7 @@ class Exporter:
                 commands.append("c_converter_win.exe")
             else:
                 commands.append("./c_converter")
-            commands.append("rdb/" + systemName + ".rdb")
+            commands.append("libretro-database/rdb/" + systemName + ".rdb")
             commands.append("rom.crc")
             commands.append("libretro-database/metadat/no-intro/" + systemName + ".dat")
             if os.path.exists("libretro-database/metadat/developer/" + systemName + ".dat"):
