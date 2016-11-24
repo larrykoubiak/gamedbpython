@@ -362,8 +362,8 @@ class GameDB:
     def getSoftwareMatch(self,softwareId,scraperGameId):
         softwareMatchDic = {}
         softwareMatchDic['softwareId'] = softwareId
-        softwareMatchDic['scraperGameId'] = scraperGameId
-        query = "SELECT 1 FROM tblSoftwareMap WHERE softwareId = :softwareId AND scraperGameId = :scraperGameId"
+        softwareMatchDic['scraperGameId'] = 0 if scraperGameId is None else scraperGameId
+        query = "SELECT 1 FROM tblSoftwareMap WHERE softwareId = :softwareId AND scraperGameId = IFNULL(:scraperGameId,0)"
         self.cur.execute(query,softwareMatchDic)
         softwareMatchrow = self.cur.fetchone()
         if softwareMatchrow is None:
@@ -510,11 +510,13 @@ class GameDB:
                 releaseDic[row[0]] = row[1]
                 gameDic[row[0]] = row[2]
 
-            query = "SELECT softwareId, softwareName FROM tblSoftwares s WHERE s.systemId = ? AND NOT EXISTS (SELECT 1 FROM tblSoftwareMap WHERE softwareId = s.softwareId)"
+            query = "SELECT softwareId, softwareName FROM tblSoftwares s WHERE s.systemId = ? AND NOT EXISTS (SELECT 1 FROM tblSoftwareMap WHERE softwareId = s.softwareId AND scraperGameId IS NOT NULL)"
             self.cur.execute(query,(system[0],))
             softwares = self.cur.fetchall()
             for software in softwares:
-                scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1])
+                scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1],"Full",80)
+                if scraperReleaseId == None:
+                    scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1],"Partial",86)
                 self.getSoftwareMatch(software[0],None if scraperReleaseId is None else gameDic[scraperReleaseId])
         self.con.commit()
 
@@ -556,7 +558,7 @@ class GameDB:
                     releaseDic = {}
                     for match in matches:
                         releaseDic[match[0]] = match[1]
-                    scraperReleaseId = self.matcher.match_fuzzy(releaseDic,releaserow[1])
+                    scraperReleaseId = self.matcher.match_fuzzy(releaseDic,releaserow[1],"Full",80)
                     self.getReleaseMatch(releaserow[0],scraperReleaseId)
         self.con.commit()
         

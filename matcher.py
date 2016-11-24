@@ -19,10 +19,14 @@ class Matcher:
             self.synonyms.append(synonymDic)
         synonymsfile.close()
 
-    def match_fuzzy(self, Dic, Entry):
+    def match_fuzzy(self, Dic, Entry,matchtype="Full", ratio=80):
         for key,value in Dic.items():
             Dic[key] = self.normalize(value)
-        match = process.extractOne(self.normalize(Entry),Dic,scorer=fuzz.QRatio,score_cutoff=80)
+        if matchtype == "Full":
+            scorertype = fuzz.QRatio
+        elif matchtype == "Partial":
+            scorertype = fuzz.partial_ratio
+        match = process.extractOne(self.normalize(Entry),Dic,scorer=scorertype,score_cutoff=ratio)
         return match[2] if match is not None else None
 
     def normalize(self, s):
