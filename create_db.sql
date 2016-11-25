@@ -21,17 +21,19 @@ CREATE TABLE IF NOT EXISTS tblScraperReleases (scraperReleaseId INTEGER PRIMARY 
 CREATE TABLE IF NOT EXISTS tblScraperReleaseFlags (scraperReleaseId INTEGER, scraperReleaseFlagName TEXT, scraperReleaseFlagValue TEXT);
 CREATE TABLE IF NOT EXISTS tblScraperReleaseImages (scraperReleaseImageId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperReleaseId INTEGER, scraperReleaseImageName TEXT, scraperReleaseImageType TEXT);
 --Matcher tables
-CREATE TABLE IF NOT EXISTS tblSynonyms (key TEXT, value TEXT);
+CREATE TABLE IF NOT EXISTS tblSynonyms (key TEXT, value TEXT, type TEXT);
 CREATE TABLE IF NOT EXISTS tblSystemMap(systemId INTEGER, scraperSystemId INTEGER);
 CREATE TABLE IF NOT EXISTS tblSoftwareMap(softwareId INTEGER, scraperGameId INTEGER);
 CREATE TABLE IF NOT EXISTS tblReleaseMap(releaseId INTEGER, scraperReleaseId INTEGER);
 --View
-CREATE VIEW IF NOT EXISTS v_match AS
+CREATE VIEW v_match AS
 SELECT 
 d.datFileName, 
 s.systemManufacturer || " - " || s.systemName systemName,
+so.softwareId,
 so.softwareName,
 so.softwareType,
+r.releaseId,
 r.releaseName,
 r.releaseType,
 ro.crc32,
@@ -71,8 +73,10 @@ tblScraperGameFlags sgf ON sgf.scraperGameId = sg.scraperGameId
 GROUP BY 
 d.datFileName, 
 s.systemManufacturer || " - " || s.systemName,
+so.softwareId,
 so.softwareName,
 so.softwareType,
+r.releaseId,
 r.releaseName,
 r.releaseType,
 ro.crc32,

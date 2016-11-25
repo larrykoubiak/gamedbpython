@@ -339,11 +339,11 @@ class GameDB:
 
     def getSynonym(self,synonymDic):
         synonymId = None
-        query = "SELECT key, value FROM tblSynonyms WHERE key=:key AND value=:value"
+        query = "SELECT key, value, type FROM tblSynonyms WHERE key=:key AND value=:value AND type=:type"
         self.cur.execute(query,synonymDic)
         synonymrow = self.cur.fetchone()
         if synonymrow is None:
-            query = "INSERT INTO tblSynonyms (key,value) VALUES (:key,:value)"
+            query = "INSERT INTO tblSynonyms (key,value,type) VALUES (:key,:value,:type)"
             self.cur.execute(query,synonymDic)
 
     def getSystemMatch(self,systemId,scraperSystemId):
@@ -486,7 +486,7 @@ class GameDB:
         for scraperSystem in scraperSystems:
             print "Matching System : " + scraperSystem[1]
             #use synonym table to find match
-            query = "SELECT s.systemId FROM tblSystems s INNER JOIN tblSynonyms sn ON sn.key = s.systemName INNER JOIN tblScraperSystems ss ON ss.scraperSystemName = sn.value WHERE ss.scraperSystemId = " + str(scraperSystem[0])
+            query = "SELECT s.systemId FROM tblSystems s INNER JOIN tblSynonyms sn ON sn.key = s.systemName AND sn.type = 'System' INNER JOIN tblScraperSystems ss ON ss.scraperSystemName = sn.value WHERE ss.scraperSystemId = " + str(scraperSystem[0])
             self.cur.execute(query)
             systemrows = self.cur.fetchall()
             for systemrow in systemrows:
@@ -534,7 +534,7 @@ class GameDB:
                     tblReleases r INNER JOIN
                     tblReleaseFlagValues rfv On rfv.releaseId = r.releaseId INNER JOIN
                     tblReleaseFlags rf ON rf.releaseFlagId = rfv.releaseFlagId INNER JOIN
-                    tblSynonyms sy ON sy.key = rfv.releaseFlagValue INNER JOIN
+                    tblSynonyms sy ON sy.key = rfv.releaseFlagValue AND sy.type = 'Region' INNER JOIN
                     tblSoftwares so ON r.softwareId = so.softwareId INNER JOIN
                     tblSystems s ON s.systemId = so.systemId INNER JOIN
                     tblSoftwareMap sm ON sm.softwareId = so.softwareId INNER JOIN
@@ -722,9 +722,9 @@ class GameDB:
             
 if __name__ == '__main__':
     gamedb = GameDB()
-    gamedb.import_dats()
-    gamedb.import_scrapers()
-    gamedb.match_systems()
+##    gamedb.import_dats()
+##    gamedb.import_scrapers()
+##    gamedb.match_systems()
     gamedb.match_softwares()
     gamedb.match_releases()
     gamedb.export_releaseflags()

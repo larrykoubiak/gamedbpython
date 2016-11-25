@@ -1,87 +1,109 @@
-﻿5200,Atari 5200
-7800,Atari 7800
-Jaguar,Jaguar CD
-Jaguar,Jaguar
-Lynx,Lynx
-WonderSwan Color,WonderSwan Color
-WonderSwan,WonderSwan
-Loopy,Casio Loopy
-PV-1000,Casio PV-1000
-ColecoVision,Colecovision
-Arcadia 2001,Arcadia 2001
-Adventure Vision,Adventurevision
-Super Cassette Vision,Cassette Vision
-Super Cassette Vision,Super Cassette Vision
-Super Cassette Vision,Epoch Cassette Vision
-Super Cassette Vision,Epoch Super Cassette Vision
-Channel F,Channel F
-Super Acan,Super A'can
-GP32,GP32
-Vectrex,Vectrex
-Odyssey2,Odyssey^2
-Odyssey2,Odyssey
-Odyssey2,Odyssey 2
-MSX 2,MSX
-MSX,MSX
-PC Engine - TurboGrafx 16,TurboGrafx-16
-Super Grafx,SuperGrafx
-Famicom Disk System,Famicom Disk System
-Game Boy Advance,Game Boy Advance
-Game Boy Color,Game Boy Color
-Game Boy,Game Boy
-Nintendo 64,Nintendo 64
-Nintendo 64DD,Nintendo 64DD
-Nintendo 3DS,Nintendo 3DS
-Nintendo DSi,Nintendo DSi
-Nintendo DS,Nintendo DS
-Nintendo Entertainment System,NES
-Pokemon Mini,Pokémon Mini
-Satellaview,SNES
-Satellaview,Super Nintendo
-Sufami Turbo,SNES
-Sufami Turbo,Super Nintendo
-Super Nintendo Entertainment System,SNES
-Super Nintendo Entertainment System,Super Nintendo
-Virtual Boy,Virtual Boy
-Videopac+,Videopac+ G7400
-Studio II,RCA Studio II
-32X,Sega 32X
-32X,SEGA 32X
-Game Gear,GameGear
-Game Gear,Game Gear
-Master System - Mark III,Sega Master System
-Master System - Mark III,SEGA Master System
-Mega Drive - Genesis,Genesis
-PICO,SEGA Pico
-SG-1000,SG-1000
-Neo Geo Pocket Color,NeoGeo Pocket Color
-Neo Geo Pocket Color,Neo Geo Pocket Color
-Neo Geo Pocket,NeoGeo Pocket
-Neo Geo Pocket,Neo Geo Pocket
-PlayStation Portable,PSP
-Game.com,Game.com
-Game.com,Game.Com
-CreatiVision,CreatiVision
-Supervision,SuperVision
-Asia,AS
-Australia,AU
-Brazil,SA
-Canada,US
-China,AS
-Denmark,EU
-Europe,EU
-France,EU
-Germany,EU
-Greece,EU
-Hong Kong,AS
-Italy,EU
-Japan,JP
-Korea,KO
-Netherlands,EU
-Norway,EU
-Russia,EU
-Spain,EU
-Sweden,EU
-Taiwan,AS
-USA,US
-World,US
+5200,Atari 5200,System
+7800,Atari 7800,System
+Jaguar,Jaguar CD,System
+Jaguar,Jaguar,System
+Lynx,Lynx,System
+WonderSwan Color,WonderSwan Color,System
+WonderSwan,WonderSwan,System
+Loopy,Casio Loopy,System
+PV-1000,Casio PV-1000,System
+ColecoVision,Colecovision,System
+Arcadia 2001,Arcadia 2001,System
+Adventure Vision,Adventurevision,System
+Super Cassette Vision,Cassette Vision,System
+Super Cassette Vision,Super Cassette Vision,System
+Super Cassette Vision,Epoch Cassette Vision,System
+Super Cassette Vision,Epoch Super Cassette Vision,System
+Channel F,Channel F,System
+Super Acan,Super A'can,System
+GP32,GP32,System
+Vectrex,Vectrex,System
+Odyssey2,Odyssey^2,System
+Odyssey2,Odyssey,System
+Odyssey2,Odyssey 2,System
+MSX 2,MSX,System
+MSX,MSX,System
+PC Engine - TurboGrafx 16,TurboGrafx-16,System
+Super Grafx,SuperGrafx,System
+Famicom Disk System,Famicom Disk System,System
+Game Boy Advance,Game Boy Advance,System
+Game Boy Color,Game Boy Color,System
+Game Boy,Game Boy,System
+Nintendo 64,Nintendo 64,System
+Nintendo 64DD,Nintendo 64DD,System
+Nintendo 3DS,Nintendo 3DS,System
+Nintendo DSi,Nintendo DSi,System
+Nintendo DS,Nintendo DS,System
+Nintendo Entertainment System,NES,System
+Pokemon Mini,Pok�mon Mini,System
+Satellaview,SNES,System
+Satellaview,Super Nintendo,System
+Sufami Turbo,SNES,System
+Sufami Turbo,Super Nintendo,System
+Super Nintendo Entertainment System,SNES,System
+Super Nintendo Entertainment System,Super Nintendo,System
+Virtual Boy,Virtual Boy,System
+Videopac+,Videopac+ G7400,System
+Studio II,RCA Studio II,System
+32X,Sega 32X,System
+32X,SEGA 32X,System
+Game Gear,GameGear,System
+Game Gear,Game Gear,System
+Master System - Mark III,Sega Master System,System
+Master System - Mark III,SEGA Master System,System
+Mega Drive - Genesis,Genesis,System
+PICO,SEGA Pico,System
+SG-1000,SG-1000,System
+Neo Geo Pocket Color,NeoGeo Pocket Color,System
+Neo Geo Pocket Color,Neo Geo Pocket Color,System
+Neo Geo Pocket,NeoGeo Pocket,System
+Neo Geo Pocket,Neo Geo Pocket,System
+PlayStation Portable,PSP,System
+Game.com,Game.com,System
+Game.com,Game.Com,System
+CreatiVision,CreatiVision,System
+Supervision,SuperVision,System
+Asia,AS,Region
+Australia,AU,Region
+Brazil,SA,Region
+Canada,US,Region
+China,AS,Region
+Denmark,EU,Region
+Europe,EU,Region
+France,EU,Region
+Germany,EU,Region
+Greece,EU,Region
+Hong Kong,AS,Region
+Italy,EU,Region
+Japan,JP,Region
+Korea,KO,Region
+Netherlands,EU,Region
+Norway,EU,Region
+Russia,EU,Region
+Spain,EU,Region
+Sweden,EU,Region
+Taiwan,AS,Region
+USA,US,Region
+World,US,Region
+Action,Action,Genre
+Action RPG,Role-Playing Game,Genre
+Adventure,Adventure,Genre
+Educational,Educational,Genre
+Miscellaneous,Miscellaneous,Genre
+Puzzle,Puzzle,Genre
+Racing / Driving,Racing / Driving,Genre
+Role-Playing,Role-Playing Game,Genre
+Role-Playing (RPG),Role-Playing Game,Genre
+Simulation,Simulation,Genre
+Sports,Sports,Genre
+Strategy,Strategy,Genre
+Action Adventure,Action Adventure,Genre
+Adventure,Adventure,Genre
+Fighting,Fighting,Genre
+Music,Music,Genre
+Platform,Platform,Genre
+Platformer,Platform,Genre
+Rhythm,Music,Genre
+Rhythm / Music,Music,Genre
+Shooter,Shooter,Genre
+Role-Playing Game,Role-Playing Game,Genre

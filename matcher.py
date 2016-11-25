@@ -15,7 +15,8 @@ class Matcher:
             synonymDic = {}
             synonymrow = synonym.split(",")
             synonymDic['key'] = synonymrow[0]
-            synonymDic['value'] = synonymrow[1].replace('\r\n','')
+            synonymDic['value'] = synonymrow[1]
+            synonymDic['type'] = synonymrow[2].replace('\r\n','')
             self.synonyms.append(synonymDic)
         synonymsfile.close()
 
