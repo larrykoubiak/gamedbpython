@@ -718,15 +718,20 @@ class GameDB:
         systemrows = self.cur.fetchall()
         for systemrow in systemrows:
             self.exporter.create_rdb(systemrow[0])
-            
+
+    def apply_patches(self):
+        sqlfile = io.open('patches.sql','r',encoding='utf-8').read()
+        self.cur.executescript(sqlfile)
+        self.con.commit()            
             
 if __name__ == '__main__':
     gamedb = GameDB()
-##    gamedb.import_dats()
-##    gamedb.import_scrapers()
-##    gamedb.match_systems()
+    gamedb.import_dats()
+    gamedb.import_scrapers()
+    gamedb.match_systems()
     gamedb.match_softwares()
     gamedb.match_releases()
+    gamedb.apply_patches()
     gamedb.export_releaseflags()
     gamedb.export_scraperSoftwareFlags()
     gamedb.export_scraperReleaseFlags()

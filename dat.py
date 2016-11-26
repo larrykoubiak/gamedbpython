@@ -1,6 +1,7 @@
 from collections import OrderedDict
 import xml.etree.ElementTree as ET
 import ntpath
+import re
 
 class DAT:
 
@@ -8,7 +9,38 @@ class DAT:
         self.header = {}
         self.filename = ""
         self.softwares=OrderedDict()
-   
+
+    def import_old_dat(self,datfile):
+        line = datfile.readline()
+        self.header = {}
+        datexp = re.compile("\t*(.+?) \"?(.+?)\"?$")
+        romexp = re.compile("\( (?:name \"(?P<name>.*)\" )?(?:size (?P<size>.+?) )?(?:crc (?P<crc>.+?) )?(?:md5 (?P<md5>.+?) )?(?:sha1 (?P<sha1>.+?) )?(?:status (?P<status>.+?) )?\)")
+        #import header
+        while(line !=")\n"):
+            result = datexp.search(line)
+            self.header[result.group(1)] = result.group(2)
+            line = datfile.readline()
+        #import software
+        self.softwares = OrderedDict()
+        while(line != ''):
+            line = datfile.readline() #skip line
+            line = datfile.readline() #read game
+            if(line == "game (\n"):
+                game = {}
+                game['Roms'] = []
+                line = datfile.readline()
+                while(line !=")\n"):
+                    result = datexp.search(line)
+                    if result.group(1)=="rom":
+                        rom = {}
+                        romresult = romexp.search(result.group(2))
+                        for key,val in romresult.groupdict().items():
+                            rom[key] = val
+                        game['Roms'].append(rom)
+                    else:
+                        game[result.group(1).capitalize()] = result.group(2)
+                    line = datfile.readline()
+            self.softwares[game['Name']] = game
     def import_xml_dat(self,datfile):
         datfile.seek(0)
         tree = ET.parse(datfile)
