@@ -9,6 +9,7 @@ from regexes import GameDBRegex
 from scraper import Scraper
 from matcher import Matcher
 from exporter import Exporter
+from patcher import Patcher
 
 flag = namedtuple('Flag',['name','value'])
 
@@ -23,6 +24,7 @@ class GameDB:
         self.scrapers = []
         self.exporter = Exporter()
         self.matcher = Matcher()
+        self.patcher = Patcher()
         self.init_database()
 
     def init_database(self):
@@ -517,8 +519,7 @@ class GameDB:
                 scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1],"Full",80)
                 if scraperReleaseId == None:
                     scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1],"Partial",86)
-                if scraperReleaseId != None:
-                    self.getSoftwareMatch(software[0],None if scraperReleaseId is None else gameDic[scraperReleaseId])
+                self.getSoftwareMatch(software[0],None if scraperReleaseId is None else gameDic[scraperReleaseId])
         self.con.commit()
 
     def match_releases(self):
@@ -560,10 +561,7 @@ class GameDB:
                     for match in matches:
                         releaseDic[match[0]] = match[1]
                     scraperReleaseId = self.matcher.match_fuzzy(releaseDic,releaserow[1],"Full",80)
-                    if scraperReleaseId == None:
-                        scraperReleaseId = self.matcher.match_fuzzy(releaseDic,releaserow[1],"Partial",86)
-                    if scraperReleaseId != None:
-                        self.getReleaseMatch(releaserow[0],scraperReleaseId)
+                    self.getReleaseMatch(releaserow[0],scraperReleaseId)
         self.con.commit()
         
     def export_releaseflags(self):
@@ -724,32 +722,11 @@ class GameDB:
             self.exporter.create_rdb(systemrow[0])
 
     def apply_patches(self):
+        self.patcher.LoadFile("patches.xlsx")
+        self.patcher.GenerateScript("patches.sql")
         sqlfile = io.open('patches.sql','r',encoding='utf-8').read()
         self.cur.executescript(sqlfile)
-        self.con.commit()
-
-    def match_test(self):
-        scrapedGamesDic = {}
-
-        print "Matching Softwares for System : "
-        releaseDic = {}
-        gameDic = {}
-        query = """SELECT DISTINCT sr.scraperReleaseId, sr.scraperReleaseName, sr.scraperGameId FROM tblScraperReleases
-                sr INNER JOIN tblScraperGames sg ON sg.scraperGameId = sr.scraperGameId WHERE sg.scraperSystemId = 69"""
-        self.cur.execute(query)
-        for row in self.cur:
-            releaseDic[row[0]] = row[1]
-            gameDic[row[0]] = row[2]
-
-        query = "SELECT softwareId, softwareName FROM tblSoftwares s WHERE s.softwareId = ?"
-        self.cur.execute(query,(21,))
-        softwares = self.cur.fetchall()
-        for software in softwares:
-            scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1],"Full",80)
-            print scraperReleaseId
-            if scraperReleaseId == None:
-                scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1],"Partial",86)
-                print scraperReleaseId
+        self.con.commit()            
             
 if __name__ == '__main__':
     gamedb = GameDB()
