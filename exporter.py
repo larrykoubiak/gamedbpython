@@ -25,31 +25,20 @@ class Exporter:
         if not os.path.exists("rdb"):
             os.makedirs("rdb")
         commands = []
-        if os.path.exists("libretro-database/metadat/no-intro/" + systemName + ".dat"):
+        metadats = ['analog','bbfc','developer','elspa','enhancement_hw','esrb','franchise','genre','goodtools','libretro-dats','maxusers','no-intro','origin','publisher','releasemonth','releaseyear','rumble','serial','tgdb']
+        metadats.extend(['magazine/edge','magazine/edge_review','magazine/famitsu'])
+        if (os.path.exists("libretro-database/metadat/no-intro/" + systemName + ".dat") or os.path.exists("libretro-database/dat/" + systemName + ".dat")):
             if platform.system()=="Windows":
                 commands.append("c_converter_win.exe")
             else:
                 commands.append("./c_converter")
             commands.append("libretro-database/rdb/" + systemName + ".rdb")
             commands.append("rom.crc")
-            commands.append("libretro-database/metadat/no-intro/" + systemName + ".dat")
-            if os.path.exists("libretro-database/metadat/developer/" + systemName + ".dat"):
-                commands.append("libretro-database/metadat/developer/" + systemName + ".dat")
-            if os.path.exists("libretro-database/metadat/franchise/" + systemName + ".dat"):
-                commands.append("libretro-database/metadat/franchise/" + systemName + ".dat")
-            if os.path.exists("libretro-database/metadat/genre/" + systemName + ".dat"):
-                commands.append("libretro-database/metadat/genre/" + systemName + ".dat")
-            if os.path.exists("libretro-database/metadat/origin/" + systemName + ".dat"):
-                commands.append("libretro-database/metadat/origin/" + systemName + ".dat")
-            if os.path.exists("libretro-database/metadat/publisher/" + systemName + ".dat"):
-                commands.append("libretro-database/metadat/publisher/" + systemName + ".dat")
-            if os.path.exists("libretro-database/metadat/serial/" + systemName + ".dat"):
-                commands.append("libretro-database/metadat/serial/" + systemName + ".dat")
-            if os.path.exists("libretro-database/metadat/releasemonth/" + systemName + ".dat"):
-                commands.append("libretro-database/metadat/releasemonth/" + systemName + ".dat")
-            if os.path.exists("libretro-database/metadat/releaseyear/" + systemName + ".dat"):
-                commands.append("libretro-database/metadat/releaseyear/" + systemName + ".dat")
-            print commands
+            if os.path.exists("libretro-database/dat/" + systemName + ".dat"):
+                commands.append("libretro-database/dat/" + systemName + ".dat")
+            for metadat in metadats:
+                if os.path.exists("libretro-database/metadat/" + metadat + "/" + systemName + ".dat"):
+                    commands.append("libretro-database/metadat/" + metadat + "/" + systemName + ".dat")
             subprocess.check_call(commands)
 
 if __name__ == '__main__':

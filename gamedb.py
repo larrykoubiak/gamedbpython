@@ -719,6 +719,7 @@ class GameDB:
         self.cur.execute(query)
         systemrows = self.cur.fetchall()
         for systemrow in systemrows:
+            print "Exporting rdb for " + systemrow[0]
             self.exporter.create_rdb(systemrow[0])
 
     def apply_patches(self):
