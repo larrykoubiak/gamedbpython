@@ -26,7 +26,7 @@ CREATE TABLE IF NOT EXISTS tblSystemMap(systemId INTEGER, scraperSystemId INTEGE
 CREATE TABLE IF NOT EXISTS tblSoftwareMap(softwareId INTEGER, scraperGameId INTEGER);
 CREATE TABLE IF NOT EXISTS tblReleaseMap(releaseId INTEGER, scraperReleaseId INTEGER);
 --View
-CREATE VIEW v_match AS
+CREATE VIEW IF NOT EXISTS v_match AS
 SELECT 
 d.datFileName, 
 s.systemManufacturer || " - " || s.systemName systemName,

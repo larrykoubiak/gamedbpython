@@ -9,6 +9,7 @@ from regexes import GameDBRegex
 from scraper import Scraper
 from matcher import Matcher
 from exporter import Exporter
+from patcher import Patcher
 
 flag = namedtuple('Flag',['name','value'])
 
@@ -23,6 +24,7 @@ class GameDB:
         self.scrapers = []
         self.exporter = Exporter()
         self.matcher = Matcher()
+        self.patcher = Patcher()
         self.init_database()
 
     def init_database(self):
@@ -720,6 +722,8 @@ class GameDB:
             self.exporter.create_rdb(systemrow[0])
 
     def apply_patches(self):
+        self.patcher.LoadFile("patches.xlsx")
+        self.patcher.GenerateScript("patches.sql")
         sqlfile = io.open('patches.sql','r',encoding='utf-8').read()
         self.cur.executescript(sqlfile)
         self.con.commit()            
@@ -730,8 +734,8 @@ if __name__ == '__main__':
     gamedb.import_scrapers()
     gamedb.match_systems()
     gamedb.match_softwares()
-    gamedb.match_releases()
     gamedb.apply_patches()
+    gamedb.match_releases()
     gamedb.export_releaseflags()
     gamedb.export_scraperSoftwareFlags()
     gamedb.export_scraperReleaseFlags()
