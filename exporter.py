@@ -29,7 +29,10 @@ class Exporter:
         metadats.extend(['magazine/edge','magazine/edge_review','magazine/famitsu'])
         if (os.path.exists("libretro-database/metadat/no-intro/" + systemName + ".dat") or os.path.exists("libretro-database/dat/" + systemName + ".dat")):
             if platform.system()=="Windows":
-                commands.append("c_converter_win.exe")
+                if platform.architecture()[0]=="64bit":
+                    commands.append("c_converter_win64.exe")
+                else:
+                    commands.append("c_converter_win32.exe")
             else:
                 commands.append("./c_converter")
             commands.append("libretro-database/rdb/" + systemName + ".rdb")
