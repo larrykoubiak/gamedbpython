@@ -17,7 +17,7 @@ class Exporter:
                 outputdat.write(u"game (\n")
                 outputdat.write(u"\tname \"" + rom['name'].encode("utf-8") + u"\"\n")
                 outputdat.write(u"\t" + flag['name'].encode("utf-8") + u" \"" + rom['flagvalue'].encode("utf-8") + u"\"\n")
-                outputdat.write(u"\trom ( crc " + rom['crc'].encode("utf-8") + u" )\n")
+                outputdat.write(u"\trom (\n\t\tcrc " + rom['crc'].encode("utf-8") + u"\n\t)\n")
                 outputdat.write(u")\n\n")
             outputdat.close()
 

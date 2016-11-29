@@ -82,25 +82,123 @@ Sweden,EU,Region
 Taiwan,AS,Region
 USA,US,Region
 World,US,Region
-Action,Action,Genre
-Action RPG,Role-Playing Game,Genre
-Adventure,Adventure,Genre
-Educational,Educational,Genre
-Miscellaneous,Miscellaneous,Genre
-Puzzle,Puzzle,Genre
-Racing / Driving,Racing / Driving,Genre
-Role-Playing,Role-Playing Game,Genre
-Role-Playing (RPG),Role-Playing Game,Genre
-Simulation,Simulation,Genre
-Sports,Sports,Genre
-Strategy,Strategy,Genre
-Action Adventure,Action Adventure,Genre
-Adventure,Adventure,Genre
-Fighting,Fighting,Genre
-Music,Music,Genre
-Platform,Platform,Genre
-Platformer,Platform,Genre
-Rhythm,Music,Genre
-Rhythm / Music,Music,Genre
-Shooter,Shooter,Genre
-Role-Playing Game,Role-Playing Game,Genre
+Action > Arcade,Action,Genre
+Action > Beat-'Em-Up > 2D,Action,Genre
+Action > Beat-'Em-Up > 3D,Action,Genre
+Action > Fighting > 2D,Fighting,Genre
+Action > Fighting > 3D,Fighting,Genre
+Action > General,Action,Genre
+Action > Pinball,Action,Genre
+Action > Platformer > 2D,Platform,Genre
+Action > Platformer > 3D,Platform,Genre
+Action > Rhythm > Dancing,Music,Genre
+Action > Rhythm > Music,Music,Genre
+Action > Shooter > First-Person > Arcade,Shooter,Genre
+Action > Shooter > First-Person > Tactical,Shooter,Genre
+Action > Shooter > Light Gun,Shooter,Genre
+Action > Shooter > Rail,Shooter,Genre
+Action > Shooter > Shoot-'Em-Up > Horizontal,Shooter,Genre
+Action > Shooter > Shoot-'Em-Up > Top-Down,Shooter,Genre
+Action > Shooter > Shoot-'Em-Up > Vertical,Shooter,Genre
+Action > Shooter > Third-Person > Arcade,Shooter,Genre
+Action > Shooter > Third-Person > Tactical,Shooter,Genre
+Action Adventure > General,Adventure,Genre
+Action Adventure > Linear,Adventure,Genre
+Action Adventure > Open-World,Adventure,Genre
+Action Adventure > Sandbox,Adventure,Genre
+Action Adventure > Survival,Adventure,Genre
+Adventure > 3D > First-Person,Adventure,Genre
+Adventure > 3D > Third-Person,Adventure,Genre
+Adventure > General,Adventure,Genre
+Adventure > Point-and-Click,Adventure,Genre
+Adventure > Text,Adventure,Genre
+Adventure > Visual Novel,Adventure,Genre
+Hardware > Console,Hardware,Genre
+Hardware > General,Hardware,Genre
+Miscellaneous > Application,Miscellaneous,Genre
+Miscellaneous > Board / Card Game,Miscellaneous,Genre
+Miscellaneous > Compilation,Miscellaneous,Genre
+Miscellaneous > Demo Disc,Miscellaneous,Genre
+Miscellaneous > Edutainment,Educational,Genre
+Miscellaneous > Exercise / Fitness,Miscellaneous,Genre
+Miscellaneous > Gambling,Miscellaneous,Genre
+Miscellaneous > General,Miscellaneous,Genre
+Miscellaneous > Party / Minigame,Miscellaneous,Genre
+Miscellaneous > Trivia / Game Show,Miscellaneous,Genre
+Puzzle > Action,Puzzle,Genre
+Puzzle > General,Puzzle,Genre
+Puzzle > Hidden Object,Puzzle,Genre
+Puzzle > Logic,Puzzle,Genre
+Puzzle > Matching,Puzzle,Genre
+Puzzle > Stacking,Puzzle,Genre
+Racing > Arcade > Automobile,Racing / Driving,Genre
+Racing > Arcade > Futuristic,Racing / Driving,Genre
+Racing > Arcade > Other,Racing / Driving,Genre
+Racing > General,Racing / Driving,Genre
+Racing > Simulation > Automobile,Racing / Driving,Genre
+Role-Playing > Action RPG,RPG,Genre
+Role-Playing > General,RPG,Genre
+Role-Playing > Japanese-Style,RPG,Genre
+Role-Playing > Massively Multiplayer,RPG,Genre
+Role-Playing > Roguelike,RPG,Genre
+Role-Playing > Trainer,RPG,Genre
+Role-Playing > Western-Style,RPG,Genre
+Simulation > Flight > Civilian,Simulation,Genre
+Simulation > Flight > Combat,Simulation,Genre
+Simulation > General,Simulation,Genre
+Simulation > Marine > Civilian,Simulation,Genre
+Simulation > Marine > Combat,Simulation,Genre
+Simulation > Space > Civilian,Simulation,Genre
+Simulation > Space > Combat,Simulation,Genre
+Simulation > Vehicle > Civilian,Simulation,Genre
+Simulation > Vehicle > Combat,Simulation,Genre
+Simulation > Vehicle > Train,Simulation,Genre
+Simulation > Virtual > Career,Simulation,Genre
+Simulation > Virtual > Pet,Simulation,Genre
+Simulation > Virtual > Virtual Life,Simulation,Genre
+Sports > General,Sports,Genre
+Sports > Individual > Athletics,Sports,Genre
+Sports > Individual > Biking,Sports,Genre
+Sports > Individual > Billiards,Sports,Genre
+Sports > Individual > Bowling,Sports,Genre
+Sports > Individual > Combat > Boxing / Martial Arts,Sports,Genre
+Sports > Individual > Combat > Wrestling,Sports,Genre
+Sports > Individual > Golf > Arcade,Sports,Genre
+Sports > Individual > Golf > Sim,Sports,Genre
+Sports > Individual > Horse Racing,Sports,Genre
+Sports > Individual > Nature > Fishing,Sports,Genre
+Sports > Individual > Nature > Hunting,Sports,Genre
+Sports > Individual > Other,Sports,Genre
+Sports > Individual > Skate / Skateboard,Sports,Genre
+Sports > Individual > Ski / Snowboard,Sports,Genre
+Sports > Individual > Surf / Wakeboard,Sports,Genre
+Sports > Individual > Tennis,Sports,Genre
+Sports > Team > Baseball > Arcade,Sports,Genre
+Sports > Team > Baseball > Sim,Sports,Genre
+Sports > Team > Basketball > Arcade,Sports,Genre
+Sports > Team > Basketball > Sim,Sports,Genre
+Sports > Team > Cricket,Sports,Genre
+Sports > Team > Football > Arcade,Sports,Genre
+Sports > Team > Football > Sim,Sports,Genre
+Sports > Team > Futuristic,Sports,Genre
+Sports > Team > Ice Hockey > Arcade,Sports,Genre
+Sports > Team > Ice Hockey > Sim,Sports,Genre
+Sports > Team > Other,Sports,Genre
+Sports > Team > Rugby,Sports,Genre
+Sports > Team > Soccer > Arcade,Sports,Genre
+Sports > Team > Soccer > Management,Sports,Genre
+Sports > Team > Soccer > Sim,Sports,Genre
+Sports > Team > Volleyball,Sports,Genre
+Strategy > General,Strategy,Genre
+Strategy > Management > Business / Tycoon,Strategy,Genre
+Strategy > Management > Government,Strategy,Genre
+Strategy > Real-Time > Command,Strategy,Genre
+Strategy > Real-Time > Defense,Strategy,Genre
+Strategy > Real-Time > General,Strategy,Genre
+Strategy > Real-Time > MOBA,Strategy,Genre
+Strategy > Real-Time > Tactics,Strategy,Genre
+Strategy > Turn-Based > 4X,Strategy,Genre
+Strategy > Turn-Based > Artillery,Strategy,Genre
+Strategy > Turn-Based > Card Battle,Strategy,Genre
+Strategy > Turn-Based > General,Strategy,Genre
+Strategy > Turn-Based > Tactics,Strategy,Genre
