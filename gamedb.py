@@ -73,7 +73,7 @@ class GameDB:
         sysresult = self.regexes.get_regex_result("System",dat.header["name"])
         systemId = self.database.getSystem(sysresult.group('Manufacturer'),sysresult.group('Name'))
         datType = 'Standard' if sysresult.group('DatType') == None else sysresult.group('DatType')        
-        datFileId = self.database.getDATFile(systemId,datType,dat.filename,releaseGroup,self.getDATDate(dat))
+        datFileId = self.database.getDATFile(systemId,dat.filename,datType,releaseGroup,self.getDATDate(dat))
         for gamekey,gamevalue in dat.softwares.iteritems():
             datGameId = self.database.getDATGame(datFileId,gamevalue['Name'],gamevalue['CloneOf'],gamevalue['RomOf'])
             for rom in gamevalue['Roms']:

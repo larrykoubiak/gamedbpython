@@ -76,3 +76,16 @@ class DAT:
             self.import_old_dat(datfile)
         else:
             self.import_xml_dat(datfile)
+
+if __name__ == '__main__':
+    from dicttoxml import dicttoxml
+    from xml.dom.minidom import parseString
+    output = open("old/nes.csv","w")
+    dat = DAT()
+    dat.read_dat('libretro-database/metadat/goodtools/Nintendo - Nintendo Entertainment System.dat')
+    for soft in dat.softwares.itervalues():
+        baseline = ';'.join(value for key,value in soft.items() if key !='Roms')
+        for rom in soft['Roms']:
+            line = baseline + ';'.join('' if value is None else str(value) for value in rom.itervalues())
+            output.write(line + '\n')
+    output.close()

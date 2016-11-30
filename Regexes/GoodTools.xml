@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<GameDBRegexes>
+	<ReleaseGroup name="GoodTools">
+    	<Regex>
+			<Name>System</Name>
+			<Pattern>^(?P&lt;Manufacturer&gt;.+?)\s-\s(?P&lt;Name&gt;.+?)(?:\s\((?P&lt;Format&gt;.+?)\))?(?:\s(?P&lt;DatType&gt;Parent-Clone)|$)</Pattern>
+		</Regex>
+		<Regex>
+			<Name>DatDate</Name>
+			<Pattern>(?P&lt;Year&gt;\d{4})(?P&lt;Month&gt;\d{2})(?P&lt;Day&gt;\d{2})-(?P&lt;Hour&gt;\d{2})(?P&lt;Minute&gt;\d{2})(?P&lt;Second&gt;\d{2})</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Software</Name>
+			<Pattern>(?P<Name>[^\(|\[]+) [\(|\[].*</Pattern>
+		</Regex>
+    </ReleaseGroup>
+</GameDBRegexes>

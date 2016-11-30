@@ -37,7 +37,7 @@ class Patcher:
                 strformat = "DELETE FROM {0} WHERE {1} IN (SELECT {2} FROM {3} WHERE {4} = '{5}')"
                 script = strformat.format(sql["totable"],sql["tokey"],sql["fromfield"],sql["fromtable"],sql["fromkey"],sql["fromvalue"])
             elif sql["Action"] == "INSERT":
-                strformat = "INSERT INTO {0} ({1},{2}) SELECT {3},{4} FROM {5} WHERE {6} = '{7}'"
+                strformat = "INSERT INTO {0} ({1},{2}) SELECT {3},{4} FROM {5} WHERE {6} = '{7}' AND NOT EXISTS (SELECT 1 FROM {0} WHERE {1} = {3} AND {2} = {4})"
                 script = strformat.format(sql["totable"],sql["tokey"],sql["tofield"],sql["tovalue"],sql["fromfield"],sql["fromtable"],sql["fromkey"],sql["fromvalue"])
             else:
                 pass
