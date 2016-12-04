@@ -98,44 +98,53 @@ class GameDB:
                 print "exporting new roms for " + self.database.getSystemName(systemId)
             #get software
             gameName = datRom[2] if datRom[3] == '' else datRom[3]
-            softresult = self.regexes.get_regex_result("Software",gameName)
-            softwarename = softresult.group('Name')
-            softwaretype = 'BIOS' if softresult.group('BIOS') is not None else softresult.group('Type') if softresult.group('Type') is not None else 'Game'
-            softwareId = self.database.getSoftware(systemId,softwarename,softwaretype)
+            softwareId = self.import_software(gameName,systemId)
             #get release
             releaseName = datRom[2]
-            compresult = self.regexes.get_regex_result("Compilation",releaseName)
-            devstatusresult = self.regexes.get_regex_result("DevStatus",releaseName)
-            demoresult = self.regexes.get_regex_result("Demo",releaseName)
-            licenseresult = self.regexes.get_regex_result("License",releaseName)
-            if compresult is not None:
-                releaseType = compresult.group('Compilation')
-            elif devstatusresult is not None:
-                releaseType = devstatusresult.group('DevStatus')
-            elif demoresult is not None:
-                releaseType = demoresult.group('Demo')
-            elif licenseresult is not None:
-                releaseType = licenseresult.group('License')
-            else:
-                releaseType = 'Commercial'
-            releaseId = self.database.getRelease(releaseName,releaseType,softwareId)
+            releaseId = self.import_release(releaseName,softwareId)
             #release flags
-            for regionresult in self.regexes.get_regex_results("Region",releaseName):
-                self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('Region'),regionresult.group('Region'))
-            for languageresult in self.regexes.get_regex_results("Language",releaseName):
-                self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('Language'),languageresult.group('Language'))
-            versionresult = self.regexes.get_regex_result("Version",releaseName)
-            if(versionresult):
-                self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('Version'),versionresult.group('Version'))
-            revisionresult = self.regexes.get_regex_result("Revision",releaseName)
-            if(revisionresult):
-                self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('Revision'),revisionresult.group('Revision'))
-            baddumpresult = self.regexes.get_regex_result("DumpStatus",releaseName)
-            if(baddumpresult):
-                self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('BadDump'),baddumpresult.group('BadDump'))
+            self.import_releaseflags(releaseName,releaseId)
             romId = self.database.getROM(releaseId,*datRom[5:])
         self.database.save()
-       
+        
+    def import_software(self,gameName,systemId):
+        softresult = self.regexes.get_regex_result("Software",gameName)
+        softwarename = softresult.group('Name')
+        softwaretype = 'BIOS' if softresult.group('BIOS') is not None else softresult.group('Type') if softresult.group('Type') is not None else 'Game'
+        return self.database.getSoftware(systemId,softwarename,softwaretype)
+
+    def import_release(self,releaseName,softwareId):
+        compresult = self.regexes.get_regex_result("Compilation",releaseName)
+        devstatusresult = self.regexes.get_regex_result("DevStatus",releaseName)
+        demoresult = self.regexes.get_regex_result("Demo",releaseName)
+        licenseresult = self.regexes.get_regex_result("License",releaseName)
+        if compresult is not None:
+            releaseType = compresult.group('Compilation')
+        elif devstatusresult is not None:
+            releaseType = devstatusresult.group('DevStatus')
+        elif demoresult is not None:
+            releaseType = demoresult.group('Demo')
+        elif licenseresult is not None:
+            releaseType = licenseresult.group('License')
+        else:
+            releaseType = 'Commercial'
+        return self.database.getRelease(releaseName,releaseType,softwareId)
+
+    def import_releaseflags(self,releaseName,releaseId):
+        for regionresult in self.regexes.get_regex_results("Region",releaseName):
+            self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('Region'),regionresult.group('Region'))
+        for languageresult in self.regexes.get_regex_results("Language",releaseName):
+            self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('Language'),languageresult.group('Language'))
+        versionresult = self.regexes.get_regex_result("Version",releaseName)
+        if(versionresult):
+            self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('Version'),versionresult.group('Version'))
+        revisionresult = self.regexes.get_regex_result("Revision",releaseName)
+        if(revisionresult):
+            self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('Revision'),revisionresult.group('Revision'))
+        baddumpresult = self.regexes.get_regex_result("DumpStatus",releaseName)
+        if(baddumpresult):
+            self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('BadDump'),baddumpresult.group('BadDump'))
+
     def import_scrapers(self):
         self.scrapers = []
         scrapersfile = io.open('Scrapers/scrapers.csv','r',encoding='utf-8')

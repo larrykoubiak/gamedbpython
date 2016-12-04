@@ -32,7 +32,7 @@ class DAT:
                 while(line !=")\n"):
                     result = datexp.search(line)
                     if result.group(1)=="rom":
-                        rom = {}
+                        rom = OrderedDict()
                         romresult = romexp.search(result.group(2))
                         for key,val in romresult.groupdict().items():
                             rom[key] = val
