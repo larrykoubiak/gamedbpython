@@ -172,7 +172,9 @@ class GameDB:
                     self.database.addSoftwareMatch(releaserow[0],matches[0][0])
                 elif len(matches) > 1:
                     releaseDic = {m[0]:m[1] for m in matches}
-                    scraperReleaseId = self.matcher.match_fuzzy(releaseDic,releaserow[1],"Full",80)
+                    ## clean dat release Name to match it to scraper releaseName
+                    releaseName = self.regexes.get_regex_result('Software',releaserow[1]).group("Name")
+                    scraperReleaseId = self.matcher.match_fuzzy(releaseDic,releaseName,"Full",80)
                     self.database.addReleaseMatch(releaserow[0],scraperReleaseId)
         self.database.save()
         

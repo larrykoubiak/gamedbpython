@@ -484,6 +484,27 @@ class Database:
         self.cur.execute(query,softwareflagDic)
         return self.cur.fetchall()
 
+    def getSoftwareFlagSystemValue_serial(self,systemId,scraperGameFlagName):
+        softwareflagDic = {}
+        softwareflagDic['systemId'] = systemId
+        softwareflagDic['scraperGameFlagName'] = scraperGameFlagName
+        query = """SELECT serial.scraperReleaseFlagValue serial, r.releaseName, sgf.scraperGameFlagValue
+                FROM tblROMs ro INNER JOIN 
+                tblReleases r ON r.releaseId = ro.releaseId INNER JOIN
+                tblSoftwares so ON so.softwareId = r.softwareId INNER JOIN
+                tblSoftwareMap sm ON sm.softwareId = so.softwareId INNER JOIN
+				tblReleaseMap rm ON rm.releaseId = r.releaseId INNER JOIN
+                tblScraperGameFlags sgf ON sgf.scraperGameId = sm.scraperGameId LEFT JOIN
+				(
+					SELECT DISTINCT sr.scraperGameId, scraperReleaseFlagValue 
+					FROM tblScraperReleaseFlags srf INNER JOIN tblScraperReleases sr ON sr.scraperReleaseId = srf.scraperReleaseId
+					WHERE srf.scraperReleaseFlagName = 'ReleaseProductID'
+				) serial
+				ON serial.scraperGameId = sm.scraperGameId
+                WHERE so.systemId = :systemId AND sgf.scraperGameFlagName = :scraperGameFlagName"""
+        self.cur.execute(query,softwareflagDic)
+        return self.cur.fetchall()
+    
     def getScraperReleaseFlagSystem(self,scraperReleaseFlagName):
         query = """SELECT DISTINCT srf.scraperReleaseFlagName, s.systemManufacturer || ' - ' || s.systemName systemName, s.systemId
                 FROM tblScraperReleaseFlags srf INNER JOIN
@@ -509,6 +530,21 @@ class Database:
                 WHERE so.systemId=:systemId AND srf.scraperReleaseFlagName=:scraperReleaseFlagName"""
         self.cur.execute(query,releaseflagDic)
         return self.cur.fetchall()
+
+    def getScraperReleaseFlagSystemValue_serial(self,systemId,scraperReleaseFlagName):
+        releaseflagDic = {}
+        releaseflagDic['systemId'] = systemId
+        releaseflagDic['scraperReleaseFlagName'] = scraperReleaseFlagName
+        query = """SELECT serial.scraperReleaseFlagValue serial, r.releaseName, srf.scraperReleaseFlagValue
+                FROM tblROMs ro INNER JOIN 
+                tblReleases r ON r.releaseId = ro.releaseId INNER JOIN
+                tblSoftwares so ON so.softwareId = r.softwareId INNER JOIN
+                tblReleaseMap rm ON rm.releaseId = r.releaseId INNER JOIN
+                tblScraperReleaseFlags srf ON srf.scraperReleaseId = rm.scraperReleaseId LEFT JOIN
+		(SELECT scraperReleaseId, scraperReleaseFlagValue FROM tblScraperReleaseFlags WHERE scraperReleaseFlagName = 'ReleaseProductID') serial ON serial.scraperReleaseId = rm.scraperReleaseId
+                WHERE so.systemId=:systemId AND srf.scraperReleaseFlagName = :scraperReleaseFlagName"""
+        self.cur.execute(query,releaseflagDic)
+        return self.cur.fetchall()        
 
 if __name__ == '__main__':
     db = Database()
