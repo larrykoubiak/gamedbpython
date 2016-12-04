@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<GameDBRegexes>
+	<ReleaseGroup name="No-Intro">
+    	<Regex>
+			<Name>System</Name>
+			<Pattern>^(?P&lt;Manufacturer&gt;.+?)\s-\s(?P&lt;Name&gt;.+?)(?:\s\((?P&lt;Format&gt;.+?)\))?(?:\s(?P&lt;DatType&gt;Parent-Clone)|$)</Pattern>
+		</Regex>
+		<Regex>
+			<Name>DatDate</Name>
+			<Pattern>(?P&lt;Year&gt;\d{4})(?P&lt;Month&gt;\d{2})(?P&lt;Day&gt;\d{2})-(?P&lt;Hour&gt;\d{2})(?P&lt;Minute&gt;\d{2})(?P&lt;Second&gt;\d{2})</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Software</Name>
+			<Pattern>^(?:\[(?P&lt;BIOS&gt;BIOS)\]\s)?(?P&lt;Name&gt;[^\(]+)\s(?:.+?)(?:\((?P&lt;Type&gt;Addon|Coverdisk|Diskmag|Program).*\)|\)$|\]$)</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>DatTuple</Name>
+			<Pattern>\t*(.+?) \&quot;?(.+?)\&quot;?$</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Rom</Name>
+			<Pattern>\( (?:name \&quot;(?P&lt;name&gt;.*)\&quot; )?(?:size (?P&lt;size&gt;.+?) )?(?:crc (?P&lt;crc&gt;.+?) )?(?:md5 (?P&lt;md5&gt;.+?) )?(?:sha1 (?P&lt;sha1&gt;.+?) )?(?:status (?P&lt;status&gt;.+?) )?\)</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>DevStatus</Name>
+			<Pattern>\(.+?(?P&lt;DevStatus&gt;Beta|Proto|Sample)(?:\s\d)?\)</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Demo</Name>
+			<Pattern>(?:\((?=[^\(]*(?:, [^\(]*)*\))|(?&lt;=, )\G|[\(]*)(?P&lt;Demo&gt;Demo|Promo|Budget)(?:, |[^\(]*\))</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Region</Name>
+			<Pattern>(?:\((?=[^,|\)]+(?:, [^,|\)]+)*\))|(?&lt;=, )\G)(?P&lt;Region&gt;Australia|Brazil|Canada|China|France|Germany|Greece|Hong Kong|Italy|Japan|Korea|Netherlands|Norway|Russia|Spain|Sweden|USA|United Kingdom|Unknown|Asia|Europe|World)(?:, |\))</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Compilation</Name>
+			<Pattern>\((?:[^\)]*?)?\s?(?P&lt;Compilation&gt;Compilation)(?: - )?(?:[^\)]*?)?\)</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Language</Name>
+			<Pattern>(?:\((?=\w+(?:,\w+)*\))|(?&lt;=,)\G)(?P&lt;Language&gt;En|Ja|Fr|De|Es|It|Nl|Pt|Sv|No|Da|Fi|Zh|Ko|Pl|Ru|,)(?:,|\))</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Version</Name>
+			<Pattern>\(.*?v(?P&lt;Version&gt;[\d|\.]+\w?)\s?(?:[^\)]*)\)</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Revision</Name>
+			<Pattern>\(.*?Rev (?P&lt;Revision&gt;[\d|\w|\.]+)(?:[^\)]*)?\)</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>License</Name>
+			<Pattern>\((?P&lt;License&gt;Unl)\)</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>DumpStatus</Name>
+			<Pattern>\[(?&lt;BadDump&gt;b)\]</Pattern>
+		</Regex>	
+	</ReleaseGroup>
+	<ReleaseGroup name="GoodTools">
+    	<Regex>
+			<Name>System</Name>
+			<Pattern>^(?P&lt;Manufacturer&gt;.+?)\s-\s(?P&lt;Name&gt;.+?)(?:\s\((?P&lt;Format&gt;.+?)\))?(?:\s(?P&lt;DatType&gt;Parent-Clone)|$)</Pattern>
+		</Regex>
+		<Regex>
+			<Name>DatDate</Name>
+			<Pattern>(?P&lt;Year&gt;\d{4})(?P&lt;Month&gt;\d{2})(?P&lt;Day&gt;\d{2})-(?P&lt;Hour&gt;\d{2})(?P&lt;Minute&gt;\d{2})(?P&lt;Second&gt;\d{2})</Pattern>
+		</Regex>
+    	<Regex>
+			<Name>Software</Name>
+			<Pattern>(?P&lt;Name&gt;[^\(|\[]+) [\(|\[].*</Pattern>
+		</Regex>
+        <Regex>
+            <Name>ReleaseType</Name>
+            <Pattern>(?:\[(?P&lt;ReleaseType&gt;[!|a|b|f|h|o|p|t|!p])(?P&lt;TypeIndex&gt;\d)?\])</Pattern>
+        </Regex>
+        <Regex>
+            <Name>Region</Name>
+            <Pattern>(?:\((?P&lt;Region&gt;A|As|B|C|Ch|D|E|F|G|Gr|HK|I|J|K|Nl|No|R|S|Sw|U|UK|W|Unl|PD|Unk)\))</Pattern>
+        </Regex> 
+        <Regex>
+            <Name>NesFlag</Name>
+            <Pattern>(?:\((?P&lt;NesFlag&gt;Aladdin|E-GC|FDS Conversion|GBA e-Reader|J-GC|KC|Mapper \d+|PC10|PRG0|PRG1|Sachen|VS)\))</Pattern>
+        </Regex>  
+    </ReleaseGroup>
+</GameDBRegexes>

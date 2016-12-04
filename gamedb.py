@@ -19,38 +19,6 @@ class GameDB:
         self.matcher = Matcher()
         self.patcher = Patcher()
         self.database = Database()
-   
-    def getDATReleaseGroup(self,dat):
-        releaseGroup = None
-        if('comment' in dat.header):
-            if(header['comment'] == "no-intro | www.no-intro.org"):
-                releaseGroup = "No-Intro"
-        elif('url' in dat.header):
-            if(dat.header['url'] == "www.no-intro.org"):
-                releaseGroup = "No-Intro"
-            elif(dat.header['url'] == "http://www.fbalpha.com/"):
-                releaseGroup = "FBA"
-        else:
-            if(dat.header['homepage'] is not None):
-                if(dat.header['homepage'] == "TOSEC"):
-                    releaseGroup = "TOSEC"
-                elif(dat.header['homepage'] == "redump.org"):
-                    releaseGroup = "Redump"
-        return releaseGroup
-    
-    def getDATDate(self,dat):
-        datDate = None
-        if(dat.header['version'] is not None or dat.header['date'] is not None):
-            dateResult = self.regexes.get_regex_result("DatDate",dat.header['version'] if dat.header['version'] is not None else dat.header['date'])
-            if(dateResult is not None):
-                year = int(dateResult.group('Year'))
-                month = int(dateResult.group('Month'))
-                day = int(dateResult.group('Day'))
-                hour = int(dateResult.group('Hour'))
-                minute = int(dateResult.group('Minute'))
-                second = int(dateResult.group('Second'))
-                datDate = datetime(year,month,day,hour,minute,second)
-        return datDate
     
     def import_dats(self):
         self.dats = []
@@ -68,12 +36,16 @@ class GameDB:
         datFileId = None
         datGameId = None
         datRomId = None
-        releaseGroup = self.getDATReleaseGroup(dat)
-        self.regexes.init_regexes(releaseGroup)
+        self.regexes.init_regexes(dat.releaseGroup)
         sysresult = self.regexes.get_regex_result("System",dat.header["name"])
         systemId = self.database.getSystem(sysresult.group('Manufacturer'),sysresult.group('Name'))
-        datType = 'Standard' if sysresult.group('DatType') == None else sysresult.group('DatType')        
-        datFileId = self.database.getDATFile(systemId,dat.filename,datType,releaseGroup,self.getDATDate(dat))
+        datType = 'Standard' if sysresult.group('DatType') == None else sysresult.group('DatType')
+        datVersion = dat.header['version'] if dat.header['version'] is not None else dat.header['date']
+        #check if version is a date
+        datDate = self.regexes.get_cleaned_date(datVersion)
+        if datDate is not None:
+            datVersion = datDate
+        datFileId = self.database.getDATFile(systemId,dat.filename,datType,dat.releaseGroup,datVersion)
         for gamekey,gamevalue in dat.softwares.iteritems():
             datGameId = self.database.getDATGame(datFileId,gamevalue['Name'],gamevalue['CloneOf'],gamevalue['RomOf'])
             for rom in gamevalue['Roms']:
@@ -249,8 +221,11 @@ class GameDB:
                 for romrow in romrows:
                     rom = {}
                     rom['name'] = romrow[1]
-                    rom['flagvalue'] = romrow[2]
                     rom['crc'] = romrow[0]
+                    if flagname=="developer":
+                        rom['flagvalue'] = self.regexes.get_cleaned_developer(romrow[2])
+                    else:
+                        rom['flagvalue'] = romrow[2]
                     system['roms'].append(rom)
                 flag['systems'].append(system)
             print "Exporting scraped software flag " + flagname
@@ -278,28 +253,22 @@ class GameDB:
                 system['roms'] = []
                 romrows = self.database.getScraperReleaseFlagSystemValue(systemrow[2],flag['scraperReleaseFlagName'])
                 for romrow in romrows:
+                    rom = {}
+                    rom['name'] = romrow[1]
+                    rom['crc'] = romrow[0]
                     if flagname == "releasemonth":
                         releasedate = self.regexes.get_cleaned_date(romrow[2])
                         if releasedate is not None:                       
-                            rom = {}
-                            rom['name'] = romrow[1]
                             rom['flagvalue'] = str(self.regexes.get_cleaned_date(romrow[2]).month)
-                            rom['crc'] = romrow[0]
-                            system['roms'].append(rom)
                     elif flagname == "releaseyear":
                         releasedate = self.regexes.get_cleaned_date(romrow[2])
                         if releasedate is not None:
-                            rom = {}
-                            rom['name'] = romrow[1]
                             rom['flagvalue'] = str(self.regexes.get_cleaned_date(romrow[2]).year)
-                            rom['crc'] = romrow[0]
-                            system['roms'].append(rom)
+                    elif flagname=="developer":
+                        rom['flagvalue'] = self.regexes.get_cleaned_developer(romrow[2])
                     else:
-                        rom = {}
-                        rom['name'] = romrow[1]
                         rom['flagvalue'] = romrow[2]
-                        rom['crc'] = romrow[0]
-                        system['roms'].append(rom)
+                    system['roms'].append(rom)
                 flag['systems'].append(system)
             print "Exporting scraped release flag " + flagname
             self.exporter.export_rdb_dat(flag)

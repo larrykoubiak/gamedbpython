@@ -9,6 +9,24 @@ class DAT:
         self.header = {}
         self.filename = ""
         self.softwares=OrderedDict()
+        self.releaseGroup = None
+
+    def getReleaseGroup(self):
+        self.releaseGroup = None
+        if('comment' in self.header):
+            if(self.header['comment'] == "no-intro | www.no-intro.org"):
+                self.releaseGroup = "No-Intro"
+        elif('url' in self.header):
+            if(self.header['url'] == "www.no-intro.org"):
+                self.releaseGroup = "No-Intro"
+            elif(self.header['url'] == "http://www.fbalpha.com/"):
+                self.releaseGroup = "FBA"
+        else:
+            if(self.header['homepage'] is not None):
+                if(self.header['homepage'] == "TOSEC"):
+                    self.releaseGroup = "TOSEC"
+                elif(self.header['homepage'] == "redump.org"):
+                    self.releaseGroup = "Redump"
 
     def import_old_dat(self,datfile):
         line = datfile.readline()
@@ -41,6 +59,7 @@ class DAT:
                         game[result.group(1).capitalize()] = result.group(2)
                     line = datfile.readline()
             self.softwares[game['Name']] = game
+            
     def import_xml_dat(self,datfile):
         datfile.seek(0)
         tree = ET.parse(datfile)
@@ -76,6 +95,7 @@ class DAT:
             self.import_old_dat(datfile)
         else:
             self.import_xml_dat(datfile)
+        self.getReleaseGroup()
 
 if __name__ == '__main__':
     from dicttoxml import dicttoxml
