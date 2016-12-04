@@ -454,7 +454,7 @@ class Database:
                 tblSoftwares so ON so.softwareId = r.softwareId INNER JOIN
                 tblReleaseFlagValues rfv ON rfv.releaseId = r.releaseId INNER JOIN
                 tblReleaseFlags rf ON rf.releaseFlagId = rfv.releaseFlagId
-                WHERE so.systemId = ? AND rf.releaseFlagName = ?
+                WHERE so.systemId = :systemId AND rf.releaseFlagName = :releaseFlagName
                 GROUP BY ro.crc32, r.releaseName"""
         self.cur.execute(query,releaseflagDic)
         return self.cur.fetchall()
@@ -509,3 +509,8 @@ class Database:
                 WHERE so.systemId=:systemId AND srf.scraperReleaseFlagName=:scraperReleaseFlagName"""
         self.cur.execute(query,releaseflagDic)
         return self.cur.fetchall()
+
+if __name__ == '__main__':
+    db = Database()
+    flag = db.getScraperReleaseFlagSystem('ReleasePublisher')
+    print flag

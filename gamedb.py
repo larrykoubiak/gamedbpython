@@ -183,7 +183,7 @@ class GameDB:
             if flagname == 'origin':
                 flag['releaseFlagName'] = 'Region'
             flag['systems'] = []
-            systemrows = self.database.getReleaseFlagSystem(flag['name'])
+            systemrows = self.database.getReleaseFlagSystem(flag['releaseFlagName'])
             for systemrow in systemrows:
                 system = {}
                 system['name'] = systemrow[1]
@@ -212,7 +212,7 @@ class GameDB:
             else:
                 pass
             flag['systems'] = []
-            systemrows = self.database.getSoftwareFlagSystem(flag['name'])
+            systemrows = self.database.getSoftwareFlagSystem(flag['scraperGameFlagName'])
             for systemrow in systemrows:
                 system = {}
                 system['name'] = systemrow[1]
@@ -246,7 +246,7 @@ class GameDB:
             else:
                 pass
             flag['systems'] = []
-            systemrows = self.database.getScraperReleaseFlagSystem(flag['name'])
+            systemrows = self.database.getScraperReleaseFlagSystem(flag['scraperReleaseFlagName'])
             for systemrow in systemrows:
                 system = {}
                 system['name'] = systemrow[1]
@@ -257,14 +257,12 @@ class GameDB:
                     rom['name'] = romrow[1]
                     rom['crc'] = romrow[0]
                     if flagname == "releasemonth":
-                        releasedate = self.regexes.get_cleaned_date(romrow[2])
-                        if releasedate is not None:                       
-                            rom['flagvalue'] = str(self.regexes.get_cleaned_date(romrow[2]).month)
+                        releasedate = self.regexes.get_cleaned_date(romrow[2])              
+                        rom['flagvalue'] = '' if releasedate is None else str(self.regexes.get_cleaned_date(romrow[2]).month)                        
                     elif flagname == "releaseyear":
                         releasedate = self.regexes.get_cleaned_date(romrow[2])
-                        if releasedate is not None:
-                            rom['flagvalue'] = str(self.regexes.get_cleaned_date(romrow[2]).year)
-                    elif flagname=="developer":
+                        rom['flagvalue'] = '' if releasedate is None else str(self.regexes.get_cleaned_date(romrow[2]).year)
+                    elif flagname=="publisher":
                         rom['flagvalue'] = self.regexes.get_cleaned_developer(romrow[2])
                     else:
                         rom['flagvalue'] = romrow[2]

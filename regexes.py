@@ -67,4 +67,5 @@ if __name__ == '__main__':
     print regexes.get_cleaned_date('November 2008')
     print regexes.get_cleaned_date('03/15/10')
     print regexes.get_cleaned_date('2016')
-    print regexes.get_cleaned_date('03/15/2011')    
+    print regexes.get_cleaned_date('03/15/2011')
+    print regexes.get_cleaned_developer("NATSUME ATARI Inc.")
