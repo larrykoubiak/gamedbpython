@@ -345,6 +345,18 @@ class Database:
             query = "INSERT INTO tblSynonyms (key,value,type) VALUES (:key,:value,:type)"
             self.cur.execute(query,synonymDic)
 
+    def getSynonym(self,synonymkey,synonymtype):
+        synonymDic = {}
+        synonymDic['key'] = synonymkey
+        synonymDic['type'] = synonymtype
+        query = "SELECT value FROM tblSynonyms WHERE key=:key AND type=:type"
+        self.cur.execute(query,synonymDic)
+        synonymrow = self.cur.fetchone()
+        if synonymrow is None:
+            return synonymkey
+        else:
+            return synonymrow[0]
+
     def addSystemMatch(self,systemId,scraperSystemId):
         systemMatchDic = {}
         systemMatchDic['systemId'] = systemId
@@ -553,5 +565,5 @@ class Database:
 
 if __name__ == '__main__':
     db = Database()
-    flag = db.getScraperReleaseFlagSystem('ReleasePublisher')
+    flag = db.getScraperReleaseFlagSystemValue(33,'ReleaseDate')
     print flag

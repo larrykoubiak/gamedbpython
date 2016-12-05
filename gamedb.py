@@ -169,7 +169,7 @@ class GameDB:
             for releaserow in releaserows:
                 matches = self.database.getScraperGameReleaseList(releaserow[2],releaserow[3])
                 if len(matches) == 1:
-                    self.database.addSoftwareMatch(releaserow[0],matches[0][0])
+                    self.database.addReleaseMatch(releaserow[0],matches[0][0])
                 elif len(matches) > 1:
                     releaseDic = {m[0]:m[1] for m in matches}
                     ## clean dat release Name to match it to scraper releaseName
@@ -225,7 +225,12 @@ class GameDB:
                     rom['name'] = romrow[1]
                     rom['crc'] = romrow[0]
                     if flagname=="developer":
-                        rom['flagvalue'] = self.regexes.get_cleaned_developer(romrow[2])
+                        flagvalue = self.database.getSynonym(romrow[2],'Developer')
+                        flagvalue = self.regexes.get_cleaned_developer(flagvalue)
+                        rom['flagvalue'] = flagvalue
+                    elif flagname=="genre":
+                        flagvalue = self.database.getSynonym(romrow[2],'Genre')
+                        rom['flagvalue'] = flagvalue
                     else:
                         rom['flagvalue'] = romrow[2]
                     system['roms'].append(rom)
