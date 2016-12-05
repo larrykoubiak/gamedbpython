@@ -133,7 +133,7 @@ class GameDB:
                         for flag in game['softwareFlags']:
                             self.database.addScraperGameFlagValue(scraperGameId,flag['name'],flag['value'])
                         for release in game['releases']:
-                            scraperReleaseId = self.database.getScraperRelease(scraperGameId,release['name'],release['region'])
+                            scraperReleaseId = self.database.getScraperRelease(scraperGameId,release['name'],release['region'],release['type'])
                             for flag in release['releaseFlags']:
                                 self.database.addScraperReleaseFlagValue(scraperReleaseId,flag['name'],flag['value'])
                             for image in release['releaseImages']:

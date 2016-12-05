@@ -282,17 +282,18 @@ class Database:
             self.cur.execute(query,softwareflagDic)
 
 
-    def getScraperRelease(self,gameid,name,region):
+    def getScraperRelease(self,gameid,name,region,releasetype):
         scraperReleaseId = None
         scraperReleaseDic = {}
         scraperReleaseDic['scraperGameId'] = gameid
         scraperReleaseDic['scraperReleaseName'] = name
         scraperReleaseDic['scraperReleaseRegion'] = region
-        query = "SELECT scraperReleaseId FROM tblScraperReleases WHERE scraperGameId=:scraperGameId AND scraperReleaseName=:scraperReleaseName AND scraperReleaseRegion=:scraperReleaseRegion"
+        scraperReleaseDic['scraperReleaseType'] = releasetype
+        query = "SELECT scraperReleaseId FROM tblScraperReleases WHERE scraperGameId=:scraperGameId AND scraperReleaseName=:scraperReleaseName AND scraperReleaseRegion=:scraperReleaseRegion AND scraperReleaseType=:scraperReleaseType"
         self.cur.execute(query,scraperReleaseDic)
         scraperReleaserow = self.cur.fetchone()
         if scraperReleaserow is None:
-            query = "INSERT INTO tblScraperReleases (scraperGameId,scraperReleaseName,scraperReleaseRegion) VALUES (:scraperGameId,:scraperReleaseName,:scraperReleaseRegion)"
+            query = "INSERT INTO tblScraperReleases (scraperGameId,scraperReleaseName,scraperReleaseRegion,scraperReleaseType) VALUES (:scraperGameId,:scraperReleaseName,:scraperReleaseRegion,:scraperReleaseType)"
             self.cur.execute(query,scraperReleaseDic)
             scraperReleaseId = self.cur.lastrowid
         else:
@@ -317,7 +318,7 @@ class Database:
         scraperReleaseImageDic['scraperReleaseId'] = releaseid
         scraperReleaseImageDic['scraperReleaseImageName'] = name
         scraperReleaseImageDic['scraperReleaseImageType'] = imagetype
-        query = "SELECT scraperReleaseImageId FROM tblScraperReleaseImages WHERE scraperReleaseId=:scraperReleaseId AND scraperReleaseImageName=:scraperReleaseImageName AND scraperReleaseImageType=:scraperReleaseImageType"
+        query = """SELECT scraperReleaseImageId FROM tblScraperReleaseImages WHERE scraperReleaseId=:scraperReleaseId AND scraperReleaseImageName=:scraperReleaseImageName AND scraperReleaseImageType=:scraperReleaseImageType"""
         self.cur.execute(query,scraperReleaseImageDic)
         scraperReleaseImagerow = self.cur.fetchone()
         if scraperReleaseImagerow is None:
@@ -393,10 +394,13 @@ class Database:
         self.cur.execute(query,(scraperId,))
         return self.cur.fetchall()
 
-    def getScraperReleaseGameList(self,scraperSystemId):
+    def getScraperReleaseGameList(self,scraperSystemId,scraperReleaseType='Standard'):
+        scraperSystemDic = {}
+        scraperSystemDic['scraperSystemId'] = scraperSystemId
+        scraperSystemDic['scraperReleaseType'] = scraperReleaseType 
         query = """SELECT DISTINCT sr.scraperReleaseId, sr.scraperReleaseName, sr.scraperGameId FROM tblScraperReleases
-                sr INNER JOIN tblScraperGames sg ON sg.scraperGameId = sr.scraperGameId WHERE sg.scraperSystemId = ?"""
-        self.cur.execute(query,(scraperSystemId,))
+                sr INNER JOIN tblScraperGames sg ON sg.scraperGameId = sr.scraperGameId WHERE sg.scraperSystemId = :scraperSystemId AND sr.scraperReleaseType = :scraperReleaseType"""
+        self.cur.execute(query,scraperSystemDic)
         return self.cur.fetchall()
 
     def getScraperReleaseList(self,systemId):
@@ -414,13 +418,14 @@ class Database:
         self.cur.execute(query,(systemId,))
         return self.cur.fetchall()
 
-    def getScraperGameReleaseList(self,scraperGameId,scraperReleaseRegion):
+    def getScraperGameReleaseList(self,scraperGameId,scraperReleaseRegion,scraperReleaseType='Standard'):
         scraperReleaseDic = {}
         scraperReleaseDic['scraperGameId'] = scraperGameId
         scraperReleaseDic['scraperReleaseRegion'] = scraperReleaseRegion
+        scraperReleaseDic['scraperReleaseType'] = scraperReleaseType 
         query = """SELECT sr.scraperReleaseId,sr.scraperReleaseName
             FROM tblScraperReleases sr 
-            WHERE sr.scraperGameId = :scraperGameId AND sr.scraperReleaseRegion = :scraperReleaseRegion"""
+            WHERE sr.scraperGameId = :scraperGameId AND sr.scraperReleaseRegion = :scraperReleaseRegion AND sr.scraperReleaseType = :scraperReleaseType"""
         self.cur.execute(query,scraperReleaseDic)
         return self.cur.fetchall()
 

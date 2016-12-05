@@ -68,15 +68,21 @@ class Scraper:
                         releaseDic = {}
                         releaseDic['name'] = release.get('name')
                         releaseDic['region'] = release.get('region')
+                        releaseDic['type'] = 'Standard'
                         releaseDic['releaseFlags'] = []
                         releaseDic['releaseImages'] = []
                         for flag in [flag for flag in list(release) if flag.tag !='ReleaseImages']:
-                            if(flag.text is not None):
-                                if(len(flag.text)>1):
-                                    flagDic = {}
+                            if(flag.text is not None and len(flag.text)>1):
+                                flagDic = {}
+                                #handle barcodes containing text info (PSN, Nintendo Power, etc...)
+                                if flag.tag=="ReleaseBarCode" and not flag.text.strip().isdigit():
+                                    releaseDic['type'] = flag.text
+                                    flagDic['name'] = flag.tag
+                                    flagDic['value'] = ''
+                                else:
                                     flagDic['name'] = flag.tag
                                     flagDic['value'] = flag.text
-                                    releaseDic['releaseFlags'].append(flagDic)
+                                releaseDic['releaseFlags'].append(flagDic)
                         images = release.find('ReleaseImages')
                         if(images is not None):
                             for img in images.findall('Image'):
@@ -88,11 +94,10 @@ class Scraper:
                   
 if __name__ == '__main__':
     gf = Scraper('GameFAQs','http://www.gamefaqs.com')
-    gf.getSystems()
-    gf.getGames()
-    gf.getGameData()
-    for key,system in gf.systems.items():
-        print system['systemGames'].itervalues().next()
+    system = gf.systems['PSP']
+    for key,game in system['systemGames'].iteritems():
+        for release in game['releases']:
+            print 'name :"' + release['name'] + '" type: ' + release['type']
     print "Done."
         
             
