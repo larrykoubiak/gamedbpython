@@ -112,5 +112,5 @@ CREATE INDEX IF NOT EXISTS idxSynonym_key ON tblSynonyms (key ASC);
 CREATE INDEX IF NOT EXISTS idxSoftwareMap_sofwareId ON tblSoftwareMap (softwareId ASC, scraperGameId ASC);
 CREATE INDEX IF NOT EXISTS idxReleaseMap_releaseId ON tblReleaseMap (releaseId ASC, scraperReleaseId ASC);
 --VIEW
-CREATE VIEW v_serial IF NOT EXISTS AS 
+CREATE VIEW IF NOT EXISTS v_serial AS 
 SELECT DISTINCT scraperReleaseId, scraperReleaseFlagValue serial FROM tblScraperReleaseFlags WHERE scraperReleaseFlagName = 'ReleaseProductID';
