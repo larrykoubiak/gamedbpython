@@ -22,7 +22,7 @@ class DAT:
             elif(self.header['url'] == "http://www.fbalpha.com/"):
                 self.releaseGroup = "FBA"
         else:
-            if(self.header['homepage'] is not None):
+            if('homepage' in self.header):
                 if(self.header['homepage'] == "TOSEC"):
                     self.releaseGroup = "TOSEC"
                 elif(self.header['homepage'] == "redump.org"):
@@ -100,12 +100,12 @@ class DAT:
 if __name__ == '__main__':
     from dicttoxml import dicttoxml
     from xml.dom.minidom import parseString
-    output = open("old/nes.csv","w")
+    output = open("old/psp.csv","w")
     dat = DAT()
-    dat.read_dat('libretro-database/metadat/goodtools/Nintendo - Nintendo Entertainment System.dat')
+    dat.read_dat('old/Sony - PlayStation Portable.dat')
     for soft in dat.softwares.itervalues():
-        baseline = ';'.join(value for key,value in soft.items() if key !='Roms')
+        baseline = '\t'.join(value for key,value in soft.items() if key !='Roms')
         for rom in soft['Roms']:
-            line = baseline + ';'.join('' if value is None else str(value) for value in rom.itervalues())
+            line = baseline + '\t'.join('' if value is None else str(value) for value in rom.itervalues())
             output.write(line + '\n')
     output.close()

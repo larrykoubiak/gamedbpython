@@ -406,12 +406,12 @@ class Database:
         self.cur.execute(query,(scraperId,))
         return self.cur.fetchall()
 
-    def getScraperReleaseGameList(self,scraperSystemId,scraperReleaseType='Standard'):
+    def getScraperRelease2GameList(self,scraperSystemId,scraperReleaseType='Standard'):
         scraperSystemDic = {}
         scraperSystemDic['scraperSystemId'] = scraperSystemId
         scraperSystemDic['scraperReleaseType'] = scraperReleaseType 
         query = """SELECT DISTINCT sr.scraperReleaseId, sr.scraperReleaseName, sr.scraperGameId FROM tblScraperReleases
-                sr INNER JOIN tblScraperGames sg ON sg.scraperGameId = sr.scraperGameId WHERE sg.scraperSystemId = :scraperSystemId AND sr.scraperReleaseType = :scraperReleaseType"""
+                sr INNER JOIN tblScraperGames sg ON sg.scraperGameId = sr.scraperGameId WHERE sg.scraperSystemId = :scraperSystemId"""
         self.cur.execute(query,scraperSystemDic)
         return self.cur.fetchall()
 
@@ -430,14 +430,14 @@ class Database:
         self.cur.execute(query,(systemId,))
         return self.cur.fetchall()
 
-    def getScraperGameReleaseList(self,scraperGameId,scraperReleaseRegion,scraperReleaseType='Standard'):
+    def getScraperGame2ReleaseList(self,scraperGameId,scraperReleaseRegion,scraperReleaseType='Standard'):
         scraperReleaseDic = {}
         scraperReleaseDic['scraperGameId'] = scraperGameId
         scraperReleaseDic['scraperReleaseRegion'] = scraperReleaseRegion
         scraperReleaseDic['scraperReleaseType'] = scraperReleaseType 
         query = """SELECT sr.scraperReleaseId,sr.scraperReleaseName
             FROM tblScraperReleases sr 
-            WHERE sr.scraperGameId = :scraperGameId AND sr.scraperReleaseRegion = :scraperReleaseRegion AND sr.scraperReleaseType = :scraperReleaseType"""
+            WHERE sr.scraperGameId = :scraperGameId AND sr.scraperReleaseRegion = :scraperReleaseRegion"""
         self.cur.execute(query,scraperReleaseDic)
         return self.cur.fetchall()
 

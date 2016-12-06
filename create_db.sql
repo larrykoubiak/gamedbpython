@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS tblSynonyms (key TEXT, value TEXT, type TEXT);
 CREATE TABLE IF NOT EXISTS tblSystemMap(systemId INTEGER, scraperSystemId INTEGER);
 CREATE TABLE IF NOT EXISTS tblSoftwareMap(softwareId INTEGER, scraperGameId INTEGER);
 CREATE TABLE IF NOT EXISTS tblReleaseMap(releaseId INTEGER, scraperReleaseId INTEGER);
---View
+--Views
 CREATE VIEW IF NOT EXISTS v_match AS
 SELECT 
 d.datFileName, 
@@ -111,3 +111,6 @@ CREATE INDEX IF NOT EXISTS idxScraperReleaseImage_releaseid ON tblScraperRelease
 CREATE INDEX IF NOT EXISTS idxSynonym_key ON tblSynonyms (key ASC);
 CREATE INDEX IF NOT EXISTS idxSoftwareMap_sofwareId ON tblSoftwareMap (softwareId ASC, scraperGameId ASC);
 CREATE INDEX IF NOT EXISTS idxReleaseMap_releaseId ON tblReleaseMap (releaseId ASC, scraperReleaseId ASC);
+--VIEW
+CREATE VIEW v_serial IF NOT EXISTS AS 
+SELECT DISTINCT scraperReleaseId, scraperReleaseFlagValue serial FROM tblScraperReleaseFlags WHERE scraperReleaseFlagName = 'ReleaseProductID';

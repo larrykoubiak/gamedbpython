@@ -150,7 +150,7 @@ class GameDB:
         systems = self.database.getMappedSystems(1) ## scraperId 1 - GameFaqs
         for system in systems:
             print "Matching Softwares for System : " + system[1]
-            releasegamelist = self.database.getScraperReleaseGameList(system[2])
+            releasegamelist = self.database.getScraperRelease2GameList(system[2])
             releaseDic = {r[0]:r[1] for r in releasegamelist}
             gameDic = {r[0]:r[2] for r in releasegamelist}
             softwares = self.database.getSoftwareList(system[0])
@@ -167,7 +167,7 @@ class GameDB:
             print "Matching Releases for System : " + system[1]
             releaserows = self.database.getScraperReleaseList(system[0])
             for releaserow in releaserows:
-                matches = self.database.getScraperGameReleaseList(releaserow[2],releaserow[3])
+                matches = self.database.getScraperGame2ReleaseList(releaserow[2],releaserow[3])
                 if len(matches) == 1:
                     self.database.addReleaseMatch(releaserow[0],matches[0][0])
                 elif len(matches) > 1:
