@@ -10,6 +10,8 @@ CREATE TABLE IF NOT EXISTS tblSystems (systemId INTEGER PRIMARY KEY AUTOINCREMEN
 CREATE TABLE IF NOT EXISTS tblSoftwares (softwareId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, softwareName TEXT, softwareType TEXT, systemId INTEGER);
 CREATE TABLE IF NOT EXISTS tblReleases (releaseId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseName TEXT, releaseType TEXT, softwareId INTEGER);
 CREATE TABLE IF NOT EXISTS tblROMs (romId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseId INTEGER, crc32 TEXT, md5 TEXT, sha1 TEXT, size INTEGER);
+CREATE TABLE IF NOT EXISTS tblSoftwareFlags (softwareFlagId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, softwareFlagName TEXT);
+CREATE TABLE IF NOT EXISTS tblSoftwareFlagValues (softwareId INTEGER, softwareFlagId INTEGER, softwareFlagValue TEXT);
 CREATE TABLE IF NOT EXISTS tblReleaseFlags (releaseFlagId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, releaseFlagName TEXT);
 CREATE TABLE IF NOT EXISTS tblReleaseFlagValues (releaseId INTEGER, releaseFlagId INTEGER, releaseFlagValue TEXT);
 CREATE TABLE IF NOT EXISTS tblScrapers (scraperId INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, scraperName TEXT, scraperURL TEXT);
@@ -28,64 +30,103 @@ CREATE TABLE IF NOT EXISTS tblReleaseMap(releaseId INTEGER, scraperReleaseId INT
 --Views
 CREATE VIEW IF NOT EXISTS v_match AS
 SELECT 
-d.datFileName, 
-s.systemManufacturer || " - " || s.systemName systemName,
-so.softwareId,
-so.softwareName,
-so.softwareType,
-r.releaseId,
-r.releaseName,
-r.releaseType,
-ro.crc32,
-ro.md5,
-ro.sha1,
-ro.size,
-sr.scraperName,
-sg.scraperGameName,
-sg.scraperGameURL,
-GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Region' THEN rfv.releaseFlagValue END)) [Region],
-GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Version' THEN rfv.releaseFlagValue END)) [Version],
-GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'License' THEN rfv.releaseFlagValue END)) [License],
-GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Revision' THEN rfv.releaseFlagValue END)) [Revision],
-GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Language' THEN rfv.releaseFlagValue END)) [Language],
-GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'BadDump' THEN rfv.releaseFlagValue END)) [BadDump],
-GROUP_CONCAT(CASE WHEN sgf.scraperGameFlagName = 'Description' THEN sgf.scraperGameFlagValue END,';') [Description],
-GROUP_CONCAT(CASE WHEN sgf.scraperGameFlagName = 'UserRating' THEN sgf.scraperGameFlagValue END,';') [UserRating],
-GROUP_CONCAT(CASE WHEN sgf.scraperGameFlagName = 'Difficulty' THEN sgf.scraperGameFlagValue END,';') [Difficulty],
-GROUP_CONCAT(CASE WHEN sgf.scraperGameFlagName = 'Length' THEN sgf.scraperGameFlagValue END,';') [Length],
-GROUP_CONCAT(CASE WHEN sgf.scraperGameFlagName = 'Developer' THEN sgf.scraperGameFlagValue END,';') [Developer],
-GROUP_CONCAT(CASE WHEN sgf.scraperGameFlagName = 'Genre' THEN sgf.scraperGameFlagValue END,';') [Genre],
-GROUP_CONCAT(CASE WHEN sgf.scraperGameFlagName = 'Franchise' THEN sgf.scraperGameFlagValue END,';') [Franchise],
-GROUP_CONCAT(CASE WHEN sgf.scraperGameFlagName = 'AKA' THEN sgf.scraperGameFlagValue END,';') [AKA]
+	d.datFileName, 
+	s.systemManufacturer || " - " || s.systemName systemName,
+	so.softwareId,
+	so.softwareName,
+	so.softwareType,
+	r.releaseId,
+	r.releaseName,
+	r.releaseType,
+	ro.crc32,
+	ro.md5,
+	ro.sha1,
+	ro.size,
+	sc.scraperName,
+	sg.scraperGameName,
+	sg.scraperGameURL,
+	sr.scraperReleaseName
 FROM
-tblDatFiles d INNER JOIN
-tblSystems s ON s.systemId = d.systemId INNER JOIN
-tblSoftwares so ON so.systemId = s.systemId INNER JOIN
-tblReleases r ON r.softwareId = so.softwareId INNER JOIN
-tblROMs ro ON ro.releaseId = r.releaseId INNER JOIN
-tblReleaseFlagValues rfv ON rfv.releaseId = r.releaseId INNER JOIN
-tblReleaseFlags rf ON rf.releaseFlagId = rfv.releaseFlagId LEFT JOIN
-tblSoftwareMap sm ON sm.softwareId = so.softwareId LEFT JOIN
-tblScraperGames sg ON sg.scraperGameId = sm.scraperGameId LEFT JOIN
-tblScraperSystems ss ON ss.scraperSystemId = sg.scraperSystemId LEFT JOIN
-tblScrapers sr ON sr.scraperId = ss.scraperId LEFT JOIN
-tblScraperGameFlags sgf ON sgf.scraperGameId = sg.scraperGameId
+	tblDatFiles d INNER JOIN
+	tblSystems s ON s.systemId = d.systemId INNER JOIN
+	tblSoftwares so ON so.systemId = s.systemId INNER JOIN
+	tblReleases r ON r.softwareId = so.softwareId INNER JOIN
+	tblROMs ro ON ro.releaseId = r.releaseId INNER JOIN
+	tblReleaseFlagValues rfv ON rfv.releaseId = r.releaseId INNER JOIN
+	tblReleaseFlags rf ON rf.releaseFlagId = rfv.releaseFlagId LEFT JOIN
+	tblSoftwareMap sm ON sm.softwareId = so.softwareId LEFT JOIN
+	tblScraperGames sg ON sg.scraperGameId = sm.scraperGameId LEFT JOIN
+	tblScraperSystems ss ON ss.scraperSystemId = sg.scraperSystemId LEFT JOIN
+	tblScrapers sc ON sc.scraperId = ss.scraperId LEFT JOIN
+	tblReleaseMap rm ON rm.releaseId = r.releaseId LEFT JOIN
+	tblScraperReleases sr ON sr.scraperReleaseId = rm.scraperReleaseId
+GROUP BY
+	d.datFileName,
+	s.systemManufacturer || " - " || s.systemName,
+	so.softwareId,
+	so.softwareName,
+	so.softwareType,
+	r.releaseId,
+	r.releaseName,
+	r.releaseType,
+	ro.crc32,
+	ro.md5,
+	ro.sha1,
+	ro.size,
+	sc.scraperName,
+	sg.scraperGameName,
+	sg.scraperGameURL,
+	sr.scraperReleaseName;
+	
+CREATE VIEW IF NOT EXISTS v_gamedb AS
+SELECT
+	s.systemManufacturer || " - " || s.systemName systemName,
+	so.softwareId,
+	so.softwareName,
+	so.softwareType,
+	r.releaseId,
+	r.releaseName,
+	r.releaseType,
+	ro.crc32,
+	ro.md5,
+	ro.sha1,
+	ro.size,
+	GROUP_CONCAT(DISTINCT (CASE WHEN sf.softwareFlagName = 'Developer' THEN sfv.softwareFlagValue END)) [Developer],
+	GROUP_CONCAT(DISTINCT (CASE WHEN sf.softwareFlagName = 'Genre' THEN sfv.softwareFlagValue END)) [Genre],
+	GROUP_CONCAT(DISTINCT (CASE WHEN sf.softwareFlagName = 'Franchise' THEN sfv.softwareFlagValue END)) [Franchise],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'ProductID' THEN rfv.releaseFlagValue END)) [Serial],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'ReleaseDate' THEN rfv.releaseFlagValue END)) [ReleaseDate],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Publisher' THEN rfv.releaseFlagValue END)) [Publisher],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'BarCode' THEN rfv.releaseFlagValue END)) [BarCode],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Region' THEN rfv.releaseFlagValue END)) [Region],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Version' THEN rfv.releaseFlagValue END)) [Version],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'License' THEN rfv.releaseFlagValue END)) [License],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Revision' THEN rfv.releaseFlagValue END)) [Revision],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'Language' THEN rfv.releaseFlagValue END)) [Language],
+	GROUP_CONCAT(DISTINCT (CASE WHEN rf.releaseFlagName = 'BadDump' THEN rfv.releaseFlagValue END)) [BadDump] 
+FROM 
+	tblDatFiles d INNER JOIN 
+	tblSystems s ON s.systemId = d.systemId INNER JOIN 
+	tblSoftwares so ON so.systemId = s.systemId INNER JOIN 
+	tblReleases r ON r.softwareId = so.softwareId INNER JOIN 
+	tblROMs ro ON ro.releaseId = r.releaseId INNER JOIN 
+	tblSoftwareFlagValues sfv ON sfv.softwareId = so.softwareId 
+	INNER JOIN tblSoftwareFlags sf ON sf.softwareFlagId = sfv.softwareFlagId 
+	INNER JOIN tblReleaseFlagValues rfv ON rfv.releaseId = r.releaseId 
+	INNER JOIN tblReleaseFlags rf ON rf.releaseFlagId = rfv.releaseFlagId 
 GROUP BY 
-d.datFileName, 
-s.systemManufacturer || " - " || s.systemName,
-so.softwareId,
-so.softwareName,
-so.softwareType,
-r.releaseId,
-r.releaseName,
-r.releaseType,
-ro.crc32,
-ro.md5,
-ro.sha1,
-ro.size,
-sr.scraperName,
-sg.scraperGameName,
-sg.scraperGameURL;
+	d.datFileName,
+	s.systemManufacturer || " - " || s.systemName,
+	so.softwareId,
+	so.softwareName,
+	so.softwareType,
+	r.releaseId,
+	r.releaseName,
+	r.releaseType,
+	ro.crc32,
+	ro.md5,
+	ro.sha1,
+	ro.size;
 /*-------------*/
 /*   Indexes   */
 /*-------------*/
@@ -99,7 +140,10 @@ CREATE INDEX IF NOT EXISTS idxROM_releaseId ON tblROMs (releaseId ASC);
 CREATE INDEX IF NOT EXISTS idxROM_hashes ON tblROMs (crc32 ASC,md5 ASC,sha1 ASC);
 CREATE INDEX IF NOT EXISTS idxRelease_softwareId ON tblReleases (softwareId ASC);
 CREATE INDEX IF NOT EXISTS idxSoftware_systemId ON tblSoftwares (systemId ASC);
+CREATE INDEX IF NOT EXISTS idxSoftwareFlagValue_softwareId_softwareFlagId ON tblSoftwareFlagValues (softwareId ASC, softwareFlagId ASC);
 CREATE INDEX IF NOT EXISTS idxReleaseFlagValue_releaseId_releaseFlagId ON tblReleaseFlagValues (releaseId ASC,releaseFlagId ASC);
+CREATE INDEX IF NOT EXISTS idxReleaseFlagValue_releaseFlagId ON tblReleaseFlagValues (releaseFlagId ASC);
+
 --Scraper indexes
 CREATE INDEX IF NOT EXISTS idxScraperSystem_scraperId ON tblScraperSystems (scraperId ASC);
 CREATE INDEX IF NOT EXISTS idxScraperGame_systemId ON tblScraperGames (scraperSystemId ASC);

@@ -17,7 +17,7 @@ class GameDB:
         self.scrapers = []
         self.exporter = Exporter()
         self.matcher = Matcher()
-        self.patcher = Patcher()
+        self.patcher = Patcher('patches.xlsx')
         self.database = Database()
     
     def import_dats(self):
@@ -177,130 +177,102 @@ class GameDB:
                     scraperReleaseId = self.matcher.match_fuzzy(releaseDic,releaseName,"Full",80)
                     self.database.addReleaseMatch(releaserow[0],scraperReleaseId)
         self.database.save()
+
+    def match_software_flags(self):
+        print "Importing software flags"
+        softwareflags = self.database.getSoftwareFlagList()
+        for flagrow in softwareflags:
+            flagid = self.database.getSoftwareFlag(flagrow[1])
+            flagvalue = ""
+            if flagrow[1]=="Developer":
+                flagvalue = self.database.getSynonym(flagrow[2],'Developer')
+                flagvalue = self.regexes.get_cleaned_developer(flagvalue)
+            elif flagrow[1]=="Genre":
+                flagvalue = self.database.getSynonym(flagrow[2],'Genre')
+            elif flagrow[1]=="Franchise":
+                flagvalue = self.database.getSynonym(flagrow[2],'Franchise')
+            if flagvalue != "" and flagvalue is not None:
+                self.database.addSoftwareFlagValue(flagrow[0],flagid,flagvalue)
+        self.database.save()
+
+    def match_release_flags(self):
+        print "Importing release flags"
+        releaseflags = self.database.getReleaseFlagList()
+        for flagrow in releaseflags:
+            flagid = self.database.getReleaseFlag(flagrow[1])
+            flagvalue = ""
+            if flagrow[1]=="Publisher":
+                flagvalue = self.database.getSynonym(flagrow[2],'Developer')
+                flagvalue = self.regexes.get_cleaned_developer(flagvalue)
+            elif flagrow[1]=="ReleaseDate":
+                flagvalue = self.regexes.get_cleaned_date(flagrow[2])
+            elif flagrow[1]=="ProductID":
+                flagvalue = flagrow[2]
+            elif flagrow[1]=="BarCode":
+                flagvalue = flagrow[2]
+            if flagvalue != "" and flagvalue is not None:
+                self.database.addReleaseFlagValue(flagrow[0],flagid,flagvalue)
+        self.database.save()
         
-    def export_releaseflags(self):
-        for flagname in ['origin']:
+    def exportgamedbflags(self):
+        lstFlags = [('Developer','developer','software'), \
+                    ('Franchise','franchise','software'), \
+                    ('Genre','genre','software'), \
+                    ('Publisher','publisher','release'), \
+                    ('ProductID','serial','release'), \
+                    ('ReleaseDate','releasemonth','release'), \
+                    ('ReleaseDate','releaseyear','release')]
+        for flagtuple in lstFlags:
             flag = {}
-            flag['name'] = flagname
-            if flagname == 'origin':
-                flag['releaseFlagName'] = 'Region'
+            flag['srcName'] = flagtuple[0]
+            flag['destName'] = flagtuple[1]
             flag['systems'] = []
-            systemrows = self.database.getReleaseFlagSystem(flag['releaseFlagName'])
-            for systemrow in systemrows:
+            systemrows = self.database.getSystemDic()
+            for systemId, systemName in systemrows.iteritems():
+                print "Exporting scraped software flag {0} for system {1}".format(flagtuple[1],systemName)
                 system = {}
-                system['name'] = systemrow[1]
+                system['name'] = systemName
                 system['roms'] = []
-                romrows = self.database.getReleaseFlagSystemValue(systemrow[2],flag['releaseFlagName'])
-                for romrow in romrows:
+                rows = self.database.getSystemFlagValues(systemId,flag['srcName'])
+                for row in rows:
                     rom = {}
-                    rom['name'] = romrow[1]
-                    rom['flagvalue'] = romrow[2]
-                    rom['crc'] = romrow[0]
+                    rom['name'] = row[2]
+                    if systemName in ['Sony - PlayStation Portable','Sony - PlayStation']:
+                        rom['key'] = 'serial'
+                        rom['keyvalue'] = '' if row[1] is None else row[1]
+                    else:
+                        rom['key'] = 'crc'
+                        rom['keyvalue'] = row[0]
+                    rom['flagvalue'] = row[3]
                     system['roms'].append(rom)
-                flag['systems'].append(system)
-            print "Exporting release flag " + flagname
+                if len(system['roms']) > 0:
+                    flag['systems'].append(system)
             self.exporter.export_rdb_dat(flag)
 
-    def export_scraperSoftwareFlags(self):
-        for flagname in ['developer','franchise','genre']:
-            flag = {}
-            flag['name'] = flagname
-            if flagname == "developer":
-                flag['scraperGameFlagName'] = "Developer"
-            elif flagname == "franchise":
-                flag['scraperGameFlagName'] = "Franchise"
-            elif flagname == "genre":
-                flag['scraperGameFlagName'] = "Genre"
-            else:
-                pass
-            flag['systems'] = []
-            systemrows = self.database.getSoftwareFlagSystem(flag['scraperGameFlagName'])
-            for systemrow in systemrows:
-                system = {}
-                system['name'] = systemrow[1]
-                system['roms'] = []
-                romrows = self.database.getSoftwareFlagSystemValue(systemrow[2],flag['scraperGameFlagName'])
-                for romrow in romrows:
-                    rom = {}
-                    rom['name'] = romrow[1]
-                    rom['crc'] = romrow[0]
-                    if flagname=="developer":
-                        flagvalue = self.database.getSynonym(romrow[2],'Developer')
-                        flagvalue = self.regexes.get_cleaned_developer(flagvalue)
-                        rom['flagvalue'] = flagvalue
-                    elif flagname=="genre":
-                        flagvalue = self.database.getSynonym(romrow[2],'Genre')
-                        rom['flagvalue'] = flagvalue
-                    else:
-                        rom['flagvalue'] = romrow[2]
-                    system['roms'].append(rom)
-                flag['systems'].append(system)
-            print "Exporting scraped software flag " + flagname
-            self.exporter.export_rdb_dat(flag)
-
-    def export_scraperReleaseFlags(self):
-        for flagname in ['publisher','serial','releasemonth','releaseyear']:
-            flag = {}
-            flag['name'] = flagname
-            if flagname == "publisher":
-                flag['scraperReleaseFlagName'] = "ReleasePublisher"
-            elif flagname == "serial":
-                flag['scraperReleaseFlagName'] = "ReleaseProductID"
-            elif flagname == "releasemonth":
-                flag['scraperReleaseFlagName'] = "ReleaseDate"
-            elif flagname == "releaseyear":
-                flag['scraperReleaseFlagName'] = "ReleaseDate"
-            else:
-                pass
-            flag['systems'] = []
-            systemrows = self.database.getScraperReleaseFlagSystem(flag['scraperReleaseFlagName'])
-            for systemrow in systemrows:
-                system = {}
-                system['name'] = systemrow[1]
-                system['roms'] = []
-                romrows = self.database.getScraperReleaseFlagSystemValue(systemrow[2],flag['scraperReleaseFlagName'])
-                for romrow in romrows:
-                    rom = {}
-                    rom['name'] = romrow[1]
-                    rom['crc'] = romrow[0]
-                    if flagname == "releasemonth":
-                        releasedate = self.regexes.get_cleaned_date(romrow[2])              
-                        rom['flagvalue'] = '' if releasedate is None else str(self.regexes.get_cleaned_date(romrow[2]).month)                        
-                    elif flagname == "releaseyear":
-                        releasedate = self.regexes.get_cleaned_date(romrow[2])
-                        rom['flagvalue'] = '' if releasedate is None else str(self.regexes.get_cleaned_date(romrow[2]).year)
-                    elif flagname=="publisher":
-                        rom['flagvalue'] = self.regexes.get_cleaned_developer(romrow[2])
-                    else:
-                        rom['flagvalue'] = romrow[2]
-                    system['roms'].append(rom)
-                flag['systems'].append(system)
-            print "Exporting scraped release flag " + flagname
-            self.exporter.export_rdb_dat(flag)
-            
     def export_rdbs(self):
-        systemrows = self.database.getExportSystems()
-        for systemrow in systemrows:
-            print "Exporting rdb for " + systemrow[0]
-            self.exporter.create_rdb(systemrow[0])
+        systemrows = self.database.getSystemDic()
+        for systemId,systemname in systemrows.iteritems():
+            print "Exporting rdb for " + systemname
+            self.exporter.create_rdb(systemname)
 
-    def apply_patches(self):
-        self.patcher.LoadFile("patches.xlsx")
-        self.patcher.GenerateScript("patches.sql")
-        self.database.run_script('patches.sql')
-        print "Patches applied"
+    def apply_patches(self,stage):
+        patchname = "patch_" + stage + ".sql"
+        self.patcher.GenerateScript(patchname,stage)
+        self.database.run_script(patchname)
+        print "Patch " + stage + " applied"
             
 if __name__ == '__main__':
     gamedb = GameDB()
     gamedb.import_dats()
-    gamedb.import_scrapers()
-    gamedb.match_systems()
-    gamedb.match_softwares()
-    gamedb.apply_patches()
-    gamedb.match_releases()
-    gamedb.export_releaseflags()
-    gamedb.export_scraperSoftwareFlags()
-    gamedb.export_scraperReleaseFlags()
+##    gamedb.import_scrapers()
+##    gamedb.match_systems()
+##    gamedb.match_softwares()
+##    gamedb.apply_patches("SoftwareMap")
+##    gamedb.match_releases()
+##    gamedb.match_software_flags()
+##    gamedb.apply_patches("SoftwareFlagMap")
+##    gamedb.match_release_flags()
+    gamedb.exportgamedbflags()
     gamedb.export_rdbs()
     gamedb.database.close()
     print "\nJob done."

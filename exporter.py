@@ -6,18 +6,18 @@ import platform
 class Exporter:
 
     def export_rdb_dat(self,flag):
-        if not os.path.exists("libretro-database/metadat/" + flag['name']):
-            os.makedirs("libretro-database/metadat/" + flag['name'])
+        if not os.path.exists("libretro-database/metadat/" + flag['destName']):
+            os.makedirs("libretro-database/metadat/" + flag['destName'])
         for system in flag['systems']:
-            print "Exporting flag " + flag['name'] + " for system " + system['name']
-            filename = os.path.join("libretro-database","metadat",flag['name'],system['name'] + ".dat")
+            print "Exporting flag " + flag['destName'] + " for system " + system['name']
+            filename = os.path.join("libretro-database","metadat",flag['destName'],system['name'] + ".dat")
             outputdat = io.open(filename,'wb')
             outputdat.write(u'clrmamepro (\n\tname \"' + system['name'].encode("utf-8") + u'\"\n\tdescription \"' + system['name'].encode("utf-8") + u'\"\n)\n\n')
             for rom in system['roms']:
                 outputdat.write(u"game (\n")
                 outputdat.write(u"\tname \"" + rom['name'].encode("utf-8") + u"\"\n")
-                outputdat.write(u"\t" + flag['name'].encode("utf-8") + u" \"" + rom['flagvalue'].encode("utf-8") + u"\"\n")
-                outputdat.write(u"\trom (\n\t\tcrc " + rom['crc'].encode("utf-8") + u"\n\t)\n")
+                outputdat.write(u"\t" + flag['destName'].encode("utf-8") + u" \"" + rom['flagvalue'].encode("utf-8") + u"\"\n")
+                outputdat.write(u"\trom (\n\t\t" + rom['key'] + " " + rom['keyvalue'].encode("utf-8") + u"\n\t)\n")
                 outputdat.write(u")\n\n")
             outputdat.close()
 

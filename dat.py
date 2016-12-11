@@ -59,6 +59,49 @@ class DAT:
                         game[result.group(1).capitalize()] = result.group(2)
                     line = datfile.readline()
             self.softwares[game['Name']] = game
+
+    def import_metadat_dat(self,path):
+        datfile = open(path,"r")
+        line = datfile.readline()
+        self.header = {}
+        datexp = re.compile('\t*(.+?) \"?([^\"\n]*)\"?$')
+        romexp = re.compile('([a-z|1]+?) \"?([^"| ]*)\"?')
+        #import header
+        while(line !=")\n"):
+            result = datexp.search(line)
+            self.header[result.group(1)] = result.group(2)
+            line = datfile.readline()
+        #import software
+        self.softwares = OrderedDict()
+        while(line != ''):
+            line = datfile.readline() #skip line
+            line = datfile.readline() #read game
+            if(line == "game (\n"):
+                game = OrderedDict()
+                game['romtags'] = {}
+                line = datfile.readline()
+                nameresult = datexp.search(line)
+                game['Name'] = nameresult.group(2)
+                line = datfile.readline()
+                tagresult = datexp.search(line)
+                game['Tag'] = tagresult.group(1)
+                game['TagValue'] = tagresult.group(2)
+                line = datfile.readline() # rom (
+                if line=="\trom (\n":
+                    line = datfile.readline()
+                    while line != "\t)\n":
+                        romresult = datexp.search(line)
+                        game['romtags'][romresult.group(1)] = '' if romresult.group(2) is None else romresult.group(2)
+                        line = datfile.readline()                   
+                    line = datfile.readline() # \)
+                else:
+                    romresult = datexp.search(line)
+                    tagresults = romexp.finditer(romresult.group(2))
+                    for tagresult in tagresults:
+                        game['romtags'][tagresult.group(1)] = tagresult.group(2)
+                    line = datfile.readline() # \)                    
+                self.softwares[game['Name']] = game
+        datfile.close()
             
     def import_xml_dat(self,datfile):
         datfile.seek(0)
@@ -72,7 +115,7 @@ class DAT:
         #extract softwares
         self.softwares = OrderedDict()
         for gamenode in root.findall('game'):
-            game = {}
+            game = OrderedDict()
             game['Name'] = gamenode.get('name')
             game['CloneOf'] = '' if gamenode.get('cloneof') is None else gamenode.get('cloneof')
             game['RomOf'] = '' if gamenode.get('romof') is None else gamenode.get('romof')
@@ -100,12 +143,13 @@ class DAT:
 if __name__ == '__main__':
     from dicttoxml import dicttoxml
     from xml.dom.minidom import parseString
-    output = open("old/psp.csv","w")
-    dat = DAT()
-    dat.read_dat('old/Sony - PlayStation Portable.dat')
-    for soft in dat.softwares.itervalues():
-        baseline = '\t'.join(value for key,value in soft.items() if key !='Roms')
-        for rom in soft['Roms']:
-            line = baseline + '\t'.join('' if value is None else str(value) for value in rom.itervalues())
-            output.write(line + '\n')
+    import os
+    output = open("old/releaseyear.csv","w")
+    for datfile in os.listdir("old/metadat/releaseyear"):
+        dat = DAT()
+        dat.import_metadat_dat(os.path.join("old/metadat/releaseyear",datfile))
+        for soft in dat.softwares.itervalues():
+            baseline = datfile + '\t' + '\t'.join(value for key,value in soft.iteritems() if key !='romtags')
+            line = baseline + '\t' + '\t'.join('' if value is None else key + '\t' + str(value) for key,value in soft['romtags'].iteritems())
+            output.write(line + "\n")
     output.close()

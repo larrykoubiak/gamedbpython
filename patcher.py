@@ -3,9 +3,10 @@ import codecs
 from collections import OrderedDict
 
 class Patcher:
-    def __init__(self):
+    def __init__(self,path):
         self.sqls = []
         self.scripts = []
+        self.LoadFile(path)
         
     def LoadFile(self,path):
         header = []
@@ -19,26 +20,45 @@ class Patcher:
             header.append(col.value)
         for row in rows[1:]:
             sql = OrderedDict()
-            for col in range(0,len(row)-1):
+            for col in range(0,len(row)):
                 sql[header[col]] = row[col].value
             self.sqls.append(sql)
 
-    def GenerateScript(self,path):
+    def GetColumnCount(self,sql):
+        if len(sql["tofield1"])==0:
+            count = 0
+        if len(sql["tofield2"])==0:
+            count = 1
+        elif len(sql["tofield3"])==0:
+            count = 2
+        else:
+            count = 3
+        return count
+    
+    def GenerateScript(self,path,stage):
         output = ""
-        for sql in self.sqls:
+        for sql in [s for s in self.sqls if s['Stage'] == stage]:
             script = ""
             if sql["Action"] == "DELETE":
-                strformat = "DELETE FROM {0} WHERE {1} = {2}"
-                script = strformat.format(sql["totable"],sql["tokey"],str(int(sql["tovalue"])))
+                strformat = "DELETE FROM {totable} WHERE {tokey} = {tovalue}"
+                script = strformat.format(**sql)
             elif sql["Action"] == "UPDATE":
-                strformat = "UPDATE {0} SET {1} = (SELECT {2} FROM {3} WHERE {4} = '{5}') WHERE {6} = {7}"
-                script = strformat.format(sql["totable"],sql["tofield"],sql["fromfield"],sql["fromtable"],sql["fromkey"],sql["fromvalue"],sql["tokey"],str(int(sql["tovalue"])))
+                strformat = "UPDATE {totable} SET {tofield1} = (SELECT {fromfield1} FROM {fromtable} WHERE {fromkey} = {fromvalue}) WHERE {tokey} = {tovalue}"
+                script = strformat.format(**sql)
             elif sql["Action"] == "DELETELIST":
-                strformat = "DELETE FROM {0} WHERE {1} IN (SELECT {2} FROM {3} WHERE {4} = '{5}')"
-                script = strformat.format(sql["totable"],sql["tokey"],sql["fromfield"],sql["fromtable"],sql["fromkey"],sql["fromvalue"])
+                strformat = "DELETE FROM {totable} WHERE {tokey} IN (SELECT {fromfield1} FROM {fromtable} WHERE {fromkey} = {fromvalue})"
+                script = strformat.format(**sql)
             elif sql["Action"] == "INSERT":
-                strformat = "INSERT INTO {0} ({1},{2}) SELECT {3},{4} FROM {5} WHERE {6} = '{7}' AND NOT EXISTS (SELECT 1 FROM {0} WHERE {1} = {3} AND {2} = {4})"
-                script = strformat.format(sql["totable"],sql["tokey"],sql["tofield"],sql["tovalue"],sql["fromfield"],sql["fromtable"],sql["fromkey"],sql["fromvalue"])
+                count = self.GetColumnCount(sql)
+                strformat = "INSERT INTO {totable} ("
+                strformat += ",".join("{tofield" + str(i+1) + "}" for i in range(0,count)) + ")"
+                strformat += " SELECT "
+                strformat += ", ".join("{fromfield" + str(i+1) + "}" for i in range(0,count))
+                strformat += " FROM {fromtable} WHERE {fromkey} = {fromvalue}"
+                strformat += " AND NOT EXISTS (SELECT 1 FROM {totable} WHERE "
+                strformat += " AND ".join("{tofield" + str(i+1) + "} = {fromfield" + str(i+1) + "}" for i in range(0,count))
+                strformat += ")"
+                script = strformat.format(**sql)
             else:
                 pass
             if script != "":
@@ -51,4 +71,5 @@ class Patcher:
 if __name__ == "__main__":
     patcher = Patcher()
     patcher.LoadFile("patches.xlsx")
-    patcher.GenerateScript("patches.sql")
+    patcher.GenerateScript("patch_softwaremap.sql","SoftwareMap")
+    patcher.GenerateScript("patch_softwareflagmap.sql","SoftwareFlagMap")
