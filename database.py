@@ -504,7 +504,8 @@ class Database:
                     tblScraperReleases sr ON sr.scraperReleaseId = rm.scraperReleaseId INNER JOIN
                     tblScraperReleaseFlags srf ON srf.scraperReleaseId = sr.scraperReleaseId
                 WHERE
-                    sc.scraperName = 'GameFAQs'"""
+                    sc.scraperName = 'GameFAQs' AND
+                    NOT (s.systemManufacturer = 'Sony' AND srf.scraperReleaseFlagName = 'ReleaseProductID')"""
         self.cur.execute(query)
         return self.cur.fetchall()
     

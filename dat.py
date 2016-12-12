@@ -32,7 +32,7 @@ class DAT:
         line = datfile.readline()
         self.header = {}
         datexp = re.compile("\t*(.+?) \"?(.+?)\"?$")
-        romexp = re.compile("\( (?:name \"(?P<name>.*)\" )?(?:size (?P<size>.+?) )?(?:crc (?P<crc>.+?) )?(?:md5 (?P<md5>.+?) )?(?:sha1 (?P<sha1>.+?) )?(?:status (?P<status>.+?) )?\)")
+        romexp = re.compile("\( (?:name \"(?P<name>.*)\" )?(?:size (?P<size>.+?) )?(?:crc (?P<crc>.+?) )?(?:md5 (?P<md5>.+?) )?(?:sha1 (?P<sha1>.+?) )?(?:status (?P<status>.+?) )?(?:flags (?P<flags>.+?) )?\)")
         #import header
         while(line !=")\n"):
             result = datexp.search(line)
@@ -144,12 +144,22 @@ if __name__ == '__main__':
     from dicttoxml import dicttoxml
     from xml.dom.minidom import parseString
     import os
-    output = open("old/releaseyear.csv","w")
-    for datfile in os.listdir("old/metadat/releaseyear"):
-        dat = DAT()
-        dat.import_metadat_dat(os.path.join("old/metadat/releaseyear",datfile))
-        for soft in dat.softwares.itervalues():
-            baseline = datfile + '\t' + '\t'.join(value for key,value in soft.iteritems() if key !='romtags')
-            line = baseline + '\t' + '\t'.join('' if value is None else key + '\t' + str(value) for key,value in soft['romtags'].iteritems())
-            output.write(line + "\n")
+    output = open("old/psp.csv","w")
+    dat = DAT()
+    datfile = open("libretro-database/metadat/no-intro/Sony - PlayStation Portable.dat","r")
+    dat.import_old_dat(datfile)
+    for soft in dat.softwares.itervalues():
+        baseline = '\t'.join(value for key,value in soft.iteritems() if key !='Roms')
+        for rom in soft['Roms']:
+           line = baseline + '\t' + '\t'.join('' if value is None else key + '\t' + str(value) for key,value in rom.iteritems())
+           output.write(line + "\n")
+        
+##    output = open("old/releaseyear.csv","w")
+##    for datfile in os.listdir("old/metadat/releaseyear"):
+##        dat = DAT()
+##        dat.import_metadat_dat(os.path.join("old/metadat/releaseyear",datfile))
+##        for soft in dat.softwares.itervalues():
+##            baseline = datfile + '\t' + '\t'.join(value for key,value in soft.iteritems() if key !='romtags')
+##            line = baseline + '\t' + '\t'.join('' if value is None else key + '\t' + str(value) for key,value in soft['romtags'].iteritems())
+##            output.write(line + "\n")
     output.close()

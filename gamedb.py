@@ -31,6 +31,11 @@ class GameDB:
             self.import_dat(dat)
         self.dats = None
         self.import_new_ROMS()
+        # temp fix to load serial
+        print "Importing PSP serials"
+        dat = DAT()
+        dat.read_dat('libretro-database/metadat/no-intro/Sony - PlayStation Portable.dat')
+        self.import_softwareflags(dat)        
         
     def import_dat(self,dat):
         datFileId = None
@@ -101,6 +106,17 @@ class GameDB:
         else:
             releaseType = 'Commercial'
         return self.database.getRelease(releaseName,releaseType,softwareId)
+
+    def import_softwareflags(self,dat):
+        for gamekey,gamevalue in dat.softwares.iteritems():
+            sysresult = self.regexes.get_regex_result("System",dat.header["name"])
+            systemId = self.database.getSystem(sysresult.group('Manufacturer'),sysresult.group('Name'))
+            softwareId = self.import_software(gamevalue['Name'],systemId)
+            for rom in gamevalue['Roms']:
+                releaseId = self.import_release(gamevalue['Name'],softwareId)
+                if 'Serial' in gamevalue:
+                    self.database.addReleaseFlagValue(releaseId,self.database.getReleaseFlag('ProductID'),gamevalue['Serial'])
+        self.database.save()
 
     def import_releaseflags(self,releaseName,releaseId):
         for regionresult in self.regexes.get_regex_results("Region",releaseName):
@@ -214,7 +230,7 @@ class GameDB:
                 self.database.addReleaseFlagValue(flagrow[0],flagid,flagvalue)
         self.database.save()
         
-    def exportgamedbflags(self):
+    def export_gamedbflags(self):
         lstFlags = [('Developer','developer','software'), \
                     ('Franchise','franchise','software'), \
                     ('Genre','genre','software'), \
@@ -229,21 +245,28 @@ class GameDB:
             flag['systems'] = []
             systemrows = self.database.getSystemDic()
             for systemId, systemName in systemrows.iteritems():
-                print "Exporting scraped software flag {0} for system {1}".format(flagtuple[1],systemName)
+                print "Exporting {0} flag {1} for system {2}".format(flagtuple[2],flagtuple[1],systemName)
                 system = {}
                 system['name'] = systemName
                 system['roms'] = []
                 rows = self.database.getSystemFlagValues(systemId,flag['srcName'])
+                if systemName in ['Sony - PlayStation Portable','Sony - PlayStation']:
+                    rows = [r for r in rows if r[1] is not None]
                 for row in rows:
                     rom = {}
                     rom['name'] = row[2]
                     if systemName in ['Sony - PlayStation Portable','Sony - PlayStation']:
                         rom['key'] = 'serial'
-                        rom['keyvalue'] = '' if row[1] is None else row[1]
+                        rom['keyvalue'] = '"' + row[1] + '"'
                     else:
                         rom['key'] = 'crc'
                         rom['keyvalue'] = row[0]
-                    rom['flagvalue'] = row[3]
+                    if flag['destName']=="releasemonth":
+                        rom['flagvalue'] = str(datetime.strptime(row[3],'%Y-%m-%d %H:%M:%S').month)
+                    elif flag['destName']=="releaseyear":
+                        rom['flagvalue'] = str(datetime.strptime(row[3],'%Y-%m-%d %H:%M:%S').year)
+                    else:
+                        rom['flagvalue'] = row[3]
                     system['roms'].append(rom)
                 if len(system['roms']) > 0:
                     flag['systems'].append(system)
@@ -253,7 +276,11 @@ class GameDB:
         systemrows = self.database.getSystemDic()
         for systemId,systemname in systemrows.iteritems():
             print "Exporting rdb for " + systemname
-            self.exporter.create_rdb(systemname)
+            if systemname in ['Sony - PlayStation Portable','Sony - PlayStation']:
+                key = 'serial'
+            else:
+                key = 'rom.crc'
+            self.exporter.create_rdb(systemname,key)
 
     def apply_patches(self,stage):
         patchname = "patch_" + stage + ".sql"
@@ -264,15 +291,15 @@ class GameDB:
 if __name__ == '__main__':
     gamedb = GameDB()
     gamedb.import_dats()
-##    gamedb.import_scrapers()
-##    gamedb.match_systems()
-##    gamedb.match_softwares()
-##    gamedb.apply_patches("SoftwareMap")
-##    gamedb.match_releases()
-##    gamedb.match_software_flags()
-##    gamedb.apply_patches("SoftwareFlagMap")
-##    gamedb.match_release_flags()
-    gamedb.exportgamedbflags()
-    gamedb.export_rdbs()
+    gamedb.import_scrapers()
+    gamedb.match_systems()
+    gamedb.match_softwares()
+    gamedb.apply_patches("SoftwareMap")
+    gamedb.match_releases()
+    gamedb.match_software_flags()
+    gamedb.apply_patches("SoftwareFlagMap")
+    gamedb.match_release_flags()
+    gamedb.export_gamedbflags()
+    gamedb.export_rdbs()    
     gamedb.database.close()
     print "\nJob done."

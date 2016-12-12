@@ -9,19 +9,22 @@ class Exporter:
         if not os.path.exists("libretro-database/metadat/" + flag['destName']):
             os.makedirs("libretro-database/metadat/" + flag['destName'])
         for system in flag['systems']:
-            print "Exporting flag " + flag['destName'] + " for system " + system['name']
             filename = os.path.join("libretro-database","metadat",flag['destName'],system['name'] + ".dat")
             outputdat = io.open(filename,'wb')
             outputdat.write(u'clrmamepro (\n\tname \"' + system['name'].encode("utf-8") + u'\"\n\tdescription \"' + system['name'].encode("utf-8") + u'\"\n)\n\n')
             for rom in system['roms']:
                 outputdat.write(u"game (\n")
                 outputdat.write(u"\tname \"" + rom['name'].encode("utf-8") + u"\"\n")
-                outputdat.write(u"\t" + flag['destName'].encode("utf-8") + u" \"" + rom['flagvalue'].encode("utf-8") + u"\"\n")
-                outputdat.write(u"\trom (\n\t\t" + rom['key'] + " " + rom['keyvalue'].encode("utf-8") + u"\n\t)\n")
+                if rom['key'] == 'serial':
+                    outputdat.write(u"\tserial " + rom['keyvalue'].encode("utf-8") + u"\n")
+                    outputdat.write(u"\t" + flag['destName'].encode("utf-8") + u" \"" + rom['flagvalue'].encode("utf-8") + u"\"\n")
+                else:
+                    outputdat.write(u"\t" + flag['destName'].encode("utf-8") + u" \"" + rom['flagvalue'].encode("utf-8") + u"\"\n")
+                    outputdat.write(u"\trom (\n\t\t" + rom['key'] + " " + rom['keyvalue'].encode("utf-8") + u"\n\t)\n")
                 outputdat.write(u")\n\n")
             outputdat.close()
 
-    def create_rdb(self,systemName):
+    def create_rdb(self,systemName,key):
         if not os.path.exists("rdb"):
             os.makedirs("rdb")
         commands = []
@@ -36,7 +39,7 @@ class Exporter:
             else:
                 commands.append("./c_converter")
             commands.append("libretro-database/rdb/" + systemName + ".rdb")
-            commands.append("rom.crc")
+            commands.append(key)
             if os.path.exists("libretro-database/dat/" + systemName + ".dat"):
                 commands.append("libretro-database/dat/" + systemName + ".dat")
             for metadat in metadats:
@@ -46,4 +49,4 @@ class Exporter:
 
 if __name__ == '__main__':
     exporter = Exporter()
-    exporter.create_rdb("Coleco - ColecoVision")
+    exporter.create_rdb("Sony - PlayStation Portable","serial")
