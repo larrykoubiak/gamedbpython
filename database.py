@@ -555,7 +555,8 @@ class Database:
                         sl ON sl.releaseId = r.releaseId
                     WHERE 
                         s.systemId = :systemId AND
-                        rf.releaseFlagName = :flagName"""
+                        rf.releaseFlagName = :flagName
+                    ORDER BY 3"""
         self.cur.execute(query,flagDic)
         return self.cur.fetchall()
 

@@ -174,7 +174,8 @@ class GameDB:
                 scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1],"Full",80)
                 if scraperReleaseId == None:
                     scraperReleaseId = self.matcher.match_fuzzy(releaseDic,software[1],"Partial",86)
-                self.database.addSoftwareMatch(software[0],None if scraperReleaseId is None else gameDic[scraperReleaseId])
+                if scraperReleaseId != None:
+                    self.database.addSoftwareMatch(software[0],gameDic[scraperReleaseId])
         self.database.save()
 
     def match_releases(self):
