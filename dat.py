@@ -1,3 +1,4 @@
+# -*- coding: cp1252 -*-
 from collections import OrderedDict
 import xml.etree.ElementTree as ET
 import shlex
@@ -61,12 +62,16 @@ class DAT:
                     line = datfile.readline()
             self.softwares[game['Name']] = game
 
-    def import_metadat_dat(self,datfile):
+    def import_metadat_dat(self,datfile,debug=False):
         data = datfile.read()
         lexer = shlex.shlex(data)
         lexer.quotes = '"'
-        lexer.wordchars += '\''
+        lexer.wordchars += '\'\.\-צהו'
         tokens = list(lexer)
+        if debug==True:
+            log = open('old/log.txt','w')
+            log.write("\n".join(token for token in tokens))
+            log.close()
         tokidx = 0
         while tokidx < len(tokens):
             token = tokens[tokidx]
@@ -81,6 +86,7 @@ class DAT:
                     value = tokens[tokidx +1]
                     self.header[key] = value
                     tokidx += 2
+                print self.header
             elif token=="game": #header
                 tokidx +=1
                 if tokens[tokidx] == "(":
@@ -105,6 +111,7 @@ class DAT:
                             value = tokens[tokidx+1]
                             rom[key] = value
                             tokidx += 2
+                        tokidx +=1
                         game['Roms'].append(rom)
                     else:
                         value = tokens[tokidx+1]
@@ -112,6 +119,7 @@ class DAT:
                             gamename = value
                         game['gametags'].append((key,value))
                         tokidx += 2
+                print "game parsed - roms : " + str(len(game['Roms']))
                 self.softwares[gamename] = game
             else:
                 tokidx +=1
@@ -154,71 +162,58 @@ class DAT:
             self.import_xml_dat(datfile)
         self.getReleaseGroup()
 
-if __name__ == '__main__':
-    import os
-    def fix_metadat():
-        for (dirpath, dirnames, filenames) in os.walk('libretro-database/metadat'):
-            for filename in filenames:
-                path =  os.path.join(dirpath,filename)
-                datfile = open(path,"rb")
-                line = datfile.readline()
-                if(line=="clrmamepro (\n"):
-                    targetfolder = os.path.join("old/sorted",dirpath.replace("libretro-database/metadat\\",""))
-                    if not os.path.exists(targetfolder):
-                        os.makedirs(targetfolder)
-                    targetpath = os.path.join(targetfolder,filename)
-                    print targetpath
-                    output = open(targetpath,"wb")
-                    dat = DAT()
-                    datfile.seek(0,0)
-                    dat.import_metadat_dat(datfile)
-                    output.write("clrmamepro (\n")
-                    for key,value in dat.header.iteritems():
-                        output.write("\t{0} {1}\n".format(key,value))
-                    output.write(")\n")
-                    for softkey,softvalue in dat.softwares.iteritems():
-                        output.write("\ngame (\n")
-                        for tag in softvalue['gametags']:
-                            output.write("\t{0} {1}\n".format(tag[0],tag[1]))
-                        output.write("\trom (")
-                        flagtag = False
-                        for rom in softvalue['Roms']:
-                            for romkey,romvalue in rom.iteritems():
-                                if romkey in ('name','size','crc','md5','sha1','status','flags') and romvalue !=None:
-                                    output.write(" {0} {1}".format(romkey,romvalue))                            
-                                elif romvalue != None:
-                                    if len(rom) == 1:
-                                        output.write(" {0} {1}".format(romkey,romvalue))
-                                    else:
-                                        output.write("\n\t\t{0} {1}".format(romkey,romvalue))
-                                        flagtag = True
-                        if flagtag == True:
-                            output.write("\n\t)\n")
+    def write_sorted_dat(self,path):
+        output = open(path,"wb")
+        output.write("clrmamepro (\n")
+        for key,value in self.header.iteritems():
+            output.write("\t{0} {1}\n".format(key,value))
+        output.write(")\n")
+        for softkey,softvalue in self.softwares.iteritems():
+            output.write("\ngame (")
+            for tag in softvalue['gametags']:
+                output.write("\n\t{0} {1}".format(tag[0],tag[1]))
+            flagtag = False
+            for rom in softvalue['Roms']:
+                output.write("\n\trom (")
+                for romkey,romvalue in rom.iteritems():
+                    if romkey in ('name','size','crc','md5','sha1','status','flags') and romvalue !=None:
+                        output.write(" {0} {1}".format(romkey,romvalue))                            
+                    elif romvalue != None:
+                        if len(rom) == 1:
+                            output.write(" {0} {1}".format(romkey,romvalue))
                         else:
-                            output.write(" )\n")
-                        output.write(")\n")
-                    output.close()
-                datfile.close()
-    fix_metadat()
-    
-##    output = open("old/psp.csv","w")
-##    dat = DAT()
-##    datfile = open("libretro-database/metadat/no-intro/Sony - PlayStation Portable.dat","r")
-##    dat.import_old_dat(datfile)
-##    for soft in dat.softwares.itervalues():
-##        baseline = '\t'.join(value for key,value in soft.iteritems() if key !='Roms')
-##        for rom in soft['Roms']:
-##           line = baseline + '\t' + '\t'.join('' if value is None else key + '\t' + str(value) for key,value in rom.iteritems())
-##           output.write(line + "\n")
-        
-##    output = open("old/releaseyear.csv","w")
+                            output.write("\n\t\t{0} {1}".format(romkey,romvalue))
+                            flagtag = True
+                if flagtag == True:
+                    output.write("\n\t)\n")
+                else:
+                    output.write(" )")
+            output.write("\n)\n")
+        output.close()
 
-            
-##    for datfile in os.listdir("old/metadat/releaseyear"):
-##        dat = DAT()
-##        dat.import_metadat_dat(os.path.join("old/metadat/releaseyear",datfile))
-##        for soft in dat.softwares.itervalues():
-##            baseline = datfile + '\t' + '\t'.join(value for key,value in soft.iteritems() if key !='romtags')
-##            line = baseline + '\t' + '\t'.join('' if value is None else key + '\t' + str(value) for key,value in soft['romtags'].iteritems())
-##            output.write(line + "\n")
-##    output.close()
+
+if __name__ == '__main__':
+##    import os
+##    for (dirpath, dirnames, filenames) in os.walk('libretro-database/metadat'):
+##        for filename in filenames:
+##            path =  os.path.join(dirpath,filename)
+##            datfile = open(path,"rb")
+##            line = datfile.readline()
+##            if(line!="clrmamepro (\n"):
+##                print line
+##                print "wrong format: " + path
+##                datfile.close()
+##            else:
+##                #import dat
+##                print path
+##                dat = DAT()
+##                datfile.seek(0,0)
+##                dat.import_metadat_dat(datfile)
+##                datfile.close()
+##                dat.write_sorted_dat(path)
+    dat = DAT()
+    path = r"libretro-database/metadat/no-intro/Tiger - Gizmondo.dat"
+    datfile = open(path,'rb')
+    dat.import_metadat_dat(datfile,True)
+    datfile.close()
+    dat.write_sorted_dat(r'old/sorted/no-intro/Tiger - Gizmondo.dat')
