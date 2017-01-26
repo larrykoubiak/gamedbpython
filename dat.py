@@ -86,7 +86,6 @@ class DAT:
                     value = tokens[tokidx +1]
                     self.header[key] = value
                     tokidx += 2
-                print self.header
             elif token=="game": #header
                 tokidx +=1
                 if tokens[tokidx] == "(":
@@ -119,12 +118,11 @@ class DAT:
                             gamename = value
                         game['gametags'].append((key,value))
                         tokidx += 2
-                print "game parsed - roms : " + str(len(game['Roms']))
                 self.softwares[gamename] = game
             else:
                 tokidx +=1
+        #self.softwares = OrderedDict(sorted(self.softwares.iteritems(),key=lambda s: s[0].lower()))
         self.softwares = OrderedDict(sorted(self.softwares.iteritems()))
-
     def import_xml_dat(self,datfile):
         datfile.seek(0)
         tree = ET.parse(datfile)
@@ -193,27 +191,30 @@ class DAT:
 
 
 if __name__ == '__main__':
-##    import os
-##    for (dirpath, dirnames, filenames) in os.walk('libretro-database/metadat'):
-##        for filename in filenames:
-##            path =  os.path.join(dirpath,filename)
-##            datfile = open(path,"rb")
-##            line = datfile.readline()
-##            if(line!="clrmamepro (\n"):
-##                print line
-##                print "wrong format: " + path
-##                datfile.close()
-##            else:
-##                #import dat
-##                print path
-##                dat = DAT()
-##                datfile.seek(0,0)
-##                dat.import_metadat_dat(datfile)
-##                datfile.close()
-##                dat.write_sorted_dat(path)
-    dat = DAT()
-    path = r"libretro-database/metadat/no-intro/Tiger - Gizmondo.dat"
-    datfile = open(path,'rb')
-    dat.import_metadat_dat(datfile,True)
+    import os
+    for (dirpath, dirnames, filenames) in os.walk('libretro-database/metadat'):
+        for filename in filenames:
+            path =  os.path.join(dirpath,filename)
+            datfile = open(path,"rb")
+            line = datfile.readline()
+            if(line!="clrmamepro (\n"):
+                print line
+                print "wrong format: " + path
+                datfile.close()
+            else:
+                #import dat
+                print path
+                dat = DAT()
+                datfile.seek(0,0)
+                dat.import_metadat_dat(datfile)
+                datfile.close()
+                dat.write_sorted_dat(path)
+
+        
     datfile.close()
-    dat.write_sorted_dat(r'old/sorted/no-intro/Tiger - Gizmondo.dat')
+##    dat = DAT()
+##    path = r"libretro-database/metadat/no-intro/Tiger - Gizmondo.dat"
+##    datfile = open(path,'rb')
+##    dat.import_metadat_dat(datfile,True)
+##    datfile.close()
+##    dat.write_sorted_dat(r'old/sorted/no-intro/Tiger - Gizmondo.dat')

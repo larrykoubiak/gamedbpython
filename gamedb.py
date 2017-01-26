@@ -270,6 +270,7 @@ class GameDB:
                         rom['flagvalue'] = row[3]
                     system['roms'].append(rom)
                 if len(system['roms']) > 0:
+                    system['roms'].sort(key=lambda x: x["name"])
                     flag['systems'].append(system)
             self.exporter.export_rdb_dat(flag)
 

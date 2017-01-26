@@ -57,7 +57,7 @@ class GameDBRegex:
             return resultDate
 
     def get_cleaned_developer(self,publisherName):
-        regDeveloper = re.compile("(?: (?:and co|corporation|corp|, the|SA|S.A.|co|ltd|incorporated|inc))\.?,?",re.I)
+        regDeveloper = re.compile("(?:[ |,|;]+(?:and co|corporation|corp|, the|SA|S.A.|co(?![a-z])|ltd|incorporated|inc)(?![a-z| ])\.?)",re.I)
         result = regDeveloper.sub('',publisherName)
         return result
     
