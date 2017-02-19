@@ -1,6 +1,7 @@
 import os
 import io
 from datetime import datetime
+from PyQt4.QtCore import QObject,pyqtSignal
 
 from dat import DAT
 from regexes import GameDBRegex
@@ -10,8 +11,11 @@ from exporter import Exporter
 from patcher import Patcher
 from database import Database
 
-class GameDB:
-    def __init__(self):
+class GameDB(QObject):
+    def __init__(self,checkRuns={},parent=None):
+        QObject.__init__(self, parent)
+        if(not checkRuns):
+            self.runs = {}
         self.regexes = GameDBRegex()
         self.dats = []
         self.scrapers = []
@@ -19,6 +23,11 @@ class GameDB:
         self.matcher = Matcher()
         self.patcher = Patcher('patches.xlsx')
         self.database = Database()
+
+    started = pyqtSignal(str)
+    progress = pyqtSignal(int)
+    newmax = pyqtSignal(int)
+    finished = pyqtSignal(str)
     
     def import_dats(self):
         self.dats = []

@@ -64,9 +64,9 @@ def get_rmsg(data,index):
     elif(buf == MPF_NIL):
         return index + 1,rmsg("nil",0)
     elif(buf == MPF_FALSE):
-        return index + 1,rmsg("bool",false)
+        return index + 1,rmsg("bool",False)
     elif(buf == MPF_TRUE):
-        return index + 1,rsmgtyp("bool",true)
+        return index + 1,rsmgtyp("bool",True)
     elif(buf == MPF_BIN8 or buf == MPF_BIN16 or buf == MPF_BIN32):
         bytelen = (buf ^ MPF_BIN8) + 1
         unpackformat = str(bytelen) + "B"
@@ -196,7 +196,7 @@ def open_rdb(filename):
     while(index<len(data)):
         index,msg = get_rmsg(data,index)
         if(msg.typ == "fixmap"):
-            record={}
+            record=OrderedDict()
             for fieldid in range(0,msg.value):
                 index, fld = read_rfield(data,index)
                 #if fld.name not in db["columns"].keys():
@@ -210,26 +210,18 @@ def open_rdb(filename):
     return db
 
 def write_rdb(filename,db):
+    db["rows"].sort(key=lambda k: k['name'],reverse=True)
     rdbf = open(filename,"wb")
     header = rdbheader("RARCHDB\0",0)
     rdbf.write(struct.pack("8sQ",*header))
-    for record in db:
-        nbfields = 0
-        for field in record:
-            if not (field.value is None or field.value=="" or field.value==0):
-                nbfields += 1
-        rdbf.write(set_msg(rmsg("fixmap",nbfields)))
-        for field in record:
-            if not (field.value is None or field.value=="" or field.value==0):
-                if(field.name in ['name','description','rom_name','genre','franchise','developer','publisher','origin']):    
-                    rdbf.write(write_rfield(field.name,field.value,"string"))
-                elif(field.name in ['size','releasemonth','releaseyear','users']):
-                    rdbf.write(write_rfield(field.name,int(field.value),"uint"))
-                elif(field.name in ['crc','md5','sha1']):
-                    rdbf.write(write_rfield(field.name,field.value,"binstr"))
+    for record in db["rows"]:
+        nbFields = len(record.keys())
+        rdbf.write(set_msg(rmsg("fixmap",nbFields)))
+        for key,value in record.items():
+            rdbf.write(write_rfield(key,value,db["columns"][key]))
     rdbf.write(set_msg(rmsg("nil","")))
     rdbf.write(set_msg(rmsg("fixmap",1)))
-    rdbf.write(write_rfield("count",len(db),"uint"))
+    rdbf.write(write_rfield("count",len(db["rows"]),"uint"))
     rdbf.close()
 
 class MyApp(QMainWindow):
@@ -238,14 +230,31 @@ class MyApp(QMainWindow):
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
         for rdbfile in os.listdir("libretro-database/rdb"):
-            child = QTreeWidgetItem()
-            child.setText(0,rdbfile)
-            self.ui.treeWidget.addTopLevelItem(child)
+            if rdbfile.endswith('.rdb'):
+                child = QTreeWidgetItem()
+                child.setText(0,rdbfile)
+                self.ui.treeWidget.addTopLevelItem(child)
         self.ui.treeWidget.itemClicked.connect(self.onItemClick)
-
+        self.ui.action_Open.triggered.connect(self.onMenuOpen)
+        self.ui.action_Save.triggered.connect(self.onMenuSave)
+        self.ui.action_Exit.triggered.connect(self.onQuit)
+        self.ui.closeEvent = self.onQuit
+                       
     def onItemClick(self,item,col):
         self.tablemodel = MyTableModel(os.path.join("libretro-database/rdb",str(item.text(0))), self)
         self.ui.tableView.setModel(self.tablemodel)
+
+    def onMenuOpen(self):
+        fname = QFileDialog.getOpenFileName(self, 'Open file','.',"RDB files (*.rdb)")        
+        self.tablemodel = MyTableModel(fname,self)
+        self.ui.tableView.setModel(self.tablemodel)
+        
+    def onMenuSave(self):
+        fname = QFileDialog.getSaveFileName(self, 'Save file','.',"RDB files (*.rdb)")
+        write_rdb(fname,self.tablemodel.db)
+
+    def onQuit(self):
+        self.close()
         
 class MyTableModel(QAbstractTableModel):
     def __init__(self, filename, parent=None, *args):
@@ -271,6 +280,31 @@ class MyTableModel(QAbstractTableModel):
         elif self.db["columns"].keys()[index.column()] not in self.db["rows"][index.row()].keys():
             return QVariant()
         return QVariant(self.db["rows"][index.row()][self.db["columns"].keys()[index.column()]])
+
+    def setData(self,index,value, role = Qt.EditRole):
+        if role == Qt.EditRole:
+            columnname = self.db["columns"].keys()[index.column()]
+            columntype = self.db["columns"][columnname]
+            dbvalue = None
+            if columntype=="string" or columntype=="binstr":
+                dbvalue = str(value.toString())
+            elif columntype=="int":
+                dbvalue = value.toInt()
+            elif columntype=="uint":
+                dbvalue = value.toUInt()
+            elif columntype=="bool":
+                dbvalue = value.toBool()
+            elif columntype=="nil":
+                dbvalue = None
+            else:
+                dbvalue = value
+            self.db["rows"][index.row()][columnname] = dbvalue
+            self.dataChanged.emit(index,index)
+            return True
+        return False
+
+    def flags(self, index):
+        return Qt.ItemIsEditable | Qt.ItemIsEnabled | Qt.ItemIsSelectable
 
 def main():
     sip.setdestroyonexit(False)

@@ -100,7 +100,10 @@ class Ui_MainWindow(object):
         self.action_Open.setObjectName(_fromUtf8("action_Open"))
         self.action_Exit = QtGui.QAction(MainWindow)
         self.action_Exit.setObjectName(_fromUtf8("action_Exit"))
+        self.action_Save = QtGui.QAction(MainWindow)
+        self.action_Save.setObjectName(_fromUtf8("action_Save"))
         self.menu_File.addAction(self.action_Open)
+        self.menu_File.addAction(self.action_Save)
         self.menu_File.addAction(self.action_Exit)
         self.menubar.addAction(self.menu_File.menuAction())
 
@@ -114,4 +117,5 @@ class Ui_MainWindow(object):
         self.menu_File.setTitle(_translate("MainWindow", "&File", None))
         self.action_Open.setText(_translate("MainWindow", "&Open", None))
         self.action_Exit.setText(_translate("MainWindow", "&Exit", None))
+        self.action_Save.setText(_translate("MainWindow", "&Save", None))
 
