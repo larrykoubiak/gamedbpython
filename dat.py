@@ -23,6 +23,8 @@ class DAT:
                 self.releaseGroup = "No-Intro"
             elif(self.header['url'] == "http://www.fbalpha.com/"):
                 self.releaseGroup = "FBA"
+            elif(self.header['url']=="http://redump.org/"
+                 self.releaseGroup = "No-Intro"
         else:
             if('homepage' in self.header):
                 if(self.header['homepage'] == "TOSEC"):
