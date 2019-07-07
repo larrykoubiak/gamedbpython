@@ -1,5 +1,5 @@
-import urllib, urllib2
-import cookielib
+import urllib.request, urllib.parse, urllib.error, urllib.request, urllib.error, urllib.parse
+import http.cookiejar
 import os
 import sys
 import unicodedata
@@ -8,9 +8,9 @@ from bs4 import BeautifulSoup
 
 def ScrapeAllSystems():
     siteurl = "http://www.mobygames.com/browse/games/full,1/"
-    cj = cookielib.MozillaCookieJar('cookies.txt')
+    cj = http.cookiejar.MozillaCookieJar('cookies.txt')
     cj.load()
-    opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
     opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36')]
 
     html = opener.open(siteurl)
@@ -26,7 +26,7 @@ def ScrapeAllSystems():
 
 def ScrapeAllGamesURLPerSystem():
 
-    print " *** Scraping all games from GameFAQs *** \n"
+    print(" *** Scraping all games from GameFAQs *** \n")
 
     with open('MobyGamesSystem.csv','r') as MobyGamesSystemFile:
         MobyGamesURLFile = open('MobyGamesURL.csv','w')
@@ -37,10 +37,10 @@ def ScrapeAllGamesURLPerSystem():
             baseURL = str(row[1])+'/browse/games/offset,0/so,0a/'+str(row[5])[:-1]+"/list-games/"
 
             siteurl = baseURL
-            print siteurl + '\n'
-            cj = cookielib.MozillaCookieJar('cookies.txt')
+            print(siteurl + '\n')
+            cj = http.cookiejar.MozillaCookieJar('cookies.txt')
             cj.load()
-            opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
+            opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
             opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36')]
 
             html = opener.open(siteurl)
@@ -73,16 +73,16 @@ def ScrapeAllGamesURLPerSystem():
                     
         MobyGamesSystemFile.close()
         MobyGamesURLFile.close()
-    print " *** Scraping done *** "
+    print(" *** Scraping done *** ")
 
 def ScrapeAGame(gameURL):
-    print " *** http://www.mobygames.com"+gameURL
+    print(" *** http://www.mobygames.com"+gameURL)
     #siteurl = "http://www.mobygames.com"+gameURL[:-1]
     siteurl = "http://www.mobygames.com"+gameURL
 
-    cj = cookielib.MozillaCookieJar('cookies.txt')
+    cj = http.cookiejar.MozillaCookieJar('cookies.txt')
     cj.load()
-    opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
     opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36')]
 
     html = opener.open(siteurl)
@@ -99,51 +99,51 @@ def ScrapeAGame(gameURL):
         if text == "edit description":
             check = False
 
-    print "Description : " + str[:-17]
+    print("Description : " + str[:-17])
 
     data = soup.find("table",{"class": "pct100"})
     try :
-        print "Published by: " + data.find(string="Published by").next.text
+        print("Published by: " + data.find(string="Published by").next.text)
     except:
         pass
     
     try :
-        print "Developed by: " + data.find(string="Developed by").next.text
+        print("Developed by: " + data.find(string="Developed by").next.text)
     except:
         pass
 
     try :
-        print "Released: " + data.find(string="Released").next.text
+        print("Released: " + data.find(string="Released").next.text)
     except:
         pass
 
     try :
-        print "Genre: " + data.find(string="Genre").next.text
+        print("Genre: " + data.find(string="Genre").next.text)
     except:
         pass
 
     try :
-        print "Perspective: " + data.find(string="Perspective").next.text
+        print("Perspective: " + data.find(string="Perspective").next.text)
     except:
         pass    
 
     try :
-        print "Art: " + data.find(string="Art").next.text
+        print("Art: " + data.find(string="Art").next.text)
     except:
         pass        
 
     try :
-        print "Gameplay: " + data.find(string="Gameplay").next.text
+        print("Gameplay: " + data.find(string="Gameplay").next.text)
     except:
         pass        
 
     try :
-        print "Setting: " + data.find(string="Setting").next.text
+        print("Setting: " + data.find(string="Setting").next.text)
     except:
         pass        
             
     
-    print "\n *** Game Parsing Done \n"
+    print("\n *** Game Parsing Done \n")
     
 def ScrapeAllGames():
     with open('MobyGamesURL.csv','r') as MobyGamesFile:

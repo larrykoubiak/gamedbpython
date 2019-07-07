@@ -92,6 +92,8 @@ output/
 rdb/
 test/
 old/
+sqlite/
 *.db
 *.db-journal
 cookies.txt
+.vscode/
